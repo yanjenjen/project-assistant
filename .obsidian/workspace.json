@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "5c4365856a6823f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "113d6a7d657d242d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07f5a99562677155",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8e4191403038033",
+    "type": "split",
+    "children": [
+      {
+        "id": "95128dd962c432a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52182a2471d7465b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "dead9480578c9b26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "84a4c2e452b08369",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1f9cdaeab556bfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "302b83b4c52178d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9c47e7be3f204ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "顧問Cowork/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向連結"
+            }
+          },
+          {
+            "id": "20dc0f95656a097f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "顧問Cowork/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的對外連結"
+            }
+          },
+          {
+            "id": "277c37a7840a067b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "8890fc950a29e5b8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "9ca5b4e6bd4be37e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "顧問Cowork/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "07f5a99562677155",
+  "lastOpenFiles": [
+    "顧問Cowork/00_共用規則與知識庫/01_工作區規則/專案資料夾結構與歸檔規則.md",
+    "建大工業/README.md",
+    "00_專案資料夾範本/ReadMe-專案資料夾使用說明.md",
+    "建大工業/300_連線方式",
+    "建大工業/200_專案資料/230_內部專案檔案",
+    "建大工業/200_專案資料/220_客戶提供資料",
+    "建大工業/200_專案資料/210_內部會議記錄",
+    "建大工業/100_專案執行與交付/130_階段報告&輔導備忘",
+    "建大工業/100_專案執行與交付/120_驗收單",
+    "建大工業/100_專案執行與交付/110_規格確認書",
+    "建大工業/200_專案資料",
+    "建大工業/100_專案執行與交付",
+    "建大工業",
+    "顧問Cowork/00_共用規則與知識庫/02_共用模板/專案時程追蹤表撰寫規則_v0.1_草稿.md",
+    "顧問Cowork/00_Obsidian導覽/MOC_ERP專案助理總覽.md",
+    "顧問Cowork/91_跨員工協作區/建大工業_20260617_經銷商平台專案/00_任務說明.md",
+    "顧問Cowork/00_Obsidian導覽/MOC_Codex_Cowork協作.md",
+    "顧問Cowork/00_Obsidian導覽/MOC_Skill治理.md",
+    "顧問Cowork/00_Obsidian導覽/MOC_制度範本整理.md",
+    "顧問Cowork/00_共用規則與知識庫/01_工作區規則/多企業專案資料隔離規則.md",
+    "顧問Cowork/README.md",
+    "顧問Cowork/CLAUDE.md",
+    "顧問Cowork/00_共用規則與知識庫/04_階段交接摘要/顧問Cowork_目前建置狀態摘要_20260603.md",
+    "顧問Cowork/skills/02_文件與交付/erp-meeting-record-writer/SKILL.md"
+  ]
+}

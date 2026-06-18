@@ -41,6 +41,7 @@
 | `document-template-pattern-extractor` | 公司範例模板規則萃取器 | `02_文件與交付` | `skills/02_文件與交付/document-template-pattern-extractor/` | v0.1.0 | 🔶 試行中（已完成初步實測：規格書規則萃取、會議紀錄規則萃取各一次） | 2026-06-04 |
 | `erp-meeting-record-writer` | ERP 顧問輔導備忘錄草稿產出器 | `02_文件與交付` | `skills/02_文件與交付/erp-meeting-record-writer/` | v0.1.0 | 🔶 試行中（已通過 skill-security-auditor 安全審查，S-001 小修完成；尚未完成實際任務壓測） | 2026-06-12 |
 | `erp-interview-researcher` | ERP 顧問訪談前問題設計助理 | `04_需求與規格` | `skills/04_需求與規格/erp-interview-researcher/` | v0.1.0 | 🔶 試行中（已通過 skill-security-auditor 安全審查，S-001 小修完成；尚未完成實際任務壓測） | 2026-06-12 |
+| `erp-demo-sketch-assistant` | ERP 顧問 Demo 前展示流程設計與腳本草稿助理 | `02_文件與交付` | `skills/02_文件與交付/erp-demo-sketch-assistant/` | v0.1.0 | 🔶 試行中（已通過 skill-security-auditor 安全審查，S-001 小修完成；尚未完成實際任務壓測） | 2026-06-12 |
 | `erp-task-planning-assistant` | ERP 顧問任務規劃助理 | `04_需求與規格` | `skills/04_需求與規格/erp-task-planning-assistant/` | v0.1.0 | 🔶 試行中（已完成 T1 正式規劃 / T2 暫定規劃 / T3a 快捷語啟動 / T3b 情況B拒絕 四項測試通過；可提出 v1.0 升版計畫，尚未升版） | 2026-06-06 |
 | `project-fast-delivery-assistant` | 專案趕工交付助理 | `05_專案管理` | `skills/05_專案管理/project-fast-delivery-assistant/` | v0.2.0 | 🔶 試行中（未壓測） | 2026-06-04 |
 | `file-naming-and-classification-advisor` | 文件命名與歸檔建議 | `06_資料治理與檔案管理` | `skills/06_資料治理與檔案管理/file-naming-and-classification-advisor/` | v0.1.0 | 🔶 試行中（已完成一次檔名清單測試，尚未完成實際改名／搬移測試） | 2026-06-03 |
