@@ -1,0 +1,125 @@
+影片 ID: Ls3sjiqHCHE
+來源: https://www.youtube.com/watch?v=Ls3sjiqHCHE
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:05] What's going on, Odoers, and welcome
+[00:07] back. Ever feel overwhelmed by too many
+[00:10] tools, tabs, or missed messages? Well,
+[00:13] that's why ODU includes the Discuss
+[00:15] module right out of the box. It's a
+[00:17] simple integrated way to keep
+[00:18] conversations organized without
+[00:20] switching apps or digging through your
+[00:22] inbox. Here's what I love about Discuss.
+[00:25] It works quietly in the background, but
+[00:26] it keeps everybody on the same page. So
+[00:29] instead of jumping between email
+[00:30] threads, chat apps, and project updates,
+[00:33] everything simply just connects. If I've
+[00:36] ever got a quick question about a lead
+[00:37] or even need to send a file right off
+[00:39] the fly, I don't need to stop what I'm
+[00:41] doing. It's fast, it's built into every
+[00:44] app, and it helps my team stay focused
+[00:46] without missing a beat. Let's hop into
+[00:48] our database so I could show you what I
+[00:50] mean.
+[00:52] All right, here I am on my CRM dashboard
+[00:55] reviewing our pipeline. Let's say I need
+[00:57] to check in with Mark about a lead. I
+[00:59] don't need to switch apps or start a new
+[01:01] email. I can just click this chat icon
+[01:03] here in the top right. And when I do, I
+[01:06] can see all of my conversations. All I
+[01:08] have to do to message Mark is click new
+[01:10] message and simply type his name in.
+[01:15] And now I can go ahead and type in our
+[01:18] message
+[01:24] and then hit enter to send it off.
+[01:28] The best part is I'm still in my CRM
+[01:30] view. No distractions, no context
+[01:32] switching. I'm chatting and working in
+[01:35] the same place.
+[01:37] Now maybe I just want to share a file. I
+[01:39] can click this paperclip attachment
+[01:41] right here and attach it to this
+[01:43] message. Or if I want to drop a link, I
+[01:45] could even just paste it into this box
+[01:47] just like so. And when I send it off,
+[01:49] ODU is going to give us a nice, clean
+[01:51] preview of what that link is. And in the
+[01:54] event we need to react quickly, emojis
+[01:56] and gifts are just a click away.
+[02:00] It's the little things that make these
+[02:01] interactions feel more human. I can even
+[02:04] record a voice message if I wish. Speak
+[02:07] into the mic just like so. End our
+[02:09] message. And when we do, ODU is going to
+[02:11] give us a quick little preview. And if
+[02:13] we like what we hear, we could just send
+[02:15] that off. Now, let's open the full
+[02:17] discuss app.
+[02:22] This is your hub for communication all
+[02:24] across Odo. On the left, I've got my
+[02:26] inbox for unread messages. I have also
+[02:29] have a section for starred messages for
+[02:31] anything important and a history feed to
+[02:33] shows any updates that I'm involved in.
+[02:36] Below that, I've got access to my
+[02:37] channels. Here I have an admin's channel
+[02:39] as well as the general channel. And
+[02:41] directly under that, we have our live
+[02:43] chat app if you have that installed. And
+[02:46] then, of course, down below, we have our
+[02:48] direct messages. Let's go back to our
+[02:50] conversation with Mark. I can see that
+[02:53] currently his status is offline. If you
+[02:56] were online, it would be green. And if
+[02:58] he was on vacation, then I'd see an
+[03:00] airplane icon instead. If I don't need
+[03:02] this conversation up front and center, I
+[03:04] can unpin it just to keep things tidy.
+[03:07] And if I want to read this later on, all
+[03:09] I have to do is hit this plus icon right
+[03:11] here, search for Mark,
+[03:14] hit enter, and it's back. And when I
+[03:18] hover over any message, I see a few
+[03:20] helpful tools. Right off the bat, I can
+[03:22] go ahead and react to a message with
+[03:24] some emojis. I can also reply to a
+[03:27] message to start a thread, or I can even
+[03:29] star a message and save it for later.
+[03:32] And if we click on this three dot menu,
+[03:34] this gives me even more control. I can
+[03:36] edit or delete messages. I can pin a
+[03:38] message, mark it as unread, or even copy
+[03:41] a link to that exact message. This will
+[03:44] also be the area that admins can manage
+[03:47] messages across the board if needed.
+[03:50] Now, one last thing before we go, let's
+[03:52] check out these icons here in the top
+[03:54] right corner. First off, we have our
+[03:56] bell icon here, which is used to manage
+[03:59] our notification settings. Following
+[04:01] that, we have our magnifying glass, so
+[04:03] we could search for messages. And we
+[04:05] also have a paperclip icon here, which
+[04:08] is used to pin or attach files directly
+[04:10] to the chat. So instead of bouncing
+[04:12] between tabs or chasing down updates,
+[04:14] everything I need to stay in sync is
+[04:16] right here, built into our workflow. And
+[04:19] lastly, we also have this pin icon. So
+[04:21] in the event we do have any pinned
+[04:22] messages, we can view it just right
+[04:24] here.
+[04:26] So that's a quick overview of direct
+[04:28] messages in Discuss. It's fast, it's
+[04:30] simple, and flexible. So, it helps your
+[04:32] team stay aligned without the chaos of
+[04:34] email overload or disconnected tools.
+[04:37] And the best part, it's already a part
+[04:38] of your ODO database, ready when you
+[04:40] are. Thanks for watching. I'll see you
+[04:42] in the next video.

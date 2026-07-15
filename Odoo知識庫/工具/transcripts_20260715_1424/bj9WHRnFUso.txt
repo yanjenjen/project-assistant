@@ -1,0 +1,479 @@
+影片 ID: bj9WHRnFUso
+來源: https://www.youtube.com/watch?v=bj9WHRnFUso
+下載時間: 2026-07-15 14:25
+============================================================
+
+[00:04] hello doers my name is Jose Osio and I
+[00:07] have a question how many subscriptions
+[00:09] are you currently subscribed to admit it
+[00:11] more than a few today we're looking at
+[00:14] Tech proo a software development
+[00:16] training company that offers
+[00:17] subscriptions for online courses
+[00:19] subscriptions are a great way of
+[00:20] packaging online courses on the customer
+[00:23] side students can choose if they want to
+[00:24] commit to a monthly or a yearly basis
+[00:27] and then on our side subscriptions are a
+[00:29] great way to keep up customer retention
+[00:31] and for us to maintain a predictable
+[00:33] monthly and yearly Revenue so let's walk
+[00:35] through the process of selling one of
+[00:36] our core subscriptions shall we enough
+[00:38] chitchat let's get right into it all
+[00:41] right so here's a quick overview of our
+[00:43] website so ODU actually made it
+[00:45] incredibly easy for us to build it with
+[00:47] no coding required and I can quickly
+[00:49] customize and add elements if I wanted
+[00:50] to using this little edit tool up in the
+[00:52] top right corner but right now I want to
+[00:55] show you some of our products that I'm
+[00:57] talking about today so to our courses
+[01:00] we're going to head over to the shop and
+[01:02] here we are okay so here's the shop page
+[01:04] with our different course products Tech
+[01:06] proo offers three training packages and
+[01:08] a couple of subscription Services we
+[01:11] have a yearly training over here which
+[01:12] is $2,000 per year and this affords
+[01:15] students 100 classes per year we also
+[01:18] have a monthly training where students
+[01:20] have eight classes per month and the
+[01:22] unlimited training package over here
+[01:25] which is $400 a month where students you
+[01:27] guessed it they get unlimited number of
+[01:29] classes per month I know what you're
+[01:31] thinking with these prices how can you
+[01:34] not sign up well let's talk more about
+[01:37] that then so let's go through how I've
+[01:39] actually set up selling subscriptions as
+[01:40] an online business so we're going to
+[01:42] click in our top left corner just to go
+[01:44] back to our dashboard over here let's
+[01:45] head into our subscriptions app yellow
+[01:48] and green one right there OD doers okay
+[01:51] we're going to go to configuration and
+[01:52] settings now I want you to scroll down
+[01:54] until you're over here in our quotations
+[01:56] and Order section now since I sell my
+[01:58] products online I've gone ahead it
+[02:00] enabled the online payment option that
+[02:02] we have right there and why well this
+[02:04] means the prospective students can
+[02:05] purchase training packages directly from
+[02:07] our website and then if we go down to
+[02:09] invoicing we have automatic invoicing
+[02:11] ticked off and this means that an
+[02:13] invoice is automatically generated with
+[02:15] the online payment that goes through now
+[02:17] this means the customer gets receipt of
+[02:19] payment right when it's made instead of
+[02:21] having to manually send it out and the
+[02:22] revenues as you guess it are
+[02:24] simultaneously recorded by our
+[02:26] accounting applications remember to hit
+[02:29] save and now I think it's time for us to
+[02:31] take a look at how I've set up my
+[02:32] courses inside of our products tab so
+[02:34] select products and products this is
+[02:37] different because we're doing it within
+[02:38] the subscriptions app okay now let's
+[02:41] select our monthly training one to start
+[02:42] with so here's the product form for our
+[02:44] monthly training course I've actually
+[02:46] set this up as you guessed it a sales
+[02:49] and a subscription product because this
+[02:52] is a service and not something we sell
+[02:54] physically I also have the product type
+[02:55] over here set to service Now setting up
+[02:58] this product under these conf
+[02:59] configurations allows me to do pretty
+[03:01] cool actions because this is set up as a
+[03:03] sales product it means we can actually
+[03:05] sell an invoice for it and ODU opens up
+[03:08] several fields for the product form that
+[03:10] help facilitate the sales process as
+[03:12] well because we check the subscriptions
+[03:14] box it means that sales orders for this
+[03:16] product are automatically rendered as
+[03:18] recurring ones with regular invoicing
+[03:21] dates that's incredibly useful so having
+[03:24] worked in sales I've noticed that
+[03:26] sometimes there can be a lag between the
+[03:27] time of purchase and handoff to a team
+[03:30] for followup of any type of kind the
+[03:32] customer this creates a moment of
+[03:33] uncertainty sure I got the receipt but
+[03:36] what comes next well this is what comes
+[03:39] next we address our issue under the
+[03:41] create on order field for us where this
+[03:44] product will create a new task as you
+[03:46] see that we've selected you can also
+[03:48] select project and task project you can
+[03:51] also select nothing but in our case
+[03:53] we're selecting Tas there's a reason
+[03:56] because the product will create a new
+[03:58] task inside of the project app once the
+[04:00] sales order goes through this way my
+[04:02] team is prompted with the next step and
+[04:03] we can get things rolling with the
+[04:05] customer right when the sale goes
+[04:07] through for reference each new task for
+[04:09] this product will all be under as you
+[04:11] guessed it software development training
+[04:13] project over here so we'll see how the
+[04:15] task looks from the projects app later
+[04:17] on don't worry I'm going to show you
+[04:19] that as well so for internal tracking
+[04:22] purposes this is the back in I've also
+[04:24] set up a new unit of measurement for my
+[04:26] training courses as you could tell over
+[04:28] here we have it as
+[04:30] eight well classes in this case because
+[04:33] that's how we're going to do this so
+[04:36] that is because the monthly package
+[04:37] includes eight classes per month which
+[04:39] I've set up in our back end if you
+[04:41] wanted to see right there right there so
+[04:44] because each class is exactly 1 hour I
+[04:47] placed it under our working time
+[04:49] category right there and if you want to
+[04:51] see that one as well let's go forward
+[04:53] with that so our reference unit under
+[04:55] working time is an 8 hour working day
+[04:58] this means that any new unit of
+[05:00] measurement in this category has to be
+[05:01] divided by eight to get that ratio so
+[05:04] that ODU can track it correctly for
+[05:05] example I created another custom unit of
+[05:07] measurement for our yearly training
+[05:09] product which includes 100 classes or
+[05:13] 100 working hours so to get the ratio I
+[05:15] just had to divide 100 by 8 which is as
+[05:18] you guessed it
+[05:21] 12.5 so to quickly recap ODU gives us a
+[05:25] bunch of standard units of measurement
+[05:26] so that we can track our products and
+[05:28] services with the correct quantifi
+[05:30] values what we did here is we took one
+[05:32] of those standard measurements that best
+[05:34] represented a quantifiable value and
+[05:36] tweaked it to slightly fit our service
+[05:38] products wow ODU lets you fix it so that
+[05:41] you could use it for
+[05:43] anything but by doing it for our
+[05:45] business we can now allocate and track
+[05:47] time correctly when our course
+[05:48] instructors are assigned and log their
+[05:50] course hours with the students using
+[05:52] both the projects and the time sheets
+[05:54] application but and it is making me
+[05:57] winded enough mathod doers get back to
+[06:00] our monthly training product page we're
+[06:01] going to use the breadcrumbs up ahead
+[06:04] and there we have them today it's Bagels
+[06:06] they count as bread all right let's go
+[06:09] into our sales tab over here because
+[06:10] it's time to talk about our upsell and
+[06:12] cross sell section so I have a few
+[06:14] options to make sure my customer knows
+[06:16] about all the awesome additional
+[06:17] products and services they can get when
+[06:19] checking out let's add in our case
+[06:22] Consulting Services under our optional
+[06:25] products field that tells my website to
+[06:27] suggest this product when the customer
+[06:28] clicks on the app to car button we can
+[06:31] also add additional products for our
+[06:32] customer to see before they check out so
+[06:35] check right here accessory products
+[06:36] right there let's
+[06:38] select email newsletter right there in
+[06:41] case our new student wants to keep up
+[06:43] with all the happenings at Tech Pro and
+[06:45] the stealthy wood Mega Corporation
+[06:47] that's right we're bigger now and under
+[06:50] alternative products I think it's time
+[06:51] for us to add some there we can remind
+[06:53] our students about the other great
+[06:54] training program options so I think we
+[06:56] should list our unlimited training gotta
+[06:59] up upell and in our case also the yearly
+[07:02] training got to really push them so
+[07:05] adding these upsell and cross cell
+[07:07] options helps our customers discover
+[07:09] products they may not have otherwise
+[07:10] come across if they weren't necessarily
+[07:12] browsing and it's also a low effort way
+[07:15] for techro to catch more sales we just
+[07:17] blast them with it so let's see what all
+[07:20] of this looks like when an order goes
+[07:22] through hello doers I happen to be a
+[07:24] tech proo customer looking at the
+[07:25] website right now so let's head on over
+[07:27] to the shop I'm interested in the the
+[07:29] monthly training package so I select it
+[07:32] as a customer I am immediately greeted
+[07:33] with alternative products at the bottom
+[07:35] and let's see what happens when I hit
+[07:37] add to cart would you look at that we
+[07:39] happen to have our configuration screen
+[07:41] right here which is our upso product
+[07:43] under available options but for now
+[07:45] though I'm going to stick to our
+[07:46] training package and select proceed to
+[07:48] check out where as you can also guess we
+[07:51] can see our email newsletter as a
+[07:53] suggested accessory let's add this to
+[07:55] card as well and then we're going to hit
+[07:57] pay with demo okay so here we are I have
+[08:01] a payment integration specifically for
+[08:03] Tech proo demos but ODU offers the most
+[08:06] popular payment integrators for your
+[08:08] online business including PayPal
+[08:10] authorize.net stripe among others as
+[08:13] well so this is what it looks like and
+[08:15] my customer just paid for the monthly
+[08:17] training package on our website but how
+[08:19] does that look like inside of ODU so
+[08:21] because odu's apps all talk to each
+[08:23] other in the back end this website
+[08:25] purchase generates a sales order in the
+[08:26] subscriptions app so let's actually head
+[08:28] in there right now
+[08:30] okay remember our order number when we
+[08:31] bought that course online well here it
+[08:34] is on the back end over there so from
+[08:36] the subscriptions app I have a default
+[08:38] overview of ongoing or pause
+[08:40] subscriptions if I remove this default
+[08:42] filter the list is bigger you can also
+[08:44] see the subscriptions that are still in
+[08:46] quotation mode or unfortunately ones
+[08:48] that have turned let's find my most
+[08:50] recent subscription sale we're going to
+[08:52] click on the different columns over here
+[08:54] just to change it up let's order these
+[08:57] in fact by sales order number by
+[08:59] clicking twice on the number column and
+[09:01] there we have it this happens to be our
+[09:03] most recent sales order SLS subscription
+[09:06] so from here my team and I can track
+[09:08] things like customer information order
+[09:10] and payment dates and More in particular
+[09:12] I like to check the next invoicing date
+[09:15] right there which happens to tell me
+[09:17] when the next payment is due on this
+[09:19] date the next invoice will be generated
+[09:21] and the subscription period will extend
+[09:22] to the next month these subscription
+[09:25] detail fields are my really handy dandy
+[09:28] notebook over here because they allow my
+[09:30] team to quickly check where we are in
+[09:33] the subscription pipeline we never miss
+[09:34] an invoice date and our student
+[09:36] subscriptions Renew on time so we
+[09:39] actually go way more in depth on the
+[09:41] different fields and tabs for
+[09:42] subscription products and sales orders
+[09:44] and our other subscriptions tutorials
+[09:46] and documentation which I've already
+[09:48] Linked In the subscription Below in the
+[09:50] description below wow subscriptions on
+[09:52] my mind oh dupes so be sure to check
+[09:54] those out now remember those Nifty
+[09:56] settings that we enabled earlier well we
+[09:58] can take a look at them right here
+[09:59] inside of our
+[10:01] chatter okay so when a student purchases
+[10:03] our training packages from the website
+[10:05] an invoice happens to be directly sent
+[10:08] over to their email you can actually see
+[10:11] that with our invoice if we check that
+[10:13] out so here's the invoice that my
+[10:15] customer sees we can also see our nice
+[10:17] little PDF right there that was custom
+[10:19] design with our PDF Builder if we would
+[10:21] like to and we can even find the sales
+[10:23] section right there so this saves me and
+[10:26] my team the time it takes to manually
+[10:27] write and send emails we didn't have
+[10:29] have to actually manually create this
+[10:31] everything just went out that is not all
+[10:33] my friends because I configured this
+[10:35] product to be associated with a project
+[10:37] and I also configured it to create a
+[10:39] task upon purchasing project and tasks
+[10:43] smart buttons over there appear and with
+[10:45] those I can head to the project task or
+[10:48] the actual project associated with the
+[10:50] subscription so let's click on the task
+[10:52] right
+[10:53] now okay so here we are here's the task
+[10:56] page for this new subscription if we
+[10:58] check the chatter which we have over
+[11:00] here we can see the automated activity I
+[11:02] created that tells me to assign an
+[11:04] instructor I'm going to go ahead and do
+[11:06] that under our assignes field so how do
+[11:09] we do that we go over here to assignes
+[11:11] and who do we want to put for here I
+[11:12] have a great software development
+[11:13] instructor who I'll assign the
+[11:15] subscription too and her name is Sharon
+[11:19] teal manually save now I'm going to mark
+[11:22] this as done because as you can guess I
+[11:25] have now assigned Sharon so assigned
+[11:28] Sharon
+[11:30] we'll put big smilees because we're a
+[11:31] really nice company and then we're going
+[11:32] to select done boom disappears and would
+[11:36] you look at this once that we do that
+[11:38] and we hit refresh right there we're all
+[11:40] set now to close out my task I'm also
+[11:44] going to change the status to in
+[11:45] progress because onboarding has be whoa
+[11:49] I just cut myself off did you see that a
+[11:51] new activity popped up this is because I
+[11:53] set up another automation for the in
+[11:55] progress task stage to set up an
+[11:57] introduction and scheduling call with
+[12:00] our student I know how important it is
+[12:02] for customers to talk to actual people
+[12:04] so I set up this task to provide that
+[12:05] Personal Touch but I think it's time for
+[12:08] us to see that now from our instructor
+[12:12] hat so now that I have my Sharon hat on
+[12:15] I could tackle my task by clicking on
+[12:16] the edit button right here then
+[12:18] selecting open calendar and you guessed
+[12:21] it now that I opened my calendar app in
+[12:23] this week view I can actually click into
+[12:25] any time and day in the future where I
+[12:27] like to schedule my call and and it's
+[12:29] going to open up in a new event window
+[12:31] over here the time and date are already
+[12:34] populated right there where I clicked as
+[12:36] is in our case are attendees so under
+[12:38] video call URL you'll notice it's blank
+[12:40] but I have this add Odo meeting when I
+[12:43] do that I can create a video conference
+[12:45] link to send to the student so the
+[12:47] description carries over from my task
+[12:49] card as well I'm going to edit this
+[12:51] however to say something
+[12:52] nicer okay once we're done with that we
+[12:55] just select save and close and boom
+[12:58] let's head back back through our
+[12:59] breadcrumbs right
+[13:02] now now if I check the chatter I can
+[13:06] either click Mark done or I can also
+[13:09] select reschedule if anything comes up
+[13:10] and you'll notice it also updated as
+[13:12] well so the project app is such a
+[13:14] powerful tool for getting things done
+[13:16] but how do we track what employees are
+[13:18] doing and how long it takes them well o
+[13:21] doers we do that with time sheets and
+[13:23] the time cheets app for tracking time
+[13:24] and logging hours but I don't want to
+[13:27] have to switch back and forth between my
+[13:28] task and my time sheet luckily for me as
+[13:31] I mentioned before odu's apps all talk
+[13:34] to each other so from this task page I
+[13:36] Sharon can also log my instruction time
+[13:39] I just click into our time sheets tab
+[13:42] right there then I select add a line for
+[13:46] the employee I start typing in my name
+[13:48] Sharon teal right there perfect then I
+[13:51] type in how much time I've spent for
+[13:52] this session let's just say I've already
+[13:54] finished one one hour so let's put that
+[13:58] in there
+[14:00] there we go I can also add an optional
+[14:03] description which I could type in right
+[14:06] now finished first SES
+[14:11] bro hash tired all right there we go and
+[14:15] as you could
+[14:16] see Odo itself tracks how much time
+[14:19] we've logged in this task versus the
+[14:21] total time build for the subscription in
+[14:22] the allocated Time Field that we have
+[14:24] right there the best part is everything
+[14:27] in the time sheets tab integrates with
+[14:29] odos time sheets app let's click back to
+[14:32] the sales order through the smart
+[14:33] button okay so we have another smart
+[14:36] button that shows us how many hours have
+[14:38] been recorded for the subscription as
+[14:39] you can tell right now go up to the top
+[14:41] it tells us
+[14:43] recorded 1 hour and when we can actually
+[14:47] click it to jump over to the time sheets
+[14:50] page for the sales order I say so much
+[14:53] time and energy with these Integrations
+[14:55] no more flipping back and forth between
+[14:57] apps now let's actually go to the
+[15:00] software development training project
+[15:02] Page by clicking on our sales order
+[15:04] breadcrumb over here and then this time
+[15:06] around we're going to select
+[15:08] projects and then once that we're inside
+[15:10] of here we're going to select
+[15:12] tasks okay here we are so once a course
+[15:15] is finished the assigned instructure
+[15:17] moves their task into the finished stage
+[15:20] as you can see I've actually folded this
+[15:22] can band view for it to Signal our team
+[15:25] that these courses are complete I can
+[15:26] also unfold it if I wanted to and then
+[15:28] re fold it if I need to but that's how
+[15:31] you see the tasks inside of those so as
+[15:33] a final action I've automated an email
+[15:35] to be sent to students asking them to
+[15:37] rate the instructor services so that we
+[15:39] can continue learning how to best serve
+[15:41] our our students because I was going to
+[15:43] call them customers but that would be a
+[15:45] misstep let's see this in action though
+[15:47] so we have a couple of courses that
+[15:49] happen to be complete which we can see
+[15:52] because they actually list that they
+[15:54] have zero hours left over
+[15:57] here so to clear out the complet a task
+[15:59] from our team's caman board right there
+[16:01] let's click on the task card and then
+[16:03] we're going to drag it over all right so
+[16:05] let's select this one over
+[16:08] finished okay now it's finished and then
+[16:12] we actually want to click into the task
+[16:14] card right there and as you can tell ODU
+[16:18] automatically sent a completion email to
+[16:20] our student complete with a rating
+[16:21] survey right there running a
+[16:23] subscription business makes this super
+[16:26] important for me and as I want to
+[16:28] capture any and all feedback to make
+[16:29] sure that we're offering the best
+[16:30] services to our students it's one of the
+[16:32] most recommended things the smiley faces
+[16:34] tell you many things so because the
+[16:36] final rating survey is automated with
+[16:38] our completion email my team and I also
+[16:40] have one last step to worry about our
+[16:42] customers have a final touch where they
+[16:44] can reflect on all the great experiences
+[16:46] they had with our
+[16:47] courses and there you have it OD doers
+[16:51] today we walk through how Tech Pro Sales
+[16:53] subscription products as an online
+[16:55] business and learned how odu's different
+[16:58] apps talk to each other and I put an
+[17:00] emphasis in that and we've automated a
+[17:02] lot of tasks to make my life easier that
+[17:04] was like what three different hats I'm
+[17:07] going to get Sharon a teacher of the
+[17:09] year trophy but I'll catch you next time
+[17:11] o doers go grab a snack I have to be
+[17:13] healthier it's a banana

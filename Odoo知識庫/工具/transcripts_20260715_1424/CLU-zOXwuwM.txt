@@ -1,0 +1,681 @@
+影片 ID: CLU-zOXwuwM
+來源: https://www.youtube.com/watch?v=CLU-zOXwuwM
+下載時間: 2026-07-15 14:25
+============================================================
+
+[00:04] Hello doers. My name is Jose Ignasio.
+[00:07] This video is special since we will do a
+[00:10] highle exploration of how ODU benefits
+[00:12] real life businesses. Today we're
+[00:14] actually going to be taking a look at
+[00:16] David's drone business, Airproof.
+[00:19] Great name, I know. Anyways, David has
+[00:23] given us a full rundown of the business.
+[00:25] Our job today is to show David what he
+[00:27] needs for success. Here we can see the
+[00:30] list of apps we will use for his
+[00:32] business use. Each one has been
+[00:34] carefully chosen for a different aspect
+[00:36] of that business. So with this in mind,
+[00:39] let's start with the inventory
+[00:40] application. So enough chitchat. Let's
+[00:43] hop right in. As I mentioned today, this
+[00:45] demo will provide a complete overview of
+[00:47] David's business. We're going to start
+[00:48] with the very first item, the drones.
+[00:50] David sells five different waterproof
+[00:53] drones. And I know a bit about drones.
+[00:55] So, let's actually open up our inventory
+[00:57] application and select products and then
+[00:59] products from the top heading. All
+[01:00] right. So, David's first four drones
+[01:03] happen to be here. So, let me show you
+[01:05] what our products will look like. Let's
+[01:07] begin. And I mean, we could select the
+[01:09] new button up at the top. But what if we
+[01:11] did something to save us time and
+[01:13] select, say, our drone 4 over here,
+[01:15] select our gear icon up here at the top,
+[01:18] and then we just select duplicate. Well,
+[01:21] would you look at that? Now, this
+[01:23] happens to be our little secret, but we
+[01:25] have now just made a duplicate product
+[01:26] that now becomes drone five.
+[01:30] And then we can actually leave our sales
+[01:33] option selected right there. But let's
+[01:36] change a few little things. Okay, so the
+[01:39] toggle for our product type here happens
+[01:41] to be goods. And that's goods because we
+[01:45] are selling a physical item that we
+[01:46] track inventory for. And you can see our
+[01:49] option right there. So, the invoicing
+[01:51] policy again, it's going to stay on
+[01:53] ordered quantities for now. And for our
+[01:56] sales price, we can set this to, in
+[02:00] fact, I think it's time for us to change
+[02:02] this. I think this one should be $499.99
+[02:07] just to give the illusion of some sort
+[02:10] of discount. We'll make it kind of easy
+[02:12] right there. Below this, we could put a
+[02:14] cost, which is essential if we plan to
+[02:16] track manufacturing and reporting
+[02:18] expenses. Then let's head on over to
+[02:20] inventory over here. We must select a
+[02:23] route on the inventory tab. Since David
+[02:25] says the drones are manufactured
+[02:26] in-house, we have our manufacturer route
+[02:29] and they are only made as they come. So
+[02:32] we also have replenish on order. David
+[02:34] needs to save some money. And that's one
+[02:36] of the more interesting tidbits about
+[02:38] David's drones. And another interesting
+[02:40] thing is that he mentioned to me that he
+[02:42] sells accessories along with the drones.
+[02:43] So, wouldn't it be nice to have
+[02:44] accessories appear with the products to
+[02:46] give those potential buyers that sweet
+[02:48] little nudge towards a higher order
+[02:50] total? So, if we actually hop into our
+[02:52] sales tab right over here, you can
+[02:54] already see it inside of our upsell and
+[02:56] cross-ell section. Let's go with
+[02:59] accessory products right here. And which
+[03:02] one do we want to appear? Let's select
+[03:04] nice drone case. So, the nice thing
+[03:07] about this option is that we can control
+[03:08] which products appear alongside our
+[03:10] listing to determine what the end user
+[03:12] will be recommended at checkout. This
+[03:14] option is handy if you offer combination
+[03:16] products that can benefit from accessory
+[03:18] products. In this case, a case is a
+[03:21] perfect combo for an expensive drone. We
+[03:23] wouldn't want it to break in our
+[03:25] backpacks, now would we? No. That's the
+[03:28] answer. Let's select one more accessory
+[03:30] just because I'm feeling spicy like this
+[03:32] float kit. And perfect. So, with this
+[03:35] out of the way, our additional prone
+[03:36] product can now coexist with its
+[03:38] friends. And we've completed David's
+[03:40] product offering so that we can move on.
+[03:43] But I'm sure you have a question over
+[03:45] here. Now, you notice I had MTO. If you
+[03:48] don't see that, well, you're going to
+[03:50] want to head out from here and then head
+[03:52] into in well, actually, you want to stay
+[03:54] in the inventory. Go to configuration
+[03:56] and settings. Scroll down. Make sure
+[03:58] multistep routes is selected over here.
+[04:01] Now, if we go over here and we select
+[04:04] our nice little warehouse, you'll see
+[04:06] everything is fine. But once again, if
+[04:08] you see our routes, there is my MTO one.
+[04:12] Now, if we go up to the top and we
+[04:13] select archived, you should see it right
+[04:16] here. Once you unarchive it, it'll
+[04:18] appear as an option. All right. So, we
+[04:21] know what the end product looks like,
+[04:23] but David is particular about his
+[04:26] products. Even though they have silly
+[04:28] names like drone 1 to5 for this demo,
+[04:31] they each represent distinct product
+[04:33] offerings manufactured with similar yet
+[04:36] different parts. So for now you let's
+[04:39] manually say just out of paranoia. You
+[04:41] never know. Okay, so back to what I was
+[04:43] saying. So since they're different but
+[04:45] similar product offerings, I think it's
+[04:47] time for us to open up our MRP
+[04:50] application. So we're going to go to
+[04:52] manufacturing now. All right, perfect.
+[04:55] And then this time inside of here, we're
+[04:56] going to select products. And oh, we're
+[04:58] going to bill of materials. Baited you
+[05:00] right there.
+[05:02] Okay. So, here is our list of our bill
+[05:04] of materials or bombs for my acronym
+[05:06] lovers. Let's open up the bomb for our
+[05:09] drone one product right there. And do
+[05:12] you see our components tab over here?
+[05:14] Make a mental note of the first few that
+[05:16] are selected right here. I'm going to go
+[05:19] ahead and select these right arrows over
+[05:20] here at the top just to go through our
+[05:22] other bombs. And you're going to notice
+[05:24] something. You're just going to start to
+[05:26] notice. Pay attention here. We scroll to
+[05:28] the next one. Upgrade. Drone 2 has a 4K
+[05:32] camera. And then now we have a laser on
+[05:35] drone three. And drone 4 has a LAR
+[05:38] sensor. It's all the same, but it's also
+[05:41] slightly not the same. Now, did you spot
+[05:44] the difference? I kind of messed that
+[05:46] reveal up, but to save time, we're
+[05:49] actually now on drone 4. So, we're going
+[05:51] to open up our action menu up at the
+[05:52] top. We're gonna select duplicate. Ah, I
+[05:55] do this all the time. Okay. Now, on this
+[05:57] duplicate page, let's click to select
+[05:59] our product as the new drone 5 that we
+[06:02] just made right there because we don't
+[06:04] need two bombs for the same product in
+[06:06] our case. Maybe you do. Okay. Then,
+[06:08] moving down over here to the components
+[06:09] tab. Remember, these are all similar yet
+[06:12] slightly different. This is our most
+[06:13] souped up one. So, we're going to select
+[06:14] add a line over here. And we're going to
+[06:17] search for the landing gear, the
+[06:19] flagship landing gear. Now, we have our
+[06:21] difference. David's final drone uses an
+[06:24] additional item not found on drone 4,
+[06:26] thus differentiating them all. Now,
+[06:28] AirProof manufactures the drones as
+[06:30] ordered, but keep some stock on hand.
+[06:32] We're going to cover how they handle
+[06:33] that distribution in a second. First,
+[06:36] let's actually jump really quickly to
+[06:39] drone 5 by using the internal link that
+[06:41] we have over here next to the line on
+[06:43] the product. Okay, so back at the
+[06:46] product page, I want you to now head
+[06:48] into our sales tab. Back over here. back
+[06:51] over. Here we go. Okay, so now that
+[06:54] we're inside of here, I need to make
+[06:56] sure that you activate the is publish
+[06:58] for our e-commerce shop option right
+[07:00] there. You'll know you did everything
+[07:02] right if the globe up at the top is now
+[07:04] a very nice green right there. And let's
+[07:08] actually go ahead and click that real
+[07:10] quick. Now, AirProof is a special
+[07:12] company because it also makes bespoke
+[07:14] goods. this mean it prefers the old
+[07:16] school cool direct sales method but it
+[07:19] doesn't shy away from modern technology
+[07:21] and has a touch of e-commerce. So let's
+[07:23] actually select the shop over here and
+[07:26] would you look at that here we can see
+[07:27] our product offerings. This is a pretty
+[07:29] sweet shop with a nice page with all the
+[07:31] drones that lack pictures because I
+[07:34] forgot the pictures. We got to take
+[07:35] those at some point. We'll see what
+[07:36] David wants. But here is a nice Joseio
+[07:39] pro tip. If you don't happen to see your
+[07:41] product listed here, remember that box
+[07:43] that we talked about, the is published
+[07:45] in the product overview under the sales
+[07:46] tab like you saw me do? That's why that
+[07:49] feature was so important. Let's click on
+[07:51] the product that we actually happen to
+[07:52] have published recently, drone 5. Now,
+[07:55] we're going to add it to carts. We're
+[07:57] going to go to our cart. And
+[08:00] would you look at that? You'll notice we
+[08:03] can add accessory products just because
+[08:05] we set that up earlier. But enough eshop
+[08:09] talk. Let's see how AirProof decides who
+[08:12] to make cold calls and sales pitches to.
+[08:15] So, I think it's time for us to go to
+[08:17] our contact page over here. And it's
+[08:19] time for us to change this out. Okay.
+[08:22] Now, we're going to select edit in the
+[08:24] top right corner over here. Now, once
+[08:26] that that loads up, this happens to
+[08:28] actually be ODU's built-in web editor.
+[08:30] It may look intimidating with a whole
+[08:32] bunch of stuff over here, but I'm going
+[08:35] to show you why it's closer to something
+[08:36] like Legos than say hardcore coding. On
+[08:40] this page on the right hand side, we can
+[08:42] drag and drop different building blocks
+[08:43] that shape our website where it'll
+[08:45] appear. Now, whenever you struggle with
+[08:47] design decisions, just remember you can
+[08:49] just do that like what I'm doing right
+[08:51] there. And look at that. It's going to
+[08:52] ask me what I want. Let's just put a
+[08:53] map. All right. Beautiful. All right.
+[08:57] Look at that. Everything was easy to do.
+[08:59] But I'm talking about this form because
+[09:01] remember we're talking about cold calls.
+[09:03] So we're going to scroll back up to the
+[09:04] top and we're going to click anywhere
+[09:06] inside of it. And now we have the option
+[09:09] to customize the aspects of the form.
+[09:11] It's auto taken us over there. So under
+[09:14] the one that's labeled as form for the
+[09:16] heading. I want you to take a close look
+[09:18] because right now this is where we would
+[09:20] change our options. It's our action that
+[09:22] we need to change. An action is an
+[09:25] automated step that will occur inside of
+[09:26] ODU. It is set right now to send an
+[09:29] email. But what if I told you that you
+[09:31] could set it to create an opportunity
+[09:33] automagically? We can actually select
+[09:35] that from our nice little list right
+[09:38] there. Look at that. Now the form when
+[09:41] finished is going to do that. And we can
+[09:43] even narrow it down to a specific sales
+[09:45] team or salesperson if we would like to
+[09:48] filter them even further. I'm going to
+[09:50] leave them blank and keep the form open
+[09:51] to our entire team. So once that we're
+[09:54] done with that, we're going to select
+[09:55] save over here up at the top. And just
+[09:58] like that, we're done. All right. Now, I
+[10:01] actually just realized that that lead
+[10:03] could appear as completely random. So
+[10:05] it's better to actually just do it with
+[10:06] you guys to watch this. Jose real name
+[10:10] for my name, phone number. We're going
+[10:12] to select that classic fake number for
+[10:15] YouTube.
+[10:18] And then our email
+[10:21] example.com
+[10:23] company. Oh, it's a requirement
+[10:26] not
+[10:28] subject.
+[10:30] I love a drone.
+[10:34] I am a picky person but very wealthy.
+[10:39] Would you look at that? We have our real
+[10:41] human done and submitted. And just like
+[10:45] that, our lead has been created. So,
+[10:47] let's go look at that. So, with our form
+[10:50] filled out, our website visitors can
+[10:52] turn into leads. So, it's time to open
+[10:53] up one of them. So, to start, we're
+[10:55] going to open up our CRM application and
+[10:57] select that very real, very real lead
+[11:00] from earlier that we filled out. Okay,
+[11:03] so this person would happen to want a
+[11:06] drone. In fact, they'd love one. They've
+[11:07] let us know. So, we can actually start
+[11:09] our quotation from right here by
+[11:11] selecting new quotation up at the top. I
+[11:13] want to make a quick note that AirProof
+[11:14] has a complex pricing strategy that
+[11:16] revolves around pricing differences
+[11:18] during certain times of the year, the
+[11:20] customer type and even the products
+[11:22] themselves. ODU lets you work with all
+[11:24] of those different pricing strategies
+[11:26] right out of the box. So, let's start by
+[11:29] adding our product. Let's assume this
+[11:31] person wants a drone 4. I'm going to add
+[11:34] a nice section just to make this look
+[11:36] extra nice. So, we're going to drag that
+[11:38] up. See, I like making it look all
+[11:40] pretty. We're going to do one more
+[11:42] called accessories just so somebody can
+[11:44] have that. All right, we're going to add
+[11:46] our nice little product. Let's assume
+[11:47] they wanted a float kit right there.
+[11:49] Perfect. All of that was all said and
+[11:52] done. Now, the whole quote looks good,
+[11:55] but that took a little bit, didn't it?
+[11:56] Another easy way around this is to set
+[11:58] up quotation templates as a basis for
+[12:00] these orders. If I go up here to
+[12:01] quotation template, let's select this
+[12:04] mysterious one that I made earlier.
+[12:05] Would you look at that? Now though,
+[12:08] you'll notice we ended up with the same
+[12:09] drone and our nice little extra
+[12:11] accessory section. And since it's a
+[12:14] template, we can add our own little
+[12:15] tidbits of other things right there. And
+[12:17] it's a nice time-saving option if you
+[12:19] sell packages that frequently go
+[12:21] together, but don't want to spend all
+[12:22] day writing up these quotations and
+[12:24] section lines line by line by line by
+[12:26] line. You get the idea. You can even, if
+[12:29] you wanted to, select a price list up at
+[12:31] the top. And that's even more
+[12:33] customization. Now, you're probably
+[12:35] asking yourself, what is a price list?
+[12:36] Well, this option is suitable for
+[12:38] managing stuff such as holiday sales.
+[12:40] Like, let's assume that promotional
+[12:42] pricing occurs during certain periods of
+[12:44] the year. Or maybe there happens to be
+[12:47] specific times when pricing goes up. It
+[12:50] could be pricing percentages for
+[12:51] discounts or premiums. For our example,
+[12:53] the one that we have is holiday pricing,
+[12:55] which increases the prices by 10% by, if
+[12:59] we assume some sort of endofear winter
+[13:02] holiday sale. And once we do this and we
+[13:04] update our pricing, as you'll notice,
+[13:06] December doesn't really change. But in
+[13:09] July, would you look at that? We happen
+[13:12] to have our summer pricing at a very
+[13:15] solid extra income for us. Okay. Now,
+[13:18] then when it's time for somebody to pay,
+[13:20] we actually have our nice little payment
+[13:22] terms right there. Now, AirProof takes a
+[13:24] 50% down payment due when products
+[13:27] actually are shipped per the invoicing
+[13:29] policy. Now, this option allows AirProof
+[13:31] to cover its margins from not so nice
+[13:33] customers who may say, you know, they
+[13:35] lost their package. And on the note of
+[13:37] packages,
+[13:39] how does AirProof ship these bad boys
+[13:40] out? Well, let's click on add shipping
+[13:42] in the bottom right corner. And
+[13:44] remember, we are using FedEx. We had our
+[13:47] order weight autofill right here. You
+[13:49] can also manually enter it. Mine
+[13:51] autofilled because drone 4 happened to
+[13:53] actually have the weight already input
+[13:55] for the product. And let's get our
+[13:57] rates. Perfect. Now, if you happen to
+[14:01] actually have this fail right here,
+[14:03] remember to double check that your
+[14:05] company has an address and phone number
+[14:07] and a zip code, which is important for
+[14:08] shipping, and that your customer has a
+[14:10] zip code, or else you might get an
+[14:12] error. Let's add this right there.
+[14:14] Everything looks pretty good now. This
+[14:17] looks really nice. And now the warehouse
+[14:18] team can use this information to print
+[14:20] out the labels when it's time to ship
+[14:22] the drone after manufacturing it. So,
+[14:24] with all of that done, I think it's time
+[14:26] for us to confirm this out. Then send it
+[14:29] by email just to be extra nice. Send
+[14:32] that on out just in case. Okay. And
+[14:36] let's create our invoice. And remember,
+[14:39] this is a down payment for 50%. We're
+[14:41] going to create our draft and confirm
+[14:43] it. And we're going to send that bad boy
+[14:46] out as well. Perfect. Now we've sold our
+[14:50] drone.
+[14:52] Okay. So, let's assume that they've paid
+[14:54] us our first 50% and it's time to get
+[14:56] our hammers out again. and finally make
+[14:58] this drone. So, to start, we're actually
+[15:01] going to go out of here and open up the
+[15:03] inventory application. I could see we
+[15:05] have that delivery order for the final
+[15:07] product, but I also notice we have one
+[15:09] to manufacture down here. Now, if we
+[15:11] open this up and check our availability,
+[15:14] I'm noticing that I have a component
+[15:15] status of not available. And we can tell
+[15:17] that something is missing because would
+[15:19] you look at that? All of these are green
+[15:21] except our 4K camera for our product
+[15:23] availability.
+[15:25] But don't fret. We can actually get it
+[15:27] immediately by selecting operations and
+[15:30] replenishments. And would you look at
+[15:32] that? If I select our 4K camera, we can
+[15:35] replenish our order right there. And
+[15:38] just like that. Now, let's assume
+[15:40] between our nice little Segway that we
+[15:42] happen to have heard that our products
+[15:44] were received. What do we do with that?
+[15:46] Well, we're going to go over to purchase
+[15:47] and we'll see our nice little 4K camera
+[15:49] has arrived. We're going to confirm our
+[15:51] order and receive it in and then
+[15:53] validate it into our inventory. Now,
+[15:56] it's finally time to go back to our main
+[15:57] dashboard and open up manufacturing. And
+[16:01] I happen to see that we have a work
+[16:03] order that we got to start working on.
+[16:05] Oh my goodness, this is perfect. But I'm
+[16:07] going to go to manufacturing orders just
+[16:09] to give myself a little bit easier of a
+[16:11] nice little overview. Okay, we're going
+[16:14] to select our work orders. We're going
+[16:16] to start this out. We're going to
+[16:17] pretend everything is good to go. We're
+[16:20] going to mark this as done and we're
+[16:23] ready to go with all of this. So, we're
+[16:24] going to select produce alloo. That took
+[16:27] us a whole lot. Now, once that this is
+[16:30] manufactured, we can actually head back
+[16:33] to our we're going to head over to the
+[16:35] sales order. And now we go to our
+[16:37] delivery order. And it's finally time
+[16:39] for us to print our label right here. If
+[16:41] we select the option, it's going to bust
+[16:43] that open for us in a nice little PDF.
+[16:46] we can affix them to the box and send
+[16:48] this little drone on its merry way to
+[16:50] the customer. Now that we got word that
+[16:52] this drone is headed out, we're just
+[16:54] going to validate this real quick.
+[16:57] Finish everything off from our order
+[16:59] because it's finally time for us to head
+[17:01] back over to sales because
+[17:04] I think we're owed a little bit of
+[17:06] money. Now, we're going to open up our
+[17:07] previous sales order right there.
+[17:09] Perfect. So within this one, I think
+[17:11] it's time for us to create our final
+[17:14] invoice for the second half of our
+[17:16] payment. So this one can actually just
+[17:18] be a regular one. Going to create our
+[17:19] draft. Confirm it out. Going to send
+[17:22] that out. Send it out as an email. And
+[17:26] time for us to get paid. So once that
+[17:28] you're done with here, you could follow
+[17:30] the steps. Create a payment. Everything
+[17:33] is set right there. Depending on your
+[17:34] banking options, you may have a
+[17:35] different setup than the one that you
+[17:37] just saw. So with this out of the way,
+[17:38] we are finally done. The accounting bits
+[17:40] are always done automatically. So we
+[17:42] don't have to guess or keep track
+[17:43] manually. Now you'll also notice that
+[17:45] ODU even remembered we already had been
+[17:48] paid the first half between each of
+[17:50] those transactional stages. This
+[17:52] traceability allows you to keep moving
+[17:54] forward with your business without
+[17:55] keeping tabs on down payments and
+[17:57] overdue invoices. Speaking of
+[18:00] traceability,
+[18:02] what about if you have an intern? How
+[18:03] does ODU work for them? So to set a
+[18:06] limitation on a user, so let's say your
+[18:08] intern doesn't delete important stuff by
+[18:10] accident, we have to actually hop on out
+[18:13] of here and into our settings
+[18:15] application.
+[18:17] Okay, so here we are inside of the
+[18:20] settings app. In this first area, we're
+[18:23] going to select manage users. Now you
+[18:26] notice inside of here we have intern.
+[18:27] Let's open them up. On this page, please
+[18:30] direct your eyes to all the options
+[18:31] inside of our access rights tab. Here
+[18:33] you can limit what specific users can
+[18:35] and cannot see. This can be helpful to
+[18:37] prevent headaches from a new user
+[18:38] messing up sales orders or going into
+[18:41] applications and changing things they
+[18:43] shouldn't. The internet airproof is only
+[18:45] managing their own documents as you can
+[18:48] tell for sales and other areas and
+[18:50] they're restricted as well. And on that
+[18:53] note, they upload leads into CRM. So
+[18:55] they shouldn't have as administrative
+[18:57] rights for CRM or MRP or any of those
+[19:00] apps. And you can actually see that with
+[19:03] the options to swap over, but in our
+[19:06] case, we have them set as user only.
+[19:08] This is essential for any business since
+[19:10] it could change your employee level
+[19:11] while letting you know who uses what
+[19:13] application. Please, and this is
+[19:16] something I have to stress, check the
+[19:18] documentation on this. It'll save you
+[19:20] headaches for access rights and user
+[19:22] groups, and that way you can learn more
+[19:23] about that feature. So finally with all
+[19:25] of this taken care of, it is time to
+[19:27] cover how airproof looks back at their
+[19:29] business to get a 360 view of everything
+[19:30] that happens daily. Let's actually open
+[19:33] up this is a fun app dashboards. So
+[19:36] inside of dashboards, you can tell we
+[19:38] are in the earlier stages of airroof's
+[19:40] business in ODU because the data is a
+[19:42] bit barren. You can see a few things
+[19:44] like orders, but I'm going to tell you
+[19:45] one thing. They are giants in their
+[19:48] wake. Jokes aside, this application is
+[19:51] one of my favorites in Not because of
+[19:52] its instant access to access all of your
+[19:55] different metrics. We can immediately
+[19:57] see sales data such as we have monthly
+[20:00] sales, we have top quotations and other
+[20:03] things, and even revenue over the past
+[20:06] 90 days if we wanted to. And you can see
+[20:08] this up at the top. You have options to
+[20:10] select specific products if you needed
+[20:12] to, customers, the sources, sales teams,
+[20:15] and salespersons.
+[20:18] That's pretty nice. But let's assume
+[20:20] that you wanted to go backwards in time
+[20:22] and do everything. Well, you can also go
+[20:23] from here and select even the last three
+[20:26] years of data. So these nine underlined
+[20:29] texts that you just saw me hover up at
+[20:30] the top are clickable as you saw. They
+[20:32] will enable you to break down the data
+[20:34] further like selecting as I said a
+[20:37] specific salesperson and your specific
+[20:39] sales team as well. That allows you to
+[20:42] see their invoices as well as also their
+[20:44] largest orders that they saw. So from
+[20:47] this lefth hand panel over here we can
+[20:49] see that our parameters can change
+[20:51] depending on the app that we pick. If we
+[20:52] select CRM in this case leads we can see
+[20:56] that our nice little data has different
+[20:58] ones and our nine searchable items up at
+[21:00] the top happen to have new ones such as
+[21:02] the lost reason. So we have two that are
+[21:05] very important that I see here. We have
+[21:07] things such as rates and revenue. Those
+[21:10] two are very important for smaller
+[21:11] businesses since every lead and bit of
+[21:14] revenue can make or break a quarter. I
+[21:16] could keep going on and on honestly
+[21:17] about the different apps and what you
+[21:18] can see for each one, invoicing, our
+[21:21] pipeline and all that stuff, but I can
+[21:24] confidently tell you you can find any
+[21:26] metric for anything through the
+[21:27] dashboards application. But on that
+[21:30] note, let's talk about the best thing
+[21:32] for last, and that is well, you've made
+[21:34] it this far. Please tell me you've also
+[21:36] had a snack or two because we're going
+[21:37] to talk about configuration. I'd like to
+[21:39] first make a note that there are no
+[21:41] special customizations for this ODO
+[21:43] instance. Everything that you have seen
+[21:45] today was out of the box. Everything was
+[21:48] single takes. However, we did make
+[21:50] multiple setting selections in a few
+[21:52] apps to get everything perfect. To see
+[21:54] how I set up anything you saw in today's
+[21:56] video, let's actually go out of here and
+[21:58] open up our settings application. Okay,
+[22:02] we're going to select CRM from the
+[22:03] sidebar over here. Now, I suggest
+[22:06] turning on leads over here for the first
+[22:08] section. This option allows you to add a
+[22:10] qualification step to your opportunities
+[22:12] so you don't get bombarded with a
+[22:14] billion cold leads that are just
+[22:16] opportunities that might be not so
+[22:19] great. Among these features, you will
+[22:21] find other options that can help you
+[22:23] further customize your CRM experience.
+[22:25] But this is the option we selected today
+[22:26] for our demo. Next, let's select sales
+[22:29] over here. Now, on this page, the
+[22:31] discounts, prices, and promotions
+[22:33] options, as you could tell right here,
+[22:35] were toggled. The pricing section was
+[22:38] necessary since all these options we
+[22:40] selected allowed us to set multiple
+[22:41] prices per product and automate
+[22:43] discounts and premiums. The discounts
+[22:45] option will directly enable salespeople
+[22:48] to give discounts on order lines and
+[22:50] that allows them to have more
+[22:51] flexibility while working with clients.
+[22:53] Moving down the list, you can actually
+[22:55] see we selected quotation templates and
+[22:57] you saw me talk about that earlier when
+[22:58] I made the drone for template appear and
+[23:01] you saw me do that instantaneously. I
+[23:03] highly recommend this option for any
+[23:04] company that sells a large variety of
+[23:06] goods that could benefit from being
+[23:07] bundled together or if you happen to
+[23:09] have a ton of SKs. On the note of order
+[23:11] lines, you saw me and we actually had
+[23:14] our shipping appear right there on the
+[23:16] order lines. To utilize that feature,
+[23:18] you also have to go down to delivery
+[23:20] methods being enabled and your specific
+[23:23] connectors depending on which shipping
+[23:25] provider you're using. Ours was FedEx,
+[23:27] so naturally we selected FedEx shipping
+[23:29] connector. This was how I could have it
+[23:31] appear when I selected add shipping
+[23:33] earlier in the tutorial and how it was
+[23:34] able to calculate the rates. So let's
+[23:36] actually end our configuration by
+[23:38] clicking manufacturing over here from
+[23:40] our nice little sidebar. So we used our
+[23:44] work orders feature here to process our
+[23:46] operations at specific work center since
+[23:48] the drones are made in house. This
+[23:50] feature is essential since it allows you
+[23:51] to set up either fixed durations for
+[23:53] particular actions and that's for the
+[23:55] steps to manufacture your product or use
+[23:57] timers as you saw me do and then
+[23:59] calculate the duration finishing a
+[24:00] product in real time. Both of those
+[24:02] allow you to measure your work center's
+[24:04] efficiency while keeping traceability
+[24:06] for working hours down to the very
+[24:07] second. Now, the shop floor feature
+[24:10] below also gives you access to the shop
+[24:12] floor application while allowing you to
+[24:14] manage manufacturing steps via a nice
+[24:16] guey interface.
+[24:19] That was a lot. David owes me a drone
+[24:22] for all this trouble. I'm just kidding.
+[24:24] Sort of. In fact, we've actually
+[24:26] explored how so many different
+[24:28] applications work together to provide a
+[24:29] worthwhile solution for your
+[24:31] manufacturing and sales needs. For more
+[24:33] information on any of the parts of this
+[24:34] video, please refer to the documentation
+[24:36] or to some of the videos that I'm going
+[24:38] to link below. Please comment below if
+[24:40] you have any questions, comments,
+[24:41] concerns, or sponsorships for Joseé
+[24:43] Ignasio. With that aside, grab a snack.
+[24:45] Um, grab a whole meal. You've earned it.
+[24:49] [Music]

@@ -1,0 +1,126 @@
+影片 ID: rXtQ2D0w2eY
+來源: https://www.youtube.com/watch?v=rXtQ2D0w2eY
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:05] Welcome back O doers. It's good to see
+[00:07] you again. In almost every record in
+[00:10] Odoo, you'll find the chatter either at
+[00:12] the right side or the bottom depending
+[00:14] on your screen size.
+[00:15] The chatter displays a timeline of
+[00:17] activity including when the record was
+[00:18] created, stage changes, and more.
+[00:22] You can also use it to log internal
+[00:23] notes or send messages directly to your
+[00:25] clients. So, let's jump into the
+[00:27] StealthyWood database and see what the
+[00:29] chatter is all about.
+[00:32] Let's start off on the CRM dashboard and
+[00:34] we're going to open up our lead for
+[00:35] quote for 12 cables.
+[00:38] Now, most records in Odoo share the same
+[00:40] layout. We have the main record details
+[00:42] on one side and then we have the chatter
+[00:44] on the other.
+[00:45] The chatter is where you'll find a
+[00:47] timeline of activity such as field
+[00:49] changes, any important notes, messages,
+[00:52] even scheduled or completed tasks.
+[00:54] You can even react to any entry with an
+[00:56] emoji. For example, I can react to this
+[00:58] one from Jose.
+[01:02] Or we can even save it for later using
+[01:04] the star icon,
+[01:06] which will save that entry to our
+[01:08] starred folder in the discuss app.
+[01:10] And here in the top right of the
+[01:12] chatter, we have a magnifying glass so
+[01:14] we could search for messages. We have a
+[01:16] paper clip so we can attach any files
+[01:19] and we can even manage any followers
+[01:21] with this follower icon.
+[01:24] So, to keep my coworker Jose updated,
+[01:26] I'm going to add him as a follower. So,
+[01:28] I'll click this followers icon, click
+[01:30] add followers, and then simply type in
+[01:33] Jose,
+[01:34] select him, and click add followers once
+[01:36] again.
+[01:38] Now, Jose will get notified whenever
+[01:40] there's an activity on this record.
+[01:42] Welcome aboard, Jose.
+[01:44] And if I reopen this follower list, I
+[01:46] can see him now added to it and I also
+[01:49] have a pencil icon so I can edit any
+[01:51] notification settings if needed.
+[01:53] And since I'm the salesperson, I'm
+[01:55] already automatically following this
+[01:57] record and if I wanted to unfollow it, I
+[01:59] could just click on follow. However, I'm
+[02:01] going to click out of this because I
+[02:03] want to stay subscribed.
+[02:05] And if we look back down into the
+[02:07] chatter, I can see that Jose left me a
+[02:09] message regarding
+[02:11] to send the product catalog to Will.
+[02:13] Thanks, Jose. I can do that right now
+[02:15] straight from the chatter. All I have to
+[02:17] do is click the send message button and
+[02:19] make sure that Will is added to this
+[02:21] email.
+[02:23] Here, I can just paste or type in my
+[02:24] message.
+[02:26] And next, I'm going to click the
+[02:27] paperclip icon so I can add the file, in
+[02:29] this case, the product catalog.
+[02:35] And as you can see, Odoo adds the email
+[02:38] to the chatter. Everything you need from
+[02:40] notes, email updates, all kept in one
+[02:42] place.
+[02:44] To ensure these notes are fully
+[02:46] internal, I can click this log notes
+[02:48] button.
+[02:50] It's perfect for internal messages that
+[02:52] only team members can view.
+[02:54] So, we're going to go ahead and click
+[02:55] the log note button, and here I can
+[02:57] notify Jose by tagging him.
+[03:01] And I'll type in my message, which is
+[03:03] just Will
+[03:04] prefers
+[03:07] email over phone calls.
+[03:12] And then when I click log,
+[03:16] the note appears in the chatter, and
+[03:18] Jose is automatically notified.
+[03:21] Any other internal followers who are
+[03:22] also subscribed to notes will see this.
+[03:26] The log note feature is ideal for
+[03:27] private team-only communication. And if
+[03:29] I ever need to make changes, I can hover
+[03:31] over the note,
+[03:33] click the edit button, or I can even
+[03:35] click this three dots button, which will
+[03:37] give me the ability to forward this
+[03:39] message, copy a direct link to this
+[03:41] message, or I can even delete it
+[03:43] altogether.
+[03:45] In the chatter, we can also schedule
+[03:47] meetings, calls, emails, to-do's, and
+[03:50] more all from this activities button
+[03:51] right here. It's directly linked to the
+[03:53] Odoo calendar app, so everything stays
+[03:55] perfectly in sync.
+[03:57] We do cover this in more detail in our
+[03:59] schedule activities video. I'll go ahead
+[04:00] and link that down below, so you can
+[04:02] easily view it after.
+[04:04] But, that's a wrap. Today, we explored
+[04:06] how the chatter keeps every update and
+[04:08] message tied to its record. It's clean,
+[04:10] intuitive layout makes it easy for your
+[04:12] whole team to stay aligned and jump
+[04:14] right back in at any time.
+[04:16] Be sure to check out our other
+[04:17] tutorials, and until then,
+[04:19] thanks for watching, Odooers.

@@ -1,0 +1,172 @@
+影片 ID: ug7b3MJidsU
+來源: https://www.youtube.com/watch?v=ug7b3MJidsU
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:04] Hello doers. Welcome back. My name is
+[00:06] Jose Ignasio. Today we're taking a look
+[00:09] at digest emails. If you've used Dodo,
+[00:12] you know exactly what I'm talking about.
+[00:14] Yes, when set up properly, these
+[00:16] automated reports keep your team
+[00:18] informed about key business metrics
+[00:20] without overwhelming them with
+[00:21] unnecessary notifications. No one likes
+[00:23] spam. As a company grows, tracking KPIs
+[00:26] becomes harder. Teams need consistent
+[00:29] insights, but can't spend time
+[00:30] constantly checking dashboards. Odus
+[00:33] Digest emails fix this by sending
+[00:35] scheduled snapshots of your performance
+[00:37] straight to your team's inboxes. It's a
+[00:40] powerful feature. So, enough chithat.
+[00:41] Let's jump into the database and see it
+[00:43] in action. To get started, we first need
+[00:46] to confirm that the digest email feature
+[00:47] is turned on. So, we're going to open up
+[00:49] our settings application and scroll down
+[00:50] to the section that says emails. So, in
+[00:53] our case, if it happens to also be off
+[00:55] for you, you're going to tick that
+[00:56] little box and then hit save up at the
+[00:58] top. Boom. Now, it's activated. Once
+[01:01] you've enabled that as well, you'll
+[01:02] notice we have our nice little digest
+[01:04] email field and we can see our default
+[01:06] one, your ODU periodic digest. Make
+[01:09] changes to this template. We're going to
+[01:10] click on the internal link next to its
+[01:12] name. A nice little arrow makes it easy.
+[01:14] So, new form opens displaying all the
+[01:16] configuration settings for the digest
+[01:18] email template. At the top, you're going
+[01:19] to see a digest title. So this specific
+[01:22] one happens to be your ODO periodic
+[01:25] digest. It's the default one, but we can
+[01:27] rename it to whatever best suits our
+[01:29] organization. And at Stealthy Wood,
+[01:31] we're all about stealth.
+[01:33] Stealth weekly. You'll see why I did
+[01:36] that right now. Because just below that,
+[01:37] you're going to find the periodicity,
+[01:40] which means how often the digest is
+[01:42] sent. It's set to daily by default, but
+[01:45] as you guessed it, I'm going to set it
+[01:46] to weekly. We don't want to spam our
+[01:49] teams too much, now do we? remember
+[01:51] that. So, up next, we happen to have our
+[01:55] mailing date and that updates
+[01:57] automatically based on the periodicity
+[01:58] that you select. Next is the most
+[02:01] important section, the KPIs, your key
+[02:03] performance indicators included in the
+[02:05] digest. Here inside of our KPIs tab, you
+[02:08] can enable or disable specific metrics
+[02:10] by checking or unchecking their boxes.
+[02:12] Do that for any of these pools all of
+[02:15] these KPIs from multiple apps, including
+[02:17] CRM, sales, project, and others. So the
+[02:19] exact list depends on what's installed
+[02:21] in your database. At Stealthywood, we
+[02:23] have access to some general KPIs as you
+[02:26] can see right there. And that happens to
+[02:29] be connected users and messages along
+[02:31] with app specific ones like leads,
+[02:33] opportunities. Got revenue over here,
+[02:36] which is pretty important. And cash
+[02:38] moves. Nice. You can also create new
+[02:42] metrics using the nice little custom
+[02:44] section. Be sure to check out our
+[02:46] documentation as that requires ODU
+[02:48] Studio as well and I have a tutorial for
+[02:50] that. So, I got you covered. So, we can
+[02:53] actually also open the recipients tab
+[02:55] over here and choose who will receive
+[02:58] the digest. Selecting add a line
+[03:01] produces a nice little popup where you
+[03:03] can pick your recipients. From here,
+[03:04] you're going to see a list of all
+[03:06] internal users in your database. To send
+[03:08] it to everyone, simply tick, well, in
+[03:11] this case, you're going to tick the box
+[03:12] over here next to name and then you just
+[03:15] hit select. Boom. We got everyone right
+[03:18] there. The digest will now be delivered
+[03:19] to all users. Once everything is
+[03:21] configured, you have several options.
+[03:23] You can leave the form as is and the
+[03:26] digest will automatically send on the
+[03:27] next mailing dates. Alternatively, if
+[03:30] you prefer immediate delivery, you can
+[03:32] also click send now over here at the top
+[03:35] or to deactivate it al together if you
+[03:37] don't want it anymore. For now, we're
+[03:40] just going to let it send on its
+[03:41] scheduled date. So, now that we've
+[03:43] finished customizing our default digest
+[03:45] email, let's create a new one tailored
+[03:47] specifically for our sales team. So,
+[03:48] we're going to head back into our
+[03:50] settings application over here, and
+[03:52] we're going to go back over to the email
+[03:54] section and configure our digest emails.
+[03:56] So, this brings us back again to the
+[03:58] full list of digest templates.
+[03:59] Currently, we only have the default one.
+[04:01] And as you could tell, we need a new
+[04:03] one. So, we're going to select new up at
+[04:04] the top. So, in the new form, we're
+[04:06] going to type in the one that we want.
+[04:07] So, this is going to be sales team
+[04:09] digest. Perfect. All right. So, for
+[04:13] periodicity that we have over here,
+[04:14] we're going to keep it as daily as in
+[04:17] this case, this one should be sent out
+[04:18] every single day. Now, let's choose what
+[04:21] metrics we want to include. Because this
+[04:23] digest is meant for the sales
+[04:24] department, we're going to check only
+[04:26] our CRM one and our sales KPIs. Right
+[04:30] there. Perfect. This ensures that the
+[04:32] team receives only the data that
+[04:33] directly supports their work. Next, we
+[04:36] need to make sure it's delivered
+[04:37] exclusively to our sales people. So,
+[04:39] we're going to go to recipients over
+[04:40] here. We're going to select add a line.
+[04:42] So, perfect. Here we are. So, here comes
+[04:44] the fun part. To quickly narrow down the
+[04:46] list to sales people, we're going to
+[04:48] actually open up our dropown over here.
+[04:50] And you guessed it, we're going to add a
+[04:53] custom filter over here. All right, so
+[04:55] currently it's set to country is equal
+[04:58] to, but I think we should change that
+[05:01] right now. We're going to just change
+[05:03] this one over here to employee tags.
+[05:08] Okay, perfect. All right, the second
+[05:10] field, we're going to change it over to
+[05:12] contains. And then once that we're done
+[05:14] for our very last one, we're going to
+[05:15] have sales. Boom. Look at that. that the
+[05:19] pop-up now shows only users whose
+[05:20] employee profiles include the sales tag.
+[05:23] Before we go on selecting everyone by
+[05:25] taking the box, we're just going to
+[05:26] select the one up at the very top and
+[05:28] then hit select. And we've added them to
+[05:31] the recipients field. Our sales team is
+[05:33] eager for these KPIs. So, let's send the
+[05:36] digest right away by selecting send now.
+[05:39] That's a wrap on Odo's digest emails.
+[05:41] This feature is a powerful way to keep
+[05:43] your team aligned on key business
+[05:44] metrics without cluttering their
+[05:46] inboxes. By customizing each of these
+[05:48] digests to surface only the most
+[05:50] relevant insights and scheduling them at
+[05:52] your optimal frequency, you're going to
+[05:53] ensure that everybody stays informed and
+[05:55] focused and ready to take action. Thanks
+[05:58] for tuning in, Odoers. Until next time,
+[06:00] go grab a snack. Hi-Chew sponsor me.

@@ -20,6 +20,7 @@
 - [[skills/06_資料治理與檔案管理/file-naming-and-classification-advisor/SKILL|file-naming-and-classification-advisor]]
 
 ## 待盤點 / 未展開（Odoo 相關或尚未完成實際壓測）
+- [[skills/01_技術開發/odoo-learning-pipeline/SKILL|odoo-learning-pipeline（逐字稿 7 步驟處理）]] ← 新建 2026-07-10
 - [[skills/odoo-module-spec-writer/SKILL|odoo-module-spec-writer]]
 - [[skills/odoo-large-feature-dev/SKILL|odoo-large-feature-dev]]
 - [[skills/00_通用工作流/quick-capture/SKILL|quick-capture]]

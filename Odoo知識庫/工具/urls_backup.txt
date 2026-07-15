@@ -1,0 +1,61 @@
+# Odoo YouTube 網址清單
+# 說明：每行一個 YouTube 網址，# 開頭為備註行
+# 填完後執行 python3 odoo_transcript_downloader.py
+#
+# ============================================================
+# Getting Started（Odoo 基礎導覽）
+# ============================================================
+
+# Navigate in Odoo
+https://www.youtube.com/watch?v=NoxYrnnHgfk
+
+# 其他 Getting Started 影片（網址待補）
+# https://www.youtube.com/watch?v=IyDlRBAIzq4（Create an Odoo Database）
+# https://www.youtube.com/watch?v=NoxYrnnHgfk（Navigate in Odoo）
+# https://www.youtube.com/watch?v=6W3jnlOsiCY（Google Calendar Sync）
+# https://www.youtube.com/watch?v=vobkBzA6vvY（Outlook Calendar Sync）
+# https://www.youtube.com/watch?v=D01_EK-Fz7U（Filters and Views）
+# https://www.youtube.com/watch?v=yZf6D1PAh2g（Multi-Company Basics）
+# https://www.youtube.com/watch?v=jTS4KVi_awU（Multi-Company Transactions）
+# https://www.youtube.com/watch?v=UUPTknL_FnM（In-App Services）
+# Using Odoo
+https://www.youtube.com/watch?v=JJtGJTYkss4
+https://www.youtube.com/watch?v=vyvFgOfBoPI
+https://www.youtube.com/watch?v=mhFibjoVYmc
+https://www.youtube.com/watch?v=HxLfnOEWb6Y
+https://www.youtube.com/watch?v=Q1GTp2i_d_4
+https://www.youtube.com/watch?v=rXtQ2D0w2eY
+https://www.youtube.com/watch?v=uG2UD-YGl48
+https://www.youtube.com/watch?v=ug7b3MJidsU
+https://www.youtube.com/watch?v=mZG-3xHtUyo
+https://www.youtube.com/watch?v=w6GLW3IE-UU
+
+# Odoo Discuss
+https://www.youtube.com/watch?v=Ls3sjiqHCHE
+https://www.youtube.com/watch?v=IfU-kxnWEEY
+https://www.youtube.com/watch?v=j9_0duO--yM
+https://www.youtube.com/watch?v=4k4wSQ6sqpw
+https://www.youtube.com/watch?v=36uvGBoE-kM
+
+# Business Flows
+https://www.youtube.com/watch?v=vYsVnbnpnHo
+https://www.youtube.com/watch?v=tSMOE0fhCNM
+https://www.youtube.com/watch?v=T-Cjbx3Ie3g
+https://www.youtube.com/watch?v=MVbwvUxnKkA
+https://www.youtube.com/watch?v=bj9WHRnFUso
+https://www.youtube.com/watch?v=72Wbk0mr0jg
+https://www.youtube.com/watch?v=Q5XbA16x2SE
+https://www.youtube.com/watch?v=CLU-zOXwuwM
+# ============================================================
+# CRM 模組（學習順序第 1）
+# ============================================================
+
+# 網址待補（從 Odoo 課程頁面逐一複製）
+# https://www.youtube.com/watch?v=
+
+# ============================================================
+# Sales 模組（學習順序第 2）
+# ============================================================
+
+# 網址待補
+# https://www.youtube.com/watch?v=

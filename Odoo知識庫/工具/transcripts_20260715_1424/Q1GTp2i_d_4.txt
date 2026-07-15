@@ -1,0 +1,151 @@
+影片 ID: Q1GTp2i_d_4
+來源: https://www.youtube.com/watch?v=Q1GTp2i_d_4
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:00] [music]
+[00:05] What's up, Odoers, and welcome back.
+[00:08] Nathan here with another tutorial, and
+[00:10] today we're going to dive into how to
+[00:12] import and export data into ODO, a
+[00:15] simple, efficient way to manage your
+[00:17] database. Every record in ODO holds
+[00:19] valuable information from basic contact
+[00:22] details to accounting or inventory data.
+[00:24] In this lesson, we're going to focus on
+[00:26] how to import and export data from your
+[00:28] database so you can easily make bulk
+[00:30] edits later or even just use that data
+[00:32] outside of ODU. These tools are
+[00:35] available in most ODU apps with sample
+[00:37] templates and flexible export options to
+[00:39] help you get started. So, let's jump
+[00:42] into ODO and see how it all works.
+[00:44] Today, we're starting in the contacts
+[00:46] app where you can view all of your
+[00:47] contacts in one place. Although we're
+[00:50] using the contacts app today, the import
+[00:52] and export process works similarly
+[00:54] across most ODO apps. Here in the list
+[00:57] view, if we click on one of the
+[00:59] checkboxes on the left side of your
+[01:01] contacts, we'll see an actions button
+[01:03] appears. Let's say I want to archive,
+[01:06] delete, or export multiple contacts. In
+[01:09] that case, I could select these boxes
+[01:10] individually, or if I want to select
+[01:12] them all, all I have to do is tick the
+[01:14] check box at the top.
+[01:16] Next, let's go ahead and click this
+[01:18] actions button. And when we do, a
+[01:20] drop-own menu appears. From here, I'm
+[01:23] going to select export.
+[01:27] And that's because I want to download
+[01:28] the contact information. Exporting is
+[01:31] ideal when you need to transfer data
+[01:33] into an Excel or CSV file. And here on
+[01:36] the export screen, you can choose to
+[01:37] save a template or you can even choose
+[01:39] your preferred export format type, which
+[01:42] will be Excel or CSV. For our example,
+[01:45] we're going to click on CSV.
+[01:48] ODU also has a handy feature that makes
+[01:50] your file import compatible. To use it,
+[01:53] all we have to do is tick the check box
+[01:55] next to I want to update data.
+[01:59] And on the left side window here, you'll
+[02:01] see the available fields that you can
+[02:03] export. Here on the right side, these
+[02:05] are the fields that are already
+[02:07] selected. Here, we can go ahead and
+[02:09] rearrange them as necessary. And we can
+[02:12] also delete any fields we don't care to
+[02:14] export. Let's say we don't need
+[02:16] activities, so we'll delete that.
+[02:19] By default, ODU automatically fills in
+[02:21] the most relevant fields for export. And
+[02:24] let's go ahead and add one more. Let's
+[02:26] say we need to add which state our
+[02:29] contact is in.
+[02:31] Once we find the field we want to bring
+[02:33] in from the left side, all we have to do
+[02:35] is click on this plus button. And just
+[02:38] like that, it's added. Finally, we're
+[02:41] going to click on the export button here
+[02:42] at the bottom left.
+[02:45] And then at that time, your CSV or Excel
+[02:48] file will automatically download to your
+[02:50] computer. Already formatted for import,
+[02:52] so you could bring it back into ODO
+[02:54] without any issues. And that's it for
+[02:57] this export window. Let's go ahead and
+[02:59] click close and wrap things up. When I
+[03:02] open the downloaded CSV file, this is
+[03:05] the template that I see. You can use
+[03:08] this data as is or we can add more
+[03:10] information to it and turn it into an
+[03:12] import template. And if we look at the
+[03:14] right side here, we can see the state ID
+[03:17] or state name column that we added
+[03:19] earlier. So, it really is that simple.
+[03:23] Now that we're back in the ODO contacts
+[03:25] app, let's go ahead and deselect all of
+[03:27] our contacts. Now, we're going to click
+[03:30] on this gear icon and from the drop-own
+[03:32] menu, we're just going to select import
+[03:34] records.
+[03:36] From here, you can import contacts,
+[03:38] which is especially useful if you're
+[03:40] setting up ODU for the first time, or
+[03:42] maybe you just have a long list of
+[03:43] clients stored on a spreadsheet. It
+[03:45] makes managing your data much easier.
+[03:47] And you can also use the export file
+[03:49] that we just downloaded as a template.
+[03:52] To begin, we're just going to click
+[03:53] upload data file in the top left corner.
+[03:56] And then we're just going to find our
+[03:58] file on our computer and upload it
+[04:00] accordingly.
+[04:05] At the top, you'll see we have the
+[04:07] options to test, import, load data file,
+[04:10] or just cancel al together. If your file
+[04:13] isn't based on an ODO template, ODU will
+[04:15] automatically match your columns to the
+[04:18] closest fields in the database. If any
+[04:20] of the fields don't match, then you can
+[04:22] simply select them from the drop- down
+[04:24] menu.
+[04:25] Just right here
+[04:28] near the top left of the sidebar, we
+[04:29] have an option to use first row as
+[04:32] header. We're going to make sure that
+[04:34] this is selected, and you should too if
+[04:36] your spreadsheet includes column names.
+[04:39] However, ODU does usually detect this
+[04:41] automatically. You'll also see some
+[04:43] formatting options for CSV files on the
+[04:46] left. Some are set by default. And for
+[04:49] this example, we don't need to make any
+[04:51] changes, so we're just going to keep
+[04:52] moving on. Now, let's go ahead and test
+[04:54] this by clicking test in the top left.
+[04:59] And everything seems good. We have a
+[05:02] blue confirmation banner here at the top
+[05:04] which says everything seems valid. So at
+[05:07] this point you can click import to bring
+[05:09] your data into ODO. And if you're
+[05:12] importing a large data set it's best to
+[05:14] split it into smaller files for smoother
+[05:16] uploads. But for now let's go ahead and
+[05:19] click import to complete the process.
+[05:23] And that's it. How simple was that?
+[05:27] That's all for today odoers. Today we
+[05:29] learned how to export and import data
+[05:31] into ODO. The import and export tools
+[05:34] are available across most ODU apps,
+[05:36] making it easy to update and manage
+[05:38] large sets of records efficiently.
+[05:40] Thanks for watching. Be sure to check
+[05:42] out our other tutorials to keep learning
+[05:44] more about ODO. See you next time.

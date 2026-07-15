@@ -1,0 +1,262 @@
+影片 ID: vyvFgOfBoPI
+來源: https://www.youtube.com/watch?v=vyvFgOfBoPI
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:00] [music]
+[00:05] >> What's up, Odooers, and welcome back.
+[00:08] Every day comes with a list of things I
+[00:10] need to get done, and that's why we use
+[00:11] to-do lists to stay organized and on
+[00:13] track.
+[00:15] In Odoo, activities work like to-do
+[00:17] lists, but for each record inside of
+[00:18] your database.
+[00:20] They'll let you plan future tasks, track
+[00:22] progress, and see what's been done all
+[00:24] right inside of the chatter section.
+[00:26] You can even assign activities to your
+[00:28] teammates to make sure everyone's on the
+[00:29] same page. And by scheduling activities,
+[00:32] you keep every record moving forward and
+[00:34] your business running smoothly.
+[00:36] Now, let's jump into Odoo and see how
+[00:38] easy it is to schedule activities.
+[00:41] Because activities are integrated across
+[00:43] Odoo apps, you can view them directly on
+[00:45] each record.
+[00:47] The icons next to these priority stars
+[00:48] here indicate what's happening with your
+[00:51] activities.
+[00:52] So, for example, here in the new stage,
+[00:54] we have our quote for 12 tables. This
+[00:56] green activities icon means that there's
+[00:58] an upcoming task.
+[01:00] On the other hand, an orange icon
+[01:02] indicates that there's an activity due
+[01:03] today, while a red one shows that
+[01:05] there's an overdue activity.
+[01:08] If you see a gray clock icon, that just
+[01:10] means that there's no activities planned
+[01:12] for that record.
+[01:14] Each icon also indicates the type of
+[01:16] activity, such as a phone being a phone
+[01:18] call, a envelope being an email, and so
+[01:21] on.
+[01:22] Now, let's go ahead and click on the
+[01:24] icon next to the priority stars here for
+[01:27] our quote for 12 tables.
+[01:29] When we click that icon, a small pop-up
+[01:31] appears, showing the activities that are
+[01:33] currently scheduled for that
+[01:34] opportunity, as well as their due dates.
+[01:37] From here, we can mark the activity
+[01:39] done, edit it, or even cancel it
+[01:41] altogether here on the right.
+[01:44] And, of course, we have the ability to
+[01:46] schedule new activities directly from
+[01:48] this window here, as well.
+[01:51] Now, what if I want to see more details
+[01:52] about my activities? In that case, I can
+[01:55] open up my activities dashboard by
+[01:57] clicking this clock icon here on the top
+[01:59] right of our screen.
+[02:01] This menu acts as my running to-do list,
+[02:03] and the number next to the clock
+[02:04] indicates how many activities are due
+[02:06] today or past due.
+[02:08] And for a deeper look, we can scroll
+[02:10] down on this menu and click this view
+[02:12] all activities button. That'll take us
+[02:14] directly to our my activities dashboard.
+[02:17] And by default, this is shown in a list
+[02:19] view where I can see all my assigned
+[02:21] activities as well as their due dates.
+[02:23] I even have the ability to sort these by
+[02:25] clicking the top of a column, for
+[02:27] example, this due date column, and Odoo
+[02:30] will automatically rearrange the
+[02:32] activities.
+[02:34] And in true to-do list fashion, I can
+[02:36] also schedule tasks directly on this
+[02:38] dashboard. All I would need to do is
+[02:40] click this new button on our top left
+[02:42] corner.
+[02:43] And if I prefer a more visual layout, I
+[02:46] can also switch to our Kanban view.
+[02:49] In addition to that, to narrow things
+[02:51] down, I can also click down on the down
+[02:53] arrow on our search bar, and this will
+[02:56] give us the ability to group or filter
+[02:58] our activities.
+[03:00] Currently in our filter section, we have
+[03:02] overdue and today as the active filters,
+[03:05] so we're only seeing activities that are
+[03:07] either due today or already due.
+[03:09] And uh-oh, if we look down here, it
+[03:12] looks like we're behind on sending an
+[03:13] email. No problem, we'll take care of
+[03:16] that right now, and we'll just click
+[03:17] directly into this five VP chairs card.
+[03:21] And if we scroll down to our chatter
+[03:22] section, it looks like we're behind on
+[03:24] sending an email. More specifically, we
+[03:26] need to send an updated product catalog.
+[03:29] And yep, I was supposed to send this two
+[03:30] days ago.
+[03:32] So, to fix that, I'm just going to click
+[03:33] this send message button at the top of
+[03:35] our chatter,
+[03:36] and I'll paste my message in, and when I
+[03:39] click send, this will send directly to
+[03:41] Azure Interior.
+[03:45] Awesome, that was easy. Next, all I have
+[03:47] to do is click this mark done button
+[03:50] beneath the activity,
+[03:51] and Odoo gives us the option to leave
+[03:54] feedback, or we can simply click done
+[03:56] and schedule next, or even just done.
+[03:58] I'll pick done and schedule next,
+[04:01] and this is so we could plan our next
+[04:02] step right away. And since I created
+[04:04] this activity, it is automatically
+[04:06] assigned to me.
+[04:08] But of course, I can reassign it if
+[04:10] needed.
+[04:12] So, for the next activity type, I'm
+[04:14] going to choose a call.
+[04:17] And it's also worth noting that Odoo
+[04:18] allows you to create custom activity
+[04:21] types. We'll see that later in the
+[04:22] video.
+[04:24] Moving on, here in the summary field,
+[04:26] I'm just going to quickly paste in my
+[04:28] note, which will be discussed your
+[04:30] options with client. Then I'm going to
+[04:32] set the due date to tomorrow, or 1 day
+[04:35] from now.
+[04:36] I could also add a note or schedule the
+[04:38] call directly on my calendar, but for
+[04:40] now, we're just going to click save.
+[04:44] And right away, you'll see the activity
+[04:46] appear here in our chatter. And if I
+[04:48] ever need to make any changes, I can
+[04:50] always use this pencil or edit button to
+[04:52] edit this activity, or even cancel it
+[04:55] altogether.
+[04:57] And if I want to schedule another
+[04:58] activity, all I have to do is click this
+[05:00] activity button once again at the top of
+[05:02] our chatter, and start again.
+[05:05] All right, before we wrap things up,
+[05:06] let's quickly go over how to create a
+[05:08] custom activity type here in Odoo.
+[05:10] While Odoo comes packed with tools to
+[05:12] run your business, not every company
+[05:13] works the same way, so you might want to
+[05:15] create a few activity types that fit
+[05:16] your own workflow. So, we're going to
+[05:18] start by jumping into the settings
+[05:20] application, and we're just going to
+[05:21] scroll down to our discuss section.
+[05:25] Here, we're going to find our activities
+[05:26] option, as well as a button for our
+[05:29] activity types, and we're just going to
+[05:30] click on that.
+[05:32] When we do, it'll take us to a page
+[05:34] where we can view and manage all of our
+[05:35] existing activity types, and to create a
+[05:38] new one, we're just going to click new
+[05:39] in the top left corner.
+[05:41] So, here at Stealthy Wood, our sales
+[05:43] team likes to perform what we call a
+[05:44] discovery call. It's usually the first
+[05:47] conversation we have with a new
+[05:48] customer, and that's so we can fully
+[05:50] understand their needs and know how we
+[05:51] can help.
+[05:52] So, we're going to name this activity
+[05:54] discovery call.
+[05:56] Next, here in the activity sections,
+[05:58] we're going to open up our action
+[05:59] drop-down menu,
+[06:01] and we're going to select phone call as
+[06:03] the type.
+[06:06] So, the dashboard visibility is
+[06:08] currently set to all activities, which
+[06:09] means only the assigned user can see it.
+[06:12] Since we value transparency here at
+[06:14] StealthWood, we're going to change this
+[06:16] to all activities.
+[06:18] And that's so everybody in the database
+[06:19] can view it, no matter who's assigned to
+[06:21] it.
+[06:22] And if we wanted this activity to be
+[06:24] assigned to a specific person, we can
+[06:26] update the default user section here.
+[06:29] But, we're just going to leave it blank
+[06:31] so that the default user field will be
+[06:33] assigned to whoever created this
+[06:35] activity.
+[06:36] The model field below defines which
+[06:38] records the activity type can be used
+[06:40] with. Because this one's for our sales
+[06:42] team, in the drop-down menu, we're just
+[06:44] going to select
+[06:46] sales team.
+[06:48] We can also set a default summary right
+[06:51] here, and we'll just put this as first
+[06:54] outreach call.
+[06:59] And we can also choose which icon we
+[07:01] want to go with this activity, so I'm
+[07:03] just going to put FA phone.
+[07:07] There's also a decoration type option
+[07:09] down below, which adds background color
+[07:11] to this activity, but that's optional,
+[07:14] so we're just going to leave this blank
+[07:15] for now.
+[07:16] Next, we can also set a default
+[07:18] schedule, and since this is the first
+[07:20] step of our sales process, we're going
+[07:21] to keep this at zero days, meaning it
+[07:23] should be done immediately.
+[07:26] And then down below, we have a default
+[07:28] note field, and we're just going to type
+[07:30] in log all disco call notes.
+[07:37] Finally, we can configure what happens
+[07:39] next using the chaining type. Currently,
+[07:41] this is set to suggest next activity,
+[07:44] but we're going to update this to
+[07:45] trigger next activity.
+[07:47] Below that in the trigger field, we're
+[07:49] going to select email, so our discovery
+[07:51] call will trigger a new email activity
+[07:54] once it's completed.
+[07:56] We also have a section where we can
+[07:58] attach an email template, and we're
+[07:59] going to attach our introduction email
+[08:02] template.
+[08:03] So, once the discovery call is marked as
+[08:05] done, Odoo automatically creates this
+[08:08] email activity.
+[08:09] Now, if we click back on our activity
+[08:11] type breadcrumb, we can see our new
+[08:13] discovery call activity has been added
+[08:16] to the list, ready for our sales team to
+[08:18] use.
+[08:19] And there you have it. We just saw how
+[08:22] easy it is to complete an activity and
+[08:23] schedule a new one straight from the
+[08:25] chatter, all in just a few clicks.
+[08:27] Remember, even though we used the CRM
+[08:29] app today, you can do this from any
+[08:31] record in Odoo that has a chatter.
+[08:34] Odoo's activities feature keeps all your
+[08:36] tasks organized, shows exactly what's
+[08:39] due, and helps you stay focused without
+[08:41] the mental clutter.
+[08:42] Check out our other Odoo tutorials to
+[08:44] explore more tools that can boost your
+[08:46] workflow and productivity. Thanks for
+[08:48] watching, and I'll see you in the next
+[08:50] video.

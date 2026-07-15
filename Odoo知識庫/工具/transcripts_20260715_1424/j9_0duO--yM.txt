@@ -1,0 +1,231 @@
+影片 ID: j9_0duO--yM
+來源: https://www.youtube.com/watch?v=j9_0duO--yM
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:05] What's going on o doers and welcome
+[00:07] back. So let's talk about staying
+[00:09] connected because no matter how big or
+[00:11] small your team is, clear communication
+[00:12] is key. In ODO, that's where ODO discuss
+[00:16] comes in. It's a built-in messaging hub
+[00:19] designed to make collaboration seamless
+[00:20] without needing any extra tools. You can
+[00:23] chat one-on-one, hop on a quick voice or
+[00:25] video call, or use channels to keep the
+[00:27] entire team in the loop. Think of
+[00:29] channels like a group chat, but much
+[00:31] smarter. You can set up a public channel
+[00:33] for your entire company to follow for
+[00:35] company announcements or all hands
+[00:37] messages. Or we can even create a
+[00:39] private channel just for a sales team,
+[00:41] maybe the project crew, or even a
+[00:43] temporary task force. And it's not just
+[00:45] about blasting messages. Voodoo Discuss
+[00:48] lets you control visibility, tag people
+[00:50] directly, pin important information, and
+[00:52] keep threaded conversations organized so
+[00:54] you're not digging through a pile of
+[00:55] notifications to find what matters. So,
+[00:58] let's jump into our database now and
+[00:59] I'll walk you through how to set up a
+[01:01] new channel, customize its privacy
+[01:03] settings, and start using it to
+[01:04] streamline your internal coms. Whether
+[01:06] you're planning a product launch,
+[01:08] syncing across department, or just
+[01:10] sharing lunch ideas, ODO discuss keeps
+[01:12] everybody connected. All right, so I'm
+[01:15] here on our main ODO dashboard and no
+[01:18] matter where I am in ODO, whether I'm
+[01:19] deep in the inventory app or just
+[01:21] checking reports, can always access my
+[01:23] messages by clicking on the speech
+[01:25] bubble here in the top right corner.
+[01:30] From here, I can view all the
+[01:31] conversations at a quick glance. But if
+[01:34] I just want to see updates from channels
+[01:36] I follow without any distractions from
+[01:38] direct messages, I can click on this
+[01:40] channels tab right here.
+[01:43] That filters everything down to just
+[01:44] group communications. We also have more
+[01:47] info on direct messaging in a separate
+[01:49] video. So, we're going to shift our
+[01:51] focus back to channels. To manage or
+[01:54] create new ones, we're going to head
+[01:55] into the discuss app.
+[01:58] And inside the discuss module, you'll
+[02:00] find your channels listed here on the
+[02:02] left sidebar. And you'll see I'm already
+[02:05] a part of the general chat as well as
+[02:07] sales and admin.
+[02:09] Whenever a channel name is bold, just
+[02:11] like this one here, that means we have
+[02:14] unread messages waiting for us. So when
+[02:16] we click into general, we can see we had
+[02:18] this unread message from Mark Demo. And
+[02:21] since this is a public channel, that
+[02:23] means everybody in the company can see
+[02:25] and join it. It's great for things like
+[02:27] general announcements, office policies,
+[02:29] or just, you know, water cooler chatter.
+[02:32] And by default, this sidebar shows the
+[02:35] channels I've already joined. But if I
+[02:37] wanted to browse all the channels in the
+[02:39] database, I can simply click this gear
+[02:41] icon here next to channels.
+[02:44] And that brings me to a full list of the
+[02:46] public channels. And hey, while I'm
+[02:48] here, I want to stay in the loop for our
+[02:50] executive meetings. So, let's go ahead
+[02:52] and join the board meetings channel.
+[02:57] All I need to do is click that join
+[02:59] button on that channel's card. And just
+[03:01] like that, I'm in. Now, let's say I'm
+[03:03] part of a channel that's no longer
+[03:05] relevant to my day-to-day work. Leaving
+[03:07] it is just as easy. All I'd have to do
+[03:09] is click the leave button on the channel
+[03:11] card and I'm out. So, for example, let's
+[03:13] go ahead and do that for our sales
+[03:15] channel right here because our team is
+[03:18] moving towards more focused topic
+[03:19] specific discussions.
+[03:21] And while we're at it, since we're
+[03:23] reorganizing things, let's spin it up a
+[03:25] bit and create a brand new channel. So,
+[03:27] there are a couple ways we could do
+[03:28] that. One way is clicking the new button
+[03:30] right here on the left, which would open
+[03:33] up a new form for us to create a new
+[03:35] channel. Or I can use the breadcrumbs to
+[03:38] get back to the discuss dashboard.
+[03:41] Here we are back on the main screen, and
+[03:43] you might have noticed this plus sign
+[03:45] next to channels. This is another
+[03:48] shortcut for creating or searching for
+[03:50] channels. So, let's go ahead and click
+[03:52] on it. And when I start typing, a box
+[03:54] will start to pop up. And this is ODO
+[03:57] trying to match my text with any
+[03:58] existing channels. So, if I type in
+[04:01] sales, it shows up here in the drop-own
+[04:05] menu. But let's back that up
+[04:08] and I'll show you how to create a brand
+[04:10] new channel from scratch. All I have to
+[04:13] do is type the new name for the channel
+[04:15] I'd like and then click create. So, I'll
+[04:17] type in secret sales
+[04:21] project
+[04:22] and then click create.
+[04:26] So, once I type that in, it appears on
+[04:29] the channels right here. And let's give
+[04:31] it a quick description so anybody who
+[04:33] joins it knows what it's about. So, I'll
+[04:36] just put new website strategy.
+[04:43] Then I'll click enter. And just like
+[04:44] that, our new workspace is ready to go.
+[04:47] And up here in the right corner, we have
+[04:49] a little group of avatars. And this icon
+[04:53] represents our members button. When I
+[04:55] click on it, I can see that I'm the only
+[04:58] one in this channel since I just created
+[05:00] it. But to add new people, all I have to
+[05:03] do is click this invite user button. And
+[05:06] I can simply just search my teammates
+[05:08] and add them manually. And sure, I could
+[05:10] try to remember every single person on
+[05:12] the sales team and invite them, but
+[05:14] let's be real, that's a lot of clicking.
+[05:17] A quicker way to do this would just be
+[05:19] clicking this link down below and
+[05:22] copying it. And then we could drop that
+[05:24] sharable link into a small group email
+[05:27] or internal post. That way, your team
+[05:29] can join with just one click. No one
+[05:32] needs to type out all the names. But
+[05:34] wait, there's an even easier way to make
+[05:36] sure no one gets left out. Let's head to
+[05:39] the channel settings. And to do that,
+[05:42] we'll just hover over our channel name
+[05:44] and then click this gear icon directly
+[05:46] next to it. And we're in. Now that we're
+[05:50] in the settings, let's scroll down and
+[05:51] take a look at our privacy tab. This is
+[05:54] the area where we can control who is
+[05:56] allowed to join or even see the channel.
+[05:58] And here in the authorized group
+[06:00] section, this is set to internal users,
+[06:03] which means that anybody in the company
+[06:04] can follow along and participate. And if
+[06:07] we want to make this more of a
+[06:08] restricted space, let's say we want to
+[06:10] turn this to a creative related channel,
+[06:13] we can switch the authorized group to
+[06:15] something like let's say creative design
+[06:18] team. And now only users who are part of
+[06:21] that rule will be able to access this
+[06:23] channel. Everyone else, they won't even
+[06:26] be able to see it. Now on the flip side,
+[06:29] if I want external users like clients,
+[06:31] contractors, or vendors to join, I can
+[06:34] even leave this completely blank.
+[06:37] And that opens up the channel to anyone
+[06:39] who has the invitation link just that we
+[06:41] saw earlier. So whether it's a
+[06:44] confidential internal group or an open
+[06:46] collaboration space, ODO gives you the
+[06:48] flexible controls to manage visibility
+[06:50] with just a few clicks. All right, for
+[06:52] now I'm going to set the authorized
+[06:54] group back to the regular internal
+[06:56] users.
+[07:00] And this way, any employee in my
+[07:02] company, regardless of their access
+[07:03] level, can view and join this channel. I
+[07:06] also want to make sure that the right
+[07:07] people are automatically added to this
+[07:09] channel. And to do that, I'll just find
+[07:11] the autosubscribe groups field. And we
+[07:14] can add the sales/administrator
+[07:18] group. That means anyone in my database
+[07:21] who has an employee record linked to the
+[07:23] sales/administrator group will now be
+[07:25] auto added to this channel. No need to
+[07:28] invite them manually. Super easy. Okay,
+[07:31] now I'm happy with the settings. So, I'm
+[07:33] just going to click this automatic save
+[07:35] cloud icon right here.
+[07:38] And that saves all the changes that we
+[07:39] just made. And if we take a look at the
+[07:42] members tab now, look at that. I can see
+[07:45] all of my sales admin team members are
+[07:48] now a part of this channel. Quick update
+[07:50] though, Mark is actually transferring
+[07:52] out of the sales department tomorrow and
+[07:54] moving to the support team. So, I'll go
+[07:56] ahead and remove him now by clicking the
+[07:58] trash icon directly next to his name.
+[08:02] And done. Now, I can use the breadcrumbs
+[08:05] to get back to the main discuss
+[08:06] dashboard.
+[08:08] And just like that, I'm ready to start
+[08:09] sharing updates, ideas, and info with my
+[08:12] team in our brand new secret sales
+[08:14] project channel. All set up in just a
+[08:17] few clicks thanks to ODU Discuss. And
+[08:19] there you have it. Channels in ODO
+[08:21] Discuss are a fast, flexible way to keep
+[08:23] your team connected. Whether you're
+[08:25] sharing companywide updates or starting
+[08:27] a new focus project thread, UDO gives
+[08:29] you full control over who's in the loop.
+[08:32] Don't forget to check out our other
+[08:33] videos to learn more about direct
+[08:34] messaging, voice and video calls, and
+[08:37] just how to keep communication seamless
+[08:39] across your company. That's it for now.
+[08:41] Thanks for watching, and I'll catch you
+[08:43] in the next video, doers.

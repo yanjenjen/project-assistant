@@ -1,0 +1,257 @@
+影片 ID: NoxYrnnHgfk
+來源: https://www.youtube.com/watch?v=NoxYrnnHgfk
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:05] Hey thereers, Joseign Ignasio here with
+[00:07] another tutorial. Now that you've
+[00:08] started working with ODU, let's take a
+[00:10] moment to explore the interface
+[00:11] together. It might seem daunting at
+[00:14] first, but don't worry, the layout stays
+[00:15] consistent across all apps, so you're
+[00:17] going to get the hang of it in no time.
+[00:19] By the end of this demo, I promise you,
+[00:20] you're going to be navigating ODO like
+[00:22] me or perhaps a pro. So, let's dive into
+[00:25] the database and take a closer look at
+[00:27] some of these features, shall we? So,
+[00:29] here I am on the main not dashboard.
+[00:31] This is where you're going to see all of
+[00:32] the applications and modules that you've
+[00:34] installed. In this top right corner that
+[00:36] we have up here at the top, I see a few
+[00:38] other icons. If I click on this red dot
+[00:41] that we have over here, you'll notice
+[00:42] that it's a check-in/checkout switch
+[00:44] integrated with the attendance app. To
+[00:47] the right of that, we have this nice
+[00:48] little handy telephone indicating that
+[00:51] voice over IP or VOIPE for my acronym
+[00:54] lovers has been installed. I can make
+[00:56] phone calls from here. Remember that you
+[00:58] require a provider supporting ODU for
+[01:01] this usage. So following this, we're
+[01:04] gonna get rid of you real quick. We have
+[01:06] our nice little ODU AI button, which
+[01:09] allows us to leverage AI in our
+[01:11] workflows. In order to use AI, you are
+[01:13] going to need an API key. The next icon
+[01:16] that I overzealously and overeagerly
+[01:18] clicked was our chat bubble. And this
+[01:21] links us to all of our conversations in
+[01:22] the discuss module. And if we click on
+[01:25] this little clock over here, it links us
+[01:27] to all of our activities along with each
+[01:30] app that we happen to have one in. Now,
+[01:32] next to that, I have a nice little tool
+[01:35] set. So, clicking this actually takes us
+[01:37] to a different sort of similar screen.
+[01:40] So, in this view, it means that I have
+[01:41] ODU Studio installed. And I can click on
+[01:45] this icon inside of any application to
+[01:47] edit the look of the app and even add in
+[01:49] new fields if necessary. And that's
+[01:50] pretty cool. So, let's close that out.
+[01:53] Up next, after that, I happen to have
+[01:55] our multicmp toggle. And this will only
+[01:58] be present if you have the multi-comp
+[02:00] setting enabled in your database. So,
+[02:03] let's see what happens when I click
+[02:05] something like our Belgium HQ. Boom. I
+[02:09] get taken over to my other database. But
+[02:13] let's go back over here to our SF
+[02:15] America one. All right. Perfect. You can
+[02:18] also see that I happen to have my
+[02:19] Chicago branch and some other stuff
+[02:21] present. So the last icon that we have
+[02:24] is actually me. It's the user profile
+[02:26] icon. When we click on that, we have a
+[02:28] bunch of options. And we see that we
+[02:30] have the very first one that I want to
+[02:32] talk about, shortcuts. So clicking this
+[02:34] actually takes us to our shortcut menu.
+[02:37] And here I can start typing in certain
+[02:39] things. So this popup can also be
+[02:42] accessed by entering. In my case, it's
+[02:44] going to be control K. Oh no, wait. I'm
+[02:47] on a Mac. It's Apple K. Okay. Okay. And
+[02:50] then we type in our forward slash along
+[02:52] with an app name like sales.
+[02:55] And then it takes us directly there.
+[02:58] Boom.
+[02:59] So if we want to reach something like
+[03:01] product variance faster, all I actually
+[03:03] have to start typing in is product. And
+[03:07] look at that. Product variance right
+[03:09] there at the very bottom. Super
+[03:11] intuitive. So that makes navigating ODO
+[03:13] pretty easy once that you know that. And
+[03:15] you can actually just get there once you
+[03:16] just start typing in random gibberish.
+[03:19] Okay, so back over here, I want to open
+[03:22] up that profile icon once again because
+[03:23] there's something else I want to talk
+[03:25] about. So when you actually click on
+[03:27] your my databases link, it takes you to
+[03:30] the databases that you have and all of
+[03:32] your ODU ones that were created with
+[03:34] your email. Lastly, you'll see the final
+[03:36] option, which is to log out. I don't
+[03:38] want to do that right now. I want to
+[03:39] stay logged in. Let's talk about my
+[03:41] preferences. Okay, inside of this popup,
+[03:44] you can change things such as whether or
+[03:46] not you want to use ODU dark mode. And
+[03:48] I'm going to show that real quick
+[03:49] because it looks pretty cool.
+[03:51] Or other options such as how you want
+[03:53] your notifications, the language, and
+[03:56] actually the language field is important
+[03:58] because inside of here, I can see that
+[04:00] it's set to English. However, as you can
+[04:02] imagine, ODU offers the option to load
+[04:03] many different languages. Perhaps you
+[04:05] have some users from Belgium who speak
+[04:08] French. Well, that's not really an
+[04:11] option. But how do I install a new
+[04:13] language? Well, actually, we click on
+[04:14] this nice little globe icon over here.
+[04:18] Okay. So, which language did we want?
+[04:20] Once again, we want French for those
+[04:22] guys over there in Belgium with the be.
+[04:25] Perfect.
+[04:27] All right. So, once that we did that and
+[04:29] we typed it in, we'll notice that if we
+[04:31] have an OD website installed, OD will
+[04:33] also ask us if we want to translate that
+[04:36] website. We don't need to select any
+[04:37] sites right now. So, once we're done, we
+[04:39] just hit add. Perfect.
+[04:43] Okay. Okay. Now, at this point, it'll
+[04:44] just swap over, add in this new
+[04:46] language. Oh, actually, I forgot. It
+[04:50] doesn't swap over. It's going to present
+[04:53] me with the option to switch to French
+[04:54] right away, or I can simply keep English
+[04:56] as my language, which I'm going to do so
+[04:59] by hitting close right there.
+[05:02] So, by default, however, you will only
+[05:04] be able to see the preferences and
+[05:06] account security tabs if you do not
+[05:08] happen to have administrative
+[05:10] privileges. the other apps and modules
+[05:13] and the options appear if you have
+[05:16] things like employees and so on
+[05:17] installed. So, be sure to check out our
+[05:19] HR tutorials for more information on
+[05:21] that topic. But let's also briefly take
+[05:23] a look at the account security settings
+[05:25] because they're pretty important. Inside
+[05:28] of here, we can change our password or
+[05:31] toggle two factor on and off. Both of
+[05:34] those are pretty important. Below that,
+[05:35] we have a couple of other options like
+[05:38] log out from all devices in case you
+[05:39] have a couple of those. And I'm going to
+[05:41] blur this out because I see my IP
+[05:43] address right now. So, here we are on
+[05:46] our main dashboard. Let's actually open
+[05:48] up the CRM application. Okay. So, in
+[05:50] every application, there's a little app
+[05:52] icon in the top left corner. And when
+[05:54] you press it, takes you right back to
+[05:56] the main dashboard. And in the very same
+[05:58] place on the screen, you actually have
+[06:00] the ability to go back to your previous
+[06:03] view. Look at that. We're right back
+[06:05] where we were. So, inside of here, I'd
+[06:08] like to address the elephant in the
+[06:09] room. What is this little icon over
+[06:11] here? And what is going on? Well, this
+[06:12] one happens to be our nice little guided
+[06:14] tour, but it could also present itself
+[06:17] as a banner on whatever application your
+[06:19] first time setup happens on. And this
+[06:22] happens to be the required setup for the
+[06:25] very first time that you are working on
+[06:27] your database. These steps are covered
+[06:28] in the individual app tutorials and the
+[06:30] documentation. But for now, let's go out
+[06:33] of here and select sales. And we're
+[06:35] going to select new up at the top. Okay,
+[06:38] this is where I want to make another
+[06:39] quick note. Every document in ODU has an
+[06:42] autosave feature except settings. The
+[06:45] settings application, you still got to
+[06:47] hit that save button. And let's assume
+[06:49] you don't trust it. Well, we also have
+[06:52] this save manually button that appears
+[06:53] up at the top when you make changes to a
+[06:55] document, as well as the ability to
+[06:57] discard all changes in case you need to
+[06:59] overwrite it. I'm going to overwrite it.
+[07:01] So, I want to talk about a document that
+[07:03] already exists. If we open up something
+[07:05] like say this sales order over here,
+[07:08] there's these smart buttons up at the
+[07:10] top of the page. And what these are is
+[07:12] they're basically linked documents and
+[07:15] other applications. In this case, we
+[07:18] sold what appears to be plans. So, look
+[07:21] at that nice planning app.
+[07:24] Smart button that took us directly
+[07:25] there. Different types of documents have
+[07:28] different types of smart buttons
+[07:29] depending on other apps installed and
+[07:31] the records intended to be linked
+[07:32] together. for that example and actually
+[07:35] for others. Let's go back over to our
+[07:37] sales order via the breadcrumbs and
+[07:40] let's select our customer contact page.
+[07:42] We can actually access it by just
+[07:44] clicking their name over here. Wow,
+[07:46] there is way more spar buttons on this
+[07:48] page. I have many options available. So,
+[07:51] let's think something quick. I can
+[07:53] actually view their sales by clicking on
+[07:55] the sales smart button over there. And I
+[07:58] can review any related sales orders from
+[08:00] right here. Alternatively, I can use the
+[08:03] breadcrumbs at the top left, which I
+[08:05] keep mentioning, and that navigates me
+[08:08] back to my prior page right there.
+[08:11] And once that I'm over here on our
+[08:13] customer form, you'll see that the
+[08:15] breadcrumbs have kept a record of all
+[08:16] the steps that we've taken through the
+[08:18] app. For instance, I started over here
+[08:21] inside of the quotations page, made my
+[08:24] way through one of these sales orders,
+[08:26] and now we've landed over here to our
+[08:28] customer page. Isn't that pretty neat? I
+[08:31] can see every movement from the
+[08:33] breadcrumbs. So, be sure to keep that in
+[08:34] mind as you navigate through ODO.
+[08:36] They're super useful. So, right now,
+[08:38] let's go back to our sales order via the
+[08:41] breadcrumbs. And I'm going to say it
+[08:42] like this. I'm going to point out one
+[08:44] more thing before we part ways. On each
+[08:46] page, you're going to see this section
+[08:48] over to the right referred to as the
+[08:49] chatter. The chatter is a history of
+[08:50] actions and messages related to the
+[08:52] record. Be sure to check out our other
+[08:54] tutorial for more information on this
+[08:56] topic. It's done by my very handsome,
+[08:59] funny, great co-host, Nathan. So, give
+[09:01] him some views. Thank you. That
+[09:03] concludes our brief overview of how to
+[09:05] properly cruise through ODU. You're
+[09:07] doing great, and now you know the ins
+[09:09] and outs of navigating through ODU's
+[09:10] super awesome and intuitive interface.
+[09:12] That's all for this video. Thank you for
+[09:14] watching. Remember to check out our
+[09:16] other videos and go grab a snack.

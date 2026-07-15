@@ -1,0 +1,594 @@
+影片 ID: tSMOE0fhCNM
+來源: https://www.youtube.com/watch?v=tSMOE0fhCNM
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:04] Hello doers. My name is Jose Aign
+[00:06] Ignosio. Have you ever been to a show or
+[00:08] an event and wondered yourselves how the
+[00:11] heck do they get everything running
+[00:12] smoothly for the sheer number of people
+[00:14] there? No? Well, I wondered and that's
+[00:17] enough. So, today's video covers events
+[00:20] and how you can use them to gain leads.
+[00:22] Daring Design, a popular interior design
+[00:25] company in Los Angeles, routinely takes
+[00:27] advantage of the benefits of hosting
+[00:29] top-notch events. Their biggest annual
+[00:31] event, the Interior Design for Los
+[00:35] Angeles, or IDFla for my acronym lovers,
+[00:38] happens to attract partners and
+[00:40] attendees from all over the country. So,
+[00:42] we're actually going to cover their
+[00:44] workflow. So, we're going to first start
+[00:46] by creating and managing the event for
+[00:47] this demonstration. So, enough chitchat.
+[00:49] Let's hop right into it. So we are on
+[00:52] the main dashboard of the audio events
+[00:53] application and here we actually have
+[00:55] various events in different stages and
+[00:57] it's all in a nice default cambban view.
+[01:00] Under each event we can see the number
+[01:01] of expected attendees. We can even see
+[01:04] the location as well as who's assigned
+[01:06] to the event. We can also schedule an
+[01:08] activity by selecting our little icon in
+[01:10] the bottom left right there if
+[01:11] necessary. I'm actually going to open up
+[01:13] the Interior Design Fair Los Angeles
+[01:16] 2025. And yes, it is a mouthful. So,
+[01:20] this is the event for for any type of
+[01:22] event that you have. Up at the top, we
+[01:24] have a ton of smart buttons. And I'm
+[01:26] actually going to click on one of these
+[01:28] to show you something. We're going to
+[01:29] click the tracks. This is actually a
+[01:31] pretty nice one because Daring Design
+[01:33] knows quality speakers and topics are
+[01:34] what make an event great. So, they
+[01:37] encourage partners to submit talk
+[01:38] proposals. That way, they could share
+[01:40] their knowledge and expertise with
+[01:41] attendees. These are all the talk
+[01:43] proposals this event has so far, and
+[01:46] it's pretty stacked, if I do say so
+[01:48] myself.
+[01:49] But for now, we're not going to actually
+[01:51] deal with this. If you wanted to, you
+[01:53] can select new and you can make your own
+[01:55] proposal. We're going to use the
+[01:57] breadcrumbs to go back to our events.
+[01:59] And now, this time, we're actually going
+[02:01] to select our more smart button. And
+[02:02] we're going to click on
+[02:05] sponsors. This is the area where if you
+[02:08] needed to, you can actually add all your
+[02:10] sponsors for your event. This is where
+[02:12] you're going to find them, and you can
+[02:13] put vendors, etc. over here. Selecting
+[02:16] new at the top allows you to place them.
+[02:18] All right, let's go back. We're just
+[02:20] going through this right now so I could
+[02:21] show you everything that you can do
+[02:22] here. Once again, we're going to select
+[02:24] more and this time rooms. Oh no, it's
+[02:26] empty. Was that a no dupsy? No, it's an
+[02:30] Oh, Jose is going to show us something.
+[02:32] So, these rooms allow attendees to
+[02:34] gather and engage with one another just
+[02:36] so that they can share information about
+[02:38] a particular topic or ask some expert
+[02:40] questions during the event. So, as you
+[02:43] can see, right now we don't have any
+[02:44] rooms. So, let's quickly create one by
+[02:46] selecting new in the top left. All
+[02:47] right, got to pick a topic. We're going
+[02:50] to pick
+[02:51] essential 2025
+[02:54] trends. Really striking. The goal here
+[02:57] is to get people vibing in a space where
+[02:59] attendees feel inspired to share their
+[03:01] ideas and maybe even their predictions
+[03:03] about what's coming next in the design
+[03:04] world. So, for the summary that we have
+[03:07] right there, I'm going to keep it short.
+[03:09] I'm just going to
+[03:10] talk let's talk about
+[03:15] trends for
+[03:17] 2025. There we go. Now, since we want
+[03:20] this to be an intimate discussion, I'm
+[03:22] going to cap the room, which we can
+[03:24] actually put over here at 20 for our max
+[03:27] capacity. Now, let's see how this room
+[03:29] will appear to our attendees. So, I'm
+[03:32] actually going to hit the go to website
+[03:33] smart
+[03:35] button. And look at that. It's loading
+[03:37] our room. And just like that, I'm
+[03:40] actually going to allow this to work.
+[03:42] Right now, you could see me and you
+[03:45] could see everything inside of this
+[03:46] meeting. It's clean, professional, and
+[03:49] fancy, and easy to navigate. And that's
+[03:50] pretty cool, right? So, next, let's just
+[03:52] actually return to our
+[03:54] events. All right, enough breaking of
+[03:57] the fourth wall by yours truly. This
+[03:59] time I think we're going to head back
+[04:00] into our event and we're going to focus
+[04:02] on our communications tab over here
+[04:04] because this is where we can configure
+[04:06] automated communications tied to the
+[04:08] event. Let's set up an email that gets
+[04:10] sent out the moment somebody registers
+[04:12] just so that they can confirm their spot
+[04:13] and get them excited. We're going to
+[04:15] select add a line. And in this first
+[04:17] little area, we're going to keep it on
+[04:19] mail, but you can do SMS and social
+[04:21] post. I'm feeling a little bit lazy. So,
+[04:24] we're actually going to select the event
+[04:26] registration confirmation template. And
+[04:29] for our unit that we have over here,
+[04:31] we're not doing hours, days, weeks,
+[04:32] months. We're doing immediately. And the
+[04:35] trigger is going to be after each
+[04:37] registration. You can also do before the
+[04:39] event or after the event. We like to
+[04:42] give you options. And then just click
+[04:44] away. And like that, it's ready to go.
+[04:46] Now, let's move on to our questions tab
+[04:48] over here. These are actually the
+[04:50] questions your attendees will see during
+[04:52] their registration process. And here's a
+[04:54] quick Jose Ignasio tip. If once per
+[04:57] order is checked off, selected like you
+[05:00] see inside of one of these question will
+[05:03] only be asked once and the response will
+[05:04] apply to everyone included in the order.
+[05:07] Now, if it's not selected, the question
+[05:10] is asked individually for each attendee.
+[05:12] This gives you the flexibility to gather
+[05:14] specific information depending on your
+[05:16] event's needs. and close this out. All
+[05:19] right. Now, let's take things a step
+[05:22] further and make sure we're not missing
+[05:23] any opportunities. Events like this can
+[05:25] be a gold mine for lead generation.
+[05:27] After all, these attendees are already
+[05:29] showing interest in your brand, your
+[05:31] message, or your product. So, why not
+[05:33] automate that follow-up process? So, to
+[05:36] do that, I'm going to head over to
+[05:38] configuration up at the top and lead
+[05:41] generation. Oh, no, it's empty. Is that
+[05:44] on purpose? Yes, because guess what? But
+[05:46] we're going to set up a new rule by
+[05:47] selecting new at the top. We're going to
+[05:49] fill in these details. Leads dash design
+[05:53] fair because I keep saying the full long
+[05:55] name. Now we're going to select create
+[05:58] per attendee in this case. And for our
+[06:02] win when attendees are created. Now if
+[06:06] you also hover this little question
+[06:07] mark, it'll often tell you guess what
+[06:09] nice little tips about what each option
+[06:11] means. It's another Jose Ignasio tip. So
+[06:14] for this section that says for any of
+[06:15] these events, we're going to select a
+[06:17] template of conference because this was
+[06:19] a conference and the actual event is the
+[06:21] one that we wanted to. If you don't set
+[06:24] anything here, you don't have
+[06:25] parameters. And if you don't have
+[06:26] parameters, you're not using ODU
+[06:29] strengths. Now, we're also going to add
+[06:31] a condition over here. We're going to
+[06:32] select our first one,
+[06:35] email, and then we're going to select
+[06:38] email sets. We like them to have an
+[06:41] email. Okay. So, for our lead type that
+[06:44] we have over here, it's just going to be
+[06:45] lead. Our sales team is going to be
+[06:48] America. Just follow along as I'm doing
+[06:50] this, too. And for our tags, design
+[06:54] fair, and then created by event. It'll
+[06:58] make it kind of easy to keep track of
+[07:00] these. All right, we're going to save
+[07:02] this. And now we're cooking. All right,
+[07:05] the event is planned, polished, and
+[07:06] ready to go live. Now, it's time to
+[07:08] spread the word. Our primary outreach is
+[07:10] going to be, well, you guessed it,
+[07:12] social media is king. It's going to be
+[07:14] our main promotional powerhouse
+[07:16] supported by email and other online
+[07:18] channels. So, we're back over here
+[07:20] inside of Odin. We're going to open up
+[07:21] the social marketing application. Inside
+[07:24] of here, we see a lot of other things
+[07:26] like our campaigns, our posts, and
+[07:28] everything. And speaking of campaigns,
+[07:30] we're going to make a new one. So, let's
+[07:32] click campaigns up at the top and select
+[07:34] new in the top left corner. Okay. Okay.
+[07:36] So, we got to start things off with a
+[07:38] name. I'm going to select
+[07:41] IDL
+[07:43] IDF Los Angeles 2025. We're going to
+[07:47] change up the naming of it. This time
+[07:49] around, I'm going to keep the default
+[07:51] responsible user and we're going to add
+[07:52] tags like annual and events. And with
+[07:57] that, we are done. O doers, now that
+[08:00] it's created, we're going to click into
+[08:02] it over here because time to spice it
+[08:04] up. Here we can manage all the content
+[08:06] for this event. Social posts, emails,
+[08:08] SMS, push notifications. Honestly, the
+[08:10] list goes on. By grouping everything
+[08:12] into a single campaign, we keep
+[08:14] everything organized and we could track
+[08:16] performance metrics all in one place.
+[08:18] So, next, we want to guide potential
+[08:19] attendees to the right place. So, I'm
+[08:21] going to add a direct link to the event
+[08:22] registration page and all of our calls
+[08:24] to action. To grab that link, I could
+[08:26] use the website app, but instead I'm
+[08:29] going to jump back into events, select
+[08:32] our IDFLA, and then the green go to
+[08:35] website
+[08:37] button. Would you look at that? Now,
+[08:40] from right here, while we're on the
+[08:42] event page, I'm going to click register
+[08:44] right there. And oh, would you look at
+[08:46] that? One of the nice things actually is
+[08:49] we could register from any of the pages
+[08:50] while we're browsing over here. So, how
+[08:53] do we actually take people to the main
+[08:54] thing? It's a nice popup for
+[08:56] registration now. So, let's stick to our
+[08:59] introduction area over here since people
+[09:01] can actually register from any of the
+[09:03] pages thanks to those popups. So, now
+[09:06] let's get back over to our main
+[09:07] database. Select social marketing
+[09:10] campaigns. You're following along very
+[09:13] well. And we're going to go back in
+[09:14] here. Okay. Now, we have our link. This
+[09:16] time around, we're going to select add
+[09:18] post. And perfect. So, inside of here,
+[09:21] we're going to post this across Facebook
+[09:23] X, formerly known as Twitter, LinkedIn,
+[09:27] and Instagram. Since YouTube is going to
+[09:30] require a couple of other things, I'm
+[09:33] going to leave that deselected for now.
+[09:36] I'm going to paste our event
+[09:37] registration link into our message field
+[09:40] right
+[09:42] there. And there we go. Oh, it's
+[09:44] actually showing it right there. And now
+[09:46] I need to upload our image file. We're
+[09:48] going to select that real quick. It's
+[09:51] going to be pretty nice. Trust
+[09:53] me. It's a little bit cut off, but this
+[09:56] looks great. What's great here is
+[09:57] actually that ODO lets us publish to all
+[10:00] of those selected platforms at once. We
+[10:02] don't actually have to jump around
+[10:03] between tabs or apps. But right now, I'm
+[10:06] actually going to leave this as a draft
+[10:08] because we're going to hold off from
+[10:09] posting for now. like to fine-tune the
+[10:11] message with a strong call to action and
+[10:14] maybe a dragable UTM link to monitor all
+[10:16] of these things more closely. So, for
+[10:18] now, we're going to preview what our
+[10:20] audience will see. I'm going to click on
+[10:22] one of these nice little preview posts.
+[10:25] And so, we followed that social post and
+[10:28] here we are on the website. I have this
+[10:30] nice countdown up at the top, all the
+[10:32] information I need. And if I'd like to,
+[10:35] once again, it looks like I can check
+[10:36] everything out and hit register. And now
+[10:39] here I am on this popup. All right. I'm
+[10:42] going to select our standard ticket, one
+[10:44] of them. I have money, so I don't need
+[10:47] the free one. All right. And now we're
+[10:49] going to register. I'm going to fill
+[10:51] this out. I'm going to change some of
+[10:53] the stuff.
+[10:55] Jackson, it's a nice name right there.
+[10:58] And would you look at that? Actually, we
+[11:01] have our questions right here.
+[11:05] No. Fun stuff.
+[11:08] learned about it from your website. All
+[11:09] right, we're all set. Now, we can just
+[11:11] go to payment right there. And once that
+[11:14] we're all set, you know, we've typed
+[11:16] everything in, we just confirm this all
+[11:18] through and we select pay now. And just
+[11:21] like that, outdoorers, we're all ready
+[11:24] to go. I'm registered for my event and I
+[11:26] get this nice
+[11:28] registration confirmation page. H, and
+[11:32] everything is fully trackable. Let's not
+[11:34] forget that ODU integrates with a wide
+[11:36] range of payment providers as well.
+[11:38] Whether it's Stripe, Authorized.net, or
+[11:40] traditional bank acquirers. The system
+[11:43] is built for flexibility. We've got our
+[11:46] confirmation right here, and it is be a
+[11:49] beautiful. With all of that out of the
+[11:51] way, I'm actually going to head back on
+[11:52] over to our events application and
+[11:54] select the design fair. And this time,
+[11:57] we're going to click on our attendees.
+[11:59] But I want to make a quick note. If we
+[12:01] are to assume that you have an attendee
+[12:03] and they've done a registration
+[12:05] confirmation, this number over here for
+[12:07] our attendees is going to go up. And
+[12:09] would you look at that? It just so
+[12:11] happens to be that Jackson has actually
+[12:13] fulfilled that. And here they are. But
+[12:16] how do we confirm attendance? Well, if
+[12:18] we go into any of these, we just hit
+[12:20] attended right there and move on. We can
+[12:22] also just click on the actual stage over
+[12:24] there. Just to speed this up, I'm going
+[12:27] to confirm every single person here. And
+[12:30] this will all make more sense in a
+[12:31] second when we use our breadcrumbs to go
+[12:33] back over here. Now, another quick note
+[12:36] is the visibility thing once again. Now,
+[12:39] do recall this is a very important
+[12:41] field. If you have this set up right now
+[12:43] to the public, well, this event is going
+[12:45] to be visible to everyone. If you need
+[12:46] them to be logged in, that's how they
+[12:49] find it. Or maybe they just find it via
+[12:51] link. Once again, make sure you have the
+[12:54] right settings for that option. I always
+[12:56] like to make that type of warning. So,
+[12:59] would you look at that? Hold the phone.
+[13:02] We have five leads now. And would you
+[13:05] look at that over here up at the top,
+[13:08] this is why I was confirming them
+[13:10] earlier. Our lead has already been
+[13:11] created. And inside the lead, we see our
+[13:15] questionnaire, our responses are right
+[13:18] there. The tags, everything has been
+[13:21] assigned properly by our lead genen rule
+[13:23] as well. No extra work was needed. From
+[13:26] here, I can easily convert this lead
+[13:27] into an opportunity with one click by
+[13:30] selecting convert to opportunity over
+[13:33] here. And then if I would like to merge
+[13:37] them and from here on, if I wanted to, I
+[13:39] could also send a quotation right from
+[13:41] this page using the new quotation
+[13:44] button. And of course, this process can
+[13:46] be repeated for any other leads
+[13:47] generated from the event. Now, I'm going
+[13:50] to show you another way to access these
+[13:52] leads. So, I think it's time for us to
+[13:54] head on over to the CRM
+[13:56] application. So, over in the CRM
+[13:59] application over here, we're very
+[14:01] present. We can actually just jump
+[14:03] directly into the leads
+[14:04] menu and we can narrow it down with a
+[14:07] quick custom filter to only show leads
+[14:09] from our design fair. So, first up at
+[14:11] the very top, if you have anything
+[14:13] inside of the search bar, get rid of it.
+[14:14] We're going to select our nice little
+[14:16] arrow down and add a custom filter. So
+[14:19] for this one in our first field, I'm
+[14:21] going to select tags. And then for the
+[14:24] second box, I want you to do contains
+[14:27] from the list. And what are we going to
+[14:30] pick here? Design fair. And then hit
+[14:36] add. Look at that
+[14:38] odoers. Here is our filtered list. Clean
+[14:41] and
+[14:42] easy. Now once the event wraps up,
+[14:45] Daring Design takes the next step.
+[14:46] Collecting feedback. They use ODU survey
+[14:49] and email marketing applications to hear
+[14:51] from the attendees, qualify their leads,
+[14:53] and honestly fine-tune their next event
+[14:55] strategy. I think it's time for us to
+[14:58] build that feedback loop together. So,
+[15:00] from the surveys dashboard, which is the
+[15:03] next application we're heading into, I'm
+[15:05] going to click new in the top left. And
+[15:07] this time, we got to create our
+[15:08] postevent survey. We're going to call
+[15:10] this one
+[15:11] interior design. I'm shortening this at
+[15:15] this point. We have said it too much.
+[15:18] satisfaction survey. Jesus. All right,
+[15:20] there we go. We're going to add a few
+[15:22] questions, which I'm going to copy and
+[15:24] paste because again, all of these are
+[15:26] getting pretty pretty long. We're going
+[15:28] to keep it simple. Our question is, are
+[15:30] you likely to participate in one of our
+[15:32] events in the future? Our options for
+[15:34] this one, I think we're going to select
+[15:37] only one answer, multiple choice, and
+[15:39] we're going to add a line. We're going
+[15:40] to do
+[15:42] yes, we're going to do
+[15:44] no. Pretty simple right there. Save and
+[15:47] new. Okay, now for our second
+[15:51] question. We're keeping these pretty
+[15:53] simple, honestly. How likely are you to
+[15:56] tell your friend about this
+[15:59] event?
+[16:01] Likely. And now
+[16:04] unlikely. Save and new. Once again, it's
+[16:07] just good to do this. But then for this
+[16:10] last one, I think it's time for us to
+[16:12] change it up. I want to really hear
+[16:14] them. I want to see poetry. So, we're
+[16:15] going to select what did you like most
+[16:17] about the event. And for this one, we're
+[16:19] going to select multiple lines text box.
+[16:23] We want the big answer. And we're going
+[16:24] to give them guidelines. I'm going to
+[16:25] tell them, please share
+[16:29] your raw
+[16:31] thoughts. All right. Save and close.
+[16:34] There we go. Everything is perfect. Now,
+[16:36] if we'd like to, we can select share.
+[16:40] And would you look at that? We have a
+[16:42] nice little copy survey link that we can
+[16:44] use right there. And that makes it easy
+[16:47] for our follow-up emails via the email
+[16:50] marketing app. So, I'm going to copy
+[16:52] this link right here. And we're going to
+[16:54] hit close. And just like that, we're
+[16:57] going to head straight into email
+[16:58] marketing over here. All right. I'm
+[17:01] going to click new. Time for us to
+[17:03] create a new one. So, this app uses the
+[17:06] same drag and drop builder as the
+[17:08] website app, which makes creating emails
+[17:10] both intuitive and kind of feels like
+[17:12] cheat codes to be honest with you. So,
+[17:14] we're going to set this up. We want your
+[17:18] feedback. Nice little call to action
+[17:20] right there. IDF LA 2025 because we're
+[17:25] getting pretty tired here. So, for our
+[17:28] template over here, I'm thinking a
+[17:30] welcome message. It's pretty simple. Up
+[17:33] at the top, we can select our logo, but
+[17:37] I don't want to. Joining IDLA, I want to
+[17:41] add a little bit of flavor text just to
+[17:43] make this look a little bit more
+[17:45] real. But I'm going to spice this up and
+[17:49] I'm going to
+[17:50] say message asking for feedback. And
+[17:55] you're going to see why I'm doing this
+[17:56] in a second. I am really lazy. We're
+[17:58] going to actually hit the gen AI over
+[17:59] here. We're going to hit
+[18:02] lengthen. There we go. And we're going
+[18:05] to insert right there. Just like that.
+[18:07] We just used AI to save us
+[18:10] time. And we going to put our link right
+[18:13] there up at the top. And once that we're
+[18:15] done, and this looks all good to go, we
+[18:17] hit save. And we need a recipient list,
+[18:21] though. So, right now, our recipients
+[18:23] happens to be just set to our mailing
+[18:25] list, but I actually want event
+[18:27] registration right there. And now you'll
+[18:30] notice we started to have the options
+[18:31] for stuff such as rules. Well, I think
+[18:34] for this one I want to select
+[18:37] events and then once again contains and
+[18:41] I'm going to put the word design right
+[18:44] there. And I need one more rule. So for
+[18:47] the second one, I'm going to
+[18:50] select
+[18:53] attended because if we have this one as
+[18:56] well, it'll make it a little bit easier.
+[19:01] and we're going to put less than or
+[19:03] equal
+[19:05] to. Pick our nice little date right
+[19:07] there and
+[19:09] apply. All right. So, this targets
+[19:12] people who not only registered but
+[19:13] actually are going to show up to the
+[19:15] event and that way their feedback is
+[19:18] going to be pretty nice for us. You
+[19:19] notice the list just went down pretty
+[19:20] far. Finally, I'm going to assign this
+[19:23] email to the actual campaign, the
+[19:27] IDFLA
+[19:29] 2025. So, once that we do that, it makes
+[19:32] it a little bit easier for us to just
+[19:34] kind of track it. So, right here is
+[19:36] where you want to set it up and select
+[19:38] it in our settings. Now that we're all
+[19:40] done, all we have to do is just hit
+[19:43] send. Maybe do some AB tests if we'd
+[19:45] like to. Anything else? So,
+[19:47] configuration. What do we need to make
+[19:49] all of this happen? Great question. I'm
+[19:52] going to walk you through all of it.
+[19:54] Now, in addition to the apps we've been
+[19:56] using, make sure that you've got
+[19:57] invoicing or accounting and e-commerce
+[20:00] installed. These are essential for
+[20:02] processing online payments for event
+[20:03] tickets. If you plan to send SMS
+[20:05] notifications, don't forget the SMS
+[20:07] marketing application as well. Now, for
+[20:09] ticketing, you're going to want to set
+[20:11] up your tickets up as products. To find
+[20:13] them quickly, we're here on the main
+[20:15] dashboard. Now, we're going to head into
+[20:18] products. So, we're just going to type
+[20:18] it in and select it there. All right.
+[20:21] So, here we can see all of our products.
+[20:22] We're going to open up this event
+[20:23] registration one right here. Now, inside
+[20:26] of here, you'll notice our product type
+[20:28] over here is set to service and create
+[20:30] on order is set to event registration.
+[20:34] You could change this depending on which
+[20:35] type of ticket or item you are selling.
+[20:38] Because if you'll notice when we go over
+[20:39] to event booth, create an order, an
+[20:41] event booth. You can also attach
+[20:44] different types of price lists if you
+[20:45] prefer for, you know, special pricing
+[20:47] for VIPs and discounts if you'd like on
+[20:49] any of these products this way. Now, if
+[20:51] you want to link your social media
+[20:53] accounts, you're going to jump out of
+[20:55] here and then this time around, we're
+[20:56] going to open up the social marketing
+[20:58] application. And up in the top left,
+[21:00] we're going to select add a stream. And
+[21:02] then you follow the connection steps.
+[21:03] It's incredibly straightforward. All
+[21:06] right, we're going to close out of this
+[21:07] now and go back home. And this time
+[21:09] around, we're going into our events
+[21:10] application configuration and then
+[21:13] settings. I need to give you a quick
+[21:15] rundown of the features that we enabled
+[21:17] for this event. Okay, starting from the
+[21:18] top left, schedule and tracks. This was
+[21:20] for sessions and sponsors. We have our
+[21:23] community chat rooms for attendee
+[21:25] engagement. We also have our tickets and
+[21:28] online ticketing options over here. All
+[21:31] of these features work together to
+[21:33] create a smooth professional experience
+[21:34] from start to finish. And I'd also like
+[21:36] to mention though we did not cover it
+[21:39] today, one of the options that you also
+[21:40] have in the event that say you have a
+[21:42] ticket booth at your event center, we
+[21:45] have the options to sell tickets with
+[21:46] point of sale. For more information on
+[21:48] that, please follow the documentation
+[21:50] links below. And you're all set. It's
+[21:54] done. You've got everything you need to
+[21:56] launch your next event and turn it into
+[21:58] a powerful lead generator. So go ahead
+[22:00] and start exploring, start building, and
+[22:02] start connecting with your audience.
+[22:03] Remember to check out the rest of our
+[22:05] e-learning videos to learn more about
+[22:06] the apps that we use today. See you
+[22:08] soon, Odoers. Go grab a snack.

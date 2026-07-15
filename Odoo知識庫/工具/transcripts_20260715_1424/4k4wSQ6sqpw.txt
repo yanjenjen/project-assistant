@@ -1,0 +1,202 @@
+影片 ID: 4k4wSQ6sqpw
+來源: https://www.youtube.com/watch?v=4k4wSQ6sqpw
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:05] hello doers my name is Jose Osio now
+[00:07] here at placeholder Furniture which is a
+[00:09] new stealthy wood Branch affiliate and
+[00:11] not something I made up we use WhatsApp
+[00:13] a worldwide Messenger Service to
+[00:14] communicate with customers now
+[00:16] thankfully ODU offers a WhatsApp
+[00:18] integration with our ODU database all
+[00:20] right for an example say I'm making a
+[00:22] sale with one of our best customers
+[00:24] they've come to the showroom they've
+[00:25] seen everything they're going to
+[00:26] purchase it but they prefer WhatsApp to
+[00:28] complete the transaction this is
+[00:30] actually quick and simple all done
+[00:32] through odu's WhatsApp integration that
+[00:34] operates alongside the discuss app now
+[00:36] you might be asking yourself what Odo
+[00:38] applications are compatible with
+[00:39] WhatsApp any and all applications that
+[00:41] have a chatter and a template can be
+[00:43] integrated with WhatsApp now this means
+[00:46] basically sending payment receipts in
+[00:48] the POS app sending event tickets in the
+[00:50] event app and sending invoices in the
+[00:53] sales app and a lot more but let's jump
+[00:55] into it so the first thing we want to do
+[00:57] is make sure that we have the WhatsApp
+[00:59] module and installed on our database so
+[01:01] we're going to go inside of the apps app
+[01:03] and we're going to look for what's
+[01:04] app boom I've already installed it just
+[01:07] cuz I love saving you time but here's
+[01:09] where you installed it up next we'll
+[01:10] need our database administrator to
+[01:12] configure the API connection between ODU
+[01:14] and meta who happens to be the parent
+[01:16] company of WhatsApp you can check out
+[01:18] the WhatsApp Advance tutorial and our
+[01:20] WhatsApp documentation to help get your
+[01:21] database set up now once that's
+[01:23] configured we're going to need to submit
+[01:24] what'sapp templates to meta for approval
+[01:26] before using them templates are
+[01:28] preconfigured worded layouts that will
+[01:30] populate when sending a message they can
+[01:32] even insert special unique data from a
+[01:34] record in ODU such as a customer name or
+[01:36] a sales order ODU gives you
+[01:38] preconfigured templates in some of the
+[01:39] apps to make your lives a little bit
+[01:40] easier now I'm actually going to hop on
+[01:42] over there since it's already installed
+[01:44] click on the WhatsApp module and we're
+[01:46] going to sort these by name all right
+[01:48] we're going to scroll down till we see
+[01:49] the sales order ship because I'd like to
+[01:51] demo something for you now this one
+[01:52] right now is in the draft stage now
+[01:54] getting this approved is simple all I
+[01:56] need to do is Click submit for approval
+[01:58] over here now meta will take a moment to
+[02:00] approve or deny the request it can take
+[02:02] a bit of time and as soon as it's done
+[02:04] you'll basically receive an email once
+[02:06] that it's ready and it's been made all
+[02:08] right now let's shift gears a bit right
+[02:10] now as you can tell right now it's
+[02:11] pending so let's go do something else
+[02:13] I'd like to show what's up in action
+[02:15] which happens to be sending messages
+[02:16] from the database we're going to go down
+[02:18] to the basics and hop on out of here and
+[02:20] go into contacts we're going to look for
+[02:22] a buddy of mine
+[02:24] soam all right inside of here I'd like
+[02:26] to draw your attention over to the phone
+[02:27] number area now previously you saw a few
+[02:30] options with call and SMS but would you
+[02:32] look at that we have another option over
+[02:33] here outd doers it's the WhatsApp option
+[02:37] and when we click it a popup appears
+[02:39] with some options for sending a WhatsApp
+[02:41] message on our left we can basically
+[02:43] change the template that we'd like to
+[02:45] send with we have a few options such as
+[02:47] payment
+[02:48] Link Event reminder but I'm going to go
+[02:51] back over here to hello world test
+[02:53] because I'd like to show you something
+[02:54] real quick now over here on the right we
+[02:57] have basically a preview panel of what
+[02:59] the send template will look like on the
+[03:00] customers end when they receive the
+[03:02] message I can also manually change out
+[03:04] the phone number which will get rid of
+[03:05] that funky message telling us it's an
+[03:07] invalid number it's valid now all right
+[03:10] everything looks good so I'm going to
+[03:12] send this message and once that I do
+[03:15] that as you could tell our sent message
+[03:18] appears here in the chatter and
+[03:21] something cool happens if our customer
+[03:22] responds like they did right there soam
+[03:25] is very quick at this actually we get to
+[03:27] see their message on this cool little
+[03:28] popup down here we can see the customer
+[03:31] reply in the popup window which is very
+[03:33] helpful now this message also appears in
+[03:35] the messages icon up here in the top
+[03:37] right so when we click that we can even
+[03:39] see it there as well with the phone
+[03:41] number Ah that's beautiful all right now
+[03:44] as you can tell there happens to
+[03:46] actually be one more place where we can
+[03:47] see our messages listed and that's in
+[03:49] the discuss app so we're going to go
+[03:51] over here into
+[03:53] discuss look at that out doers right
+[03:56] inside of here we have a WhatsApp
+[03:58] section and we can see the soam Palmer
+[04:00] conversation underneath it but enough
+[04:02] chitchat let's see how this works in a
+[04:05] business flow right
+[04:06] now so in order to do that let's create
+[04:09] a new quotation inside of the sales app
+[04:11] by selecting new all right this time
+[04:13] we're going to pick a good friend of
+[04:14] mine Timothy and it's an important
+[04:16] reason we're getting out of product
+[04:18] Timothy is one of our best customers
+[04:20] he's actually on the showroom floor with
+[04:22] me right now and he just picked out our
+[04:24] new black office chairs so let's get him
+[04:27] that and he's yelling at me in the
+[04:28] background telling me he actually wants
+[04:30] 10 of them great sale for me today now
+[04:33] Tim just purchased 10 of these bad boys
+[04:34] so let's confirm this order and at this
+[04:37] point he's also telling me he wants to
+[04:39] move fast so I'm actually going to
+[04:41] create the invoice and let's say that I
+[04:43] expect him to pay me at least 50% of it
+[04:45] up front so we're going to draft that
+[04:47] bad boy up excellent now before Tim
+[04:49] leaves the showroom I can actually send
+[04:51] him the invoice on WhatsApp so he can
+[04:53] walk away knowing that those chairs will
+[04:54] be secured just as soon as he pays via
+[04:57] this super convenient link then I'm
+[04:58] going to automatically include using a
+[05:00] dynamic placeholder and a dynamic
+[05:03] variable inside of the template so right
+[05:06] now inside of the chat we're going to
+[05:07] hit the WhatsApp button we're going to
+[05:09] see that invoice and we're going to send
+[05:11] it on over there to Tim now once that he
+[05:14] reaches that he can basically pay via
+[05:16] any means that he wants to and Tim's got
+[05:18] this on his phone in
+[05:20] seconds so here's what that's going to
+[05:22] look like on Tim's phone branded with
+[05:23] his name the amount owed and a handy
+[05:25] link to pay on placeholders Portal we
+[05:28] can perform simple actions via WhatsApp
+[05:30] as an alternative to emailing in ODU now
+[05:32] there's one more thing I want to show
+[05:34] you once that meta approves that
+[05:35] template we submitted earlier this could
+[05:37] take a few hours or even a day so I'm
+[05:40] going to check back in with you guys in
+[05:42] just a minute go grab a
+[05:44] snack and I'm back it's the next day now
+[05:48] let's head back over to the WhatsApp
+[05:50] module just so we could see if our sales
+[05:51] order ship template has been actually
+[05:54] approved now in order to do that we're
+[05:55] going to click on configuration and
+[05:57] what's at business accounts we're going
+[05:59] to select in there and at this point I
+[06:01] need to sync our templates with meta by
+[06:04] just selecting over here sync templates
+[06:06] once that we do that we are all synced
+[06:08] up and ready to use the templates so
+[06:10] we're going to select templates in the
+[06:11] top menu and just like that OD doers ah
+[06:14] it's been approved for use in ODU by The
+[06:17] Meta team now that was simple do all of
+[06:21] this and more with the WhatsApp
+[06:22] integration for ODU now stay tuned next
+[06:24] time for more info on basic configuring
+[06:26] of what's happened ODU and the template
+[06:28] breakdown including those Dynamic
+[06:30] variables it's going to be a fun one now
+[06:32] thanks for watching everyone go grab a
+[06:34] snack I love
+[06:37] you

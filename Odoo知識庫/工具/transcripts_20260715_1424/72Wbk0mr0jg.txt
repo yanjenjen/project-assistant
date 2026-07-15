@@ -1,0 +1,534 @@
+影片 ID: 72Wbk0mr0jg
+來源: https://www.youtube.com/watch?v=72Wbk0mr0jg
+下載時間: 2026-07-15 14:25
+============================================================
+
+[00:04] Hey there doers. My name is Jose Ignasio
+[00:06] and welcome back. In today's video,
+[00:08] we're going to examine how the
+[00:09] administrative team of a leading
+[00:11] furniture reseller uses ODU to keep
+[00:13] their operations running smoothly. As
+[00:15] many of you already know, going digital
+[00:17] isn't just a trend like AI. Looking at
+[00:20] you, it's a gamecher when it comes to
+[00:22] boosting productivity and profitability.
+[00:24] Think about it. Digitizing documents can
+[00:26] save hours with no more digging through
+[00:29] stacks of paper to find that one
+[00:30] invoice. And when it comes to
+[00:32] compliance, because Joseé Agnosio
+[00:34] believes in compliance, well, having
+[00:36] everything safely stored and backed up
+[00:38] can help avoid some serious headaches
+[00:40] down the road and even legal trouble.
+[00:44] And Jose Ignasio respects the law. It
+[00:47] also makes your business more agile.
+[00:48] Remote work, no problem. Plus, it's a
+[00:51] greener way to work. less printing, less
+[00:53] waste, more trees. Typically, companies
+[00:56] receive important docs like bills,
+[00:57] letters, and contracts by email or
+[00:59] regular mail. The admin team is then in
+[01:02] charge of sorting and routing these
+[01:03] documents to the right people. With ODU,
+[01:06] that process becomes faster, smarter,
+[01:07] and a whole lot easier. So, enough
+[01:09] chitchat. Let's take a look at how all
+[01:11] of that works. All righty. We're
+[01:13] starting off in the documents app where
+[01:14] you're going to find a nice layout that
+[01:16] makes organizing easier. On the lefth
+[01:18] hand side over here, you have different
+[01:19] workspace folders. These are essentially
+[01:21] categories to help you stay organized.
+[01:23] You can also filter your documents by
+[01:25] using the search bar up at the top.
+[01:27] Maybe you need to find a little item
+[01:30] from a specific project or perhaps a
+[01:32] contact or an invoice. Well, you could
+[01:34] do that up there. Now, if we click into
+[01:36] any of these folders over here and we
+[01:39] select our action menu and then share,
+[01:41] we get this nice little popup. Now,
+[01:43] inside of this pop-up menu, we have
+[01:45] options for adding specific people or
+[01:47] email addresses while also allowing us
+[01:49] to manage general access. This is
+[01:52] essential if you prefer internal users
+[01:53] to have something such as editor
+[01:55] privileges, while anybody with this link
+[01:57] might have no privileges. But let's
+[01:59] assume that I'm not trying to change the
+[02:01] files there, but I need to put new
+[02:02] files. Well, to do that, we select new
+[02:05] at the top left and then upload and drop
+[02:07] your documents straight into your ODOT
+[02:09] database. Now, the nice thing about why
+[02:11] you'd want to keep your documents inside
+[02:12] of ODU, well, it's its built-in full
+[02:15] resolution uploadability. Your images
+[02:17] won't have pesky compression, just full
+[02:19] DPI
+[02:21] goodness. You can also select multiple
+[02:24] files if you'd prefer to move things
+[02:25] around. Like if we select one there and
+[02:27] then use our nice little OS modifier
+[02:30] key. I'm on a Mac, so minus command. We
+[02:32] could select and deselect multiple files
+[02:34] if we'd like. This is specific if you'd
+[02:36] like to have specific actions to that.
+[02:38] You need to move multiple files or maybe
+[02:40] you need to download them. Find more
+[02:43] info about that inside of our
+[02:45] documentation. Okay. But let's assume
+[02:48] that I'm just moving one item. Well, do
+[02:49] I have to do anything? No. You could
+[02:51] just drag it around and then drop it
+[02:53] somewhere else. Maybe it's in the wrong
+[02:55] workspace folder. It's as easy as
+[02:57] organizing files on your desktop. Now,
+[03:00] let's take a look at what happens when
+[03:01] we open up a document. So, I'm going to
+[03:02] go to the all workspace folder and we're
+[03:04] going to scroll down until I see
+[03:06] something
+[03:07] interesting like this sample NDA PDF as
+[03:10] Ignasio knows a lot about sample NDAs
+[03:13] and NDAs. Okay, so we have a nice full
+[03:16] preview window over here and we can see
+[03:18] our full PDF up at the top. We have
+[03:21] options for downloading it, sending it
+[03:23] to financing, sign and sharing as well.
+[03:26] And if we go to our action menu over
+[03:28] here, we have further things such as the
+[03:29] ability to rename it, our info and tags,
+[03:32] which I'm going to select so you can see
+[03:33] further how much you can change within
+[03:36] this. And that also opens up our chatter
+[03:38] if we'd like to talk about that. Really,
+[03:40] you can see that ODO keeps everything
+[03:42] you need right here beautifully
+[03:43] streamlined in one place and also makes
+[03:45] it kind of easy to change things. But on
+[03:48] the note of changing things and doing
+[03:52] streamlined things, I'd like to talk
+[03:54] about the fact that ODO allows you to
+[03:55] have different email aliases to receive
+[03:57] documents via email. For example, I'm
+[03:59] actually going to close out of here and
+[04:01] I'm going to go over to our finance
+[04:03] folder. Now, while I still have that
+[04:06] info and tags thing open over here,
+[04:09] you'll notice that we have a finance
+[04:11] email alias over there. So, what is that
+[04:13] for? Well, this allows a vendor or
+[04:16] somebody to be able to send a document
+[04:18] over to the email address and thereby
+[04:20] automatically uploaded inside of ODU.
+[04:22] Yes, those attachments automatically get
+[04:24] saved in the appropriate workspace for
+[04:26] the corresponding department. This way,
+[04:29] a vendor's email can be forwarded to
+[04:31] this address or you can make it even
+[04:33] simpler and just share that. It makes it
+[04:35] easy. But I'm just talking about a whole
+[04:37] bunch of things. I think it's time for
+[04:40] me to show you what that looks like. So,
+[04:42] here we are inside of my inbox. And as
+[04:43] you can tell, I've already got an email
+[04:45] started over here. Our recipient is
+[04:47] going to be that email alias that I just
+[04:49] showed you before. Now, for our subject,
+[04:52] I'm just going to title this invoice
+[04:54] just to make it simple. I'm not going to
+[04:56] say anything because I'm one of those
+[04:57] people. And then I'm going to hit the
+[04:58] nice little attach files paperclip. And
+[05:01] we're going to send our nice PDF file.
+[05:03] And for our example, it's our sliced
+[05:05] invoice. So, once that this is all ready
+[05:07] and uploaded, I'm going to hit send.
+[05:10] blank this out and the document will be
+[05:12] on its way to ODO. Let's go actually see
+[05:15] what that looks like. Okay, so back
+[05:17] inside of our documents dashboard, I'm
+[05:19] going to head on over to our finance
+[05:20] workspace folder. And do you see that?
+[05:23] It's our sliced invoices file. Dang,
+[05:27] that was fast. Now, for invoices and
+[05:29] documents that you receive by not so
+[05:31] fast snail mail, you're going to need to
+[05:32] scan them. But don't worry, I know it
+[05:34] sounds scary, but scanning doesn't have
+[05:36] to be done one by one. You can scan
+[05:38] documents in batches. Just ensure your
+[05:39] scanner device is connected to your
+[05:41] database via the email alias and you
+[05:43] should be good to go. Right now, let's
+[05:45] exit the document by selecting our X at
+[05:47] the top right corner. And I've uploaded
+[05:49] something fun for us to try something
+[05:51] out. Now, we're going to open up this
+[05:54] mails_inbox PDF because all right, let's
+[05:56] say that you've just scanned a whole
+[05:58] stack of docs in one go, but those
+[06:00] documents aren't all the same. Some are
+[06:01] invoices, others are letters, and they
+[06:03] belong to different departments. No
+[06:06] problem at all. Odo makes sorting that a
+[06:08] breeze. We can use our split PDF tool
+[06:12] over here to separate and aggregate the
+[06:14] pages accordingly. Then we can send them
+[06:16] to the correct department. Now, as you
+[06:18] can see, splitting is kind of intuitive
+[06:20] inside of ODO. Now, we're looking at
+[06:22] each page in the scan. And this one
+[06:25] includes a few bills and a couple of
+[06:26] letters. I can click on any page if I'd
+[06:29] like to see it in full view and click
+[06:31] away just to kind of not look at it
+[06:34] anymore. Now, watch this. Um, I'm
+[06:37] noticing on pages five and six over
+[06:40] here, this appears to be the same
+[06:42] invoice. So, if I click that, they don't
+[06:45] get split separately anymore. That was
+[06:48] an easy fix. Now, let's say I want to
+[06:50] process it all but one of the pages
+[06:52] right away. For example, I'm looking at
+[06:54] this one, and I think it's just a
+[06:56] letter. That's not a bill or anything.
+[06:58] So, we're just going to click on that
+[06:59] blue little check. And that's it. It's
+[07:01] out of here. Now the with the remaining
+[07:03] pages selected, I'm actually going to
+[07:06] click create vendor
+[07:08] bill. And just like that, vendor bills
+[07:11] are created directly from the scan
+[07:13] pages. No retyping, no extra hassle, no
+[07:15] having to go move around. I'm going to
+[07:17] send it right now to the actually for
+[07:20] this letter. I think I want to do
+[07:21] something else with it. Let's select it
+[07:24] for now. And what should we do with it?
+[07:27] Oat doers. I think I kind of want to
+[07:29] take a closer look at this one. So,
+[07:32] let's just leave it as is and just leave
+[07:34] it there for now. But I don't think this
+[07:37] belongs to anyone here. So, I'm going to
+[07:39] move it over to internal. There we go.
+[07:42] Out of sight. And that's splitting docs
+[07:44] with ODO and moving docs. So, we just
+[07:46] made those bills. But what the heck do
+[07:48] they look like here? Let's investigate
+[07:49] and head over to the accounting
+[07:51] application right now to actually review
+[07:53] this. So, from the entire accounting
+[07:55] dashboard, we're going to hit vendors
+[07:56] and then bills. All right. I can
+[07:59] actually see the ones that we just added
+[08:02] created by Mitchell admin. I'm going to
+[08:04] open up the Google invoice. Now, right
+[08:06] away, you're going to see that ODU has
+[08:08] already created a draft vendor bill for
+[08:10] us and the original PDF is over here on
+[08:12] the right hand side just so we can take
+[08:14] a look at it. Now, watch what happens
+[08:15] when I hit reload AI data. Something
+[08:19] kind of neat happens. Now, ODU's builtin
+[08:22] AI goes to work. It scans the PDF, reads
+[08:25] the content, and automatically fills in
+[08:26] the details of the vendor bill,
+[08:28] including things that might be missing.
+[08:30] You notice now our bill date has
+[08:31] changed, our accounting date, and our
+[08:33] due date. No manual labor is required.
+[08:36] That made it super easy. And now that's
+[08:37] everything that has been autofilled for
+[08:40] us, and everything looks good. All
+[08:41] that's left to do for us is just to
+[08:43] confirm it. And just like that, we're
+[08:45] done. So, so far we've seen how ODU
+[08:47] handles documents that come in through
+[08:49] mail or email, and how easily they can
+[08:51] turn into vendor bills with just a few
+[08:52] clicks. But wait, there's more. The
+[08:56] administrative department also handles
+[08:57] many contracts. Now, with ODU signed,
+[08:59] those contracts can be reviewed and
+[09:01] signed digitally in minutes. So, in this
+[09:03] case, HR needs to send out a job
+[09:05] contract for a signature. So, to handle
+[09:08] that, we're going to actually open up
+[09:09] our documents application once again,
+[09:11] and we're going to make our way,
+[09:13] actually, we're already here, into the
+[09:14] internal workspace folder. We're going
+[09:16] to select our employment contract over
+[09:19] there. Now I'm going to tap on sign up
+[09:22] here in the top center and we're going
+[09:23] to get started. So actually you'll
+[09:26] notice over here on the lefth hand side
+[09:27] we have a lot of different fields. Well
+[09:29] we can actually just drag them on and
+[09:31] decide what we want to do. I'm seeing
+[09:33] employee name over here. So I'm going to
+[09:34] drag over name and I'm going to grab
+[09:37] this little corner and pinch it just
+[09:39] because people sometimes have longer
+[09:40] names. Now I see date over there. Oh no.
+[09:43] Can we do that? Yes, we can. And I'm
+[09:45] going to put that right there. Okay. So,
+[09:48] there happens to be one that's listed as
+[09:50] an address. Now, addresses can tend to
+[09:53] be pretty long. So, what would we do for
+[09:55] that one? Well, an address is just text.
+[09:59] So, we can just drag this nice little
+[10:00] text box. Then, grab the little black
+[10:02] triangle corner. And boom. Just like
+[10:04] that, our first page is done. Let's
+[10:06] scroll down. Do I see anything? Yep.
+[10:08] Final one. At the very bottom over here,
+[10:10] we have one more that says it needs a
+[10:12] date. But then I have something over
+[10:14] here that says a signature.
+[10:17] ODO even has something for that. Assume
+[10:20] they want a very big signature. Okay,
+[10:23] perfect. Okay, so to keep things all
+[10:25] clean and readable, as you saw, I've
+[10:27] been resizing all of these fields. Now,
+[10:29] at the bottom of each of these page,
+[10:31] I've decided I want to add something
+[10:33] that's kind of easier for people to do.
+[10:36] Let's put the
+[10:38] initials. I get a prompt when I did
+[10:41] that. We're going to We can set a
+[10:42] responsible person for this. So, I'm
+[10:44] going to leave it at customer and I'm
+[10:45] going to select add to all pages. And
+[10:48] just like that, I don't have to think
+[10:50] about it anymore. We've got it on all
+[10:51] our pages. All right. With all of this
+[10:54] set and done, we have our nice little
+[10:56] customer initials. Okay. Lastly, now
+[10:59] that the signature and everything is
+[11:01] done and everything looks like it looks
+[11:02] pretty good, I think it's time for us to
+[11:04] send it. Now, when I do this, it's going
+[11:07] to ask me to pick who I'm going to send
+[11:08] this to. So, for this one, I'm going to
+[11:11] send it to a very special
+[11:14] email just to make it a little bit
+[11:16] easier for me. We're just going to
+[11:18] create that real quick. Okay. And then
+[11:21] we're just going to hit send. And just
+[11:23] like that, off it goes. Okay. So,
+[11:25] initially the customer is going to see
+[11:27] an email with a big friendly button that
+[11:29] says sign. This is an example of that.
+[11:32] But once that they click it, they're
+[11:33] actually taken back inside of ODO. And
+[11:35] we're here. We're at our contract and we
+[11:38] can actually just start. And this nice
+[11:39] little thing over here on the left
+[11:41] starts helping us autofill with its nice
+[11:43] little check mark. Okay, what else do I
+[11:46] need? Oh, I need an address. One, two,
+[11:48] three, four. Need to remember this. Main
+[11:51] Street, Buffalo, NY. And this is fake
+[11:56] YouTube. All right, let's hit next
+[11:58] because I'm lazy. Oh, my initials odor
+[12:02] rules@gmail.com. Um, I'm going to put
+[12:06] JR just to make it a little bit clean.
+[12:09] And then I'm going to set this to draw
+[12:12] because I'd like to draw it. I could do
+[12:15] this
+[12:16] myself. I am an
+[12:18] artist. No, I'm not. We're going to
+[12:21] assign all of our pages. Just doing it
+[12:23] this way. All right. Perfect. O doers.
+[12:26] Bear with me. And then finally, we have
+[12:28] our employee signature at the very
+[12:29] bottom. Think I'm going to have to draw
+[12:31] this one. I would like to. All right,
+[12:34] let's try our
+[12:37] best. We're just having one of those
+[12:39] days, o doers. Uh, let's just assume
+[12:41] that this was good. And then I'm going
+[12:44] to let the date just autofill for me.
+[12:46] All right, perfect. Now, all we have to
+[12:49] do is select validate and send completed
+[12:52] document. And our amazing cursive is on
+[12:54] its way to the odoer who has to view it.
+[12:57] And actually, we can actually now view
+[12:59] the final document right away. and we
+[13:02] can even download it if we'd like to.
+[13:04] Let's hop back into ODU to wrap things
+[13:05] up. All right, so here we are back
+[13:08] inside of ODU. Now, before we head into
+[13:10] the documents app, I'd actually like to
+[13:12] make a quick note that if, let's say,
+[13:13] you created a couple templates and you
+[13:16] feel pretty good about them, you won't
+[13:18] find them inside of the documents
+[13:19] application for editing. If you actually
+[13:21] go into the sign application and select
+[13:24] templates up at the top, well, there we
+[13:25] have it. There is our template that we
+[13:28] made earlier, all nice in its glory. So
+[13:31] that is where you would go to do any
+[13:32] edits. Just wanted to let you know. All
+[13:34] right, let's head into our documents
+[13:36] application over here. And oh, oh my, I
+[13:40] see our beautiful cursive and
+[13:42] everything. The signed employment
+[13:44] contract PDF complete with today's date
+[13:46] and everything. Ah,
+[13:48] marvelous. Okay, so we've seen how to
+[13:52] actually sign these documents that way.
+[13:53] But what if I need to request it
+[13:55] internally? What if I don't want to send
+[13:56] it as an email? Well, let's assume this
+[13:58] letter I need somebody to sign the
+[14:00] bottom of it. If we actually select our
+[14:02] nice little activity thing and then
+[14:04] schedule an activity, go to our activity
+[14:06] type and I start typing. Look at that.
+[14:08] You could request a signature right
+[14:10] there immediately, making it kind of
+[14:12] easy for you. All right, let's close
+[14:13] that out. Odus sign is just one of the
+[14:16] many powerful actions that we can
+[14:17] perform with our documents. But what if
+[14:19] you want to take it a step further and
+[14:20] assign follow-ups, create tasks, or even
+[14:22] automate custom workflows? Well, you're
+[14:24] in luck. ODO has you covered. We're
+[14:26] going to do something kind of advanced.
+[14:28] So, let's head into the ODO documents
+[14:29] app again and we're going to select this
+[14:32] video ODO documents over here. This
+[14:34] presentation, I want to turn it into a
+[14:36] task for someone on the team to review
+[14:38] and finalize. So, let's create a task.
+[14:41] Oh, no. Oh, no. Dupsy. Well, actually,
+[14:44] if we go back to our action menu over
+[14:46] here and actions on select, if we click
+[14:48] on create a task and then we reopen it
+[14:51] up here and then select more. Now, we
+[14:53] could see that there. So, this menu, I
+[14:55] didn't cover it earlier, but it actually
+[14:56] allows you to have a lot more actions
+[14:58] when you select one of the items inside
+[15:00] of the documents application. But let's
+[15:03] go ahead over here and select create a
+[15:05] task. Okay, so what are we going to do
+[15:07] for this one? So, for this one, our
+[15:09] project, I'm actually going to just do
+[15:12] the sample
+[15:13] one. Now, inside of here, we can enter
+[15:15] all the usual details. a milestone,
+[15:17] who's responsible, a customer if needed,
+[15:19] a due date, tags, everything allocated,
+[15:22] time and subtest as well. That's how you
+[15:25] do it that route. But obviously, you'd
+[15:27] have to do a whole lot more other
+[15:29] things. But let's go back. Okay, so here
+[15:33] we are back inside of the documents
+[15:34] application. So in addition to the
+[15:36] standard action options that you saw,
+[15:38] you can actually create other ones. So
+[15:40] let's actually go over here to the
+[15:41] actions menu. Again, I feel like I'm
+[15:43] saying actions a lot. And then we're
+[15:45] going to select automations. We don't
+[15:47] have any right now, but let's make one.
+[15:48] So, we're going to select new. All
+[15:50] right. We have a nice little document
+[15:53] over here. We're going to call this
+[15:55] custom
+[15:57] presentations
+[15:59] automation. Okay. Our model is going to
+[16:02] stay as documents for right now, but our
+[16:04] trigger, and you have a lot of triggers
+[16:06] that you can select. I'm going to do
+[16:07] something cool. So, we're going to do
+[16:08] tag is added. What this means is that
+[16:10] when I add a specific tag to one of my
+[16:13] documents, I want an action to occur.
+[16:15] And I said this was a presentation, so
+[16:18] we're going to go with that. Now, the
+[16:19] nice thing is we have these domains over
+[16:20] here that kind of let us know what's
+[16:22] going on with them, but I'm not going to
+[16:24] mess with those right now. You can do
+[16:25] that if you'd like, but we're going to
+[16:26] go immediately to this actions to-do tab
+[16:28] and select add an action. Now, the very
+[16:31] first thing I want to do is update a
+[16:33] record. Our allowed groups I'm going to
+[16:34] leave blank, and I'm going to update
+[16:36] over here, and I'm going to search for
+[16:37] the word folder, and I'm going to select
+[16:39] it, and then I'm going to select moving
+[16:41] it to marketing. Okay, we're going to
+[16:44] hit save and new. So, the nice thing is
+[16:46] immediately when this happens, the
+[16:47] presentation tag is added. The first
+[16:49] thing it will do is it's going to move
+[16:51] the actual file over to the marketing
+[16:54] workspace folder. And isn't that kind of
+[16:56] cool? Okay, now that we're done with
+[16:57] that, I'm getting excited about this.
+[16:59] We're going to select create activity.
+[17:00] And this time for our activity type, I'm
+[17:02] going to select email. And the title is
+[17:05] let's discuss. I might as well. A
+[17:08] responsible person Mark demo. And then
+[17:10] we're going to hit save and close. Okay.
+[17:13] So now I'm going to hit save on this and
+[17:14] go back to automation rules. And ODO
+[17:17] kind of shows you what's going to happen
+[17:18] right now. So if the tag is added
+[17:20] presentations right there, it's going to
+[17:22] update the folder plus create an
+[17:24] activity which happens to be that email.
+[17:27] But does it actually work? Well, let's
+[17:29] go back over to documents VR breadcrumbs
+[17:31] which is Wonderbread. You're going to
+[17:33] select the video documents. And you've
+[17:35] been seeing me go to the action menu to
+[17:37] do some of these things like info and
+[17:38] tags. But you can also hit this nice
+[17:40] little I in the top right. and let's add
+[17:42] it
+[17:43] in. And then we're going to click away.
+[17:47] And oh no, nothing's happened so far.
+[17:49] That's right. You got to refresh it.
+[17:51] Now, while this happens, if we scroll
+[17:53] down, oh, it's disappeared. So, the very
+[17:55] first action did work. But let's go over
+[17:57] to marketing. Oh, and there it is. And
+[18:02] would you look at that when we actually
+[18:03] click
+[18:05] it, there's the email right there.
+[18:09] Perfect. Everything worked out as it
+[18:11] should have right there, odoers. Boom.
+[18:14] Okay, I'm sure you've noticed that going
+[18:16] paperless and embracing a fully digital
+[18:18] approach has become the new normal. And
+[18:20] as you just witnessed, with ODU, it
+[18:21] truly couldn't be easier. If you're
+[18:23] curious to explore the apps we showcased
+[18:24] during this flow, along with many
+[18:26] others, be sure to check out the rest of
+[18:27] our e-learning videos. Unlike other
+[18:29] business flows, the one you watched
+[18:30] today used all the tools available to
+[18:32] you without needing modifications or
+[18:34] special settings outside of the ones I
+[18:36] covered. Again, if you need any help
+[18:38] with anything you've seen, leave a
+[18:40] comment below and I'll try my best to
+[18:41] answer your questions. O doers, until
+[18:43] next time, o doers, go grab a snack.

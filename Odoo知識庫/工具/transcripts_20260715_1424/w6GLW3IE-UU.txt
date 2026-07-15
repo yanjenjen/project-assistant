@@ -1,0 +1,195 @@
+影片 ID: w6GLW3IE-UU
+來源: https://www.youtube.com/watch?v=w6GLW3IE-UU
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:04] Hello doers. My name is Jose Agnosio and
+[00:07] today we're talking about Stealthywood
+[00:08] and we happen to be growing fast and
+[00:10] hiring people to help us scale. But
+[00:12] because of that, we have a bit of an
+[00:14] issue. As our new employees learn to use
+[00:17] our odu database, they keep changing
+[00:20] fields in our CRM pipeline. I know
+[00:22] they're terrible. Of course, we love
+[00:24] seeing them learn how to use the tool,
+[00:26] but this is causing extra work for our
+[00:28] sales team. So to correct this, we will
+[00:30] set up group access rights for our new
+[00:32] hires so that they can only read what's
+[00:34] in the CRM app. This will still let them
+[00:37] see what's going on in the app, but will
+[00:39] prevent them from making extra work for
+[00:41] our sales team. So before we begin,
+[00:43] let's discuss why we use access rights
+[00:45] instead of individual user permissions.
+[00:48] Groups remain effective even when users
+[00:51] change and they simplify permissions
+[00:54] management and all of these things for
+[00:55] multiple users. Without further ado,
+[00:59] let's jump right into it. All righty.
+[01:01] So, to get started, let's select our
+[01:03] settings application over here. Now,
+[01:05] you're going to want to have developer
+[01:07] mode on. As you can tell, I already have
+[01:08] it on. If you don't, just scroll to the
+[01:10] bottom until you hit the developer tools
+[01:12] area, and you can add activate it right
+[01:14] there. Now, we're going to scroll all
+[01:16] the way back up to the top because we're
+[01:17] going to users and companies and then
+[01:19] selecting groups. Okay. From here, we're
+[01:22] going to select new. All right. We're
+[01:24] going to select our CRM application
+[01:27] because that's the one that we're
+[01:29] creating permissions for. All right,
+[01:30] we're going to name this one new
+[01:33] employees with the proper
+[01:36] caps. Perfect. Now, we're going to leave
+[01:39] the share group box unticked and API
+[01:41] keys maximum duration days over here
+[01:44] unfilled out. These handle more
+[01:46] technical permissions that we don't need
+[01:47] to worry about right now, but if you're
+[01:48] interested in learning about them, I'll
+[01:50] link some docs below. All right. Now,
+[01:53] we're actually going to get into the
+[01:54] meat of making the group. Down here,
+[01:55] select add a line inside of the users
+[01:57] tab. And we're going to select who to
+[02:00] add. It is going to be Ernest Reed
+[02:03] and select Jeffrey Kelly. We're going to
+[02:05] pick both of them right there. And then
+[02:08] we're going to select. Next, I'm going
+[02:10] to click into the menus tab over here.
+[02:12] And you guessed it, we're going to add a
+[02:13] line. And that way, we can pick what
+[02:15] screens within the CRM app will be
+[02:17] targeted by this group. We're going to
+[02:19] search up at the top for CRM right
+[02:21] there. And then once that we're good to
+[02:24] go, we're going to check the box next to
+[02:25] it. Great. Now, I wanted to basically
+[02:29] mention that if we go up here, you'll
+[02:31] notice that there are actually sub menus
+[02:33] if we wanted to select it, but we don't
+[02:37] actually have to worry about this. Like
+[02:38] CRM- leads, we're only making
+[02:41] permissions for the entire CRM app. So,
+[02:44] we're going to close that out. and
+[02:46] instead we're just only going to do CRM
+[02:49] and select it. Great. Now, we're going
+[02:52] to click into our views tab over here
+[02:54] just to set what views the new employees
+[02:56] can see within the app itself. We want
+[02:58] them to learn, so we want to make sure
+[02:59] that they can see all of the views. So,
+[03:01] to do that, we're going to select add a
+[03:03] line. Going to be doing a lot of that
+[03:05] today and we're actually going to be
+[03:07] grouping by model over here. And now
+[03:09] this time around, type in CRM and we're
+[03:12] going to search model for CRM. Great.
+[03:15] So, we are actually going to select all
+[03:18] of them to see all of the CRM app views.
+[03:21] This is a lot of collapsible views right
+[03:23] here, but we want them all. So, we're
+[03:25] going to click on this little box over
+[03:26] here at the very top and hit select.
+[03:29] Nice. Think of these as just different
+[03:31] ways to look at a list of leads or
+[03:33] opportunities within the CRM app, like
+[03:35] the canban view or the list view. We're
+[03:37] almost done, by the way. Just hang in
+[03:39] there with me. Now, we're going to move
+[03:40] on over to our access rights tab. This
+[03:42] is where the magic happens. Since these
+[03:44] are the permissions set for Ernest and
+[03:46] Jeffrey, we're going to select add a
+[03:48] line. I promise you, we're almost done.
+[03:51] And we're going to give it a name this
+[03:53] time around. We're going to do CRM
+[03:56] dot even better. We had it right there.
+[03:58] Now, if you see over here, it's
+[04:01] essential to have a strong naming
+[04:02] convention for these just so that you
+[04:04] can tell them exactly and what their
+[04:05] purpose is. And that's why R says new
+[04:08] employee.update props. You can probably
+[04:11] guess what I'm going to do over here
+[04:12] inside of our model field. Because of
+[04:13] that, we're going to select search more.
+[04:16] Now, under the top, we're going to open
+[04:18] up and expand our search thing, and
+[04:20] we're going to select group by. And then
+[04:22] we're going to select model. Great. That
+[04:25] just makes things a little bit easier as
+[04:27] far as what I need to look at because
+[04:29] once again, we're going to search up at
+[04:30] the top for CRM. But before we do
+[04:33] anything, we're going to click the first
+[04:34] one, model CRM. This will show a bunch
+[04:36] of different permissions to manage. But
+[04:38] remember, we're doing this once so that
+[04:41] it can apply to multiple users at once
+[04:43] instead of having to do it for each of
+[04:44] them separately. So I am going to go to
+[04:48] the
+[04:49] CRMLE
+[04:50] plus.update one and we're going to click
+[04:54] it for this
+[04:55] one. All right. And finally, we're going
+[04:58] to do read access for this one just
+[05:00] since we don't want Ernest and Jeffrey
+[05:02] to modify our lead probabilities, but we
+[05:04] still want them to be able to see them.
+[05:06] I have a few more permissions to manage.
+[05:08] So, I'm going to be right back after I
+[05:10] finish those up. All right, that was
+[05:12] fast. And as you can see, I set up the
+[05:13] rest of those access rights. But don't
+[05:15] worry, the process is exactly the same
+[05:17] for all of them. Let me explain what
+[05:20] each of these little check boxes over
+[05:21] here is. These are different actions a
+[05:23] user can take within an app. For
+[05:25] example, for this new leads one up at
+[05:28] the top under the lead model. This one
+[05:30] means that any user in this group can
+[05:32] only read lead records within the CRM
+[05:36] app. They cannot create new ones in the
+[05:39] terms of the create access and they also
+[05:42] can't edit existing ones or properties
+[05:45] over here or even delete them. And this
+[05:48] is how you manage that. But let's make
+[05:50] sure everything looks right. I'm going
+[05:51] to select users and companies up at the
+[05:53] top and then we're going to select users
+[05:55] this time around. Okay, let's click into
+[05:58] one of the ones we edited, Earnest Reed.
+[06:00] Perfect. Here we go. So, if you'll
+[06:03] notice, we'll see that CRM access rights
+[06:06] under sales over here and it says our
+[06:09] group access rights name, which happens
+[06:10] to be new employees. Ah, that looks
+[06:13] good. But let's see what it looks like
+[06:15] for them.
+[06:17] Okay, so now that we're inside of
+[06:19] Earnest account, as you can tell by the
+[06:20] top right letter E, we're going to
+[06:22] select our CRM application over here.
+[06:25] Now, we're going to select leads up at
+[06:27] the top. All right, we're going to click
+[06:28] into one of these leads, like the design
+[06:30] software info one. Let's try to adjust
+[06:32] the lead's probabilities to something
+[06:34] that we like, such as
+[06:36] 42%. Oh no, access error. Wow, looks
+[06:41] like everything's working as intended.
+[06:43] And that wraps up this tutorial. To
+[06:44] recap, we created an access rights group
+[06:46] for our new employees, enabling them to
+[06:48] view information in the CRM app while
+[06:50] preventing them from editing, creating,
+[06:52] or deleting any records. Go grab a
+[06:55] snack.

@@ -1,0 +1,192 @@
+影片 ID: HxLfnOEWb6Y
+來源: https://www.youtube.com/watch?v=HxLfnOEWb6Y
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:04] Oh, hello. I didn't see you there. My
+[00:07] name is Jose Ignacio and I was a little
+[00:09] busy thinking about some of the advanced
+[00:10] features of Odoo's Contacts app. You
+[00:13] know, the Contacts app is more than just
+[00:15] an address book. It's a powerful tool
+[00:17] for understanding the relationships
+[00:19] between your business and customers,
+[00:21] vendors, other businesses, and more. You
+[00:24] can use it to track upcoming activities,
+[00:26] visualize the relationships between
+[00:28] contacts and your business, and
+[00:30] understand the structures of vendors and
+[00:33] other partners. So, let's go check it
+[00:36] out.
+[00:37] Before we begin, let's make sure that
+[00:39] we've got the Contacts app installed.
+[00:41] So, we're going to open up the Apps
+[00:43] application over here and then type in
+[00:45] the word Contacts.
+[00:47] Great. If it's not already installed,
+[00:49] click the install button that's going to
+[00:50] be up here here that looks like this one
+[00:52] right there. Then go back to the
+[00:54] dashboard if the database doesn't
+[00:56] automatically send you there.
+[00:58] All right, back. Great. Let's open up
+[01:00] the Contacts app once again.
+[01:02] Okay. So, the Contacts app opens to the
+[01:05] list view by default. And hey, you know
+[01:07] what? Let's talk about views. The list
+[01:09] view is pretty handy if you want a quick
+[01:11] overview of all the contacts in your
+[01:13] database, including any scheduled
+[01:15] activities associated with them. But,
+[01:18] it's not your only view option as you
+[01:20] can tell over here.
+[01:22] So, you can choose from multiple
+[01:24] different views by clicking on these
+[01:25] buttons over here in the corner.
+[01:27] Say you're more of a visual person. You
+[01:29] can click on our nice little Kanban view
+[01:32] button and all of your contacts will be
+[01:33] arranged as business cards. Want to see
+[01:36] all of your contacts displayed on a map?
+[01:38] I know you do. The map view next to that
+[01:41] allows that, showing pins for every
+[01:43] contact with an address. The ones
+[01:46] without addresses are still visible too
+[01:47] and you can see that down below in a
+[01:49] nice little tucked away section titled
+[01:52] unlocated.
+[01:54] So, what if you have multiple contacts
+[01:56] that are all associated with each other,
+[01:58] like one for a business and one for each
+[02:00] of its affiliated employees, just click
+[02:03] on this hierarchy view.
+[02:06] And you're going to see every business
+[02:08] contact and unaffiliated individual
+[02:10] contact. Individual contacts that are
+[02:12] affiliated with particular businesses
+[02:14] will be displayed when you click on the
+[02:17] primary contacts drop down, which is
+[02:19] this nice little purple button right
+[02:20] there.
+[02:21] And you'll see that right there. As you
+[02:22] can see, clicking on the one that we did
+[02:24] for the uh
+[02:26] Acme Corporation right there shows us
+[02:28] the three employees associated with it.
+[02:31] And finally, we have the activities
+[02:33] view, with
+[02:34] and this one you can see any scheduled
+[02:36] activities associated with a specific
+[02:38] contact, like those created by the CRM
+[02:41] app, for example.
+[02:43] Let's talk about managing contacts
+[02:45] because so many apps interface with
+[02:46] contacts, you might wind up needing to
+[02:48] manually manage your entries. I like to
+[02:51] do this from the list view, so let's go
+[02:52] back over to it at the far left. All
+[02:55] right. So, the check boxes next to a
+[02:58] contact allow you to select them, as you
+[03:01] can see me doing that. There's no limit
+[03:03] to how many you can select.
+[03:05] We actually happen to have created an
+[03:08] old contact for Hugh that we don't need
+[03:10] anymore. So, I'm going to show you our
+[03:13] options for dealing with it. So, I'm
+[03:14] going to find the check box that we have
+[03:16] next to Huey over here, and that changes
+[03:19] the header. Now, it tells us that we
+[03:20] have one contact selected up at the top
+[03:22] in this nice little I guess teal green
+[03:25] little highlighted button thing. And it
+[03:28] adds actions button, set of menu
+[03:31] options, so that we can decide what to
+[03:32] do with it. So, I'm going to go through
+[03:34] them. Export lets us create a
+[03:35] spreadsheet with the contact's
+[03:37] information. Duplicate creates a copy of
+[03:39] the contact. Archive, in this case,
+[03:42] right below that,
+[03:44] marks the contact as archived, removing
+[03:46] it from most views without deleting it.
+[03:48] Unarchive undoes that, and delete, well,
+[03:52] that deletes the contact completely.
+[03:54] It'll pop up a warning if you choose
+[03:55] that, and you may not be able to delete
+[03:57] contacts that have been used as part of
+[03:59] other apps' functionalities. You'll have
+[04:01] to archive those instead.
+[04:03] Let's actually merge this contact with
+[04:06] the one that we created earlier. So,
+[04:07] we're going to click out of that.
+[04:09] Okay, so this one actually happens to
+[04:11] have things that I don't want to lose.
+[04:13] So, now we're going to select Huey over
+[04:15] here, and we want to scroll down until
+[04:17] we see Stealthy Wood Hughman over here,
+[04:20] and then this time we're going to click
+[04:21] the actions button once again, and then
+[04:24] now we click merge.
+[04:26] Perfect. This brings up the merge window
+[04:28] letting us know which contacts are being
+[04:29] merged, and which contacts
+[04:32] will or in this case which contact,
+[04:34] excuse me, will be the one to remain,
+[04:37] singular.
+[04:38] Our destination contact is the one that
+[04:40] will be saved, so just take a moment to
+[04:42] make sure it's going to keep the one
+[04:43] that you want. And in this case, we want
+[04:45] to make sure it's the one that we want.
+[04:48] Okay, so the destination contact is our
+[04:50] first one, and you're always going to
+[04:51] want to double-check that you've also
+[04:53] selected the listed contacts.
+[04:55] Okay, so let's set this right now to, in
+[04:58] our case,
+[05:00] Well, we want to keep the Stealthy Wood
+[05:01] version of Hugh, so we're ready to go.
+[05:04] Everything looks pretty perfect. We're
+[05:06] going to merge the contacts and select
+[05:07] the button, and we're all done.
+[05:10] If you had a bunch of duplicated
+[05:12] contacts for some reason, you could use
+[05:13] the deduplicate the other contact button
+[05:16] over here to clear them out. But, we're
+[05:18] not going to worry about that for now.
+[05:20] So, finally, we can click close. Great.
+[05:24] So, you might have noticed that your
+[05:26] contacts experience doesn't match what
+[05:28] you've seen so far in this tutorial. One
+[05:30] of the big themes for the contacts app
+[05:32] is that what you'll find here is
+[05:34] determined by your level of database
+[05:36] access. The currently, in this case, the
+[05:39] currently active view and the apps and
+[05:41] modules installed to your Odoo database
+[05:43] tend to pretty much shift that. As an
+[05:45] example,
+[05:46] what you can see now is what Hughes'
+[05:49] contact page looks like as a standard
+[05:51] user, like an employee.
+[05:52] Here's what it looks like if you were
+[05:54] logged in as the database administrator.
+[05:56] And here is what a contacts page looks
+[05:58] like on a database with a lot more apps
+[06:00] installed. Notice the smart buttons.
+[06:03] Those will take you to each of the apps
+[06:05] where the contact is referenced or
+[06:07] appears, like if their name is on an
+[06:09] invoice or a meeting is scheduled with
+[06:12] them.
+[06:13] Notice also the expanded tabs.
+[06:15] More database access and more apps
+[06:17] installed means more information you can
+[06:19] edit directly on a contacts page.
+[06:21] And that concludes our deeper dive into
+[06:23] the ins and outs of the contacts app.
+[06:25] You've learned how to use the different
+[06:27] views, manage your contacts, and make
+[06:29] sure you have the functionality you want
+[06:31] from the app. Good job. Take care and
+[06:33] get out there and Odoo it.

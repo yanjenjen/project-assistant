@@ -1,0 +1,550 @@
+影片 ID: MVbwvUxnKkA
+來源: https://www.youtube.com/watch?v=MVbwvUxnKkA
+下載時間: 2026-07-15 14:25
+============================================================
+
+[00:05] hello doers my name is Jose ignasio
+[00:08] today we're going to talk about big
+[00:09] Berkeley's baked goods now this local
+[00:11] bakery has quickly made a name for
+[00:12] itself with its wide selection of unique
+[00:14] pastries pies cakes and pretty much
+[00:17] everything else in between so with daily
+[00:19] lines around the block and household
+[00:21] Hobbies being more popular than ever it
+[00:23] only makes sense for big Berkeley's
+[00:25] baked goods to answer the demand for
+[00:26] those customers and offer online courses
+[00:29] to teach people how to create Sweet
+[00:30] Treats of their very own big Berkeley
+[00:33] begins the process with one of their
+[00:35] actual pastry chefs being assigned a
+[00:36] topic based on customer interest The
+[00:39] Bakers then create an engaging
+[00:40] e-learning course full of original
+[00:42] content or OC for my acronym lovers
+[00:44] which ends up teaching the customer
+[00:46] everything they need to know about that
+[00:47] specific recipe or topic then they
+[00:50] publish the course on their website and
+[00:52] like all things with capitalism proceed
+[00:55] to sell it on their online shop and
+[00:57] finally the sales team processes the
+[00:59] payment and the customer enrolls in the
+[01:00] course and the rest is delicious history
+[01:03] but enough chitchat though let's see it
+[01:05] all in action now and learn how ODU
+[01:07] works with big Berkeley's baked goods
+[01:09] now just as I mentioned the process
+[01:11] begins when a baker is tasked with
+[01:12] creating an online course about a
+[01:13] particular recipe or a topic the baker
+[01:16] uses the e-learning application to
+[01:18] accomplish this and the first step for
+[01:19] them is basically create a course this
+[01:21] can be done in the back end of the app
+[01:23] or on the front end of their own website
+[01:26] now for this example I'm going to
+[01:27] quickly build an e-learning course
+[01:28] directly from the website's front end
+[01:30] end don't worry I'm going to focus on
+[01:31] the back end briefly as well so let's
+[01:33] jump into our website application
+[01:35] perfect looks beautiful everything looks
+[01:37] good there and now on the top right
+[01:38] corner we're going to select that gray
+[01:39] new button and then we're going to
+[01:41] select course we're making a course
+[01:43] right here okay so we need a title mine
+[01:45] is going to be basics of baking
+[01:48] beautiful and then we're going to need a
+[01:50] tag and from this drop down I'm going to
+[01:52] select basic because it's
+[01:54] basic that already makes it easy now up
+[01:57] next we want to choose a layout the one
+[01:58] on the left over here happens to be our
+[02:01] training layouts and that's already our
+[02:03] default option so that's the one that we
+[02:04] want to stick with moving forward with
+[02:07] that what do every course need
+[02:08] description of course I'm going to
+[02:10] select an informative production to the
+[02:13] introduction to the wonderful world of
+[02:15] baking small little dupsy right there
+[02:17] with my illiteracy but now that we're
+[02:21] moving on from that I'd like to talk
+[02:22] about this allow rating option right
+[02:24] there if it's toggled basically means
+[02:26] that students can review the course and
+[02:28] I'm sure if you do a good job it'll be a
+[02:30] very good review then I'm also going to
+[02:32] keep our enroll policy over here set to
+[02:34] open because we need people to enroll
+[02:36] and finally once we're done with that
+[02:38] just hit save and in seconds like nanocs
+[02:42] ODU takes me to the new course template
+[02:44] page on the front end of my website this
+[02:46] is where I'm going to be building my
+[02:48] course so here I can edit all sorts of
+[02:50] things for my e-learning course as well
+[02:52] I could add section contents over here
+[02:55] and I can also add little sections right
+[02:56] there if I wanted to and I can add them
+[02:59] from those buttons right there and that
+[03:00] makes it really easy so if I hit the
+[03:02] edit button though in the top right
+[03:03] corner there's something even cooler
+[03:05] that I could add and I could show now we
+[03:07] see all of odu's dynamic website
+[03:09] building blocks and features that allow
+[03:11] me to design the look and layout of my
+[03:13] website any way that I want and in our
+[03:15] case our course any way that we want but
+[03:18] right now I'm actually going to exit
+[03:20] edit mode via the save button right
+[03:22] there so for now let's just focus on
+[03:25] content so let's click add a section
+[03:28] right here what are we going to name
+[03:29] this one going to call this one intro
+[03:31] and then we're going to save right there
+[03:33] perfect it's empty right now so after
+[03:35] that what does a section need it needs
+[03:37] content so we're going to select add
+[03:39] contents and from here it gives you the
+[03:41] option of uploading six different types
+[03:44] in my case the very first one that I'm
+[03:45] going to be doing is a PDF so with that
+[03:48] in mind I'm going to select documents
+[03:51] and now we have something else over here
+[03:52] we have a full option of where we want
+[03:54] to upload either from our device from
+[03:56] Google Drive I'm going to choose a file
+[03:58] from my own desktop and it's going to be
+[04:01] baking related just a PDF on the baking
+[04:05] 101 so you notice something cool happen
+[04:08] the title would automatically populate
+[04:11] and I'm going to select in my case for
+[04:12] our section the introduction section
+[04:15] right there and lastly we're going to
+[04:17] modify the duration just because I want
+[04:19] people to be very I guess prepared it's
+[04:23] not going to be 10 minutes it's a quick
+[04:24] one it's a nice little read it's five
+[04:27] and then once we're done with that get
+[04:29] save in public publish so let's save and
+[04:32] publish and well I'm not going to lie to
+[04:34] you OD is it's still a little bit bare
+[04:36] so let's add more content by clicking on
+[04:38] ADD content right there this time let's
+[04:41] select in our case we're going to pick
+[04:43] article this time around okay and we're
+[04:46] going to title this one well actually
+[04:48] first let's pick a section so you
+[04:49] understand it we're going to select the
+[04:50] intro section and I'm going to title
+[04:52] this one common baking
+[04:55] mistakes got to have two wrongs to make
+[04:57] a right and then for this one it's going
+[05:00] to be 15 minutes for that and once again
+[05:04] save and publish then ODU automatically
+[05:07] takes me to a blank lesson web page that
+[05:09] I can design just like any other page
+[05:11] and we can customize it any way we want
+[05:13] using the edit sidebar that opens up
+[05:14] over here on the right side so to start
+[05:18] I think we're going to need a banner
+[05:20] that I'm going to drag over here and
+[05:23] then I think I also want to add let's
+[05:26] put a picture maybe any of these ones
+[05:29] that look kind of nice I think I'm just
+[05:31] going to have a normal image one so we
+[05:33] have a banner and then let's pick a
+[05:35] picture one that has columns as well
+[05:37] there we
+[05:39] go and then once we're done with that
+[05:41] look at that we're actually making a
+[05:43] pretty sick looking website right there
+[05:46] I don't know what I want to put in it
+[05:47] yet but we're going to come back and
+[05:48] modify the blocks later on but I just
+[05:50] wanted to show how easy it was to move
+[05:52] stuff around and look at that it looks
+[05:54] beautiful already and then once I'm done
+[05:55] with that we just hit save and we're
+[05:57] ready to move on and now now that I'm
+[05:59] done over here I think it's time for us
+[06:02] to go back to our basics of baking
+[06:04] course page via in our case the title
+[06:06] link up at the top I'll make it really
+[06:08] quick for you to do stuff and here I
+[06:10] think it's time for us to add another
+[06:11] section what are we going to name this
+[06:12] one I'm thinking
+[06:14] basing it on the basics of baking so
+[06:18] baking Basics and then we're going to
+[06:20] hit save I like how it just kind of like
+[06:22] Stacks them so if you're moving forward
+[06:24] it makes it really easy to know where
+[06:26] you're going so once again adding
+[06:28] content this time around
+[06:30] and very quickly since I'm realizing
+[06:32] that I need something a quick link for
+[06:35] this one I'm going to uh copy my link
+[06:38] over here because it's a video that
+[06:39] we're going to be adding and I want to
+[06:41] show something cool with that so when I
+[06:42] put that in there ah There It Is
+[06:45] Everything autop populated and I'm going
+[06:47] to keep our autop populated title and
+[06:49] once again faking Basics now this time
+[06:52] for our section and as you can see
+[06:54] there's an even cooler part the
+[06:56] estimated completion time automatically
+[06:58] changed on its own lucky seven very
+[07:00] sweet like those cookies so save and
+[07:03] publish now I think it's time for us to
+[07:05] add another section by selecting add a
+[07:08] section I'm moving fast with these this
+[07:10] time around test your
+[07:13] knowledge pop quiz time o doers okay now
+[07:17] we're going to add content for this one
+[07:18] and this time around we're going to
+[07:19] select the quiz I want to make sure to
+[07:20] get through everything and this time
+[07:22] we're going to test our viewers we're
+[07:23] going to title this one basics of baking
+[07:27] quiz
+[07:30] okay perfect or BBQ for my acronym
+[07:33] lovers H that was an accident but it
+[07:35] happened so we're going to set it in the
+[07:37] test your knowledge section because it's
+[07:39] a quiz right there and then I'm going to
+[07:42] put 10 minutes on this I don't want to
+[07:43] bore people and I don't want them to
+[07:45] think it's anything crazy and we're
+[07:46] going to select save and publish great
+[07:49] okay we've now been moved to a blank
+[07:50] quiz form over here so you guessed it
+[07:52] we're going to fill it out let's write
+[07:54] the first question it's a very important
+[07:56] our kitchen utensils
+[08:01] required for
+[08:04] baking I really hope you get this one
+[08:06] right outd doers I'm going to create the
+[08:07] answers yes no very last one is I
+[08:13] don't no okay yes so doers obviously
+[08:19] Mark yes kitchen utensils are quite
+[08:23] required okay and then once that we're
+[08:25] done with all of this we can move on I'm
+[08:28] actually going to hover our cursor over
+[08:29] to the left you see that little cancel
+[08:32] button right there now there's a save
+[08:34] button right there that was pretty cool
+[08:37] okay don't worry we're all done with
+[08:39] this and I'm going to come back to this
+[08:41] and add more questions later but for now
+[08:42] let's scroll back up to the top and once
+[08:44] again basics of baking back over here
+[08:47] all right thanks for hanging in there
+[08:49] with me I know we just went over a lot
+[08:50] but we have one last piece of content to
+[08:52] add once again we're going to select add
+[08:54] content over here and this time around
+[08:57] we're going to select the word
+[08:58] certification I want to cover some of
+[08:59] these for you but first I I want to make
+[09:03] a quick note and it should be noted that
+[09:05] you're going to need the surveys app
+[09:07] installed on your database in order to
+[09:08] configure certifications which you just
+[09:10] saw me do if you don't have the
+[09:11] application please go to the apps
+[09:13] application and install it if you need
+[09:15] help drop me a comment I will help you
+[09:18] now thinking ahead I actually made a
+[09:19] certificate for this course so we can
+[09:21] just select it right here rookie Baker
+[09:25] certification so we created this for
+[09:28] other intro courses as well and
+[09:30] certifications are just as easy to make
+[09:31] as quizzes we're going to put this one
+[09:33] once again inside of our test your
+[09:35] knowledge section over there and I'm
+[09:38] gonna actually put a tag here it's going
+[09:39] to be
+[09:42] certification but oh wait we don't have
+[09:45] one so I'm just going to create that as
+[09:47] a new tag then once that we're done with
+[09:50] that well you guess it OD doers we have
+[09:52] our nice completion time and I'm going
+[09:53] to just leave that at blank and save and
+[09:55] publish great like many things
+[09:58] certifications like these are made or
+[10:00] edited in the back end of ODU to access
+[10:02] them we actually need to hop over to the
+[10:05] e-learning application so let's actually
+[10:07] go do that real quick Road doers so
+[10:10] we're going to go back so to get there
+[10:13] we're going to open up the e-learning
+[10:15] application from our main dashboard
+[10:16] select courses in the top left and
+[10:18] certifications then you select new once
+[10:21] you're inside of here similar to a quiz
+[10:22] it's a blank form that we can edit to
+[10:24] our heart's desire then once that you're
+[10:26] done doing all your little edits and
+[10:28] everything you'll come back back over to
+[10:30] the courses page and inside of here on
+[10:33] the front end you can link the
+[10:35] certification as you saw me do earlier
+[10:37] when the course has started ODU takes
+[10:38] the participant to the beginning of the
+[10:40] course which in this case will end in a
+[10:42] quiz and certification keep in mind a
+[10:44] certification is basically just a quiz
+[10:46] but with more concrete rewards in other
+[10:50] words you become certified upon
+[10:52] showcasing your retain knowledge from
+[10:54] the course so let's get out of here
+[10:56] we're going to go back home and then
+[10:57] we're going to select the website
+[10:58] application once again and now that we
+[11:01] have our site let's open up the site
+[11:03] menu over here and we're going to select
+[11:04] the word courses right there now we're
+[11:06] back to our basics of baking page so all
+[11:10] of this it looks pretty good but I'm
+[11:12] going to make some changes just because
+[11:15] I need to make it a bit more nicer I'm
+[11:17] going to do that over in the back end of
+[11:19] the e-learning application which I can
+[11:20] quickly access by clicking on our small
+[11:23] course button up in the very top right
+[11:24] corner boom there we are so this is my
+[11:27] course template page in the back end of
+[11:29] the e-learning application even though
+[11:32] it says that we are still inside of the
+[11:33] website application we see the course
+[11:36] backend view because all of Odo apps are
+[11:38] integrated and that makes it really
+[11:40] really easy to work with so we can also
+[11:42] access this view from the e-learning app
+[11:44] as well show you that I'm actually going
+[11:45] to go over to main dashboard once again
+[11:48] we're going to click on e-learning and
+[11:51] then we're going to select our course
+[11:53] and boom there we are again so here you
+[11:56] can actually see my content as well as
+[11:59] has the description options and Karma
+[12:01] tabs first we actually need to add an
+[12:04] image to my course I just realized it
+[12:06] looks pretty barent so I'm going to
+[12:07] hover over here and we'll notice a
+[12:09] pencil appears now we just need to put
+[12:11] something very nice and fancy there we
+[12:13] go I've uploaded my logo right now and
+[12:16] this is now my course photo after that's
+[12:18] done going to hop on over to our Karma
+[12:20] tab over here so from here I can control
+[12:22] how many points I want to reward my
+[12:24] participants for viewing and or sorry
+[12:27] for reviewing or completing the course
+[12:29] as well all of that is done here in our
+[12:31] reward section and we can change it
+[12:33] however we'd like inside of our access
+[12:35] right section though there's something
+[12:36] important I can actually determine how
+[12:38] many points a participant must have
+[12:40] before they can add a review comment or
+[12:41] vote on the course we don't want to get
+[12:43] a ton of bad reviews for no reason if I
+[12:46] wanted every participant to review
+[12:48] comment or vote I'd actually change
+[12:50] everything that we have over here to
+[12:51] zeros so moving on we're going to go
+[12:53] over here to our options Tab and we have
+[12:56] quite a bit of options I'm actually just
+[12:58] Main here because I need to change the
+[13:01] enroll policy under access rights and we
+[13:03] have that over here I only want people
+[13:06] who paid for this course to be able to
+[13:08] enroll in it I forgot but if you recall
+[13:11] I'm going to sell this course online
+[13:12] because there's been a lot of demand for
+[13:14] it and my hardwork and Bakers deserve
+[13:16] some monetary compensation for sharing
+[13:18] their expertise with this world so I'm
+[13:20] going to select on payments perfect so
+[13:24] when I do that you notice something else
+[13:26] happens so we're going to hit save real
+[13:27] quick so once that I did that a sales
+[13:32] smart has appeared at the top of the
+[13:33] template form what does that mean well
+[13:36] inside of here I can actually control a
+[13:38] few different things such
+[13:40] as who bought my course and how many of
+[13:43] them have been sold and it'll always
+[13:45] update right there right now we haven't
+[13:46] sold anything so it hasn't updated but
+[13:48] also when on payment was selected you'll
+[13:49] notice we had a nice little product Feld
+[13:52] beneath it remember your course needs to
+[13:54] be a product in your product catalog in
+[13:56] order to sell it online that makes sense
+[13:58] right you can create your course as a
+[14:00] product on the products page itself
+[14:02] located in the Sales inventory or
+[14:04] website application or even easier you
+[14:07] can type in the title of your course as
+[14:08] a product here as well in my case I'm
+[14:13] going to type in the
+[14:15] basics of baking course I'm doing this
+[14:20] now just to show you how easy it is
+[14:21] because I realized I forgot to do this
+[14:23] so we're going to create and edit this
+[14:24] right there so that opened up a popup
+[14:27] product template form where you can
+[14:29] further configure your courses as any
+[14:31] types of different products as you'd
+[14:32] like so I'm going to make sure the title
+[14:35] matches check I'm also going to make
+[14:38] sure in my case right here that my
+[14:40] product and the checkbox over here next
+[14:42] to sales is selected and then I'm going
+[14:45] to keep the product type set in my case
+[14:47] as service all looks good for me right
+[14:50] now so next I need to set the sales
+[14:53] price in my case not a dollar $30 we're
+[14:55] going to make that actually
+[14:57] $35 and then finally finally I'll add
+[14:59] the same image here for the course just
+[15:02] so that I have a nice parallel View and
+[15:04] it's all done great that's it now I have
+[15:07] to do a save and close and just like
+[15:08] that we just did that in like 30 seconds
+[15:10] so another thing that you're going to
+[15:12] want to remember is your course as a
+[15:14] product must be published in order for
+[15:16] your customers to see and purchase it
+[15:18] now this is all done automatically once
+[15:20] that I hit save and close as I did
+[15:22] earlier on that and I also did the
+[15:23] manual save but back over here to our
+[15:25] options tab if I click on our internal
+[15:28] link Arrow right
+[15:30] there look at that I'm back over here
+[15:33] and as indicated by the green go to
+[15:34] website smart button it's actually
+[15:37] published so when I click that as you
+[15:40] can see there's now a price to enroll
+[15:42] inside of this course and customers can
+[15:44] add it to their carts with one simple
+[15:46] click but enough practice over here and
+[15:50] enough Theory I think it's time for us
+[15:52] to really
+[15:53] showcase so before we can actually dive
+[15:56] into a very quick Showcase of our actual
+[15:59] course I wanted to talk about how we
+[16:01] publish it first because it needs to be
+[16:02] published then people need to be able to
+[16:04] see it so we actually just select up
+[16:05] here at the top once that we're on our
+[16:07] course we select the publish right there
+[16:10] and once that's done we're ready to go
+[16:13] now it's time to show you what a
+[16:14] customer sees so let's pretend that I'm
+[16:17] a customer who's recently heard about
+[16:18] the basics of baking course and I wanted
+[16:20] to enroll in it so let's actually select
+[16:22] our course now from the courses page
+[16:25] over here on our actual big Berkeley
+[16:27] website so I want wanted to make a quick
+[16:29] note as well that in addition to finding
+[16:31] this course on our e-commerce shop up at
+[16:33] the top you could reach it in our case
+[16:35] from our courses and then people can
+[16:37] select multiple from here if they wanted
+[16:39] to and directly added to cart which I'm
+[16:41] going to show you now by selecting it so
+[16:43] let's head on over to our carts and
+[16:45] we're going to check out right now okay
+[16:47] so I'm going to need an email and a few
+[16:49] other things here so I'm going to
+[16:51] automatically fill this out real quick
+[16:54] just so that no one steals my money and
+[16:56] YouTube knows that this is fake
+[16:58] information
+[17:06] as you can tell from this ODU has the
+[17:08] ability to utilize a number of payment
+[17:09] methods and payment acquires now a
+[17:12] customer can start enjoying the course
+[17:13] that I just built from scratch if you'd
+[17:15] prefer an alternative to this is to
+[17:17] process the payments through our sales
+[17:19] app with an invoice directly adding the
+[17:21] product over to the product
+[17:22] lines so after I finished paying into
+[17:25] everything I'm back over here on the
+[17:26] website if I head on over to the courses
+[17:28] page and then I select our basics of
+[17:31] baking course you can see everything
+[17:33] went great because I am now enrolled and
+[17:36] I could view stuff now if I wanted to
+[17:39] wow marvelous I'm utterly speechless for
+[17:42] further information let's pretend that I
+[17:44] was mid- baking and forgot what I was
+[17:45] working on maybe there is some section
+[17:47] that I can't find anymore if I need to I
+[17:50] can actually just go back over out of
+[17:51] here back to our course and here on the
+[17:54] first page I could see our additional
+[17:56] resources I could check stuff such as
+[17:58] which Which documents do I want to check
+[18:00] out or video I can click any of them
+[18:02] here and select items that I might have
+[18:03] forgotten about there you have it I was
+[18:06] able to create and sell an online course
+[18:07] in just a few minutes with ODU
+[18:08] e-learning but what made all of this
+[18:12] possible well first in addition to
+[18:14] having the e-learning e-commerce website
+[18:16] sales and even the survey and email
+[18:19] marketing modules installed you're going
+[18:21] to want to have every setting in the
+[18:22] e-learning app found under configuration
+[18:25] and settings activated for the most
+[18:27] optimal e-learning experience don't
+[18:29] worry there's only four to choose from
+[18:31] I'm actually just going to show you real
+[18:33] quick how to get there so let's get out
+[18:35] of here we're going to select e-learning
+[18:37] once again configuration and
+[18:39] settings okay don't care about that all
+[18:41] right there you go make sure these are
+[18:43] all selected and just the heads up if
+[18:44] you choose to enable in my case the
+[18:46] mailing option right there you will need
+[18:48] to install the email marketing module
+[18:50] and if you choose to activate
+[18:51] certifications as well up there the
+[18:53] surveys application will need to be
+[18:55] installed so if you're looking to
+[18:56] recreate a similar flow to the one that
+[18:58] I just showed showcase simply follow the
+[19:00] steps that we went over and feel free to
+[19:01] make any changes just make it your own
+[19:05] it's truly easy to customize these as
+[19:06] you saw and you can have them tailored
+[19:09] specifically to your Market audience and
+[19:12] that's it that's how you build publish
+[19:13] and sell engaging informative and
+[19:15] completely customizable e-learning
+[19:16] courses from a toz with ODU now that
+[19:18] everyone's hungry after talking about
+[19:20] all these delicious baked goods be sure
+[19:22] to support your local bakery I think you
+[19:24] deserve a treat after this lesson
+[19:26] anyways I know I do it's all for now our
+[19:28] doers but stay tuned for more of these
+[19:29] business cases I'm coming after you big
+[19:32] business Bros

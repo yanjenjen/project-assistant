@@ -1,0 +1,190 @@
+影片 ID: JJtGJTYkss4
+來源: https://www.youtube.com/watch?v=JJtGJTYkss4
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:00] [Music]
+[00:05] What's up Odooers? Nathan here with
+[00:07] another Odoo tutorial. Today we're going
+[00:09] to dive into the Odoo calendar app, a
+[00:11] powerful tool that keeps your schedule
+[00:13] connected across your entire workspace.
+[00:16] You can create, view, and edit meetings
+[00:17] right from your calendar or even from a
+[00:19] record's chatter, so you're always just
+[00:20] a click away from staying organized.
+[00:23] Let's dive into our database and explore
+[00:24] how quickly and easily you can set up a
+[00:26] meeting in Odoo calendar.
+[00:29] All right, so we're kicking things off
+[00:30] here on our main Odoo dashboard, and of
+[00:33] course we can simply open up the
+[00:34] calendar app to view my schedule and
+[00:36] create events, but since this app is
+[00:38] fully integrated, I can also schedule
+[00:40] meetings directly from a record's
+[00:41] chatter.
+[00:42] So, let's jump into the CRM app to see
+[00:44] how that works, and it's also worth
+[00:46] noting that every record in Odoo has a
+[00:48] chatter section. For example, if we
+[00:51] click into this 5 VP Chairs card for
+[00:53] Ready Mat and scroll down,
+[00:55] here is the chatter where we can see any
+[00:57] updates, messages, notes, as well as any
+[01:00] scheduled activities.
+[01:01] So, we want to schedule a meeting, and
+[01:04] to do that we're going to click this
+[01:05] activity button here and simply change
+[01:07] the activity type to meeting.
+[01:09] And then from here we could click
+[01:10] schedule.
+[01:13] Once we click that schedule button, it
+[01:14] takes us straight to the calendar app.
+[01:16] Here I can select a date and time that I
+[01:18] want to schedule, but first I need to
+[01:20] make sure that my teammate Abigail is
+[01:22] available to join this meeting.
+[01:24] To check their availability, I can add
+[01:26] Abigail to the attendees list,
+[01:29] and once she's been added, her schedule
+[01:31] will appear on top of my calendar
+[01:33] schedule.
+[01:35] So, this makes her schedule visible to
+[01:37] me, so I can find a time that works for
+[01:38] both of us. However, keep in mind adding
+[01:41] Abigail here doesn't actually schedule
+[01:42] the meeting on her calendar yet. It only
+[01:45] shows me her availability.
+[01:47] So, to create the actual event, I can
+[01:49] either click new in the top left corner,
+[01:51] or I can simply click on the time slot
+[01:54] that I want to schedule this meeting
+[01:55] for. And it looks like she's available
+[01:57] tomorrow around 11:00 a.m., so let's go
+[01:59] ahead and click on that time.
+[02:01] And as soon as I do that, a new event
+[02:04] pop-up window appears. We can input the
+[02:07] event details here and then click save,
+[02:09] but instead we're going to go ahead and
+[02:11] click on this more options button for a
+[02:13] more detailed and expanded view.
+[02:16] Let's start by adding a new meeting
+[02:17] subject. Currently it's 5 VP Chairs, but
+[02:20] we're going to update this to service
+[02:22] presentation for Ready Mat.
+[02:24] And earlier we added Abigail under
+[02:26] attendees to view, but that didn't
+[02:29] actually book her for anything. It only
+[02:31] let us see her schedule. So, we're going
+[02:33] to officially add her to this meeting so
+[02:35] it appears on her calendar, and to do
+[02:37] that we're just going to select her from
+[02:39] the attendees drop-down menu.
+[02:42] I can also invite my client as their
+[02:44] contact information is already in the
+[02:46] database, so we're just going to search
+[02:48] Ready Mat,
+[02:50] and we're meeting with Billy Fox, so I'm
+[02:52] just going to click his name here.
+[02:55] Perfect.
+[02:56] So, from here I can adjust the start
+[02:57] time for this meeting. I can also
+[03:00] indicate if this is an all-day event or
+[03:02] not.
+[03:03] To keep things simple, I'm going to
+[03:04] change the duration to 2 hours because I
+[03:06] think this is going to take a little bit
+[03:08] longer than just one,
+[03:10] and when I update the duration to 2
+[03:12] hours, Odoo automatically changes the
+[03:15] end time for us.
+[03:17] For in-person meetings, I can add a
+[03:19] location here or just keep it as an
+[03:21] online meeting, and since this is a
+[03:24] virtual meeting, I can also add a video
+[03:26] link by clicking this plus Odoo meeting,
+[03:29] which instantly creates a video call
+[03:31] link through Odoo Discuss, Odoo's
+[03:34] built-in messaging and video tool.
+[03:37] You'll also see a button to the right of
+[03:38] it which allows us to directly join this
+[03:41] video call, ready for both Abigail and
+[03:43] me to use when the time is ready.
+[03:45] Odoo also lets you control the privacy
+[03:47] settings for your meetings. Here I can
+[03:49] choose whether I want my status to
+[03:51] appear as busy or available,
+[03:54] and we also have a second privacy menu
+[03:56] here, which is for the meeting itself,
+[03:58] and we can keep this public, private, or
+[04:01] for internal users only. I'm going to
+[04:03] change this to private.
+[04:06] Finally, if we jump down to the options
+[04:08] tab,
+[04:09] we can see that I'm set as the
+[04:11] organizer, Mitchell Admin, but I can
+[04:14] also reassign this to any user in my
+[04:16] database if I like.
+[04:18] I can also add a short calendar
+[04:20] description towards the bottom here, so
+[04:22] Odoo really covers every detail.
+[04:25] I can also add a quick tag for
+[04:26] reference, and we're going to add
+[04:28] customer meeting just so we know what
+[04:29] this meeting's all about. And in the
+[04:32] event this is a recurring meeting, we
+[04:34] could toggle this recurrent button right
+[04:36] here.
+[04:37] And if you're like me and need reminders
+[04:38] for everything, Odoo also makes that
+[04:40] easy, and we can add a reminder here by
+[04:42] clicking this drop-down menu, and I'm
+[04:45] going to select this email 6 hours.
+[04:48] This will send an email to all attendees
+[04:50] 6 hours prior to the meeting start time.
+[04:53] Just so you know, you can also create
+[04:55] custom reminder types as well.
+[04:57] So, once everything looks good, I'll
+[04:59] just scroll back up and click this email
+[05:01] button next to the attendees field.
+[05:08] And Odoo will automatically use the
+[05:10] calendar event update template. However,
+[05:13] I can edit this as I like or even change
+[05:15] this to a different template.
+[05:17] However, I'm happy with this, so I'm
+[05:19] simply going to click send.
+[05:24] So, now we can use the breadcrumbs to
+[05:26] get back to our calendar view,
+[05:29] and when we do, we can see that our
+[05:31] event is saved and visible on both
+[05:33] Abigail and my calendar.
+[05:36] And if we click into the event, we can
+[05:37] see the event summary here.
+[05:40] It shows us the attendees. We can see
+[05:42] our tags, our email reminder,
+[05:45] the organizer info, and we can also see
+[05:47] there's a green checkmark beside my
+[05:49] avatar, which confirms that I've
+[05:51] accepted the invite. And of course we
+[05:53] have our video call link here that opens
+[05:55] the chat directly in Odoo Discuss,
+[05:58] keeping everything connected.
+[06:00] And when I'm done, I can go back to our
+[06:03] 5 VP Chairs opportunity, and in the
+[06:05] chatter I can mark this event as done,
+[06:08] reschedule it, or even cancel it
+[06:11] altogether. Pretty cool, right?
+[06:13] And that's it. Odoo makes scheduling
+[06:16] meetings from any record quick and
+[06:17] effortless. With just a few clicks, I
+[06:20] can view my team members' calendars,
+[06:22] find the perfect time, and set automatic
+[06:24] reminders for everyone attending.
+[06:26] That's all for now, but be sure to check
+[06:28] out our other tutorials and
+[06:29] documentation to learn even more about
+[06:31] managing activities in Odoo.
+[06:33] Until the next video,
+[06:35] thanks for watching.
+[06:37] [Music]

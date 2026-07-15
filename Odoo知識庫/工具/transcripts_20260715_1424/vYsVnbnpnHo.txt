@@ -1,0 +1,811 @@
+影片 ID: vYsVnbnpnHo
+來源: https://www.youtube.com/watch?v=vYsVnbnpnHo
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:04] hello doers my name is Jose gasio so for
+[00:08] this business flow we're going to be
+[00:09] discovering how Cozy home manages its
+[00:11] furniture store using ODU Cozy home
+[00:13] sells upscale furniture and home
+[00:15] accessories from kind of stuff like in
+[00:17] this room like sofas low tables like
+[00:20] over there you know for your living room
+[00:22] maybe even stuff for your beds and
+[00:24] nightstands for the bedroom however
+[00:26] let's not get ahead of ourselves talking
+[00:28] about furniture because before in
+[00:30] anything marketing comes into play the
+[00:33] marketing Department's role is to create
+[00:34] a leads for the sales team and there are
+[00:37] many different ways of doing that so
+[00:39] let's start with our main one building a
+[00:41] website for Cozy home so enough chitchat
+[00:43] let's get right into this database okay
+[00:45] de so here we are on our website's
+[00:47] homepage you're going to select Ed in
+[00:48] the top right corner just to get started
+[00:50] customizing it so as you can already
+[00:52] tell we have selected our own theme
+[00:55] already for the website but we can
+[00:56] always change our themes or edit the
+[00:57] colors as well inside of our website
+[00:59] editor
+[01:00] so on the right side of the scen over
+[01:02] here we have our web editor there's
+[01:03] blocks customization Tab and as well as
+[01:06] our Theme tab I'm going to click into
+[01:08] the Theme tab because I just talked
+[01:10] about how we can switch themes so let's
+[01:12] hit the button that says switch theme
+[01:13] and okay to proceed forward now o
+[01:16] immediately takes us over here to where
+[01:18] we see a very beautiful view of all of
+[01:20] our selectable themes from here I can
+[01:22] choose any one of these and if I hover
+[01:24] my mouse over them gives me a quick
+[01:26] little scroll so I could see what's
+[01:28] going on and in this case I think I like
+[01:31] the one that I designed already and I
+[01:32] want to further customize it so let's
+[01:34] hit X out of there I'm just showing you
+[01:36] that in case you wanted to change it up
+[01:38] just want to show how easy that is all
+[01:40] right let's start building cozy holm's
+[01:41] website with odu's simple drag and drop
+[01:43] functionality so to start I'm going to
+[01:45] select edit once again and right now I
+[01:47] am over here in our blocks I'm going to
+[01:49] be adding a few of these building blocks
+[01:51] very first one I want is an
+[01:53] introduction I'm going select this one
+[01:55] because it has a
+[01:57] quote we are the best company ever this
+[02:01] is going to be important and you'll see
+[02:03] why soon enough let's go back again once
+[02:05] to the blocks okay so we have our intro
+[02:08] let's add some columns following that
+[02:11] and once again we can always pick what
+[02:12] types of columns are specifics that we
+[02:14] want and this one right here that has
+[02:16] selections well that relates the most to
+[02:18] what we're selling which is products and
+[02:20] then finally moving on we're going to
+[02:22] have some text because I got a lot of
+[02:23] pictures going on this one's pretty good
+[02:27] so we have seemingly built something
+[02:28] already that looks pretty good it's
+[02:30] coherent let's edit some of these things
+[02:32] and our style so we're going to start
+[02:34] with a cover up at the top so now I
+[02:36] think it's time for us to change the
+[02:38] title which as you could tell I'm just
+[02:39] clicking things and it just lets me edit
+[02:41] them awaken your inner
+[02:45] designer man this is actually incredibly
+[02:47] easy okay and then let's also edit this
+[02:50] nice little subtext that we have right
+[02:52] below it we hand
+[02:55] pick
+[02:57] Furniture you will love beautiful you
+[03:01] know what I don't like this button that
+[03:02] says start now it doesn't feel as modern
+[03:06] R is going to say
+[03:09] discover it's very mysterious and it
+[03:11] works as a button and if we would like
+[03:13] we can actually even use AI to be a
+[03:15] better copywriter I mean look at this we
+[03:17] are the best company ever so if I
+[03:19] highlight it right there and I'd like a
+[03:21] suggestion for it all I have to do is
+[03:24] select the AI button over here under the
+[03:26] customized tab at the very bottom and
+[03:29] just like that I get a few better
+[03:32] sentences and then look at that right
+[03:36] there I think we want this one and it
+[03:37] gives you a few other options like in my
+[03:39] case let's lengthen it I need people to
+[03:41] know
+[03:44] o oh my God now we're cooking it's like
+[03:48] Jose ignasio didn't even write that and
+[03:50] furthermore than that I think we need a
+[03:51] little bit more of a serious color
+[03:53] change I can change the text and button
+[03:55] and colors as well so to do that we're
+[03:57] back over here on our website editor on
+[04:00] the right hand side and for the
+[04:02] background I'm just going to select
+[04:04] somewhere up here and you see this
+[04:06] little bubble right there next to
+[04:07] background if we select it we can start
+[04:09] to change our colors and we immediately
+[04:11] see changes as we're hovering them if
+[04:13] we' like once we find something that we
+[04:15] like we just select it and I'm going to
+[04:18] click that one because it looks even
+[04:21] cooler now look at this we're just
+[04:22] cooking all right I can actually also
+[04:25] edit the button colors as well we want a
+[04:27] little contrast we want to basically
+[04:28] redirect people
+[04:30] so if we go over here and we select the
+[04:32] link right there we can edit the link
+[04:34] that this button is going to take people
+[04:35] to and you could paste it right there if
+[04:37] you would like to for the time sake I'm
+[04:40] not going to do that right now I just
+[04:41] wanted do to see what else we can do so
+[04:44] let's move a bit forward all right now
+[04:47] we're here at our column block below and
+[04:49] I would like to change one of these
+[04:51] pictures just to show you because even
+[04:53] better odor provides us with a database
+[04:55] filled with royalty-free images I can
+[04:57] use no need to use another site or app
+[04:59] it says easy as just a quick in my case
+[05:02] nice little double click right there on
+[05:04] this first image and then if we search
+[05:06] for the word
+[05:09] furniture look at that I have a whole
+[05:11] bunch of stuff appearing you kind of
+[05:13] want to match that style so I'm going to
+[05:14] go with this I don't know this black
+[05:17] chair o for elegant that's beautiful
+[05:20] right there that showcases everything
+[05:21] for you but in my case let's assume
+[05:23] we're going to go back in there I
+[05:24] already have an image that I like to use
+[05:26] if I wanted to I just upload it here and
+[05:28] it'll appear below I've done that ahead
+[05:31] to save us some time with this nice
+[05:32] little frog chair that I had right there
+[05:34] and seamlessly it's immediately pasted
+[05:37] right there and it's really easy for the
+[05:39] rest of these so let's move forward
+[05:43] though so you might be asking yourself
+[05:45] what else can we do well remember that
+[05:47] text block that I just added well here
+[05:50] if I wanted to if I highlight some text
+[05:52] I can actually add a short story about
+[05:54] Cozy holm's Mission now I could do that
+[05:56] very manually and try to come up with
+[05:58] nice anecdotes or if I wanted to I could
+[06:01] just highlight the text that I have like
+[06:02] this do the slash chat gbt right there
+[06:07] boom we can actually use chat GPT to
+[06:09] create a paragraph about our company so
+[06:12] I'm going to give
+[06:13] it an option to create a paragraph on
+[06:16] cozy Holmes commitment to 100% customer
+[06:19] satisfaction like that it's created it
+[06:21] but this seems incredibly long people
+[06:23] won't read it so I'm going to say please
+[06:26] shorten it
+[06:30] and just like that it starts thinking
+[06:31] and boom now we have it now he's cooking
+[06:34] okay let's inser that by just selecting
+[06:35] the insert button right there and just
+[06:37] like that it's right there so options
+[06:39] like this are what really helps us help
+[06:41] you this means that someone with zero
+[06:43] design skills whatsoever can just use
+[06:45] this feature and create pretty awesome
+[06:47] Pages that's some money saved and you
+[06:50] Flex that DIY muscle o doers so finally
+[06:53] once that we're all done with everything
+[06:54] that we've done here we're just going to
+[06:56] hit save in the top right corner always
+[06:58] save the one thing you need to do okay
+[07:01] now once that we're done with this look
+[07:03] at this ah it just looks so cool
+[07:05] everything is there and now you might be
+[07:07] asking yourself what will this site look
+[07:09] like on a mobile device so to check that
+[07:12] out I'll actually just click on this
+[07:14] little mobile phone icon in the top
+[07:15] right corner and just like that look at
+[07:19] that it automatically changed the
+[07:21] placement for all of our pages and
+[07:23] everything H I love this it almost feels
+[07:25] like a whole new website but I think
+[07:27] it's time for us to work on other site
+[07:29] pages so to get there we're going to
+[07:30] need to click on that mobile icon once
+[07:32] again bring us back over here to the
+[07:34] front to our desktop view okay so the co
+[07:37] home website is going to start to get
+[07:38] visitors pretty soon however they don't
+[07:41] want people to just visit the website
+[07:43] and you know be a window shopper we need
+[07:45] conversions on those visits so that they
+[07:47] can become leads and business
+[07:49] opportunities for a sales team so to do
+[07:51] that we're going to create a basic
+[07:52] landing pages so it's a call to action
+[07:55] page so we're going to select new and
+[07:56] page and landing page is perfect we're
+[07:59] going to go with the very first one and
+[08:01] we're going to name this free shipping
+[08:02] yep we're using that tool perfect we've
+[08:05] also selected the option or by default
+[08:08] to have it added to the menu so it's
+[08:09] pretty easy to find so immediately we're
+[08:11] going to change some stuff here first of
+[08:13] all this should say free shipping with a
+[08:17] question mark because remember we're
+[08:19] trying to get them to think about it so
+[08:21] for this next part I'm going to
+[08:23] put register below for free shipping on
+[08:28] the first order
+[08:31] pretty simple and like all things inside
+[08:34] of the website builder deleting is just
+[08:35] as easy as creating but this is a pretty
+[08:37] basic page how are they supposed to fill
+[08:39] it out well let's select the blocks over
+[08:41] here on our right side and then we want
+[08:44] to be able to add in a form so it's
+[08:46] going to be a contactform that we're
+[08:48] going to put right there
+[08:49] perfect um I think I need one that has
+[08:52] Aries to fill in so let's go with this
+[08:55] one so fill this below
+[09:01] we we will
+[09:03] send email with a code to
+[09:07] follow perfect now we can move forward
+[09:09] with all of this so the very first thing
+[09:11] I need to make sure that I change here
+[09:13] inside of our website editor is I need
+[09:15] to change what the action that will
+[09:17] happen when visitors press the submit
+[09:19] button below so by selecting it now I'm
+[09:21] able to edit it so we have a few
+[09:23] different options available Cozy home
+[09:25] wants the form to feed all of the
+[09:26] information that they're going to type
+[09:27] inside of here into the CRM app creating
+[09:29] a lead that they can follow up on so
+[09:32] we're going to set this form's action to
+[09:34] create an opportunity it's way more
+[09:35] efficient than receiving the information
+[09:37] by email and manually entering
+[09:38] everything into the database so to
+[09:40] confirm that underneath the customize
+[09:41] tab over here you see right here where
+[09:43] it says action we're going to change it
+[09:44] to create an opportunity and then you
+[09:47] can further select a sales team and A
+[09:50] salesperson and it's just that easy okay
+[09:53] once that you're done with that and you
+[09:54] set the sales team in the salesperson
+[09:56] any leads generated by this form are
+[09:58] automatically assigned to the team and
+[09:59] salesperson configured inside of here so
+[10:02] in our case let's make immediately the
+[10:04] phone number needs to be required I need
+[10:07] to be able to talk to people so we just
+[10:08] select this little toggle down here and
+[10:10] now it's required so this is just so the
+[10:12] customers can submit the form without
+[10:14] entering a phone number and then moving
+[10:16] forward I see one that I don't want
+[10:18] required so now showing the opposite
+[10:20] will make that not required and it's the
+[10:22] company that is something we don't want
+[10:24] mandatory and you can tell which ones
+[10:25] are by the little asterisks right there
+[10:28] let's move on to edit some of these
+[10:29] things further so let's look at the
+[10:32] subject one over here I kind of don't
+[10:34] need this question so we're going to
+[10:36] change the label on it what are you
+[10:40] interested in this way they can kind of
+[10:42] fill it out and then it gets us a little
+[10:44] bit easier and finally for this one
+[10:46] below over here the your question I
+[10:48] think it's time for us to change this so
+[10:51] for our type on this one I actually want
+[10:53] this to be Tagged so I can select that
+[10:55] right there and look at that visitors
+[10:59] can select which Furniture types that
+[11:00] they're interested in these tags are
+[11:02] then configured inside of the CRM app
+[11:04] finally once that we're done with all of
+[11:05] this everything looks good all we have
+[11:07] to do is hit save in the top right
+[11:09] corner and then we're still not done
+[11:11] because you need to publish this so that
+[11:13] people can see it immediately and let's
+[11:15] see what this looks like for a customer
+[11:18] so I think it's time for us to fill out
+[11:19] the form to creating an opportunity
+[11:20] directly in Cozy home CRM so in a
+[11:23] customer window over here we're going to
+[11:25] see this free shipping and select it and
+[11:28] then I think it's time for us to fill
+[11:29] this out really
+[11:35] quickly so here we are on the main CRM
+[11:38] dashboard and I happen to be a
+[11:40] salesperson now so let's remove any
+[11:42] filters just to make sure we get a good
+[11:44] board's eye view of everything and as
+[11:46] you'll notice under the news stage we
+[11:47] can see the lead that was generated from
+[11:49] the website from our very real customer
+[11:51] a moment ago so from here the nice part
+[11:54] is the sales team first tries to qualify
+[11:57] this maybe they propose something thing
+[11:59] they've called them they've messaged
+[12:01] them and once the lead has moved forward
+[12:03] they make the offer and then hopefully
+[12:05] everything goes well and it's won and we
+[12:07] see this nice little thing right there
+[12:10] but I'm going to put this back right now
+[12:12] because we haven't done any of that yet
+[12:13] don't get ahead of yourselves so let's
+[12:15] actually click into it because we're
+[12:16] going to edit this and we can actually
+[12:18] see all those changes that I did right
+[12:19] there so here furthermore inside of the
+[12:22] chatter we can actually see a comment in
+[12:24] Spanish by one of our Spanish co-workers
+[12:28] we can easily translate it if we hover
+[12:29] and we click on these three dots and we
+[12:31] select it right there but I happen to
+[12:33] understand Spanish and as another
+[12:35] footnote on this translate option you
+[12:38] have to set this up prior because it
+[12:40] won't work without the proper setup and
+[12:43] that's just being honest so moving
+[12:45] forward they've let me know at this
+[12:47] point that they don't actually think
+[12:49] that we sell quality Goods but I'm going
+[12:52] to tell them otherwise this is a good
+[12:53] note all right now let's edit some other
+[12:55] things so from here we can add our
+[12:57] expected revenue and this one happens to
+[12:59] be $1,000 as he told us this person
+[13:02] wants to spend a lot of money so if we
+[13:05] wanted to we could even check the web
+[13:07] pages that they viewed if we click on
+[13:09] this page view smart button over here
+[13:11] they went directly to contact us because
+[13:13] they are a straight shooter so let's
+[13:14] head back using the breadcrumbs over
+[13:16] here which happen to be Victory
+[13:18] breadcrumbs so right now I want to talk
+[13:21] about the fact that we have a lot of
+[13:22] modern Integrations inside of ODU CRM
+[13:25] application let's go even more modern
+[13:28] and let's send a what'sapp message to
+[13:29] see if the potential customer wants to
+[13:31] have a phone call with the salesperson
+[13:33] we can actually even use a preconfigured
+[13:34] template to make that happen to do that
+[13:36] we select the WhatsApp button there's
+[13:38] our template right there for our CRM
+[13:39] lead and we don't need to change
+[13:42] anything we just hit send right there
+[13:43] and boom there we have it right over
+[13:45] here at the top now since everything was
+[13:48] ready to go everything went through
+[13:51] pretty quickly but let's say the
+[13:53] potential customer agreed and we can
+[13:55] actually schedule to a meeting to do
+[13:57] that we can do it directly here from the
+[13:59] opportunity all we have to select is the
+[14:01] activities button up here at the top and
+[14:03] we can do our to-do in this case this
+[14:05] one as I said is going to be a meeting
+[14:07] and we're going to just do I don't know
+[14:09] phone call with customer perfect okay
+[14:14] I'm going to select open calendar we're
+[14:16] going to pick a random time tomorrow
+[14:17] that's not too late and not too early
+[14:20] and once the world set from this popup
+[14:22] let's make the subject for
+[14:24] it cozy call just CU it is cozy furnace
+[14:29] everything else seems good so we'll just
+[14:31] hit save and close and there we have it
+[14:33] now we're going to jump back over here
+[14:35] over to our opportunity so let's once
+[14:38] again predict that it went well after
+[14:40] the call and the customer is interested
+[14:42] in purchasing some products in that case
+[14:44] we can actually send them the quote
+[14:45] directly from here by selecting new
+[14:47] quotation over here at the top then we
+[14:49] can get
+[14:50] started so I think it's time for us to
+[14:53] make sure that we can do this quotation
+[14:55] properly now they've told us the
+[14:57] products that they want they would like
+[14:59] our bed frame they would also like our
+[15:02] mattress they'd also like our
+[15:05] nightstand and I hope you keio doers are
+[15:08] seeing something that I'm seeing right
+[15:10] now they've told us they want one of
+[15:12] everything so from here we can actually
+[15:14] directly view the availability by
+[15:15] selecting on this little graph icon
+[15:17] seems we have a good bit of everything
+[15:20] else and some of our stock for some of
+[15:22] the other ones were actually not doing
+[15:23] great they happen to be in red right
+[15:25] there so what does that mean we can see
+[15:27] that we currently don't have enough
+[15:29] wardrobes or nightstands over here to go
+[15:31] forward as the icons were in red but if
+[15:34] we wanted to we can still actually go
+[15:36] forward and through with this even if we
+[15:38] don't have the products in stock we can
+[15:40] proceed with our quotation by selecting
+[15:42] over here send by email and then once
+[15:44] that we do that we can get started with
+[15:46] our template over here or if we'd like
+[15:48] to we can write it up on the fly but for
+[15:51] the sake of time I'm going to leave this
+[15:52] as is and just hit
+[15:54] send now once that we do that we get
+[15:57] over here see in the chatter a nice nice
+[15:59] little I guess I would call it a bird's
+[16:02] eyee view of everything that's happening
+[16:03] always and we can also see our PDF right
+[16:06] here if we'd like to for a quotation
+[16:08] it's always good to see these things
+[16:09] just to know hey did I send that
+[16:11] quotation maybe I didn't now we can
+[16:13] assume that they would pay online in the
+[16:15] customer portal validate the order with
+[16:18] an online signature by email or even
+[16:20] WhatsApp in this case let's once again
+[16:22] go modern new school whatever you want
+[16:25] to call it let's assume that they
+[16:26] messaged us on WhatsApp to confirm the
+[16:28] order no problem let's manually confirm
+[16:31] this quotation by clicking in our case
+[16:34] confirm and then once that we're done
+[16:36] with that it's a sales order and let's
+[16:39] also send them a confirmation message on
+[16:41] WhatsApp because we're super cool by
+[16:42] selecting inside of here WhatsApp button
+[16:45] there we have our sales order copy we
+[16:47] send it on over and boom just like that
+[16:52] awesome everything once again by default
+[16:54] was sent and now we could see right here
+[16:56] that everything went through great now
+[16:59] the sales team's job ends with the
+[17:00] creation of a sales order and since Cozy
+[17:02] home doesn't have everything in stock
+[17:04] right now we need to fix those ones that
+[17:07] we saw in the red the procurement team
+[17:08] needs to take over those are the folks
+[17:10] who will approve the necessary purchase
+[17:12] orders to replenish their
+[17:14] supply so again moving forward in our
+[17:16] timeline we are now at the procurement
+[17:18] team and they happen to be inside of the
+[17:20] inventory application because we can
+[17:22] access replenishment from here we select
+[17:25] up at the top our operations and then
+[17:27] replenishment
+[17:29] automatically here we can either click
+[17:30] on order which will just do it once for
+[17:33] this one and that will generate the
+[17:36] necessary purchase orders to fulfill our
+[17:37] confirmed sales orders or if we would
+[17:39] like to we can also automate orders the
+[17:42] second option enables Cozy home to
+[17:44] ensure that they always have a minimum
+[17:45] and maximum quantity of a product in
+[17:47] their inventory we actually don't keep
+[17:49] extra wardrobes in stock due to their
+[17:51] size so for the wardrob we're actually
+[17:53] just going to select order in this case
+[17:56] and that one is good to go and we have
+[17:58] our purchase order and it tells us up at
+[18:00] the top right and that helps us
+[18:02] automatically know hey we don't have to
+[18:03] worry about that we can click on that
+[18:04] link blue text over there to go directly
+[18:07] to it but we still need to take care of
+[18:09] those nightstands now for the
+[18:10] nightstands we actually always want to
+[18:12] have some in our warehouse because those
+[18:14] suckers sell like hot cakes so let's go
+[18:16] ahead and automate that procurement so
+[18:18] let's set the reordering rule with a
+[18:20] minimum in this case of 10 and let's set
+[18:23] the maximum in this case to 30 it's a
+[18:26] pretty good number right there and now
+[18:29] we're going to select automate boom and
+[18:31] just like that this means Odo will
+[18:32] generate a request for quotation
+[18:34] whenever the ninth stand inventory goes
+[18:36] below 10 in order enough to have at
+[18:38] least 30 in stock and that's pretty cool
+[18:41] now the procurement team has to validate
+[18:43] the request for quotation so I think
+[18:45] it's time for us to head on over to the
+[18:47] purchase
+[18:48] application so we've gone and moved from
+[18:50] our reordering rules at this point to
+[18:52] the purchase application because if you
+[18:53] recall we have a request for quotation
+[18:56] and here we can click into it now we can
+[18:59] also see immediately that wood Corner
+[19:00] happens to have if we look at this
+[19:02] expected arrival area a 100% ontime
+[19:05] delivery rate meaning all their previous
+[19:07] orders arrived on time impressive and it
+[19:09] also gives us a quick inside look at how
+[19:12] our vendors are doing however in the
+[19:14] event that you want to ensure that your
+[19:15] vendor will deliver on time again to
+[19:17] avoid disappointing your loyal customer
+[19:19] you can actually make sure that happens
+[19:21] by also sending a confirmation to them
+[19:24] which ends up happening before the
+[19:26] promised receipt date to confirm that
+[19:28] the products will will in fact be on
+[19:29] time this saves you time and for that
+[19:32] always make sure that you have this
+[19:33] check boox ticked right there and then
+[19:36] you can also change the date as well in
+[19:38] our case it's 5 days before but with all
+[19:40] of that locked in we can go ahead and
+[19:41] confirm our order and we're done so now
+[19:45] that my hat's changed it's time for the
+[19:47] inventory Department to take over so the
+[19:49] nice thing with this team is that this
+[19:50] team manages the received products they
+[19:53] have a list of products to be received
+[19:54] and a list of products to be delivered
+[19:55] to customers the inventory team itself
+[19:58] can manage the stock either through the
+[19:59] barcode application or our inventory
+[20:01] application for our example we're going
+[20:03] to be moving between both but before
+[20:05] that inside of the inventory application
+[20:07] select configuration and settings head
+[20:09] on over to the barcode section inside of
+[20:12] here let's make sure that Barcode
+[20:13] Scanner is checked off as well as the
+[20:15] ability to show quantity to count
+[20:17] because it's pretty useful depending on
+[20:19] the location now underneath the barcode
+[20:21] scanner section you'll notice we have
+[20:22] the option to print barcode commands if
+[20:24] we'd like to and to set the default
+[20:26] nomenclature or our own barcode n
+[20:28] clature if we would like to and that
+[20:30] defines how information is transformed
+[20:32] into a barcode for more on that check
+[20:34] out the docs or the video specific to
+[20:36] that type of thing because we don't have
+[20:38] enough time to cover it all in a short
+[20:39] time during this video so before we can
+[20:42] even go about scanning we need to make
+[20:43] sure that our products have barcodes we
+[20:45] don't want to be sending the wrong items
+[20:47] out so to achieve that we could click
+[20:49] here on configure product barcodes but
+[20:51] we're going to do it from the product
+[20:53] itself just to give you a different look
+[20:54] at that so we're going to select
+[20:56] products and products then select our n
+[20:58] night stand because it's one of the
+[20:59] items we're going to be talking about
+[21:00] today so here on the product form on the
+[21:02] right side of the general information
+[21:04] tab we have our barcode field inside of
+[21:07] here if we click on it we can type it in
+[21:09] directly if we'd like to or if the item
+[21:11] came with a barcode and you happen to
+[21:13] have one of these bad boys we can
+[21:15] actually just scan it directly and
+[21:16] something cool happens it's
+[21:18] automatically
+[21:19] input so you can also add these to
+[21:22] operation types packages packagings and
+[21:25] locations I'm going to be sure to leave
+[21:27] links for you guys to see all of that
+[21:28] below so I'm going to go repeat that for
+[21:30] another item but let's save manually
+[21:32] quickly and go over to our wardrobe
+[21:34] which was the other item because I want
+[21:35] to show you something cool so now we
+[21:37] scan this one right there once again
+[21:40] it's been automatically input but this
+[21:42] one since we have a different item that
+[21:44] we used it was able to have our own
+[21:46] internal notes including a category
+[21:48] section and more information see it's a
+[21:50] pretty powerful tool that even allows
+[21:52] you to save time no one had to type that
+[21:54] in and now that we have these done we
+[21:56] can proceed forward and accept items the
+[21:58] think it's time for us to go talk to
+[21:59] some Warehouse people I'll see you there
+[22:02] and then once that you have all of those
+[22:04] barcodes set up and everything you can
+[22:06] assume at this point that I happen to be
+[22:07] the warehouse employee who is scanning
+[22:09] these in they've all come in now here we
+[22:12] are inside of the barcode application
+[22:14] let's tap on operations receipts and
+[22:17] select that order from wood Corner okay
+[22:20] so here's where it gets kind of cool so
+[22:22] now let's assume that we have our
+[22:24] barcode gun and we start getting our
+[22:26] items there we go as we set up the the
+[22:28] barcodes ODU automatically detected
+[22:30] there is our wardrobe and now we
+[22:32] probably have to go run and do 31 of
+[22:35] these nightstands right but we're not
+[22:37] going to do that because we can skip
+[22:39] ahead and we did our mental math to
+[22:41] count right there and then once the
+[22:43] you're all done from here you can go
+[22:44] ahead and hit validate and just like
+[22:47] that very quickly everything was
+[22:49] received so now it's time for the
+[22:51] accounting department to shine the first
+[22:53] thing that they actually have to do is
+[22:54] pay the vendor Bill we got to pay our
+[22:56] bills so here we are inside of the
+[22:58] purchase application and we want to open
+[23:00] up that purchase order that was related
+[23:01] to the products that we just received so
+[23:04] from the purchase order we can directly
+[23:05] create a draft vendor Bill since we
+[23:07] already received the products from the
+[23:08] vendor so I'm going to select create
+[23:10] Bill and then once that I do that I want
+[23:12] to actually set the bill date too in our
+[23:14] case we're going to set it to the
+[23:16] current date which just happens to be
+[23:17] Monday and then once that we're done
+[23:19] with that we can actually not have to
+[23:21] fill up anything because ODU did
+[23:23] everything for us we simply check that
+[23:25] the bill amount matches as well as the
+[23:28] purchase disorder amount and then we can
+[23:30] confirm the vendor bill from the top
+[23:31] left corner and we're done now the next
+[23:34] step is to pay the vendor and of course
+[23:35] we can register payment easily on the
+[23:37] vendor bill so we just select pay and
+[23:40] then we select create payment right
+[23:41] there and would you look at that now we
+[23:44] have this very nice Banner that tells us
+[23:46] it's in payment it lets us know
+[23:48] everything is done we'll then reconcile
+[23:50] this when our bank statement comes this
+[23:52] month so we've received everything and
+[23:54] we're back over here at the inventory
+[23:56] team so inside of the inventory appli
+[23:58] you'll see we have one to deliver under
+[24:00] delivery orders when we go inside of
+[24:02] there look at that our product
+[24:04] availability is green this means that
+[24:06] we're ready to proceed with sending this
+[24:08] out to the customer so that once that we
+[24:10] get everything packaged out the only
+[24:11] thing left to do is actually go up to
+[24:13] the top left corner and hit our validate
+[24:15] button and then once that we click that
+[24:17] you'll notice if you look at the chatter
+[24:19] we have a very nice SMS message that
+[24:21] went out to let them know that their
+[24:22] product is shipped at this stage
+[24:24] everything moves to the accounting team
+[24:26] so after paying the vendor Bill the only
+[24:27] thing left to do is invoice the customer
+[24:29] so let me show you how that's done real
+[24:31] quick so here inside of the sales
+[24:33] application we just jump into our
+[24:35] previous sales order and you'll notice
+[24:37] we've delivered stuff but we haven't
+[24:39] invoiced anything yet now to quickly do
+[24:41] that if we wanted to we can just select
+[24:43] the create invoice button up at the top
+[24:44] left but we actually do things in a
+[24:47] faster manner by doing them in batches
+[24:50] so to do that and creating our invoices
+[24:52] for all of our completed sales orders we
+[24:54] select to invoice at the top and orders
+[24:56] to invoice from here check off the ones
+[24:59] that you want to invoice all at once and
+[25:01] select create invoices and then from
+[25:03] here you can create a draft perfect once
+[25:06] that you're done with all of that it's
+[25:08] already created and now we just need to
+[25:10] send them out for that we're actually
+[25:11] going to head out of here even though we
+[25:13] can continue here I'm going to show you
+[25:14] something else so inside of the
+[25:16] accounting application over here we
+[25:18] select customer invoices you can
+[25:20] actually find the one that we needed
+[25:22] today so here we have our draft one now
+[25:25] using the uh action menu up at the Top
+[25:27] If you would like to you can immediately
+[25:28] send a WhatsApp message and then once
+[25:32] that that's done we assume that
+[25:33] everything was good to go and we confirm
+[25:35] it up at the top and now we could print
+[25:37] and send it we can also just do other
+[25:40] manners by email and that type of stuff
+[25:42] but we usually use all of these methods
+[25:43] to increase our chances so I'm going to
+[25:45] select print and send and then once we
+[25:48] do all of that we're good to go and then
+[25:51] once that everything is done we assume a
+[25:53] little bit of time has passed we've
+[25:55] received the customer's payment now we
+[25:56] can select pay up at the top
+[25:58] and we can create our payment and
+[26:00] everything should be good to go hey
+[26:02] doers before you go now that we're at
+[26:04] the end I wanted to cover some of the
+[26:05] important areas of the configuration
+[26:07] since this happens to be a furniture
+[26:09] store video we have to talk about the
+[26:11] products themselves because this is
+[26:12] where a lot of the supply chain specific
+[26:14] actions are going to be happening in ODU
+[26:16] it's very important so I wanted to bring
+[26:17] it to your attention so here in front of
+[26:20] us we have the cozy bed frame now for
+[26:22] our products I wanted to talk about the
+[26:23] general information Tab and the product
+[26:25] type we've selected goods for our
+[26:27] product because it happens to be a
+[26:29] physical item that we want to track our
+[26:31] inventory for for things that are
+[26:33] non-countable like nuts screws Bolts Etc
+[26:35] you would uncheck that box if you didn't
+[26:37] really care about specific inventory
+[26:39] records and then if we select our
+[26:41] purchase tab over here you notice I have
+[26:43] a vendor and a vendor needs to be listed
+[26:45] here in order for ODU to automatically
+[26:47] create rfqs to restock this product also
+[26:49] known as reordering rules Beyond just
+[26:51] having a vendor I wanted to mention that
+[26:53] as a seller you should keep these lead
+[26:54] times which we happen to have uh right
+[26:57] here at the the end right there you want
+[27:00] to keep those in mind because they can
+[27:01] affect Logistics such as when a product
+[27:03] is set to arrive at your warehouse and
+[27:05] do to that to your customer as well this
+[27:07] means you may want to go with vendors
+[27:08] that have shorter lead times if it
+[27:10] benefits you more to have it arrive a
+[27:12] little bit earlier or who knows maybe a
+[27:14] VIP customer ordered something and you
+[27:15] want to get it to them and below that
+[27:17] you'll notice we have the control policy
+[27:18] over here and we happen to have it set
+[27:20] to on received quantities meaning they
+[27:22] are built based on the quantities we
+[27:24] receed from the vendor and let's go over
+[27:26] to inventory over here okay here on the
+[27:28] right hand side you control other
+[27:30] aspects of the product such as its
+[27:31] product Dimensions like in our case we
+[27:33] have weight and volume as well as these
+[27:36] are needed for shipping connectors so
+[27:38] back over to the general information tab
+[27:41] we also set our invoicing policy to
+[27:44] delivered quantities meaning the system
+[27:45] will only offer to invoice the customers
+[27:47] once the products have been delivered
+[27:49] this is a pretty common setup specific
+[27:50] to B2B transactions like you would see
+[27:52] in a net 90 agreement for example other
+[27:55] than that that concludes our video thank
+[27:57] you for watching in and I appreciate you
+[27:59] go grab a snack this was the longest
+[28:01] video go grab dinner

@@ -1,0 +1,177 @@
+影片 ID: uG2UD-YGl48
+來源: https://www.youtube.com/watch?v=uG2UD-YGl48
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:00] [music]
+[00:05] What's up, Odoers? Welcome back. It's
+[00:07] good to see you again. Today, we're
+[00:09] going to take a look at how canned
+[00:11] responses in Odo can help you save time
+[00:13] and keep your customer messages
+[00:14] consistent. If your team often sends the
+[00:17] same messages, then you know how
+[00:18] repetitive it can get and how small
+[00:20] wording differences can cause confusion.
+[00:23] Canned responses fix that. They allow
+[00:25] you to create pre-written messages that
+[00:26] you can insert with a simple shortcut.
+[00:28] You save time. You keep your messages
+[00:30] clear and consistent. And you reduce
+[00:32] typos while improving your team's
+[00:34] communication flow. Now, let's jump into
+[00:36] Odo and see how to create, share, and
+[00:38] use canned responses.
+[00:40] All right, first things first, we're
+[00:42] going to open up our discuss app because
+[00:44] that's where canned responses are
+[00:46] managed. Then, we're going to click on
+[00:48] configuration at the top, followed by,
+[00:49] you guessed it, canned responses. Here,
+[00:52] you'll see a list of all of your saved
+[00:54] canned responses. We can create, edit,
+[00:56] or manage them all easily on this page,
+[00:58] but we're going to make a new one. So,
+[01:00] we're going to click new in the top left
+[01:01] corner. When we do, a new line appears.
+[01:04] Each canned response has two parts. We
+[01:06] have the shortcut and then the
+[01:08] substitution. The shortcut is what
+[01:10] you'll type to trigger the response. The
+[01:12] substitution is the full message that
+[01:13] gets inserted and sent to the customer
+[01:16] or colleague. For our first example,
+[01:18] we're going to create a new greeting for
+[01:20] customers. In the shortcut field, I'm
+[01:22] going to type in hello.
+[01:26] And then in the substitution field, I
+[01:28] have a full-blown message here which
+[01:30] says, "Hello, thank you for contacting
+[01:32] our quality team. My name is Nathan and
+[01:34] I'll be assisting you today. How may I
+[01:36] help you?" On the top right of our page,
+[01:38] we can add some additional columns. If
+[01:40] we click this additional information
+[01:42] button, for example, we can add a create
+[01:45] by and authorize groups column. We could
+[01:47] also remove them if needed. We're going
+[01:49] to leave this ticked and checked in for
+[01:51] now. The creative field will
+[01:53] automatically be assigned with your
+[01:55] username. This can't be edited and it
+[01:57] also helps track who made each response.
+[02:00] For the time being, we're going to leave
+[02:02] the authorized groups fields empty. So
+[02:04] that means these canned responses are
+[02:06] only available to you and only you.
+[02:09] We'll cover sharing these in just a
+[02:10] moment, but quick side note, once you
+[02:12] click out of these entries, they
+[02:14] automatically save. So let's create
+[02:16] another one. Just going to click new in
+[02:18] the top left corner, but this time
+[02:20] instead of hello, I'm going to type in
+[02:22] thanks
+[02:24] and I'm going to paste in our new
+[02:26] message.
+[02:27] Then we'll just click outside to save it
+[02:29] automatically. And that's it. You've
+[02:32] just created two quick time-saving
+[02:34] canned responses that you can use in
+[02:36] your daily customer communications.
+[02:39] One of the best features of canned
+[02:40] responses is that you can share them
+[02:42] with your team to maintain consistent
+[02:44] messaging. By default, responses are
+[02:46] only visible to the person who created
+[02:48] them. To share one, we'll assign an
+[02:50] authorized group. And let's go ahead and
+[02:52] start with our hello response that we
+[02:55] created earlier. When we click into the
+[02:57] drop down, we're able to see all the
+[02:59] available groups. And if we want to
+[03:00] search for more, we just click search
+[03:02] for more.
+[03:04] Here we can choose from every group in
+[03:05] our database. And we're going to select
+[03:08] this quality user.
+[03:12] This allows anyone with the internal
+[03:14] access to use this response, which is
+[03:17] exactly what we want. Keep in mind, even
+[03:20] administrators must be part of the
+[03:21] authorized group or be the creator to
+[03:24] use a canned response. Now, we're going
+[03:26] to do the same thing for our thanks
+[03:28] response. So, I'm just going to click
+[03:30] down into this menu and click on
+[03:32] quality/ user.
+[03:35] Now, only quality members can access it.
+[03:37] Click out of the field to apply the
+[03:39] changes. And if you ever need to check a
+[03:41] users's assigned group settings, just
+[03:43] open up the settings app, turn on
+[03:45] developer mode, go to manage users, and
+[03:48] you'll see their group member
+[03:49] permissions. This group based sharing
+[03:51] gives you precise control over who can
+[03:53] use each response, helping your team
+[03:56] stay clear, consistent, and onbrand.
+[03:59] Now, let's see how to use canned
+[04:01] responses in different parts of Odo.
+[04:03] They work in apps like Discuss, help
+[04:05] desk, and across the entire chatter
+[04:07] platform. But let's go ahead and hop
+[04:09] into help desk and see how it works
+[04:11] here. And we're just going to choose our
+[04:13] quality team. Right off the bat, it
+[04:15] looks like we have a warranty ticket in
+[04:17] our new stage. So, let's open this up.
+[04:19] And here we have some context of the
+[04:21] message that the customer sending. So,
+[04:23] let's go ahead and click our canned
+[04:25] response by clicking send message. And
+[04:28] we're just going to type colon hello.
+[04:32] You'll see the canned response appears
+[04:34] in the dropdown. And all we have to do
+[04:35] is hit enter to insert it. The shortcut
+[04:38] instantly expands into the full message.
+[04:40] And just so you know, you still can edit
+[04:42] this before sending it. You can also
+[04:45] view all of your responses at once.
+[04:47] Let's say you're not too sure which
+[04:48] canned response you want to use or which
+[04:50] ones you have available. You would just
+[04:52] type in colon and the whole drop down
+[04:55] appears to everything you have access.
+[04:57] You can either scroll through these if
+[04:59] you have a lot or you can just start
+[05:00] typing.
+[05:03] Now let's go ahead and try this in the
+[05:05] discuss app. To open the discuss app,
+[05:07] we're just going to go back to the home
+[05:08] screen, click on discuss, and we have a
+[05:11] conversation here with Jose. So, here in
+[05:14] the message field, I'm just going to
+[05:16] type in colon update.
+[05:20] Once again, we can select it from the
+[05:21] dropdown. The full message will appear,
+[05:24] and once we're ready, we can just select
+[05:25] it and send it off.
+[05:29] This same feature works in live chat and
+[05:32] WhatsApp messages, making canned
+[05:34] responses a powerful tool for
+[05:35] consistent, time-saving communication
+[05:38] all across Odo. And that's it. We've
+[05:41] covered how to create, share, and use
+[05:43] canned responses in Odo. You've seen how
+[05:46] to build shortcuts for common messages,
+[05:48] share them with specific user groups,
+[05:50] and use them across different
+[05:52] communication channels. With canned
+[05:54] responses, your team can save time, stay
+[05:56] consistent, and communicate with
+[05:58] customers more effectively. Thanks for
+[06:00] watching, and be sure to check out our
+[06:01] other tutorials to discover more
+[06:03] powerful tools that ODU has to offer.
+[06:06] But until then, see you next time.

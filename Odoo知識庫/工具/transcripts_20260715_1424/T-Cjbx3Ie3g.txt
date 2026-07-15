@@ -1,0 +1,452 @@
+影片 ID: T-Cjbx3Ie3g
+來源: https://www.youtube.com/watch?v=T-Cjbx3Ie3g
+下載時間: 2026-07-15 14:25
+============================================================
+
+[00:05] hey there o doers Jose ignasio here
+[00:06] today we're going to see how Jose's
+[00:08] beastro or JBS manages its processes now
+[00:12] this place happens to be a restaurant
+[00:13] located in downtown Santa Cruz and it's
+[00:16] a special spot for locals that manages a
+[00:18] short but beloved menu with options that
+[00:21] anyone can get behind doesn't try to be
+[00:23] something it's not like grapefruits uh
+[00:26] I'm looking at you at JB's everything
+[00:28] from the employee schedules and even
+[00:30] just cooking their dishes needs a
+[00:32] fast-paced approach so they use ODU to
+[00:35] make sure that they don't lose to that
+[00:36] new burger spot that opened up we don't
+[00:38] like them with ODU they succeeded in
+[00:41] automating many of their processes
+[00:43] making things far easier and more
+[00:45] efficient I think it's time for us to
+[00:47] dive into JB's daily life with ODU I'll
+[00:49] see you there enough
+[00:50] chitchat in a restaurant there are many
+[00:53] different jobs owners waiters chefs
+[00:55] dishwashers the list goes on but it's
+[00:58] vital to organize schedules according to
+[01:00] avoid an empty shift or a double dub
+[01:02] shift for someone so to manage this
+[01:04] Jose's Bistro uses odu's planning
+[01:07] application so let's actually hop into
+[01:09] the right now okay so to save some time
+[01:12] I've actually gone ahead and set up the
+[01:13] previous week's schedule so that we can
+[01:15] just edit it as needed this is going to
+[01:17] be important for what we're going to
+[01:18] head into so to start I have all of my
+[01:20] employees over here on the left and I
+[01:22] just want to say this makes it look
+[01:23] really easy this happens to be listed by
+[01:25] name and you'll see above the employees
+[01:27] are open shifts as well so this view
+[01:30] that we're in is an overview of the
+[01:32] schedule which right now I'm viewing by
+[01:34] the resource aka the employee they are
+[01:36] our resources if I would like to view it
+[01:38] by roll I can actually go up here to the
+[01:41] top and schedule and then choose by roll
+[01:43] but for now we're going to go back again
+[01:45] to
+[01:46] Resource okay so this view Itself by the
+[01:48] way if you're wondering is called a Gant
+[01:50] View and it is incredibly useful for a
+[01:52] few reasons you're going to see that
+[01:54] right now so I'm going to go ahead and
+[01:55] make sure that I don't have any notes
+[01:57] that apply to this week so I can
+[01:58] actually click into the shifts like this
+[02:00] one here and I could see a nice not very
+[02:03] friendly note but it lets me know hey I
+[02:05] should watch out for this so you'll find
+[02:08] the notes appear right here in this case
+[02:10] with a message bubble icon on the shift
+[02:12] if you see it at the top you know that
+[02:13] there's something going on they can be
+[02:15] pretty basic or as informational as you
+[02:17] need them to be you're also going to
+[02:19] find all of the open shifts as I said on
+[02:22] this overview and if I wanted to here's
+[02:24] the fun part I can actually drag and
+[02:25] drop them for any employee and if I'm
+[02:28] feeling even lazier I can actually hold
+[02:30] down the control key right now while
+[02:32] moving it and I have just duplicated it
+[02:34] this can save you time depending on what
+[02:36] you're doing and while I'm at it you
+[02:38] probably notice that holding down the
+[02:40] key open up the shortcuts that you can
+[02:41] also take advantage of you got this nice
+[02:44] little visual that shows them around
+[02:46] okay since we're here I'm actually going
+[02:48] to go ahead and create a shift by
+[02:49] hovering over the day that I want and
+[02:52] then the employee and just clicking on
+[02:53] the empty box there we go okay so of
+[02:57] course schedule conflicts can still
+[02:59] happen happen in that specific case a
+[03:01] warning is displayed as a result on the
+[03:03] shift as you just saw me very eloquently
+[03:06] create now unpublished shifts as well
+[03:09] will appear striped like we see here but
+[03:11] then let's assume that JB's planning is
+[03:13] ready when that happens the manager
+[03:15] actually just has to click over here at
+[03:17] the top on the publish button and that
+[03:19] sends out this week's schedule to the
+[03:20] employees now the nice thing here as
+[03:22] well is that the arrow next to this also
+[03:24] allows us to copy our previous week as
+[03:26] well as Auto plan to learn more about
+[03:29] those though so please check the
+[03:30] description below for our sweet docs so
+[03:33] let's click it and once we do that the
+[03:35] option to send and publish will appear
+[03:37] inside of this pop-up window the option
+[03:39] as well to include open shifts is an
+[03:41] option that we can select I have it
+[03:42] right there already set up and we're
+[03:44] going to do that right now but let's
+[03:47] talk about availability if an employee
+[03:49] happens to not be available for the
+[03:51] shift they can request a shift change
+[03:53] that has to be validated by the manager
+[03:55] you're going to notice now that the
+[03:56] schedule is published all those stripes
+[03:58] are gone and I love these pastel colors
+[04:02] so now that the planning has been sent
+[04:04] employees can get to work which means
+[04:06] that orders will be placed and waiters
+[04:08] and Cooks need to communicate I think we
+[04:10] can all agree that most of us here are
+[04:12] visual Learners I mean you happen to be
+[04:14] on a YouTube video and I happen to
+[04:16] always show you a lot of these things in
+[04:18] theory so I think it's time for us to
+[04:20] grab our hat and head on over to Jose's
+[04:23] beastro so I can show you what this all
+[04:24] looks like on a tablet so I'll see you
+[04:26] right there
+[04:28] [Music]
+[04:30] welcome to hodu POS here when open the
+[04:33] front end offers an overview of the
+[04:35] floor's map here we have the main dining
+[04:38] room floor as well as our patio we can
+[04:40] actually toggle between them by
+[04:41] selecting them just like this this is
+[04:43] particularly useful when working with an
+[04:45] iPad or tablet to take orders from table
+[04:47] to table here's a helpful tip the POS
+[04:50] can be updated on the Fly and these
+[04:52] tables can be moved and they can also be
+[04:54] removed as well as being added let me
+[04:56] show you how to do that in order to
+[04:58] start we're going to select our main
+[05:00] floor then we're going to select our
+[05:01] stack icon and then we select edit plan
+[05:04] for my example I'm going to select table
+[05:06] seven now if I touch these white dots I
+[05:08] can actually drag them around to change
+[05:10] the size of the square but I'd like to
+[05:12] direct our attention up above the very
+[05:14] first option allows us to change the
+[05:16] tables to the shape of a circle allowing
+[05:18] you to cater to a non-square floor map
+[05:20] kind of like table six down there
+[05:22] speaking of maps our next option allows
+[05:24] you to upload your own table map this
+[05:26] allows you to bust out that sweet design
+[05:28] you paid for or maybe you needed to save
+[05:30] some money and you used AI to save even
+[05:32] further time ODU doesn't care but it let
+[05:35] you carry those options options like
+[05:37] changing the number on any one of these
+[05:39] tables with this rename button and if
+[05:41] you like the table so much well let's
+[05:44] assume that you want to duplicate it
+[05:46] well we've got you covered with our
+[05:47] clone button over here this allows you
+[05:50] to stamp across all the tables that
+[05:51] you've been duplicating and save further
+[05:53] time but let's assume you messed up well
+[05:56] here's this trash icon and you can now
+[05:58] Erase Away Your mist Stakes just to add
+[06:01] a table once again with this table
+[06:02] button now that we finished talking
+[06:04] about these options I think it's time
+[06:06] for us to zoom out you probably noticed
+[06:08] I skipped one of them well that's
+[06:10] because this button coming up allows us
+[06:12] to change something very important when
+[06:14] selected we can change the number of
+[06:16] seats with this little people Icon 137
+[06:18] it does not matter how many people are
+[06:20] on those seats once you hit okay it's
+[06:22] saved and just like that now that we
+[06:25] figured out everything to our business I
+[06:27] think it's time to hit safe and Pat
+[06:29] ourselves on the
+[06:30] back it's finally time to order so to do
+[06:33] that we first select a table like table
+[06:35] three here we are greeted with a large
+[06:37] selection of items you don't have to
+[06:39] scroll through it all instead you can
+[06:41] select a category at the top such as
+[06:43] drinks or maybe you just want to see
+[06:45] food or both again because you're
+[06:47] indecisive we could do it all so let's
+[06:49] get started adding items like this
+[06:51] espresso and you know what what goes
+[06:53] best with coffee Seafood so let's add
+[06:56] this salmon now the table wants Italian
+[06:58] so how about we s like something like
+[07:00] this pizza now we're greeted with this
+[07:02] ODU lets you configure additional extras
+[07:05] in things like combos with drinks and
+[07:06] sides so for this pizza I'm just going
+[07:08] to go with the pepperoni to ruin the
+[07:10] margarita Vibes awesome but let me tell
+[07:13] you about one more thing let's assume we
+[07:15] add something like the salmon avocado
+[07:17] over here which I know comes with a
+[07:19] sauce and we've just learned that the
+[07:21] person who asked for this has an allergy
+[07:23] so we need to modify it so to do that we
+[07:26] finally select the kitchen note option
+[07:27] and we get this popup once that we click
+[07:29] it where now we can manually enter the
+[07:31] note in or we can use one of these
+[07:32] preconfigured notes that we set up for
+[07:34] the kitchen this can save you time
+[07:36] typing so once we're back at this screen
+[07:39] over here we finally choose our no
+[07:41] dressing option and then once that I do
+[07:44] that you'll see it fill in below and we
+[07:46] apply now the kitchen will be notified
+[07:48] of this modification automatically once
+[07:50] the we proceed with sending it through
+[07:51] to the kitchen
+[07:56] sweet I think it's time for us to talk
+[07:58] about the sharpest team here at J's
+[08:00] beastro no not that team of course I'm
+[08:03] talking about our kitchen staff so let's
+[08:05] head into odu's kitchen display once
+[08:07] that this loads we're going to select
+[08:08] our preparation screen and inside of
+[08:11] here keyo doers can see that not
+[08:13] dressing has been color labeled as a
+[08:15] predefined internal note along with all
+[08:18] of our orders we have sent so far this
+[08:20] allows Chef to immediately see what's
+[08:22] ready to go and wait staff to also see
+[08:25] what's been completed each of these
+[08:27] orders only require simple clicks to
+[08:28] move between stages making certain
+[08:31] weight staff and kitchen staff don't
+[08:32] waste any time that was a free joke with
+[08:35] that time we just saved o
+[08:38] doers you treated someone to a meal and
+[08:40] they ordered stuff out of your budget so
+[08:42] there's only one option you'd like to
+[08:44] split the bill well thankfully Odo has
+[08:46] you covered let's assume your waiter
+[08:48] comes by to check on the table so they
+[08:49] decide to go into actions and double
+[08:51] check the count for the table and make
+[08:52] sure it's two and then they decide to go
+[08:55] back into the actions menu because this
+[08:57] time you've told them I would like to
+[08:58] split the bill
+[09:00] now on one side they see the items and
+[09:02] they are told which ones to select and
+[09:04] then they just split the order awesome
+[09:07] now we have the two orders and the
+[09:08] current screen has changed the paying
+[09:10] for just the two items we selected the
+[09:12] forb at the top lets us know this is one
+[09:14] of the split orders for table four we
+[09:16] can now go and process the payment for
+[09:18] this order and then process the payment
+[09:20] for the remaining order however they've
+[09:22] told me they are not ready to to pay yet
+[09:23] so let's get out of here and direct our
+[09:25] attention to another table that's asking
+[09:27] for their bill so table 12 has entered
+[09:29] the chat they finished eating and they
+[09:31] want to pay their bill we let them know
+[09:33] at this stage how much it's going to be
+[09:35] per guest they decided to pay it
+[09:37] together unlike that other table they
+[09:38] begin to hand cash over to the waiter
+[09:40] who takes it back to get them change
+[09:42] thankfully ODU calculated the change for
+[09:44] US based on the bills they used at this
+[09:46] point the waiter returns to offer them
+[09:48] their full receipt over here in two
+[09:50] forms both printed and email
+[09:54] awesome what is a good POS system
+[09:57] without items to sell like how do we add
+[10:00] a product like this bag of chips or
+[10:02] perhaps this soda we start by clicking
+[10:04] in the top right corner to open the menu
+[10:06] and selecting create a product from here
+[10:09] you can begin typing up your product's
+[10:10] name and to Begin work on the other
+[10:12] options as well we're going to add a
+[10:14] Pepsi now the first option we have here
+[10:17] is the barcode section which allows you
+[10:19] to input barcodes using the tablet's
+[10:20] camera or a connected device heck you
+[10:22] could even type it in manually you can
+[10:24] also track products if you'd like using
+[10:26] the check box below if you also happen
+[10:28] to have a nice pict picture the item you
+[10:30] can use the pencil icon in the top right
+[10:32] corner to insert your image here then
+[10:34] when you're done with that you can
+[10:35] select a posos category for the product
+[10:37] to have it show up in those specific
+[10:39] drink or food sections that you saw
+[10:41] earlier for our example I'm going to
+[10:43] place the Pepsi into the drinks category
+[10:46] because it is a drinkable item finally
+[10:48] once you're all done you just click out
+[10:50] of here and select save and you're ready
+[10:52] to go without having to go into Odo
+[10:54] inventory couple clicks was all it took
+[10:58] nice Jose's beastro is in Santa Cruz
+[11:01] California you might be wondering about
+[11:02] this screen no not that screen how does
+[11:06] a customer leave a tip do we leave a tip
+[11:08] tip culture itself is a big question
+[11:09] these days one that I do not have a
+[11:11] direct stance on if the customer is
+[11:13] paying via credit card the tip can be
+[11:15] added to the bill afterward which is
+[11:16] common in North America tipping a ODU is
+[11:18] simple make sure tips are enabled in the
+[11:20] POS settings and tap on the payment
+[11:22] button then tap on tip type in a
+[11:25] beautiful exorb tip and hit okay and now
+[11:28] we're ready to process access our
+[11:29] payment the normal way with validating
+[11:31] it and we're done good
+[11:34] job it's finally that time you've
+[11:37] finished your shift or perhaps need to
+[11:38] get out of this POS session to do that
+[11:41] click the icon in the top right corner
+[11:43] and select close register here we are
+[11:45] shown a snapshot of today's transactions
+[11:47] as well as the option account cash Odo
+[11:49] kept track of every transaction so we
+[11:51] didn't have to do much now then let's
+[11:53] select close register good job you
+[11:56] finished everything now get out of here
+[12:02] here well that sure was a lot of helpful
+[12:04] visual aids I hope me doing it on the
+[12:06] iPad was pretty fruitful for you but how
+[12:09] do we make all of this possible well to
+[12:12] enable notes things like tips Printing
+[12:15] and everything you actually want to go
+[12:17] into POS and then select configuration
+[12:20] and settings then pick your options
+[12:22] there it's really that easy but if you
+[12:24] need a little bit more help I'm going to
+[12:25] try to leave a better detailed help
+[12:27] guide at below and side of the
+[12:29] description so be sure to check that
+[12:31] out just kidding I'm actually going to
+[12:33] cover that right now so back here on
+[12:35] odu's Main dashboard let's open up the
+[12:37] posos app and then select configuration
+[12:39] and settings perfect so inside of here
+[12:43] if you happen to see a yellow banner up
+[12:44] here at the top like the example that
+[12:46] I'm going to show right now on the
+[12:47] screen as well as options that you see
+[12:50] that are grayed out you will actually
+[12:51] not be able to change them until you
+[12:53] finish closing your open register so how
+[12:55] do we do that Jose ignasio well you do
+[12:58] this by following the steps the previous
+[12:59] chapter in this video to close out your
+[13:01] session and in this case just close the
+[13:03] register so once that you've done that
+[13:05] and you're back here we are in the
+[13:07] restaurant mode section now make sure
+[13:09] you have these boxes that I have checked
+[13:11] out so that you could follow along you
+[13:14] will see that we have access the
+[13:15] changing floor Maps as well over here on
+[13:17] the right and you can see my main floor
+[13:18] and my patio that I showed earlier as
+[13:20] well as an internal link to go see those
+[13:22] floors and do some other edits if you
+[13:24] will but let's move a little bit forward
+[13:26] because the next section that I wanted
+[13:28] to point out is actually right here
+[13:29] these payment methods now I didn't cover
+[13:32] them in great detail because there is a
+[13:34] lot to choose from depending on location
+[13:36] and availability changes to this list
+[13:38] are going to be reflected directly in
+[13:40] the posos payment and order screen and
+[13:42] Below them is also an internal link you
+[13:44] can follow to set up more payment
+[13:46] methods or edit your existing payment
+[13:48] methods and let's actually click on that
+[13:49] so I can show you
+[13:51] that there you go nice little list back
+[13:54] to settings over here using our
+[13:56] breadcrumbs which are restaurant
+[13:58] breadcrumbs
+[13:59] so back over here let's scroll down over
+[14:02] to payment terminals because and it's
+[14:04] really down here all right so here we
+[14:06] are at payment terminals now I wanted to
+[14:08] actually talk about this and the
+[14:09] connected devices section because if you
+[14:11] have a current payment terminal such as
+[14:13] you know stripe then this is the area
+[14:15] you're going to want to select it at
+[14:17] then finally below this at the section
+[14:19] you can actually toggle for things such
+[14:21] as a customer display in case that you'd
+[14:24] like your customers to follow along with
+[14:26] you as you check them out and that can
+[14:28] be set up as a posos device as well as
+[14:30] iot boxes and printers here and you can
+[14:33] even upload your own nice little picture
+[14:35] right there just to customize it even
+[14:37] further and make it a bit more personal
+[14:40] so there's many options and settings to
+[14:42] personalize your own posos experience
+[14:44] but I wanted to share the ones that I
+[14:45] had on for our example this database
+[14:47] itself was created using the ODU
+[14:49] Industries link for fine dining so you
+[14:51] can actually have a go at a similar
+[14:53] experience without having to figure out
+[14:54] the setup it was essentially the stock
+[14:57] experience with the exception of our
+[14:58] Pepsi Edition all right now let's go
+[15:01] back to the other Jose
+[15:05] ignasio now once that you have all of
+[15:08] that set up and you've set up your
+[15:09] products your table layout as well and
+[15:11] your printers your customers can start
+[15:13] ordering and that's it for today's
+[15:15] presentation on JB's Restaurant and the
+[15:18] Odo POS planning and inventory
+[15:20] application to learn more about these
+[15:22] specific applications I encourage you to
+[15:24] check out more of our e-learning videos
+[15:26] thanks for tuning in O doers I
+[15:28] appreciate apprciate you all if no one's
+[15:30] told you this today you're doing great
+[15:32] you're learning ODU it feels like a lot
+[15:34] at first but if I can do it I think you
+[15:37] can too

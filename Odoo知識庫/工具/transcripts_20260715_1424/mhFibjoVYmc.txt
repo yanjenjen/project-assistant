@@ -1,0 +1,149 @@
+影片 ID: mhFibjoVYmc
+來源: https://www.youtube.com/watch?v=mhFibjoVYmc
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:05] What did Odoo my friends? My name is
+[00:07] Jose Ignacio and today we're going to
+[00:08] take a look at the basics of the
+[00:10] contacts application. It's one of the
+[00:12] pillars of an Odoo database, so there's
+[00:14] lots to talk about. Let's begin. I'm
+[00:16] going to let you in on a little secret
+[00:18] about the Odoo contacts app. Parts of it
+[00:20] are always active on your database, even
+[00:23] if you haven't formally installed it.
+[00:25] Now, you might be thinking, "No big
+[00:26] deal. All the contacts app does is track
+[00:28] names, addresses, and phone numbers,
+[00:30] right?" But trust me, there's more to it
+[00:33] than that. So, let's check it out. So,
+[00:35] first things first, we're going to open
+[00:37] up the apps app over here, and we're
+[00:40] going to type in contacts into the
+[00:42] search bar.
+[00:43] Now, go ahead and click on the install
+[00:45] button that's going to appear like this
+[00:47] if you don't have it already.
+[00:49] Once that's done, go back to the
+[00:50] dashboard if the database didn't send
+[00:52] you there automatically. Okay, then once
+[00:55] you're back, great. Let's open up the
+[00:57] contacts app.
+[00:59] So, the contacts app opens to the list
+[01:01] view by default. If you've never
+[01:02] specifically used the contacts app
+[01:04] before, you might be surprised at how
+[01:06] many entries you have in there. That's
+[01:08] because as you use Odoo's other apps,
+[01:10] contacts will be automatically created.
+[01:13] Entering the info for a new parts vendor
+[01:15] in the sales app? That makes a contact.
+[01:17] New business opportunity with a local
+[01:19] company in the CRM app? That's a new
+[01:21] contact. New employee created in the
+[01:24] employees app? You won't believe this,
+[01:26] that's a contact, too.
+[01:28] Now, as you can see, we've got a goodly
+[01:30] number of contacts already entered
+[01:32] because Stealthy Wood is crushing it.
+[01:35] We've got a guy for that, as well. Huey.
+[01:39] He's new, but he's great. You'll love
+[01:40] him.
+[01:41] Okay, you know what? Come to think of
+[01:43] it, he's so new, he doesn't actually
+[01:45] have a contact yet. What a perfect
+[01:48] organic learning opportunity. Let's make
+[01:50] a contact for old Huey. All right, so
+[01:53] select new over at the top, and that
+[01:57] opens up the contacts form. A contact
+[01:59] can be for either a company or an
+[02:01] individual person. The contacts app
+[02:03] doesn't differentiate them. Although
+[02:05] earlier versions of Odoo did. Anyway,
+[02:07] Huey, let's type in his legal government
+[02:10] name, which is
+[02:12] Hugh Mann.
+[02:13] All right, and that's going to be our
+[02:15] name.
+[02:16] Perfect. That's everything that we need
+[02:17] right there and we're just going to
+[02:18] click our nice little save icon cloud.
+[02:20] And that's it.
+[02:23] Technically, you only need a name to
+[02:25] create a contact. But let's add a bit
+[02:27] more information.
+[02:28] So, Hugh's a recent hire, so we'll set
+[02:30] his company employer over here
+[02:34] to Stealthy Wood.
+[02:35] So, we're going to do that right now.
+[02:38] And then we're going to click create
+[02:40] Stealthy Wood.
+[02:41] All right. Now we need to enter his
+[02:43] email, which I happen to have already
+[02:45] right there to paste. Okay, and now
+[02:48] we're going to we're actually going to
+[02:49] skip the address, but the next thing
+[02:51] that I need is a phone number.
+[02:53] This is fake, YouTube. Please don't take
+[02:55] down my video.
+[02:57] Okay, we're all set. And finally,
+[02:59] let's talk about a job position. What
+[03:01] does Huey do? Well, he is junior
+[03:05] VP
+[03:07] of crushing it.
+[03:11] All right, great. All right, now guess
+[03:13] what? Creating this contact actually
+[03:15] created a second contact. Why?
+[03:18] Because we set Hugh's company over here
+[03:21] as Stealthy Wood. Our database didn't
+[03:24] detect a contact with that name, so
+[03:26] created one for us. It doesn't have any
+[03:28] information in it yet, but this begins
+[03:30] the process of associating employees of
+[03:32] Stealthy Wood with Stealthy Wood, the
+[03:35] business.
+[03:36] Okay, so after you save once again
+[03:38] manually or let it auto save,
+[03:41] what else can we do on this page now
+[03:44] that we've created a contact? Well,
+[03:47] there's the chatter over here on the
+[03:48] right, which shows us the the associated
+[03:51] with the contact. there's internal links
+[03:53] that happen to now pop up when you mouse
+[03:56] over certain little areas like
+[04:00] the company over there.
+[04:02] And that's if we wanted to easily email,
+[04:04] or in this case follow some of these
+[04:06] other little areas right there. There's
+[04:08] also these tabs that we have below.
+[04:11] Now, what appears here depends on what
+[04:13] apps you have installed, but let's talk
+[04:15] about this
+[04:16] add related contacts button.
+[04:19] Clicking it over here brings up the
+[04:21] create related contacts form. And again,
+[04:24] right inside of here, the options you
+[04:26] see here may be different based on the
+[04:28] apps installed to your database, but
+[04:29] we'll cover some of the basics.
+[04:31] You can add additional contacts for an
+[04:34] existing contact. Useful if you have a
+[04:37] contact with both personal and
+[04:40] professional email addresses. So, that's
+[04:43] kind of nice.
+[04:44] All right, you can also create a
+[04:46] distinct, in this case, invoice address
+[04:49] for contacts if they have a different
+[04:50] address for receiving bills. Same thing
+[04:53] with a delivery address. Maybe you have
+[04:54] a contact with a headquarters at one
+[04:56] address and a receiving warehouse at
+[04:58] another. And finally, there is other for
+[05:01] all your miscellaneous contact needs.
+[05:03] Okay, there you have it. Everything you
+[05:05] wanted to know about the basics of
+[05:06] contacts, but were afraid to ask. Till
+[05:08] next time Odooers, get out there and
+[05:10] make some connections, then save them in
+[05:12] your Odoo contacts app.

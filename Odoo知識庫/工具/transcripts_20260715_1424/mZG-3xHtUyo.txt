@@ -1,0 +1,247 @@
+影片 ID: mZG-3xHtUyo
+來源: https://www.youtube.com/watch?v=mZG-3xHtUyo
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:04] Hello doers. My name is Jose Ignasio.
+[00:06] Today we're going to make our very own
+[00:07] custom KPI and add it to the ODO
+[00:10] periodic digest email. Since OD tracks
+[00:12] data in real time every single day, why
+[00:14] not celebrate by adding the numbers you
+[00:16] care about to your periodic mailings. So
+[00:18] with this, you can send out KPIs that
+[00:20] matter to your company regardless of
+[00:21] metric. A few examples include data like
+[00:23] monetary goals, response times, and even
+[00:25] tracking those little emoticons from
+[00:27] your help desk. Yes, we even let you
+[00:30] display measured
+[00:31] happiness. So, to start, I'm actually
+[00:34] going to set up our KPI inside of ODO
+[00:36] Studio, then add in our code, and
+[00:39] finally, profit. And speaking of profit,
+[00:41] the KPI that we're going to track is the
+[00:43] expected revenue that is greater than
+[00:46] $10,000 from our leads in our CRM
+[00:48] application. So, enough chitchat, let's
+[00:50] hop right in and pat ourselves on the
+[00:52] back with these
+[00:53] KPIs. Today is about saving time. So
+[00:56] before we can create custom KPIs, let's
+[00:58] activate developer mode. So it's going
+[00:59] to let us see menus that we normally
+[01:01] can't. So let's go into settings. Scroll
+[01:04] down to the very bottom. Activate the
+[01:05] developer mode. Just like that, you'll
+[01:08] know it's active once the page
+[01:09] refreshes. And you see a deactivate
+[01:12] option take its place at the very bottom
+[01:14] right there. Okay. With that in mind, we
+[01:16] can head forward over to the email
+[01:18] section over there. This video is on the
+[01:20] OD to digest email. So we're going to
+[01:21] select configure digest emails. Then,
+[01:24] well, ODO gives us a default email. So,
+[01:27] we click your ODO periodic digest.
+[01:29] Perfect. There's a lot of options on
+[01:31] this page, but we're going to focus on
+[01:32] our topic of the day, which is this KPIs
+[01:34] tab. You'll notice ODO also has a bunch
+[01:38] of them out of the box, like connected
+[01:39] users, messages sent, all sales,
+[01:43] revenue, bank moves, etc., etc. We're
+[01:45] actually removing a bunch of these, and
+[01:47] you'll see why. We don't actually need
+[01:49] them right now. So, if you're watching
+[01:51] this at home, I bet you're wondering how
+[01:52] awesome it would be to add your own
+[01:54] metrics here. Well, lucky for you, this
+[01:57] is the custom KPIs video. So, why don't
+[01:59] we go do that? Let's click on the studio
+[02:03] tools over here just to toggle studio.
+[02:06] You'll notice that our layout has
+[02:07] changed at this point. Now, when
+[02:09] creating custom KPIs for digest emails,
+[02:11] we need to create two fields. First, a
+[02:12] checkbox that appears in the KPIs tab so
+[02:14] that we can select it as an option. and
+[02:16] second, a computed field that will
+[02:18] calculate and display the actual value.
+[02:20] All right, let's create that checkbox by
+[02:22] dragging over a checkbox. And we're
+[02:24] going to put this actually, we're going
+[02:26] to scroll down. We want this in the
+[02:28] custom area right there. Perfect. It's
+[02:30] as easy as literally just dragging and
+[02:32] dropping it. So, inside of our
+[02:34] properties tab, the first thing we need
+[02:35] to do is give this a label. And we're
+[02:37] going to label this big
+[02:41] opportunities. Perfect. You'll notice
+[02:44] our technical name has started to
+[02:45] change. This one looks fine for now, but
+[02:48] I'd also like to add in the word KPI
+[02:51] underscore right there. I want you to
+[02:53] also highlight this because we're going
+[02:54] to copy this. All right, with that in
+[02:57] mind and everything all fully done,
+[02:59] we're ready to move on. But oh wait,
+[03:02] what about that second field? Well,
+[03:04] similar to the other toggles that we
+[03:06] have on this page, the math is done
+[03:08] elsewhere. We could add the computed
+[03:10] value here and do everything and have it
+[03:12] appear, but Joseé Ignasio likes to keep
+[03:14] things clean and simple. So, let's go
+[03:16] knock out two birds with one stone.
+[03:17] Select close in the top right corner.
+[03:20] Then, we're going to click on technical
+[03:21] in the top menu and scroll down until
+[03:23] you reach
+[03:24] the actually I might have gone past it.
+[03:26] There we go. The database structure area
+[03:29] and we're going to select models from
+[03:30] the list. Type in digest into your
+[03:33] search bar and select digest.digest.
+[03:36] Now we're where we need to be. All
+[03:38] right, O doers, put down those keyboards
+[03:40] because I'm going to save you even more
+[03:42] time. We're going to scroll down to the
+[03:43] very bottom. And would you look at that?
+[03:45] Also, we see our boolean already present
+[03:48] right there. Click into that real quick.
+[03:51] Perfect. I'm actually going to take part
+[03:53] of this field name because I know ODU is
+[03:56] going to ask me something when we hit
+[03:58] add a line. And look at that. The very
+[04:00] first thing we're going to do here on
+[04:01] our blank create fields form is give it
+[04:04] a name. We're going to do the same name
+[04:08] as our boolean, but we're also going to
+[04:11] add underscore value at the very end.
+[04:14] Now, why did we do that? Well, this
+[04:16] naming convention is special because
+[04:17] although most of it is identical to the
+[04:19] original field name for the boolean,
+[04:21] we've added the underscore value at the
+[04:22] end to bridge the connection for the two
+[04:24] fields. This field type for this reason
+[04:26] is an integer.
+[04:29] And it now tells that integer it's tied
+[04:32] to our custom KPI boolean toggle that we
+[04:35] have over there. All right. Now we're
+[04:37] good to go right there. But let's also
+[04:39] give
+[04:40] this a name a big
+[04:43] opportunities
+[04:45] value. It's pretty nice. Let's also put
+[04:49] KPI right there just to be extra extra
+[04:52] correct. Now moving forward, we can set
+[04:54] our base properties. We're going to
+[04:55] deselect stored for this one. And we're
+[04:57] going to select read only for it. And at
+[05:00] this stage, we also don't need the
+[05:02] copied for this one. And we can move on.
+[05:04] There's other options. And depending on
+[05:06] what you're doing, some of these may be
+[05:07] toggled, some of them may not. It might
+[05:09] not be the same. It's going to be
+[05:11] different depending on the type of KPI
+[05:13] you are working with or the type of
+[05:15] customizations you want. So for our
+[05:18] example, we're going to make ours
+[05:20] different inside of our advanced
+[05:21] properties. So, we don't have related
+[05:23] field definition, but we do have some
+[05:25] dependencies. We have two actually that
+[05:28] I need to copy over and I'll explain in
+[05:30] a second. It's an underscore right
+[05:32] there. Okay. So, we actually have our
+[05:34] boolean and then we have company ID.
+[05:37] Now, make sure you have a comma between
+[05:39] all dependencies that you do and no
+[05:41] spaces. Now, these dependencies as well
+[05:43] can vary depending on the code that you
+[05:45] input below. So, be mindful of missing
+[05:47] dependencies. Please refer to the
+[05:48] documentation for more information on
+[05:50] this section. Finally, coding time. All
+[05:53] right, odoers, bring back those
+[05:57] keyboards because I want you to do copy
+[05:59] and paste. Please paste in the code and
+[06:02] ensure its formatting is identical to
+[06:04] mine. Python is well sensitive and so am
+[06:08] I. All righty. Once that we paste it in,
+[06:12] everything looks good to go. I want you
+[06:14] to just hit save and close right there.
+[06:16] Boom. And like that, we are done. see
+[06:19] what happens when you let me cook Coco
+[06:20] doers. So, here we are back on the main
+[06:22] home screen because it's time for us to
+[06:24] turn on our custom KPI. So, we're going
+[06:27] to start typing in the word digest just
+[06:29] to reach it faster. And here we are.
+[06:32] Let's turn on our nice little custom KPI
+[06:35] calculator. All right, let's also make
+[06:37] sure the right people are receiving this
+[06:38] information. So, we're going to click
+[06:39] the recipients tab. Everything checks
+[06:41] out. But should you need to add a
+[06:43] recipient, select add a line at the
+[06:45] bottom and follow the prompt. Now, if I
+[06:47] also wanted to, we can use the toggles
+[06:49] up at the top to set the periodicity,
+[06:51] which is the frequency of these emails.
+[06:53] But I love a good test. So, let's just
+[06:54] hit send now. And just like that, our
+[06:57] email is on its way to our team to get a
+[06:59] quick idea of what that's going to look
+[07:01] like. We don't actually have to go and
+[07:03] wait for it. We're just going to go back
+[07:04] to our main home screen, type in the
+[07:06] word emails, select our first one, and
+[07:09] the most recent one that we just sent,
+[07:11] and we're going to scroll down. This is
+[07:14] a quick view of our Would you look at
+[07:16] that? I'm interrupting myself. 11 leads
+[07:19] in the past 30 days and 11 in the past
+[07:22] seven and none today. But how did it
+[07:25] come up with this number? And dare I
+[07:27] say, is it
+[07:29] accurate? Well, I'd hate for you to
+[07:31] think that we made up some code and
+[07:32] slapped this all together. So, how about
+[07:34] I show you how it works? Let's get out
+[07:36] of here and go back to our main home
+[07:37] screen once again. And this time, I'm
+[07:39] going to open up CRM. Clear out the
+[07:41] search bar and we're going to select add
+[07:43] a custom filter. Inside of our very
+[07:46] first field for our criteria, type in
+[07:47] the word expected and then this time
+[07:50] around it's expected revenue. It's going
+[07:51] to be greater than oops dupsy. Greater
+[07:54] than or equal to
+[07:57] $10,000 right there. And we're going to
+[07:59] select add. But we're not done yet. Our
+[08:02] creation day, we're going to select
+[08:04] month. Today happens to actually be May
+[08:07] 7th. We only have one lead in May. And
+[08:10] over the past 30 days, if you look at
+[08:12] that, one, two, three, four, five, six,
+[08:16] seven, eight, nine,
+[08:18] 10,
+[08:20] 11. Just like the simulations, doers.
+[08:24] All righty, we are out of time. Today,
+[08:26] we've learned how to create custom KPIs
+[08:28] with ODU Studio and implement them in
+[08:30] our digest emails. Remember, the dates
+[08:33] and timestamps of your data set will
+[08:34] determine how your code will look like.
+[08:36] as well. The views and the fields you
+[08:38] saw explored were specific to the CRM
+[08:40] application. Thanks for watching and see
+[08:42] you in the next tutorial. Go grab a
+[08:43] snack.
+[08:44] [Music]

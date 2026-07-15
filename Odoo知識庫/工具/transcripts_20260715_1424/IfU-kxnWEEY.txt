@@ -1,0 +1,134 @@
+影片 ID: IfU-kxnWEEY
+來源: https://www.youtube.com/watch?v=IfU-kxnWEEY
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:05] What's going on o doers and welcome
+[00:07] back. If you've ever tried to schedule a
+[00:09] quick call but ended up juggling five or
+[00:11] more tools just to get started, then you
+[00:13] know how clunky communication can get.
+[00:16] With ODU Discuss, calling a teammate or
+[00:18] even an external contact is fast,
+[00:20] simple, and happens right inside of your
+[00:22] workflow. No switching between apps, no
+[00:25] set of delays, just a click, connect,
+[00:28] and go. In ODO, communication happens
+[00:31] alongside your day-to-day work. So, when
+[00:33] something comes up, it's easy to take
+[00:35] action without missing a beat. That
+[00:37] being said, let's jump into our database
+[00:39] and see what this all looks like.
+[00:42] Okay, here I am in our CRM dashboard and
+[00:44] I'm just reviewing our pipeline. I just
+[00:47] remembered I need to loop in Jose to
+[00:49] talk about the readymat lead which is no
+[00:51] problem at all. With ODU discuss I can
+[00:53] create a group chat in seconds. If I
+[00:56] click this top right bubble chat icon, I
+[00:59] can select my conversation with Josh
+[01:01] Baker. And then next to Josh's name, I'm
+[01:03] just going to click this little down
+[01:04] arrow icon and then select invite
+[01:07] people. And then here I'll just select
+[01:08] Jose and then click create group chat.
+[01:15] The conversation has now been created.
+[01:16] So, let's check it out in the discuss
+[01:18] app. Of course, I can go back to our
+[01:20] original home screen, click the discuss
+[01:23] module icon, but we can also jump to
+[01:25] that app by clicking this down arrow
+[01:27] right here and then clicking on open and
+[01:30] discuss.
+[01:33] To keep things organized, I'll also add
+[01:34] a quick description to the top, which is
+[01:38] readymat opportunity. Now, everybody
+[01:40] involved in this chat knows exactly what
+[01:42] this chat is for. If I want to double
+[01:45] check who's in this chat or see who's
+[01:47] online, I can simply just click this
+[01:49] members icon right here.
+[01:52] And here we'll see everybody who's
+[01:54] included in this group chat. And we
+[01:55] could also see who's online, represented
+[01:57] by the green color, and who's offline,
+[01:59] represented by the white.
+[02:02] Need to bring in more folks? No problem
+[02:04] at all. We can just click this invite
+[02:06] user button once again. And if I want to
+[02:08] invite somebody outside my company, like
+[02:10] a sales contact from Readymat, I can
+[02:13] generate a public link to this chat. I
+[02:15] can click invite user and then just copy
+[02:18] this link right here. Now, let's jump
+[02:21] into another window and see what this
+[02:22] link looks like on their site. As soon
+[02:25] as somebody opens that link, they're
+[02:26] taken to this page right here. And from
+[02:28] here, the rep just types in their name,
+[02:30] let's say Julian, and then clicks the
+[02:33] arrow. Once they click the arrow, they
+[02:36] join the chat instantly. It's a very
+[02:38] similar view to what we see, but it is
+[02:40] limited to only the conversations that
+[02:42] they are a part of. Now, we're going to
+[02:44] hop back into our main browser to see
+[02:46] what it looks like on our end. Now that
+[02:48] we're back, I can see that everybody has
+[02:50] been added to this conversation,
+[02:52] including our guest, Julian. Now, I can
+[02:54] start a voice call simply by clicking
+[02:56] this phone icon here at the top of the
+[02:59] bar.
+[03:01] And the moment I do, the live conference
+[03:03] technically begins. Everybody in this
+[03:05] group will hear a ringing sound in the
+[03:07] discuss app and they'll need to accept
+[03:09] the call to join. Once they do, we'll
+[03:12] all be connected in the same voice or
+[03:14] video meeting. Now, while the call is
+[03:16] active, we get the usual controls. We
+[03:19] have our microphone mute button here. We
+[03:22] also have a deaf end control. We have
+[03:24] the ability to turn our camera on or
+[03:26] off. We have our screen share button.
+[03:28] And of course, we have our end call. If
+[03:31] we need to invite somebody who's not
+[03:32] already a part of this conversation, all
+[03:34] we have to do is click this invite user
+[03:36] button right here. And that'll bring
+[03:38] them into the same call. Or if I want to
+[03:41] start a meeting from scratch, I can also
+[03:43] just click this start meeting button
+[03:44] here on the left side of the discuss
+[03:46] sidebar and manually select users to
+[03:48] join. And if we need more options, we
+[03:51] can just click this menu icon right
+[03:53] here. And that'll give us the ability to
+[03:54] raise our hand in the event we need to
+[03:56] get people's attention without butdding
+[03:58] into the conversation quite yet. And we
+[04:00] also have our full screen option right
+[04:03] here.
+[04:06] Now, let's turn this into a video call
+[04:08] by clicking this camera icon. And when
+[04:10] we do, under the same three dot menu
+[04:14] icon, we have the ability to raise our
+[04:16] hand once again or even blur our
+[04:18] background.
+[04:22] And if we exit our full screen, we can
+[04:25] still send messages during the call, so
+[04:27] we don't have to interrupt. Or we can
+[04:29] even use this paperclip icon to drop a
+[04:32] quick file or update if needed. And of
+[04:35] course, when we're done, all we have to
+[04:36] do is click this end call button.
+[04:40] And that's a wrap. So whether you're
+[04:42] checking in with a teammate or jumping
+[04:43] on a call with a client, ODU Discuss
+[04:45] makes it all seamless. No toggling
+[04:47] between tools, no scheduling headaches,
+[04:49] just quick integrated communication
+[04:51] right where your work is happening.
+[04:53] Thanks for watching and I'll see you in
+[04:55] the next video.

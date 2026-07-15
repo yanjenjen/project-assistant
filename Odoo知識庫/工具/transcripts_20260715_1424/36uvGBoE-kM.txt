@@ -1,0 +1,279 @@
+影片 ID: 36uvGBoE-kM
+來源: https://www.youtube.com/watch?v=36uvGBoE-kM
+下載時間: 2026-07-15 14:24
+============================================================
+
+[00:04] hey oders it's time to look at the nuts
+[00:06] and bolts of the WhatsApp configuration
+[00:08] and how to customize templates odu's
+[00:10] WhatsApp documentation details the
+[00:11] step-by-step process that needs to be
+[00:13] completed in order to integrate the
+[00:15] popular messaging service with ODU we'll
+[00:17] go over the basics so you'll know if
+[00:19] you're on the right track to sending
+[00:20] messages and finally we'll cover
+[00:22] customizing templates for use in
+[00:23] WhatsApp throughout many of the Odo apps
+[00:26] so you'll be up and running with
+[00:28] WhatsApp in no time remember reference
+[00:30] odu's WhatsApp documentation in the link
+[00:33] below to configure WhatsApp and ODU
+[00:35] first an app with a WhatsApp API needs
+[00:37] to be created in The Meta developer
+[00:38] console I won't cover that process in
+[00:40] this tutorial but for a complete
+[00:41] step-by-step guide check out our
+[00:43] comprehensive documentation Linked In
+[00:45] the description of this video however I
+[00:47] will cover the ODU side of configuration
+[00:49] right now I'm inside of the WhatsApp
+[00:51] configuration panel for the business
+[00:52] account we'd like to integrate in ODU
+[00:54] now there are five Fields under the
+[00:55] sending messages section over here that
+[00:57] need to be input into ODU from The Meta
+[00:59] met application these include phone
+[01:01] number ID access token app ID account ID
+[01:04] and app Secrets which is a secret after
+[01:07] copying these fields from The Meta
+[01:08] console to ODU the test connection
+[01:10] button is ready to be pressed no Odo
+[01:12] Seas today you know why because we
+[01:14] received the green confirmation
+[01:15] notification acknowledging that our ODU
+[01:17] what apppp configuration is correct now
+[01:19] if we scroll down because these values
+[01:22] sync correctly with meta a couple other
+[01:24] values populated in ODU these are the
+[01:26] Callback URL and the web hook verify
+[01:28] token now what are the they're basically
+[01:30] keys that will be entered into the metad
+[01:32] developer console to set up web hooks or
+[01:34] Pathways for return messages into the
+[01:36] ODU database but for more information on
+[01:38] that and for setting up the API for use
+[01:41] with ODU visit developers. face.com or
+[01:44] odu.com
+[01:46] documentation and lastly we see a
+[01:48] section towards the bottom of the
+[01:49] WhatsApp business accounts configuration
+[01:51] page and this is called control over
+[01:53] here here we can specify which users
+[01:56] will be notified of responses
+[01:58] automatically whoever created the the
+[01:59] configuration will show up here but we
+[02:01] can also add users such as me adding
+[02:03] myself over there now it should be noted
+[02:06] that if a message using a template
+[02:08] hasn't been sent within 15 days then all
+[02:11] of the users that are listed here will
+[02:12] be notified when the customer sends a
+[02:14] message otherwise just the user who sent
+[02:16] the most recent template will be
+[02:18] notified and that's it for the WhatsApp
+[02:20] configuration page remember to check out
+[02:22] odu.com
+[02:23] documentation for specific configuration
+[02:25] procedures for meta one last thing to
+[02:27] note is that in some cases companies may
+[02:29] have multiple accounts configured in ODU
+[02:31] for example help this team sales team or
+[02:33] hiring Team all right let's move on to
+[02:36] configuring templates for what'sapp
+[02:38] messages WhatsApp templates are an
+[02:40] important part of the WhatsApp platform
+[02:42] and Odoms preconfigured with many useful
+[02:43] templates to send messages out of box
+[02:46] however there may be a time when a
+[02:47] company may want to configure their own
+[02:48] templates for use throughout the
+[02:50] database in these cases an administrator
+[02:52] would actually navigate to the templates
+[02:53] menu over here and select new or we're
+[02:55] going to open up one that we've already
+[02:57] set up so we're going to open up invoice
+[02:59] so here we have the invoice template
+[03:01] form which is used when an invoice is
+[03:03] sent to the customer for a confirmed
+[03:04] sales order now the template contains
+[03:06] dynamic placeholders as well as
+[03:08] variables Dynamic templates allow
+[03:10] messages to reference specific data that
+[03:11] is unique to customers and clients
+[03:13] within the database for example payment
+[03:15] link or a customer name can be inserted
+[03:18] into the final message all right enough
+[03:20] chitchat let's get started on the
+[03:21] template breakdown to start out we have
+[03:24] the name at the top of the template now
+[03:26] every single template will need a
+[03:28] WhatsApp business account associate with
+[03:30] it for example this template has the
+[03:32] test account associated with it now this
+[03:34] allows for that particular account to
+[03:36] send messages using this template
+[03:38] following this are two very important
+[03:39] Fields applies to and the phone field
+[03:42] that we have right there now the applies
+[03:44] to field refers to the model that this
+[03:46] template will be used on this is
+[03:47] important because the dynamic fields in
+[03:49] this template will reference model data
+[03:50] that is available only within this model
+[03:54] now the applies to field needs to be set
+[03:55] in order for the template to link that
+[03:57] model now models inside of ODU are
+[04:00] predefined in the backend code but the
+[04:02] database administrator can locate them
+[04:03] in ODU prior to setting them in this
+[04:05] template now models can be located in
+[04:07] Odo by entering developer mode and then
+[04:10] hovering a field where the unique data
+[04:12] lives for example hovering over the
+[04:13] customer name on a contact form once you
+[04:16] do that an info display box will appear
+[04:18] where the model will be listed the
+[04:20] chatter in this model will load the
+[04:22] template when sending a message to the
+[04:24] customer all right moving forward I'm
+[04:26] talking about the phone field now this
+[04:28] should always be set to either phone or
+[04:30] mobile this field refers to the phone
+[04:32] number listed in the model I want to
+[04:34] make a quick note that this number must
+[04:36] be a WhatsApp number up next we have
+[04:38] category which we can be set to
+[04:41] marketing authentication or in our case
+[04:43] we're going to select utility and I'm
+[04:45] going to explain why right now and this
+[04:47] pertains to the subject or category of
+[04:48] the template since this template is
+[04:50] referencing a specific customer
+[04:51] transaction we are going to use the
+[04:53] utility category now finally we can also
+[04:56] specify which users can utilize this
+[04:58] template if it's left blank
+[05:00] all users on ODU can basically use this
+[05:02] template so on the right side now that
+[05:05] we're moving forward is the technical
+[05:06] name of the template as well as the
+[05:08] language that it's in now these can be
+[05:10] set during the initial creation of the
+[05:12] template and up next we have the header
+[05:14] type and in our case it can actually
+[05:17] include a static header attachment and
+[05:19] even a footer message onto the template
+[05:22] so let's start with the header type we
+[05:23] have the options to set it to
+[05:26] text we also have the options for images
+[05:29] let have the options for video I'm just
+[05:31] going through these for you documents
+[05:33] location spooky now I'm going to set it
+[05:37] back to image now this is basically what
+[05:39] will appear above the message so here is
+[05:42] an example of an image header the footer
+[05:45] is set in text format this is a great
+[05:47] way to remind customers how to stop
+[05:49] receiving messages or maybe share a last
+[05:52] minute announcement from the company so
+[05:54] this completes the basic settings for
+[05:55] the template now we're going to jump on
+[05:57] over to the body of the actual message
+[05:59] which which includes Dynamic
+[06:00] placeholders variables and even
+[06:03] buttons all right so inside of the body
+[06:05] tab over here the text of the message
+[06:07] should be written you'll notice some
+[06:08] interesting characters set within the
+[06:09] message body now these numbers
+[06:11] surrounded by brackets are called
+[06:13] dynamic placeholders dynamic
+[06:14] placeholders Mark where in the text the
+[06:16] dynamic placeholder will insert Dynamic
+[06:18] variable data from the Odo database for
+[06:20] example this first placeholder one with
+[06:22] all the brackets right there will
+[06:23] populate with a customer's name in the
+[06:25] journal entry model as specified by the
+[06:27] applies to field that we have up here
+[06:30] now moving on actually because I want to
+[06:31] talk about this inside of the variables
+[06:33] tab we have the dynamic placeholder
+[06:35] references over here underneath the name
+[06:38] column as well as sample values next to
+[06:40] it finally a type of placeholder is
+[06:43] reference for the variable along with a
+[06:45] specific field that's populating the
+[06:47] final Ms to the right but we're going to
+[06:48] go back over here to the type now there
+[06:50] are a few different values of the type
+[06:52] of variable that they can be which
+[06:53] include in our case I'm going to start
+[06:55] from the top we're going to talk about
+[06:57] username user mobile free pretext portal
+[07:00] link and finally field of model now the
+[07:03] first four are exactly what they State
+[07:05] they are while the last option field of
+[07:07] model is it basically allows the user to
+[07:10] reference a specific field within the
+[07:11] applies to model so we're going to move
+[07:13] over to that field column now now we can
+[07:16] see underneath this last column there
+[07:18] are basically various Fields referenced
+[07:20] and that's so that the finished product
+[07:22] specifies unique values for the
+[07:24] partner's name the specific invoice
+[07:26] number what company the invoice belongs
+[07:28] to a total invoice amount with currency
+[07:30] and lastly even a portal link is
+[07:32] possible now the portal link is a
+[07:34] different type of dynamic placeholder
+[07:36] and it is listed as portal link because
+[07:38] it doesn't reference an existing field
+[07:41] now you might ask what does this
+[07:43] template look like when I send it from
+[07:44] the accounting application or the sales
+[07:46] app with all of these Dynamic
+[07:47] placeholders filled in well so here the
+[07:50] dynamic information is highlighted and
+[07:52] will be unique for each and every
+[07:53] transaction and customer talk about
+[07:55] intuitive do this and more with the
+[07:57] WhatsApp integration for ODU so moving
+[08:00] back over here to the buttons Tab and
+[08:02] then we click add align we have a few
+[08:03] options that we can choose from we can
+[08:05] select quick reply call number and visit
+[08:07] website over there now the
+[08:09] configurations for each type can be set
+[08:11] to the right of the type column now make
+[08:13] your messages attractive and clickable
+[08:15] by adding in quick reaction buttons in
+[08:17] your template buttons simply appear
+[08:19] below the message for a on tap quick
+[08:21] reply back over to the database and here
+[08:24] is how they appear inside of the
+[08:25] WhatsApp
+[08:26] message now after all the necessary
+[08:28] information is input into this template
+[08:30] it needs to be submitted to meta for
+[08:32] approval but first we got to preview it
+[08:34] everything looks good on our end so
+[08:36] we're going to close this out and I'd
+[08:37] like to talk about one more button and
+[08:39] that's the allow multi button over here
+[08:41] this basically removes or adds the
+[08:43] template from the action menu to send in
+[08:45] bulk now that we're done we just hit
+[08:46] submit for approval and we're on our way
+[08:49] it's sent to Zuckerberg basically so
+[08:51] that he could send us back an email
+[08:52] letting us know it's ready to go and
+[08:54] it's approved the time it takes can vary
+[08:56] based on the complexity and changes to
+[08:58] the template today we went over a lotto
+[09:01] doers and I hope this WhatsApp
+[09:02] integration video was very useful have a
+[09:04] great
+[09:08] night
