@@ -6,17 +6,20 @@
 # Getting Started（Odoo 基礎導覽）
 # ============================================================
 
-# Navigate in Odoo
+# Navigate in Odoo ✅
 https://www.youtube.com/watch?v=NoxYrnnHgfk
+# Create an Odoo Database ✅
+https://www.youtube.com/watch?v=IyDlRBAIzq4
+# Filters and Views ✅
+https://www.youtube.com/watch?v=D01_EK-Fz7U
+# Multi-Company Basics ✅
+https://www.youtube.com/watch?v=yZf6D1PAh2g
+# Multi-Company Transactions ✅
+https://www.youtube.com/watch?v=jTS4KVi_awU
 
-# 其他 Getting Started 影片（網址待補）
-# https://www.youtube.com/watch?v=IyDlRBAIzq4（Create an Odoo Database）
-# https://www.youtube.com/watch?v=NoxYrnnHgfk（Navigate in Odoo）
+# 其他 Getting Started（待補）
 # https://www.youtube.com/watch?v=6W3jnlOsiCY（Google Calendar Sync）
 # https://www.youtube.com/watch?v=vobkBzA6vvY（Outlook Calendar Sync）
-# https://www.youtube.com/watch?v=D01_EK-Fz7U（Filters and Views）
-# https://www.youtube.com/watch?v=yZf6D1PAh2g（Multi-Company Basics）
-# https://www.youtube.com/watch?v=jTS4KVi_awU（Multi-Company Transactions）
 # https://www.youtube.com/watch?v=UUPTknL_FnM（In-App Services）
 # Using Odoo
 https://www.youtube.com/watch?v=JJtGJTYkss4
@@ -50,8 +53,57 @@ https://www.youtube.com/watch?v=CLU-zOXwuwM
 # CRM 模組（學習順序第 1）
 # ============================================================
 
-# 網址待補（從 Odoo 課程頁面逐一複製）
-# https://www.youtube.com/watch?v=
+# --- CRM Basics ---
+# Introduction to Odoo CRM
+https://www.youtube.com/watch?v=KxZAdEGpYAw
+# CRM Basics and Pipelines
+https://www.youtube.com/watch?v=rr4kezi9w28
+# CRM Basics: Probabilities & Sales Teams
+https://www.youtube.com/watch?v=eFe-yv_fkFI
+# CRM Scheduling Activities
+https://www.youtube.com/watch?v=pPNuQNZzSLY
+# Custom Activities
+https://www.youtube.com/watch?v=FSG9fOkxxBM
+# Activity Plans
+https://www.youtube.com/watch?v=7QmhZrmA7SA
+# Won and Lost Opportunities
+https://www.youtube.com/watch?v=u6kfb1oyneU
+# Sales Teams Setup & Leads Assignment
+https://www.youtube.com/watch?v=27UYtZJ9HKI
+# CRM Activities Automations and Reporting
+https://www.youtube.com/watch?v=r9NEJ7fWfWQ
+# Sales Team Reporting
+https://www.youtube.com/watch?v=uypSO1MBMrw
+# Gmail Mailbox Plugin
+https://www.youtube.com/watch?v=E6cAjrgHdJo
+# Outlook Mailbox Plugin
+https://www.youtube.com/watch?v=SlO4C3EeG-4
+# Marketing Attribution Report
+https://www.youtube.com/watch?v=lKvueXqSNmQ
+# Scheduled Activities & Moving Opportunities
+https://www.youtube.com/watch?v=c0vTFtwZlVI
+# Partner Autocomplete
+https://www.youtube.com/watch?v=B9ErlstQ1Ac
+
+# --- Lead Generation ---
+# CRM Lead & Opportunity Basics
+https://www.youtube.com/watch?v=BSEf-EldDIA
+# Lead Generation - Forms & Email Aliases
+https://www.youtube.com/watch?v=y3ZVeeM3WEc
+# Lead Generation - Events, Appointments, and Website Visitors
+https://www.youtube.com/watch?v=HFQ1c-VV3Qw
+# Lead Enrichment
+https://www.youtube.com/watch?v=GX_RyFvvxlY
+# Lead Mining
+https://www.youtube.com/watch?v=-nN9zMkI15s
+
+# --- Lead Management ---
+# Predictive Lead Scoring
+https://www.youtube.com/watch?v=cSML0JkQ0Hg
+
+# --- Performance Analysis ---
+# Gamification
+https://www.youtube.com/watch?v=XL4-or5_T9Y
 
 # ============================================================
 # Sales 模組（學習順序第 2）
