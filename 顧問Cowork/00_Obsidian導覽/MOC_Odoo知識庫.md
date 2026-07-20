@@ -61,7 +61,7 @@ Track A 檔案：
 
 ## CRM 模組
 
-狀態：📖 知道（部分功能已在 Notion 整理）
+狀態：📖 知道（22 支影片完成，Track A 全部更新 2026-07-20）
 
 Track A 檔案：
 - [[../../Odoo知識庫/CRM/01_功能概覽|CRM 功能概覽]]
@@ -71,14 +71,29 @@ Track A 檔案：
 - [[../../Odoo知識庫/CRM/05_Demo情境腳本|CRM Demo 情境腳本]]
 - [[../../Odoo知識庫/CRM/06_常見問題|CRM 常見問題]]
 
-已涵蓋功能（Notion Track B）：
-- Lead Mining（鉛礦開採）
-- Gamification（遊戲化）
-
-待補功能：
-- CRM 基礎導覽
-- 商機管理主流程
-- Pipeline 設定
+已涵蓋功能（CRM01–CRM22，2026-07-20）：
+- CRM01：Introduction to Odoo CRM（CRM 介紹與定位）
+- CRM02：CRM Basics and Pipelines（Pipeline 基礎操作）
+- CRM03：Probabilities and Sales Teams（成交機率與銷售團隊）
+- CRM04：Scheduling Activities（排程活動）
+- CRM05：Custom Activities（自訂活動類型）
+- CRM06：Activity Plans（活動計畫一鍵部署）
+- CRM07：Won and Lost Opportunities（成交與遺失）
+- CRM08：Sales Teams Setup and Leads Assignment（銷售團隊與指派規則）
+- CRM09：Activities Automations and Reporting（活動自動化與報表）
+- CRM10：Sales Team Reporting（銷售團隊績效報表）
+- CRM11：Gmail Mailbox Plugin（Gmail 外掛）
+- CRM12：Outlook Mailbox Plugin（Outlook 外掛）
+- CRM13：Marketing Attribution Report（行銷歸因報表 / UTM）
+- CRM14：Scheduled Activities and Moving Opportunities（排程活動進階）
+- CRM15：Partner Autocomplete（公司自動補全，IAP）
+- CRM16：Lead and Opportunity Basics（Lead 與 Opportunity 基礎）
+- CRM17：Lead Generation Forms and Email Aliases（網站表單 + Email Alias）
+- CRM18：Lead Generation Events, Appointments, Website Visitors（活動/預約/訪客 Lead）
+- CRM19：Lead Enrichment（Lead 資訊增強，IAP）
+- CRM20：Lead Mining（主動挖掘潛在客戶，IAP）
+- CRM21：Predictive Lead Scoring（AI 預測成交機率）
+- CRM22：Gamification（遊戲化挑戰與排行榜）
 
 ---
 
@@ -157,7 +172,7 @@ Track A 檔案（空殼）：
 
 ---
 
-**版本**：v0.1
+**版本**：v0.2
 **狀態**：試行中
 **負責角色**：員工_02_文件資料助理（小果）維護連結索引；員工_03_流程內控助理（海瑟姆）更新知識內容
 **建立日期**：2026-07-10

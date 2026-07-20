@@ -107,7 +107,84 @@ https://www.youtube.com/watch?v=XL4-or5_T9Y
 
 # ============================================================
 # Sales 模組（學習順序第 2）
+# 課程頁：https://www.odoo.com/slides/sales-17
+# 31 支影片，8 個章節，全部確認完畢 2026-07-20
 # ============================================================
 
-# 網址待補
-# https://www.youtube.com/watch?v=
+# --- Quotations 報價（15 支）---
+# SAL01 Invoicing for what is ordered（依訂購量開票）
+https://www.youtube.com/watch?v=8QviDPrj39I
+# SAL02 Invoicing for what is delivered（依交貨量開票）
+https://www.youtube.com/watch?v=JpqZFT7RLaw
+# SAL03 Selling products（銷售產品）
+https://www.youtube.com/watch?v=uPMpMH1A6vk
+# SAL04 Create your First Sales Quotation（建立第一張報價單）
+https://www.youtube.com/watch?v=kK7IBFi8FEE
+# SAL05 Adding headers and footers to quote templates and products（報價模板頁首頁尾）
+https://www.youtube.com/watch?v=pJ7YgbYToD0
+# SAL06 Sales Basics（銷售基礎）
+https://www.youtube.com/watch?v=IwvVR2H7gvE
+# SAL07 Your First Quotation（第一張報價單操作）
+https://www.youtube.com/watch?v=Q0MKrE5YfnQ
+# SAL08 Create Products（建立產品）
+https://www.youtube.com/watch?v=LvGCY5rXISg
+# SAL09 Create Product Variants（建立產品變體）
+https://www.youtube.com/watch?v=_XMyu9EKnPo
+# SAL10 Quotation Templates（報價模板）
+https://www.youtube.com/watch?v=MBrOVjjfdJw
+# SAL11 PDF Quote Builder（PDF 報價建構器）
+https://www.youtube.com/watch?v=SIvlo2JFU_U
+# SAL12 Product Documents（產品文件）
+https://www.youtube.com/watch?v=dhlNDmD3l-o
+# SAL13 Online Quotation（線上報價）
+https://www.youtube.com/watch?v=SNsRDT9qB34
+# SAL14 Invoicing Policies（發票政策）
+https://www.youtube.com/watch?v=Nk3Ro_2vqP4
+# SAL15 Pipeline Management for a B2B Equipment Supplier（B2B 管線管理）
+https://www.youtube.com/watch?v=8V2DXRZH9qo
+
+# --- Promotions 促銷（4 支）---
+# SAL16 Promotion Basics & Discounts（促銷基礎與折扣）
+https://www.youtube.com/watch?v=RdniKQlnxTQ
+# SAL17 Coupons（優惠券）
+https://www.youtube.com/watch?v=KW5cZHg10jQ
+# SAL18 Loyalty Programs（會員點數計畫）
+https://www.youtube.com/watch?v=CymB_sD11bI
+# SAL19 Gift Card Programs（禮品卡）
+https://www.youtube.com/watch?v=zjUHM0TSKZ0
+
+# --- Sales Tax 銷售稅（3 支）---
+# SAL20 Sales Tax: Part 1
+https://www.youtube.com/watch?v=d97m_ns40qU
+# SAL21 Sales Tax: Part 2
+https://www.youtube.com/watch?v=gNuXCNm3kH0
+# SAL22 Sales Tax: Part 3
+https://www.youtube.com/watch?v=PwbZ-6gDxmg
+
+# --- Delivery 配送（3 支）---
+# SAL23 Delivery Prices（運費設定）
+https://www.youtube.com/watch?v=fyFPOUx2LJc
+# SAL24 Delivery Lead Times（配送前置時間）
+https://www.youtube.com/watch?v=X5lTOpEsoT8
+# SAL25 Dropshipping（直送）
+https://www.youtube.com/watch?v=V4BdvVcuajY
+
+# --- Pricelists 價格表（2 支）---
+# SAL26 Pricelists: Multiple Prices Per Product（多重定價）
+https://www.youtube.com/watch?v=VeQxtSIfMuc
+# SAL27 Pricelists - Discounts and Margins（折扣與利潤）
+https://www.youtube.com/watch?v=d-upMNmIftU
+
+# --- Commissions 佣金（1 支）---
+# SAL28 Commission Plans（佣金方案）
+https://www.youtube.com/watch?v=0F0hlB6dl-Q
+
+# --- Integrations 整合（2 支）---
+# SAL29 Gelato Connector（Gelato 連接器）
+https://www.youtube.com/watch?v=l_wf90mwWo0
+# SAL30 Quote Calculator Basics（報價計算機基礎）
+https://www.youtube.com/watch?v=W_0-gUc87WI
+
+# --- General 一般（1 支）---
+# SAL31 Using the Product Import Template（產品匯入模板）
+https://www.youtube.com/watch?v=U1nFe6wYfxA
