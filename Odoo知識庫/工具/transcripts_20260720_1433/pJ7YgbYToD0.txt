@@ -1,0 +1,250 @@
+影片 ID: pJ7YgbYToD0
+來源: https://www.youtube.com/watch?v=pJ7YgbYToD0
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:04] Hello Odooers and welcome back. My name
+[00:06] is Jose Ignacio. At Air Supply and
+[00:08] Demand, we've been getting more requests
+[00:10] for specific documents during sales
+[00:12] negotiations.
+[00:13] To streamline things, we created two
+[00:15] PDFs, a product sheet and an
+[00:17] installation guide to include in our
+[00:18] quotes. Today, we're going to use Odoo's
+[00:21] PDF quote builder to add these PDFs as
+[00:23] headers and footers on our quotes.
+[00:26] This helps standardize our documents and
+[00:28] speeds up the sales process by
+[00:29] automatically including key details like
+[00:32] the customer's name, sales order, and
+[00:34] quotation date. So, let's dive into Odoo
+[00:36] and see how it works.
+[00:38] To begin, we need to make sure that
+[00:39] we've enabled a couple of features.
+[00:41] We're going to go to configuration and
+[00:42] then settings. Perfect. Inside of the
+[00:45] product catalog section, we're going to
+[00:46] ensure that the variants feature right
+[00:48] here is enabled. This is optional, but
+[00:50] I'm going to be showing how to add
+[00:51] documents to specific versions of a
+[00:53] product. In the quotations and orders
+[00:56] section, you want to make sure the
+[00:57] quotation templates and the PDF quote
+[00:59] builder are both enabled. We need these
+[01:02] features, specifically the PDF quote
+[01:04] builder, so that we can add headers and
+[01:06] footers to a quotation template. Now,
+[01:08] perfect. If you haven't enabled these
+[01:10] settings, click save up in the
+[01:11] top-left-hand corner.
+[01:13] All right, moving on. Our wall air
+[01:15] conditioner has a smart {slash} Wi-Fi
+[01:17] version. Today, we're going to add the
+[01:19] product sheet for that version from the
+[01:20] variants product form. So, in the sales
+[01:23] app, which we're already in, go to
+[01:24] products, and then in this case, product
+[01:27] variants.
+[01:28] All right, so I'm going to select the
+[01:30] wall air conditioner, and the one that I
+[01:32] want is the one that's Wi-Fi enabled
+[01:34] over here, and for the color black.
+[01:37] Perfect. All right, we're inside of
+[01:38] here. So, at the top of the product
+[01:40] form, you're going to notice we have a
+[01:42] couple of smart buttons. We're going to
+[01:43] click on the documents one.
+[01:45] Inside of here, I'm going to click
+[01:46] upload, and then I want to select the
+[01:48] correct PDF, which in this case is going
+[01:50] to be our
+[01:52] AC product and info warranty for the
+[01:55] Wi-Fi version. Boom. There we go. Super
+[01:58] fast. Now, I'm also going to hover over
+[02:01] and you'll notice these three ellipses
+[02:02] dots over here are there.
+[02:04] And on this card, we're going to select
+[02:06] edit.
+[02:08] So, inside of our sales section that we
+[02:11] have right here below, I can actually
+[02:13] set the level of customer visibility of
+[02:15] the PDF within the sales process.
+[02:17] So, for the sale visible at little area
+[02:20] right here in this field, I'm going to
+[02:22] select inside quote PDF as our option.
+[02:26] This allows us to share the document
+[02:27] whenever we send quotes.
+[02:29] Now, anytime the black Wi-Fi enabled
+[02:31] version of our wall AC is added to a
+[02:34] quote, this PDF will be available in the
+[02:36] quote builder tab.
+[02:37] Now, what if the customer wants to
+[02:39] download the product sheet directly from
+[02:41] the company website? Well, Odoo has that
+[02:43] covered. You can make product
+[02:45] documentation available to customers on
+[02:47] the website's product page, but the PDF
+[02:50] needs to be configured on the parent
+[02:51] product form, not the variant form. So,
+[02:55] for this, I'm going to go and select
+[02:57] products up at the top and then products
+[02:58] once again.
+[03:00] So, I'm going to select the wall air
+[03:01] conditioner right there.
+[03:03] And just like with the variant form, I'm
+[03:05] going to click on our documents smart
+[03:07] button up at the top.
+[03:09] So, on the AC product info and warranty
+[03:11] card that we have over here to the far
+[03:14] right, and in this case we want the one
+[03:15] that doesn't actually have the variant
+[03:18] one, so this one on the far left, we're
+[03:20] just going to select this little toggle,
+[03:21] publish on website.
+[03:24] And this was disabled by default.
+[03:26] Now, I could click the toggle to enable
+[03:29] it like I just did, but first I want to
+[03:31] show you the document form. So, let's
+[03:34] undo that, click over here, and then
+[03:36] select edit.
+[03:38] All right. So, this is actually perfect
+[03:40] inside of here. Note that this PDF is
+[03:42] also set to be visible inside of the
+[03:45] quote.
+[03:46] This will come up later. So, in the
+[03:48] e-commerce section near the bottom, here
+[03:50] is where we're going to also enable it.
+[03:52] And then this time for realsies. So,
+[03:54] we're going to click on this nice little
+[03:55] feature checkbox so website visitors can
+[03:57] access the PDF on the product's webpage.
+[04:00] Great. We're going to manually save, and
+[04:02] I'm going to use the breadcrumb menu to
+[04:03] return to our product page. So, here we
+[04:06] are, wall air conditioner once again.
+[04:08] And this time around we're going to
+[04:09] select go to website just to preview it
+[04:11] on our online store. Now on our product
+[04:14] page, oh, you can see me smiling.
+[04:16] You'll notice that on this page we have
+[04:18] a document section that links to the AC
+[04:21] product sheet. Now, how cool is that?
+[04:24] Next, we're going to add a header and
+[04:25] footer to a quotation template. When
+[04:27] specific headers and footers are
+[04:28] assigned to a quotation template, the
+[04:30] use of those associated PDFs is
+[04:32] restricted to quotes generated with that
+[04:34] template. So, this time around we're
+[04:36] going to select configuration over here
+[04:37] in the top left, and then we're going to
+[04:39] select quotation templates.
+[04:41] Okay, so I'm going to click on the AC
+[04:43] installation template right here, and
+[04:45] then we're going to click on our quote
+[04:46] builder tab.
+[04:48] And now we're going to add multiple
+[04:49] headers and footers. So, from the add
+[04:52] headers and footers pop-up window that
+[04:54] opens up after we selected button,
+[04:56] I'm going to select our two files. All
+[04:59] right, so the very first one that we
+[05:00] want is we want our HVAC header over
+[05:03] here, and that one is going to be a
+[05:05] header. And then we also want our AC
+[05:08] installation guide as a footer this time
+[05:10] around. And now we hit select.
+[05:14] Perfect. All right, now just
+[05:16] double-checking here. We have our
+[05:18] header, and then we also have our
+[05:19] footer. Perfect. All right, all our
+[05:22] selections are now visible in the quote
+[05:23] builder tab of our template. It's always
+[05:25] good to double-check. Now that the
+[05:27] template is configured, let's see how a
+[05:29] salesperson uses it when creating a
+[05:31] quotation. Now we recently got an order
+[05:33] for a home AC installation. So, I'm
+[05:36] going to select, after manually saving,
+[05:38] orders up at the top, and then
+[05:39] quotations. Perfect. Then I'm going to
+[05:41] select new.
+[05:43] All right, so for our customer, we're
+[05:45] going to go with Champ Winchester.
+[05:48] Now, I'm going to apply our template by
+[05:50] clicking in the quotation template field
+[05:52] that we have right here and selecting AC
+[05:54] installation. And this is always going
+[05:56] to make me smile, but look at that. The
+[05:58] quote automatically populates with the
+[06:00] products and services typically required
+[06:02] for an AC installation. To customize
+[06:04] which headers and footers to use, I'm
+[06:06] going to click our quote builder tab
+[06:07] over here.
+[06:09] All right, great. So, there are three
+[06:10] sections that correspond to the document
+[06:12] types that are configured in our header
+[06:14] {slash} footer page.
+[06:15] Why are there two product PDF that we
+[06:17] have when we only have one product on
+[06:19] the quote?
+[06:21] Well, you'll kind of notice inside of
+[06:23] this section because both the parent
+[06:25] product and the variant have PDFs
+[06:28] configured. Odoo includes parent PDFs
+[06:30] automatically unless hidden. Since this
+[06:32] is an AC installation quote, in this
+[06:34] case, I'm going to select our HVAC
+[06:36] header inside of the header area. And
+[06:38] now we want our AC product {slash} info
+[06:42] for our nice little product section. So,
+[06:44] we're going to select that one as well.
+[06:47] And then finally for our footer, well,
+[06:50] for this one, I kind of did mention it's
+[06:52] going to be both our
+[06:55] about us and our AC installation guide.
+[06:58] All right, now that this is all done,
+[07:00] we're going to select send.
+[07:03] And then we give that a little second.
+[07:05] We just made a pretty powerful
+[07:07] nice little uh quote right there. And
+[07:09] then we're going to hit send again just
+[07:11] to send it on off to Champ.
+[07:13] All right, once that that loads, you'll
+[07:15] notice in the chatter,
+[07:17] I'm going to select our nice little copy
+[07:19] that we have right there. Give this a
+[07:21] second to load as well because it's a
+[07:23] pretty beefy PDF.
+[07:25] And then it should be everything that
+[07:27] we've done together at this point. Boom.
+[07:30] Look at that.
+[07:31] All right, there's the headers.
+[07:34] And there's the quotation.
+[07:38] There's the AC guide and our about us.
+[07:40] Oh my god, we can see the headers and
+[07:42] footers have been included in the quote.
+[07:44] So, if I want to print a copy of this as
+[07:46] well, I have this nice little icon on
+[07:47] the top right corner. Looks like a
+[07:49] little printer and I can click on it. Or
+[07:51] let's say I'm a little bit lazy. Well,
+[07:53] if I want a copy of everything else
+[07:54] here, I can also select print there or
+[07:57] print over here for our quotation and
+[07:58] order in our PDF quote.
+[08:00] There you have it. In this tutorial, we
+[08:02] learned how to add headers and footers
+[08:03] to quotation templates and products and
+[08:06] make them accessible online. So, with
+[08:07] these tools, our sales people can
+[08:10] deliver clear and more professional
+[08:11] quotations while maintaining a
+[08:12] consistent company presentation.
+[08:15] So, that's it for today. Thank you for
+[08:17] bearing with me. I'll see you next time.
+[08:18] Go grab a snack or eating
+[08:21] salt and vinegar chips.

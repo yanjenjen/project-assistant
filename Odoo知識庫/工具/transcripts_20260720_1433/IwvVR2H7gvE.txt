@@ -1,0 +1,98 @@
+影片 ID: IwvVR2H7gvE
+來源: https://www.youtube.com/watch?v=IwvVR2H7gvE
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:05] what's up OD doers and welcome back as
+[00:07] you know there are multiple ways
+[00:08] companies can make their products or
+[00:10] services available to customers they
+[00:12] could set up an online store and sell
+[00:13] their goods on an e-commerce platform
+[00:15] they could also open a physical brick
+[00:16] and mortar stor phone as well or they
+[00:18] could simply have their salespeople do
+[00:19] the work nowadays most companies use a
+[00:22] combination of all of these proven
+[00:23] methods today we're going to show you
+[00:25] the basics of the Odo sales app
+[00:26] specifically where to find settings and
+[00:28] features that make the Odo sales The
+[00:30] Ideal tool for any salesperson now a lot
+[00:32] of your Revenue generating activity
+[00:34] comes from this app so it's important to
+[00:35] know what's what so let's jump into our
+[00:37] database and get into it shall we let's
+[00:40] kick things off on our sales app
+[00:42] dashboard by default OD only shows the
+[00:44] quotations related to the current user
+[00:45] as indicated by the default filter here
+[00:47] in the search bar when you remove that
+[00:49] filter all the quotations and orders in
+[00:51] the database can be seen along with a
+[00:52] series of pertinent information related
+[00:54] to each one in this default list view
+[00:56] this data can be viewed in different
+[00:57] ways by clicking through these different
+[00:59] options here on the right right side of
+[01:00] the
+[01:01] page from here we can click on the
+[01:03] configuration button and then to
+[01:05] settings to check out our settings page
+[01:07] here you'll find options related to our
+[01:08] product catalog pricing quotations and
+[01:11] orders and the list goes on and on so if
+[01:13] you're looking for a way to customize
+[01:14] any element of your sales this is where
+[01:16] you do it and if you're searching for a
+[01:18] more specific way to configure any of
+[01:19] those important aspects you can find
+[01:21] links to those elements in the
+[01:22] configuration drop-down
+[01:24] menu now when we click on the reporting
+[01:26] drop down menu we see ODU provides us
+[01:28] with a handful of analytical Pages
+[01:30] dedicated to various aspects of our
+[01:31] sales all these reporting Pages like the
+[01:33] main dashboard provide different view
+[01:35] options as well as countless ways to
+[01:37] filter in group results to create the
+[01:38] ideal analysis report be sure to check
+[01:40] out our other tutorials and
+[01:41] documentation to learn more about that
+[01:43] next if we select products and then
+[01:45] products once again you'll find our
+[01:46] product page with all the products that
+[01:48] you've entered into your database you
+[01:50] can create new ones by clicking new here
+[01:51] in the upper leftand corner or modify
+[01:53] existing ones on their individual
+[01:55] product Page by clicking on their
+[01:57] tab here is where you'll find tons of
+[01:59] field builds tabs options buttons and
+[02:01] metrics that you can freely customize
+[02:03] and analyze as you see fit also under
+[02:05] the products header menu you'll find
+[02:08] links to our product variance price list
+[02:10] discount and loyalty and gift cards and
+[02:12] ewallet options and don't worry we have
+[02:14] tutorials dedicated to all those options
+[02:16] as well so stay tuned to learn more next
+[02:19] if we click on two invoice we'll find
+[02:21] links to two different pages one with
+[02:23] all the orders we still need invoice
+[02:24] labeled as orders to invoice and the
+[02:27] other with all our upsell orders labeled
+[02:29] as orders to upsell lastly we have our
+[02:31] orders header menu here here we'll find
+[02:34] links to Pages dedicated to quotations
+[02:36] orders sales teams and customers and
+[02:39] there you have it o doers those are all
+[02:41] the fundamental basics of the sales
+[02:42] application now you know where to find
+[02:44] everything you'll ever need to take your
+[02:45] sales to the next level stay tuned for
+[02:47] more tutorials and check out our
+[02:48] documentation to learn even more about
+[02:50] odu's super useful sales application
+[02:52] until then I'll see you soon

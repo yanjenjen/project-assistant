@@ -1,0 +1,70 @@
+影片 ID: PwbZ-6gDxmg
+來源: https://www.youtube.com/watch?v=PwbZ-6gDxmg
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:01] welcome back OD doers Okay so we've seen
+[00:03] how to set up sales taxes different
+[00:05] computation types tax forms fiscal
+[00:07] positions everything now finally we're
+[00:09] going to see how easy it is to use these
+[00:11] sales taxes on quotations in ODU so
+[00:13] let's jump back into our database to see
+[00:15] all of that in action so we're going to
+[00:18] kick things off on our sales dashboard
+[00:20] now from here we'll want to create a
+[00:21] quotation to see how sales taxes work so
+[00:24] let's click new and get on over here now
+[00:27] per the usual routine we're going to
+[00:29] start by adding a customer how about we
+[00:31] make a quotation for one of our favorite
+[00:33] customers Suzie customer a very real
+[00:37] customer perfect now A little birdie
+[00:40] told me that she's been in the market
+[00:41] for one of our acoustic block screens so
+[00:44] we're going to hit add a product down
+[00:46] here acoustic block screens and let it
+[00:48] fill up and you'll notice something
+[00:50] automatically just happened now over
+[00:52] here inside of the taxes column our
+[00:55] default 15% tax has automatically been
+[00:57] applied because no custom customer tax
+[01:00] has been configured on the product form
+[01:02] and no particular fiscal position has
+[01:04] been configured on the contact form
+[01:06] either great if you don't know what
+[01:08] those mean please check out part two of
+[01:09] the tutorial but I'm actually sorry I
+[01:13] was buzzing there I just noticed uh
+[01:14] she's told me that she just moved to
+[01:17] Canada good for her all right so in that
+[01:21] case let's go ahead and change this tax
+[01:23] on her order so we're actually just
+[01:24] going to click into the tax area we're
+[01:26] going to close that one out and you'll
+[01:28] notice from this drop down we can select
+[01:30] it now here we have our 5% Canada tax
+[01:33] and once that we're set up with all of
+[01:34] that we're ready to go and we configured
+[01:37] that one in our last video and once that
+[01:39] we hit confirm over here for this boom
+[01:41] we're done but let me show you something
+[01:44] if we click up here into customer
+[01:45] preview we can actually see what that
+[01:47] looks like for them now you'll notice if
+[01:49] we go over here to the pricing section
+[01:51] we could see that clearly indicated over
+[01:54] here under taxes so they'll know exactly
+[01:57] how much they're getting taxed there
+[01:59] that wasn't too difficult right well
+[02:02] that's it OD doers that brings our
+[02:04] lengthy sales tax lesson to a triumphant
+[02:06] conclusion I hope you learned a lot I
+[02:08] know I did and remember if you want to
+[02:10] learn even more about the ODU sales
+[02:12] application or any of the other awesome
+[02:13] apps be sure to check out our other
+[02:15] tutorial videos and our docs it's all
+[02:18] for now folks take it easy and I'll see
+[02:21] you in the next
+[02:24] one

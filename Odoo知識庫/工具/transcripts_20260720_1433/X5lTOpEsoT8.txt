@@ -1,0 +1,211 @@
+影片 ID: X5lTOpEsoT8
+來源: https://www.youtube.com/watch?v=X5lTOpEsoT8
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:05] all right what's going on o doers if
+[00:06] you're anything like me you love
+[00:08] shopping online there's really no other
+[00:10] Rush that compares personally I like to
+[00:13] plop down on the couch after a long day
+[00:15] of tutorial teaching kick up my feet and
+[00:18] just scroll through my favorite online
+[00:19] stores you know just picking up a few
+[00:21] essentials along the way then in just a
+[00:24] matter of days those products are
+[00:25] delivered to my door ah it's the best
+[00:28] but you know what's the worst when those
+[00:30] products show up later than expected or
+[00:33] sometimes they don't even show up at all
+[00:35] frankly that sucks and companies
+[00:37] shouldn't toy with our emotions like
+[00:38] that especially not mine Steve already
+[00:40] does that not only does that negatively
+[00:43] affect my shopping experience it's a
+[00:45] great way to lose customers that's why
+[00:47] here at stealthy wood we've done things
+[00:49] differently we always make sure to
+[00:50] properly use delivery lead times to
+[00:52] avoid those kinds of disasters now for
+[00:54] those of you who may not know a delivery
+[00:56] lead time is the number of days to when
+[00:58] a customer places in order to when they
+[01:01] actually receive the items delivery lead
+[01:04] times help us schedule precise delivery
+[01:06] dates or delivery time frames just so
+[01:08] our customers know exactly when to
+[01:10] expect their items here let me just show
+[01:13] you a quick example of what I'm talking
+[01:14] about let's say that we have a delivery
+[01:17] lead time of I don't know 10 days with
+[01:19] that in place OD will schedule the
+[01:21] delivery date to 10 days after the
+[01:23] ordered dates and the customer will be
+[01:26] instantly informed about all of this
+[01:28] that way you know they'll know when to
+[01:30] expect their items and not be guessing
+[01:32] like I am at times so if someone
+[01:34] confirms an order on the 1st of July do
+[01:36] your math the customer will be notified
+[01:38] that they can expect it on the 11th 10
+[01:41] days after the order was confirmed
+[01:43] pretty simple right as you can imagine
+[01:45] it's super important to configure the
+[01:46] delivery lead time correctly because it
+[01:48] directly impacts our customer
+[01:49] satisfaction we're not careful we'll get
+[01:51] a reputation of late deliveries and our
+[01:54] customers will take their business
+[01:55] elsewhere and that my friends is no
+[01:58] bueno but if we take advantage of
+[02:00] delivery lead time so we can gain a
+[02:02] serious Edge over our competitors which
+[02:04] is always a top priority think about it
+[02:07] if we can always deliver faster or more
+[02:09] reliably than our competitors customers
+[02:11] will always come to us because they know
+[02:15] they can rely on us to deliver the
+[02:17] products on time so enough chitchat
+[02:20] let's jump into our
+[02:22] database okay as usual we're going to
+[02:24] get things started here on our sales
+[02:26] dashboard now when it comes to
+[02:27] configuring delivery lead times it's
+[02:29] something we do on an individual
+[02:30] products form so let's jump on up here
+[02:33] to products and products so doers okay
+[02:36] we want to pick a product we want to
+[02:37] configure a custom delivery time for how
+[02:39] about
+[02:42] drawer it's perfect then when we're on
+[02:45] the disired product form we'll need to
+[02:47] open over here inside of the inventory
+[02:48] and I want to direct your attention down
+[02:50] here to customer lead time now this
+[02:52] field over here in the logistic section
+[02:54] is where we'll enter our custom lead
+[02:56] time for this specific product let's say
+[02:58] we want it to take 5 days to deliver
+[03:01] this item and I want my customer to be
+[03:03] aware of that so we're going to go into
+[03:04] here and we're just going to type in the
+[03:06] number five great now it should be noted
+[03:09] by default the field is set to zero so
+[03:11] be sure to keep that in mind as you
+[03:12] configure your products in your database
+[03:14] to avoid any delivery lead time
+[03:15] confusion o doers oky doie now that
+[03:18] we've got a lead time locked and loaded
+[03:19] let's see these things in action okay so
+[03:22] let's hop on over to orders and orders a
+[03:25] lot of duplicates and select new perfect
+[03:28] now for a customer we're going to add
+[03:30] azour interior because they are
+[03:32] trustworthy now let's put our drawer
+[03:35] product right there perfect now let's
+[03:37] confirm this because I want to show you
+[03:38] something out doers now up here at the
+[03:40] top we have our order date which just
+[03:43] happens to be today's date aka the date
+[03:46] of the order which is 105 now if we open
+[03:48] the other info Tab and we scroll down
+[03:50] over here to the delivery section
+[03:52] delivery date it's expected 1010 in
+[03:56] other words 5 days from the order date
+[03:58] just like we configured on the product
+[03:59] form a few moments ago and if we go up
+[04:02] to the top and select our delivery smart
+[04:03] button up here boom it takes us over
+[04:07] here to the delivery order which is
+[04:09] filled with the delivery details related
+[04:10] to the sales order here we'll see that
+[04:13] same lead time information reflected
+[04:15] here in the schedule date over there
+[04:18] boom perfect doesn't get much easier
+[04:19] than that right OD doers let's assume we
+[04:22] want a little bit more security let me
+[04:23] show you another neat
+[04:25] trick and guess what people we can even
+[04:28] add an extra layer of sec to our lead
+[04:30] times as I talked about if you can even
+[04:32] believe it now doing so ensures that our
+[04:34] staff can avoid any delivery delays for
+[04:36] the customer and that's always a top
+[04:38] priority here at stealthy wood so let me
+[04:40] show you how to take care of that real
+[04:42] quick we'll actually need to hop over to
+[04:44] our inventory application for a moment
+[04:46] so I'm going to type it in because I'm
+[04:47] lazy today perfect here we are all right
+[04:50] now to do what we actually need to do
+[04:52] we're going to head up to configuration
+[04:54] and settings now once that this loads we
+[04:56] got to configure something very special
+[04:59] so we're going to head over to the
+[05:00] advanced scheduling section down here
+[05:02] and you guessed it you see this little
+[05:03] box check it off security lead time for
+[05:06] sales OD doers now this setting is very
+[05:09] special now once that I activate it
+[05:11] you'll notice an additional field
+[05:13] appears beneath it in this newly
+[05:15] appeared field I'll enter a specific
+[05:16] number of days so that ODU can schedule
+[05:18] deliveries internally a few days earlier
+[05:21] than the customers's expected delivery
+[05:23] date that way in case there are any
+[05:25] unforeseen delays or issues we can still
+[05:27] deliver that order on time if not even
+[05:29] earlier so for this example let's move
+[05:32] forward the expected delivery dates
+[05:34] internally by 2 days so we're going to
+[05:36] move them and we just have to type in
+[05:38] the two right there and that's perfect
+[05:41] and remember when adjusting anything on
+[05:42] a setting or a settings page we'll need
+[05:44] to click save just to lock these in so
+[05:47] go on and do that okay once that you
+[05:49] finish and do that and you're all ready
+[05:51] to go Bing Bang Boom let's hop back over
+[05:54] to our sales application because we need
+[05:56] to test things out so let's go out of
+[05:57] here and we're going to jump right back
+[05:59] back into sales now let's go to that
+[06:01] recent one that we made for azer
+[06:03] interior and I want you to do something
+[06:04] cool we're going to duplicate this real
+[06:06] quick boom perfect now once that this is
+[06:10] duplicated let's confirm it again now
+[06:14] once again still the same order date 105
+[06:17] everything looks pretty cool but then
+[06:20] when we go over to the or other info tab
+[06:22] again it's 1010 but that's not where I
+[06:24] want to show you the magic here it's
+[06:26] still 5 days from now but check this out
+[06:30] let's go up here to the
+[06:33] delivery I love when these things just
+[06:35] line up like that odour so I could show
+[06:36] you that magic that Odo magic because as
+[06:40] you notice it says 10:08 for the
+[06:42] schedule day two days before that
+[06:44] expected delivery date allowing our
+[06:46] staff to efficiently manage unexpected
+[06:48] delays that may occur so even if
+[06:50] something happens we'll still be able to
+[06:51] get our products to our customers in the
+[06:53] expected time if not sooner and who
+[06:55] doesn't love an early delivery I know I
+[06:57] do in fact while I'm at it how about I
+[07:00] deliver the ending of this tutorial
+[07:02] earlier than expected to cuz that's all
+[07:04] you need to know doers were done I just
+[07:06] showed you how easy it is to set up
+[07:07] delivery lead times with ODU in just a
+[07:09] few minutes that's all for this video
+[07:11] though
+[07:13] so oh I actually got a run o doers it
+[07:17] seems my delivery guy is here right on
+[07:22] time all right I'm going to see you soon
+[07:25] oers cuz he is
+[07:27] knocking that hold that
+[07:29] I'm coming

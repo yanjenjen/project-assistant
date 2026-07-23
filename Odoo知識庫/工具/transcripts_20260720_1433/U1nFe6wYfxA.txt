@@ -1,0 +1,166 @@
+影片 ID: U1nFe6wYfxA
+來源: https://www.youtube.com/watch?v=U1nFe6wYfxA
+下載時間: 2026-07-20 14:34
+============================================================
+
+[00:01] [music]
+[00:04] >> Hello there doers. My name is Jose
+[00:06] Ignacio. In this video we're going to
+[00:08] learn all about the product import
+[00:09] template. Join me, won't you?
+[00:12] Are you looking to import products to
+[00:13] your database? Are you looking to import
+[00:17] multiple products at once? Maybe even
+[00:20] multiple products with variants? It
+[00:23] sounds like a lot of tedious manual
+[00:25] work, doesn't it? Well, fear not. In
+[00:27] this video I'm going to show you how to
+[00:29] use Odoo's handy and/or dandy product
+[00:32] import template to make importing
+[00:34] products a breeze. Enough chit-chat,
+[00:35] let's go check it out now.
+[00:37] So here we are on the main dashboard. So
+[00:39] we're going to use the sales application
+[00:42] over here in this example, but you could
+[00:44] import product variants with a bunch of
+[00:46] different apps. The inventory,
+[00:47] manufacturing, and repairs apps all
+[00:50] support product imports, for example.
+[00:52] Others do, too.
+[00:54] So go ahead and this time around we're
+[00:55] going to open up our sales application.
+[00:57] So this happens to be a fresh database,
+[01:00] so we're going to click on products and
+[01:02] then products once again.
+[01:04] Perfect. So we can see that there are no
+[01:06] products associated with the sales
+[01:09] application, but that's okay. Our import
+[01:11] will add a bunch. So we're going to
+[01:13] select our nice little cog right here
+[01:15] next to the word products, and then you
+[01:18] guessed it, we're going to click import
+[01:20] in the drop-down that had opened over
+[01:21] there. So this takes us to the import
+[01:23] screen complete with handy dandy links
+[01:26] to the documentation if we need it.
+[01:30] And that's for this process and a
+[01:32] spreadsheet template as well to speed up
+[01:34] product importation. Let's go ahead and
+[01:37] download that little template and open
+[01:40] it up. Inside you can see that it's been
+[01:42] pre-filled with some sample products
+[01:44] over here and the relevant data. Now
+[01:47] you'll also notice we have asterisks.
+[01:48] Now the asterisks in the header tell us
+[01:51] the only fields that an imported product
+[01:53] absolutely needs to have in our Odoo
+[01:55] database.
+[01:56] You could see that with the name in the
+[01:57] product type as well. Everything else in
+[01:59] the template is an example product you
+[02:02] can use to see how your database will
+[02:04] read all of your imported spreadsheets.
+[02:07] Across the header, you're going to see
+[02:09] names for columns that correspond to
+[02:10] fields in Odoo. We have track inventory,
+[02:14] product values, quantity on hand, etc.
+[02:16] You get the idea. You can add or remove
+[02:18] columns as needed. Think of these as a
+[02:21] starting off point, not mandatory
+[02:23] inclusions.
+[02:24] So, let's actually talk about product
+[02:26] values in this column before we move on.
+[02:29] This column is used to identify product
+[02:31] variants, and you never know with them.
+[02:34] Sleeves and size, in this case, are
+[02:36] attributes. Long, short, small, medium,
+[02:39] and large are all values within those
+[02:41] attributes. So, there are five total
+[02:43] variants here. Why is there no polo
+[02:46] variant with long sleeves and large? I
+[02:49] don't know. That's not my business.
+[02:53] Okay, let's go back to our database.
+[02:55] Okay, so back over here in our database,
+[02:56] let's click that app upload button.
+[02:59] Perfect.
+[03:00] Okay, that pulls up our computer's file
+[03:02] manager, and we're going to select our
+[03:04] template products {underscore} import
+[03:06] template, which now took us to the
+[03:09] upload screen. Here, you're going to see
+[03:11] the columns from the templates as
+[03:12] preselected Odoo fields. We can see that
+[03:14] with the name over here in product type.
+[03:16] Ah, isn't that nice? Now, this is
+[03:18] because Odoo has the use first row as
+[03:21] header option enabled by default. That
+[03:24] means Odoo will match the content of the
+[03:26] spreadsheet's first row to the products
+[03:28] fields in the database. If you uncheck
+[03:30] that box, the page will reload, and
+[03:32] you'll have to assign each column to a
+[03:34] field manually.
+[03:36] If you've added custom columns to the
+[03:38] template, this is how you'll manually
+[03:39] identify them in your database and
+[03:41] specify which fields they should align
+[03:43] with. But, we're trying to avoid manual
+[03:45] work, so let's make sure
+[03:48] this time around, now that you've seen
+[03:50] exactly what I meant, that we recheck
+[03:52] the box before moving on.
+[03:54] Okay, so everything looks good to me. So
+[03:57] we're going to test this out. Boom. So
+[04:00] this will check the headers to confirm
+[04:01] that they're imported and they're going
+[04:03] to import properly. If everything looks
+[04:05] good, you're going to see that nice
+[04:07] little blue banner that reads everything
+[04:09] seems valid. If there are any issues,
+[04:12] you'll instead see a red banner that
+[04:14] will tell you which columns need
+[04:15] attention.
+[04:16] Okay, so we've uploaded the template,
+[04:18] tested it, and everything seemed valid.
+[04:20] Okay, that's good to hear.
+[04:22] Let's click our import button over here
+[04:25] and finish up. And look at that, we have
+[04:27] that nice little pop-up over here
+[04:29] letting us know everything is good. That
+[04:32] notification appears at the top of the
+[04:33] screen telling us how many products were
+[04:35] successfully uploaded and we got and we
+[04:39] have a product catalog and smart view of
+[04:41] our imported records. You might have
+[04:43] noticed that there are fewer items in
+[04:45] the catalog than there were in the
+[04:47] template. That's because each of those
+[04:49] polos was created as a variant rather
+[04:52] than as a discrete product. Actually,
+[04:54] let's talk about that now.
+[04:56] It's a good time.
+[04:58] Now, as you likely already know, all of
+[05:00] the items in an Odoo database have
+[05:02] connections to other items. Consider the
+[05:05] polos we were talking about earlier. The
+[05:07] attributes size and sleeves and the
+[05:10] values small, medium, large, long, short
+[05:13] are all connected in links that the Odoo
+[05:15] database calls relations. They're
+[05:17] related to the base product, the polo
+[05:19] itself. That means when it comes time to
+[05:21] import products with variants, the
+[05:23] record for the basic product must exist
+[05:26] first. If it doesn't, Odoo will
+[05:27] automatically create it even if you
+[05:29] don't have variants enabled. And that's
+[05:32] it.
+[05:32] You've learned where to find the product
+[05:34] import template, how to customize the
+[05:36] template to your needs, how to upload
+[05:38] it, and how product variants work with
+[05:40] the template. Good stuff. Until next
+[05:42] time Odooers, remember,
+[05:44] you're all very important
+[05:46] people to me. Haha. Go grab a snack. I'm
+[05:49] still drinking Pepsi. Sponsor me.

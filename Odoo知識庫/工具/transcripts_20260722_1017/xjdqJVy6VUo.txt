@@ -1,0 +1,127 @@
+影片 ID: xjdqJVy6VUo
+來源: https://www.youtube.com/watch?v=xjdqJVy6VUo
+下載時間: 2026-07-22 10:17
+============================================================
+
+[00:05] hello o doers and welcome back today
+[00:08] I'll show you a quick way to order the
+[00:09] same products from the same vendor using
+[00:11] a purchase template let's talk about
+[00:13] healthy foods stealthy wood sister
+[00:15] company that sells groceries our store
+[00:17] orders fresh groceries daily but
+[00:18] quantities can change and sometimes we
+[00:20] need to add a few extra products with
+[00:22] the purchase template we can easily copy
+[00:24] over the products quantities prices and
+[00:26] vendor info then we'll make some quick
+[00:28] tweaks swap out some items and send
+[00:30] another RFQ in no time the template is
+[00:33] useful for quickly placing recurring
+[00:34] orders for items with fixed quantities
+[00:37] now enough chitchat let me show you how
+[00:38] to create and use purchase templates in
+[00:40] ODU to set up purchase templates we're
+[00:43] first going to navigate to configuration
+[00:44] and then down to settings here we want
+[00:46] to make sure that the purchase
+[00:47] agreements feature is enabled now if you
+[00:50] haven't already enabled this feature
+[00:51] make sure to do that and then click save
+[00:53] before moving on but once you do that
+[00:55] we're all set next in order to create
+[00:58] templates we're going to go ahead and
+[00:59] select orders and then down to purchase
+[01:01] agreements here we'll see our blanket
+[01:03] orders or purchase templates that's
+[01:05] we've made then we can go ahead and
+[01:07] click new to create a new one now the
+[01:10] vendor field is optional so it can be
+[01:11] left blank for use with various
+[01:13] different suppliers but for this example
+[01:15] we're going to set our vendor field to
+[01:18] produce you get my P
+[01:21] there now here's the most important step
+[01:23] in the agreement field select purchase
+[01:27] template now products are required on
+[01:29] the template so let's go ahead and add
+[01:31] some such as
+[01:34] carrot and then we're going to go ahead
+[01:36] and add a quantity of 25 for this
+[01:38] template and then let's also add some
+[01:43] milk and for this case we'll just go
+[01:46] ahead and do
+[01:50] one yum what a good breakfast now let's
+[01:53] go ahead and click confirm to finish
+[01:55] this template and doing so we're going
+[01:57] to see the RFQ ORD smart button here at
+[02:00] the top this shows all the rfqs created
+[02:03] using this template with the new
+[02:05] quotation button we can go ahead and
+[02:07] select that and create a new RFQ using
+[02:10] the template we just created the product
+[02:12] quantities and prices are copied over
+[02:15] and now we can go ahead and modify the
+[02:17] quantity if we need
+[02:19] to and even change the
+[02:22] price and lastly we can even go ahead
+[02:25] and delete products if we'd like and of
+[02:27] course add new ones
+[02:30] next up let me show you a purchase
+[02:31] template that we've been using for a
+[02:32] while so you can see how we keep track
+[02:34] of all the orders we made with it we'll
+[02:36] go ahead and use the purchase agreements
+[02:38] breadcrumb button and this time we're
+[02:40] going to select
+[02:41] pto1 you'll see that the RFQ orders
+[02:44] smart button shows how many rfqs or POS
+[02:47] we've created using this template so far
+[02:49] so let's click the smart button and view
+[02:51] all of
+[02:52] them some important fields to keep an
+[02:54] eye on here is the confirmation date and
+[02:57] that's when a RFQ was turned into a PO
+[03:00] and on the far right we also have the
+[03:01] expected arrival date and that's one in
+[03:03] orders expected arrive it's something we
+[03:05] set on the RFQ or po itself and
+[03:08] conveniently at the bottom we have the
+[03:10] total dollar amount of the products
+[03:12] ordered using this exact template and
+[03:15] that's how we create and use a purchase
+[03:17] template to order products now okay OD
+[03:19] doers I know what you're thinking what's
+[03:21] the difference between purchase
+[03:22] templates and a blanket order the key
+[03:25] difference is when an RFQ is created in
+[03:27] a blanket order the quantity is set to
+[03:29] zero by default while with using a
+[03:31] purchase template the quantity is copied
+[03:33] over for more about blanket orders check
+[03:36] out that tutorial but in short a blanket
+[03:38] order is a huge order split into several
+[03:40] deliveries so all the rfqs must be for
+[03:43] the same vendor for example the vendor
+[03:45] that's supplies us with one particular
+[03:47] brand of cereal says they'll be giving
+[03:48] us a tempting discount if we buy 1,200
+[03:51] boxes of cereal now I don't want them
+[03:54] all delivered at the same time or that
+[03:55] serial brand will be the only thing
+[03:56] we're selling for like half a year so
+[03:58] I'll split up my Ord into 12 deliveries
+[04:00] and only receive 100 units every month a
+[04:03] purchase template on the other hand is
+[04:05] for quickly placing frequent orders
+[04:07] especially when quantities don't have to
+[04:08] be exact like restocking toilet paper or
+[04:11] coffee in the office and since the
+[04:13] products quantity price and vendor are
+[04:15] all copied over it's a handy tool to
+[04:17] quickly place
+[04:18] rfqs and that's it for this purchase
+[04:21] template tutorial party people for more
+[04:23] information about Odo purchase feel free
+[04:25] to check out our other tutorials but
+[04:27] until then I'll see you next time

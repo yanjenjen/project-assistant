@@ -1,0 +1,209 @@
+影片 ID: 8QviDPrj39I
+來源: https://www.youtube.com/watch?v=8QviDPrj39I
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:01] [music]
+[00:05] >> Welcome back Odooers. My name is Jose
+[00:06] Ignacio. Let's be honest, making sales
+[00:09] is one thing. Getting paid on time?
+[00:12] Well, that's another.
+[00:13] If your sales process isn't set up
+[00:15] properly, you can end up with delayed
+[00:17] payments, inventory confusion, or
+[00:19] frustrated customers. Trust me, setting
+[00:21] up your sales app is very important.
+[00:23] Odoo offers two invoicing policies, but
+[00:26] today we're going to focus on invoice
+[00:28] what is ordered, where customers pay
+[00:30] based on the quantities they ordered.
+[00:32] This invoicing policy is best used when
+[00:34] the cash flow is a priority for
+[00:35] procuring components for the product
+[00:37] that you're actually selling, when you
+[00:39] need to pay your contractors before the
+[00:41] order is delivered. So, in this video,
+[00:43] I'm going to show you how invoice what
+[00:45] is ordered impacts your sales,
+[00:47] inventory, and cash flow. So, today
+[00:49] we're going to configure Odoo sales
+[00:51] application to accept online signatures
+[00:54] and payments, apply the right payment
+[00:56] terms, and select our invoicing policy.
+[00:59] By the end, you're going to know exactly
+[01:00] how to configure your sales workflow to
+[01:02] align with your cash flow and
+[01:04] fulfillment strategy. So, enough
+[01:06] chit-chat, let's get started.
+[01:08] Here I am inside of the sales
+[01:09] application. So, let's check our
+[01:10] settings so that we can get
+[01:11] confirmations faster and keep that cash
+[01:14] flowing. So, I'm going to select
+[01:15] configuration over here up at the top
+[01:17] and then select settings.
+[01:19] So, we're actually going to scroll down
+[01:20] until we reach this quotations and
+[01:22] orders section. I'm going to make sure
+[01:23] that we have online signature right
+[01:25] there enabled and online payment also
+[01:28] enabled.
+[01:30] And next, we're also going to scroll
+[01:31] down over here to the shipping section.
+[01:33] We need to ensure that delivery methods
+[01:35] is also enabled. Perfect. This allows
+[01:37] Odoo to automatically calculate shipping
+[01:39] costs on quotes and sales orders.
+[01:42] Next, we're actually going to go to the
+[01:44] invoicing section, even further down.
+[01:47] So, the default thing that we have over
+[01:49] here is invoice what is ordered, meaning
+[01:51] customers are invoiced for the
+[01:53] quantities that they ordered. The
+[01:55] alternative is what I talked about,
+[01:57] invoice what is delivered, meaning
+[01:58] invoices are based on the validated
+[02:00] delivery quantities.
+[02:02] So, now that these settings are enabled,
+[02:04] we're going to make sure that these
+[02:05] improve our sales workflow. And to make
+[02:08] sure that your time is improved, make
+[02:09] sure that you also save. Don't forget to
+[02:11] save.
+[02:13] Okay, it's a new day and today I happen
+[02:15] to be working with a major player in the
+[02:17] pet wearables market, specializing in
+[02:20] crocheted pet hats. They also happen to
+[02:22] have given me some samples
+[02:24] that I could wear myself.
+[02:27] Anyways, I directly manage my inventory
+[02:29] and prefer to collect payment up front.
+[02:32] So, the company prefers to use the
+[02:33] invoice what is ordered option, which is
+[02:35] common among retail businesses that do
+[02:37] custom orders. So, the new button over
+[02:40] here is available on either the
+[02:42] quotations or orders dashboard and opens
+[02:44] up a blank quote form. I can navigate to
+[02:47] either by clicking on and my case,
+[02:49] orders up at the top over here,
+[02:52] or also selecting, you know, quotations
+[02:54] or orders right there.
+[02:56] So, we're just going to select orders
+[02:57] cuz you might as well.
+[02:59] All right, so let's whip up a new quote.
+[03:01] So, we're going to select new over here
+[03:03] and we've opened up a new blank
+[03:05] quotation form. Our customer is going to
+[03:07] be
+[03:09] Gwenifer Aniston over there.
+[03:12] So, the expiration field over here kind
+[03:14] of helps keep our pipeline accurate and
+[03:16] prevents outdated quotes from lingering
+[03:18] by setting a 30-day in this case, right?
+[03:21] Yep. A 30-day expiration and it prevents
+[03:25] outdated quotes from lingering. So,
+[03:27] that's kind of nice.
+[03:29] So, the payment terms field that we have
+[03:31] right below it is where I can decide how
+[03:33] and when we want to get paid.
+[03:35] It's a nice little drop-down that gives
+[03:36] us a bunch of different options.
+[03:38] I can also select if I wanted to
+[03:40] installments or maybe other types of
+[03:43] payments, immediate payment options
+[03:45] based on my customer's agreement in that
+[03:47] case, too.
+[03:48] You just never know, but you got
+[03:49] options.
+[03:50] So, in my case, since I'm going to need
+[03:51] to buy the yarn to make this custom
+[03:53] order, I'm actually going to make sure
+[03:55] that it is immediate payment inside of
+[03:57] our field. So, getting paid up front is
+[03:59] also the less risky option as the
+[04:00] customer can't ghost me on the payment
+[04:03] after the hat has been delivered. I'm
+[04:05] going to then go to our product section.
+[04:07] We're going to add one crochet hat right
+[04:09] there.
+[04:10] Perfect. And then I'm going to select
+[04:12] the add shipping button down below.
+[04:14] For this one, I'm going to select
+[04:15] standard delivery cuz I am poor.
+[04:19] So, the shipping cost has now been added
+[04:21] as a line item right below on our quote.
+[04:24] Isn't that nice and handy? So, instead
+[04:26] of emailing the quote, cuz we also have
+[04:29] that as our first option over here with
+[04:31] the send button, let's actually preview
+[04:33] this. I want to see what the customer
+[04:35] sees.
+[04:37] Because we enabled online signatures and
+[04:39] payments, Gwenifer can actually click
+[04:41] sign and pay over here
+[04:43] and once that she does that and selects
+[04:45] accept and sign,
+[04:47] boom. Once that that's also finished
+[04:49] over there, we hit pay
+[04:52] and just like that, we're confirmed
+[04:55] instantly on our end. So, let's actually
+[04:57] go check that out. So, let's go back
+[04:59] over here to our edit mode
+[05:01] and let's see what happened. So, back on
+[05:03] the sales order, let's check the
+[05:05] chatter. If you look over here, we
+[05:07] happen to have the payment link as well
+[05:10] as everything that just happened and
+[05:12] it's all linked to this sales order.
+[05:14] Wow. So, why is the payment on the sales
+[05:17] order and not on the invoice?
+[05:20] Hmm.
+[05:21] That's because sales orders are internal
+[05:23] documents used to track orders. Invoices
+[05:25] are official accounting documents used
+[05:27] for taxes, customer expense tracking,
+[05:30] and audits.
+[05:31] So, to finalize the workflow, we're
+[05:33] actually going to click create invoice
+[05:35] over here in the top left. And then once
+[05:37] we do, we're going to select for ours
+[05:39] just to create a regular invoice as a
+[05:41] draft right there.
+[05:43] So, in this draft invoice that we have,
+[05:45] notice we have our payment transaction
+[05:49] right below as a nice little smart
+[05:51] button.
+[05:53] So, what does that mean? Well, when we
+[05:54] click it, we can actually see the
+[05:56] payment amount and it matches the
+[05:58] invoice total, $21 and 21 cents.
+[06:03] Boom.
+[06:04] Told you.
+[06:05] Let's actually go back over there.
+[06:06] So, now that we're back over here, I'm
+[06:08] going to confirm this. Perfect. So,
+[06:10] after I finish creating Gwenifer's hat,
+[06:12] I'm going to go back to the sales order
+[06:14] using our sales order smart button over
+[06:16] here up at the top.
+[06:18] And we're going to click on our nice
+[06:19] little delivery smart button. It's a
+[06:21] nice little daisy chain. Validate this
+[06:24] and boom, just like that, the order is
+[06:26] confirmed, invoiced, and delivered with
+[06:28] full payment secured. Beautiful. And
+[06:30] that's it. You've learned how to
+[06:31] automate your checkout with online
+[06:33] payments, manage shipping costs, and the
+[06:36] invoice what is ordered invoicing policy
+[06:38] process flow. With the right
+[06:40] configuration, your sales app doesn't
+[06:41] just record orders, it helps you control
+[06:43] revenue, fulfillment, and customer
+[06:45] expectations. Happy selling Odooers and
+[06:48] I'm going to see you in the next video
+[06:49] where we're going to learn about invoice
+[06:51] what is delivered,
+[06:53] the second invoicing policy. Go grab a
+[06:55] snack.

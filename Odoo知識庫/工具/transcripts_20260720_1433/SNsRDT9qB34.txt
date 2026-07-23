@@ -1,0 +1,317 @@
+影片 ID: SNsRDT9qB34
+來源: https://www.youtube.com/watch?v=SNsRDT9qB34
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:01] foreign
+[00:05] ERS my name is Jose Ignacio now I don't
+[00:08] want to toot my own horn but Tootie toot
+[00:12] toot
+[00:13] business is booming here at stealthy
+[00:15] wood we're selling tons of products
+[00:17] every single day and that means that
+[00:19] we're dealing with a bunch of quotations
+[00:21] sales orders and invoices all of the
+[00:24] time and if we had to take care of those
+[00:26] tasks by hand it would be super annoying
+[00:29] very frustrating
+[00:31] and extremely time consuming that's why
+[00:35] we use odoo's online quotations to
+[00:37] create a quote send it and we have our
+[00:39] customers sign and pay for it before
+[00:41] they even receive an invoice we can also
+[00:44] suggest additional products to customers
+[00:46] with these online quotations now how
+[00:48] does that work you might ask well think
+[00:50] about it this way let's say that we sell
+[00:52] one of our popular desks to a customer
+[00:55] now since they bought a desk I may
+[00:57] suggest a chair or perhaps a lamp to
+[00:59] that same customer as an additional
+[01:01] purchase to go with the new desk now
+[01:03] these optional products appear on the
+[01:05] online quotation itself then with a
+[01:07] single click the customer can add those
+[01:10] products to their quote and pay for
+[01:12] everything all at once it's just that
+[01:15] simple now I don't even need to talk
+[01:18] about the customer or to the customer to
+[01:21] upsell these products implementing
+[01:23] optional products like this provides
+[01:25] more Revenue opportunities while
+[01:27] increasing the visibility of other items
+[01:29] it's a real win-win situation in
+[01:32] addition we can use pre-design quotation
+[01:34] templates that have optional products
+[01:36] already built in which saves our sales
+[01:38] team a ton of effort so enough Chit Chat
+[01:42] how about we dive head first into our
+[01:44] stealthy Wood Database and see how
+[01:46] online quotations work with odoo
+[01:48] let's kick things off here on the
+[01:50] settings page of the sales application
+[01:51] which inside of the sales app can access
+[01:54] from configuration settings and there we
+[01:57] are we're going to scroll down over here
+[01:58] to quotations and orders because we have
+[02:00] a few things we have to activate now
+[02:02] before we get too deep in the weeds here
+[02:04] we'll need to make sure that we have
+[02:05] these settings activated actually the
+[02:07] online signature checked online payment
+[02:10] quotation templates and the quotation
+[02:12] Builder as well now thankfully we
+[02:14] already have this locked and loaded but
+[02:16] if you still need to enable them go
+[02:17] ahead and do so and don't forget to
+[02:19] click save and then you can finally move
+[02:22] on now something else that you should be
+[02:25] aware of is that you'll need the website
+[02:26] application installed in order to use
+[02:28] the quotation Builder setting but don't
+[02:30] you worry oh doer if you don't have that
+[02:32] app yet Odo will automatically install
+[02:34] it for you after you activate that
+[02:36] setting and that's pretty convenient
+[02:38] right well now we can finally move on
+[02:40] now let's create a quotation template
+[02:42] from scratch to get to the proper page
+[02:44] to do that we could go to the
+[02:45] configuration quotation templates right
+[02:48] there or because I always give you a
+[02:50] Jose Ignacio tip we can actually just
+[02:52] click over here on quotation templates
+[02:53] both will take you to the same page
+[02:57] which as you can see here has a couple
+[03:00] of our templates already done now to
+[03:02] create a new one we actually just have
+[03:03] to select new up here and there are
+[03:06] various options now first we'll name
+[03:08] this template in our case something easy
+[03:10] to remember conference room table
+[03:13] and we can spell today which is great
+[03:15] now up next we have the option to select
+[03:18] the amount of days the quotation expires
+[03:20] after this could be useful for seasonal
+[03:23] sales or something like that Black
+[03:24] Friday I don't know but for this example
+[03:27] I'm going to leave it at a very season
+[03:28] zero days
+[03:30] now up next we have the online
+[03:32] confirmation over here as an option I
+[03:35] want the boxes for both in this case
+[03:37] signature and payment that way my
+[03:39] customers can confirm the quotation
+[03:40] online with an electronic signature and
+[03:43] they can also pay for it online as well
+[03:44] it's all about options people then we
+[03:48] have the confirmation email option right
+[03:51] here and then we can designate a
+[03:53] templated email to be sent to the
+[03:55] customer upon confirmation of the
+[03:57] quotation but if we leave it empty
+[03:59] nothing will be sent so I'm go ahead
+[04:01] gonna actually we're just gonna leave
+[04:03] that empty I was going to select one and
+[04:05] then I changed my mind now lastly we
+[04:07] have the opportunity to apply this
+[04:09] quotation template to a specific company
+[04:10] if we're working inside of a
+[04:13] multi-company you know type of situation
+[04:16] but if we leave it blank it will apply
+[04:19] to all companies in the database which
+[04:21] is kind of the better option since I
+[04:23] want this quotation to be available at
+[04:25] all times to every company we're leaving
+[04:27] a blank as well all right now let's
+[04:29] direct our attention to the tabs down
+[04:31] here starting with the lines tab here
+[04:33] we'll click on add a product
+[04:35] and what did we just say this was well
+[04:38] it's a table it's a big one actually
+[04:40] large meeting table
+[04:42] perfect
+[04:44] and as you'll notice we can even adjust
+[04:46] a few things such as the quantities we
+[04:48] can change stuff such as the units of
+[04:51] measure if necessary but for our
+[04:53] template we're going to leave it as one
+[04:55] large meeting table but we're not done
+[04:57] yet let's jump into the optional
+[04:59] products tab which is what we've been
+[05:01] talking about
+[05:02] I also want to suggest to them
+[05:05] additional items that my customers who
+[05:07] purchase are a large meeting table and
+[05:09] they might need this so this is where we
+[05:12] would do that so to add some we actually
+[05:14] just click add a line what goes well
+[05:16] with a large meeting table in our case
+[05:20] chairs
+[05:21] you're gonna do office chair
+[05:24] and then office chair
+[05:26] black
+[05:28] will give them the illusion of options
+[05:30] remember while you can technically add
+[05:33] as many optional products as you want
+[05:35] you should be careful not that too many
+[05:36] as that could overwhelm your customers
+[05:38] and frankly it'll make you look a little
+[05:40] bit thirsty as the kids say so try to
+[05:44] only offer a few select items that would
+[05:46] pair perfectly with their initial
+[05:48] purchase
+[05:50] all right now that we have all of our
+[05:52] quotation template configs ready to go
+[05:54] we now have the option to design the
+[05:56] look and feel of the template however
+[05:58] this quotation template is ready to use
+[06:00] as is and will make for a very simple
+[06:02] professional quotation but that said
+[06:05] what if we want to go extra a step
+[06:07] further and customize the design we can
+[06:09] actually totally do that by selecting
+[06:11] the design template button up here
+[06:13] and doing so takes us to the template
+[06:15] Builder with blue template placeholders
+[06:18] over here through the website
+[06:19] application here we'll be able to
+[06:21] thoroughly design the look and style of
+[06:23] our quotation template using the same
+[06:25] drag and drop building blocks that you'd
+[06:27] find when designing a website so to get
+[06:29] started select the edit button give it a
+[06:32] second to load all its magic now we can
+[06:34] change stuff by dragging it in and in
+[06:37] our case using the sidebar full of a lot
+[06:39] of customizations let's go with a little
+[06:41] bit of a basic design job here I'm going
+[06:44] to cover the basics so that you can get
+[06:46] a feel for how the process works so we
+[06:47] won't go too full into it now first
+[06:50] let's add a cover block over here
+[06:53] I'm going to change this we're going to
+[06:54] say meet
+[06:56] your new desk
+[06:59] give it a little bit of a catchy thing
+[07:02] in all caps so that we sound very
+[07:04] threatening buyer stuff
+[07:08] beautiful
+[07:10] now the other thing that we want to do
+[07:11] is replace this image over here we can
+[07:13] search for up
+[07:14] that one looks pretty good right there I
+[07:16] immediately went with it and that's
+[07:19] pretty much the gist of it as you saw
+[07:21] very quickly I was able to change things
+[07:23] here and add my own little cover right
+[07:26] there and that's how everything looks
+[07:27] and once that you're done you hit save
+[07:29] up here
+[07:30] beautiful all right feel free to have
+[07:32] fun with the template design when you
+[07:34] get to this point it's actually a blast
+[07:36] to work with as you saw me just kind of
+[07:37] getting ridiculous and as you saw I
+[07:40] don't know that you know this but you
+[07:42] didn't actually need to know any coding
+[07:43] at all that's really convenient
+[07:44] especially for me all those ones and
+[07:47] zeros give me anxiety
+[07:50] anyways now that we're happy with the
+[07:52] design of the template it's time to use
+[07:53] this sucker in a sales order so to do
+[07:55] that let's click back to edit mode
+[08:01] and in our case we're going to navigate
+[08:03] over to the sales dashboard
+[08:05] new
+[08:07] and you're gonna see why we're doing
+[08:08] this so we've got to select a customer
+[08:10] and in our case I keep selecting them
+[08:12] because I'm Boolean them as our interior
+[08:15] and then at this point we will direct
+[08:17] our attention to the quotation template
+[08:20] field ah you thought I was going to add
+[08:22] a product we're actually going to click
+[08:23] on that field and you'll notice we could
+[08:25] select our conference room table right
+[08:27] there and everything actually Auto
+[08:29] populates so I didn't need to do that
+[08:30] and if we duck into the optional
+[08:33] products they've been added right there
+[08:35] waiting for us as well all right since
+[08:36] everything looks good here let's go
+[08:38] ahead and click Send by email
+[08:42] and we'll give that a second right there
+[08:44] while it loads all of that stuff look at
+[08:47] that everything looks beautiful and as
+[08:49] you'll notice
+[08:50] we're going to send our quotation
+[08:52] template so let's hit send and once
+[08:56] that's all done over here you can take a
+[08:58] quick look
+[09:00] alrighty let's take a closer look at
+[09:01] what you're going to see when they open
+[09:03] it up which we can do so by clicking on
+[09:05] the customer preview smart button now
+[09:08] doing so takes us to the exact quotation
+[09:10] template that we just designed which
+[09:13] does look awesome by the way if I do say
+[09:15] so myself and if you scroll down
+[09:20] do you see that that's what beauty looks
+[09:21] like that is our two optional products
+[09:24] it's right there and ready to go along
+[09:26] now let's say that the customer wants to
+[09:28] add one of those lovely office chairs to
+[09:29] their quotation before confirming
+[09:31] everything great all they have to do is
+[09:33] Select card icon
+[09:35] and boom added instantly updated inside
+[09:39] of the pricing section and everything
+[09:40] they could even adjust the quantity if
+[09:43] they want down here and everything and
+[09:44] that's pretty cool all right now let's
+[09:47] say that this customer is ready to
+[09:48] complete this order all they have to do
+[09:50] is actually just click sign in pay and
+[09:52] they can either use an automated version
+[09:54] of an online signature draw one of their
+[09:56] own or upload one and then they'll just
+[09:59] basically click acceptance sign which is
+[10:01] right there
+[10:03] ah and then once they do that guess what
+[10:06] also happens
+[10:07] once that they do that there is another
+[10:10] pop-up that occurs and that is basically
+[10:13] telling them it's time to select your
+[10:16] own payment method and then they can
+[10:18] select pay and that's it they're done
+[10:20] that took minutes now if we click
+[10:23] outside of here and we go back to the
+[10:25] edit mode to return to the sales order
+[10:27] over here and I actually want you to
+[10:29] scroll down over here or actually check
+[10:31] over here to the right you'll notice
+[10:33] that there are two options the message
+[10:35] letting us know that we're just waiting
+[10:36] on that payment as well as the fact that
+[10:39] they have actually signed and it's a
+[10:42] nice little PDF also to check it out and
+[10:44] if we had to set up one of the other
+[10:45] many payment methods that ODU provides
+[10:47] that payment would have already been
+[10:48] automatically processed but either way
+[10:50] it's good to know that you can find all
+[10:52] the information you need over here on
+[10:53] the right side in our chatter and there
+[10:55] you have it oh doers you just saw how
+[10:57] easy it is to utilize and customize
+[10:59] online quotations with Odo sales to save
+[11:01] your company valuable time while
+[11:03] generating a ton of Revenue and not only
+[11:06] that it also enhances and simplifies the
+[11:08] overall shopping experience for your
+[11:10] customers like I said before it's always
+[11:12] a win-win situation so have a great day
+[11:15] oh doers
+[11:17] foreign

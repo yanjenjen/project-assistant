@@ -1,0 +1,307 @@
+影片 ID: d-upMNmIftU
+來源: https://www.youtube.com/watch?v=d-upMNmIftU
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:01] foreign
+[00:05] ERS I'll tell you what's going down our
+[00:08] prices
+[00:09] that's right here at stealthy wood we're
+[00:12] famous for offering amazing discounts
+[00:13] now discounts are a great way to reward
+[00:15] loyal customers for always coming back
+[00:17] to buy more of our awesome products
+[00:19] they're also a clever way for you to
+[00:21] encourage the average customer to buy
+[00:23] even more than they were planning to
+[00:25] because of psychology because you offer
+[00:27] them an unbeatable deal like a sizable
+[00:30] discount when they buy multiple items
+[00:32] for example but that's not all another
+[00:35] thing we like to do around here is round
+[00:37] our prices so they all end in 99 Cents
+[00:40] now this keeps our prices uniform
+[00:42] professional and extremely enticing to
+[00:45] our customers which as you can already
+[00:48] assume leads to even more sales we can
+[00:51] even set minimum profit margins for our
+[00:53] products to always guarantee that we're
+[00:55] ahead in getting solid revenue for every
+[00:58] sale and I don't know about you but
+[01:00] guaranteed Revenue sounds pretty good to
+[01:02] me anyways let's jump into our database
+[01:05] and see how easy it is to use discounts
+[01:07] and margins with price lists and sales
+[01:11] so let's kick things off on our sales
+[01:13] dashboard now before we get into the ins
+[01:15] and outs of margins and discounts we
+[01:17] need to activate some important features
+[01:18] so let's go on up here to configuration
+[01:20] and settings now once that loads up
+[01:23] you're going to scroll down just a
+[01:24] smidge and you see the section right
+[01:25] here under pricing and that little check
+[01:28] box make sure it's checked out for
+[01:30] discounts and margins now both of these
+[01:33] have a very specific thing that they do
+[01:35] and they only determine whether or not
+[01:37] discounts and margins appear on
+[01:40] quotations and sales orders even if
+[01:42] these settings aren't activated you can
+[01:43] still use discounts and margins on
+[01:45] Priceless all right well we're also here
+[01:48] let's make sure that the Priceless
+[01:49] feature is also activated and in our
+[01:52] case that the advanced price rules
+[01:54] option is selected if you want to learn
+[01:56] about other pricing options be sure to
+[01:58] check out our other videos for more
+[01:59] information now once you select the
+[02:01] right price list option be sure to click
+[02:04] save before moving on alright cool
+[02:07] alrighty now that we have all the
+[02:09] necessary settings enabled it's time to
+[02:11] configure a couple price lists to see
+[02:12] how useful these features can be so
+[02:14] let's jump on over to our prices page
+[02:16] which you can actually access via this
+[02:17] Priceless link right there or by
+[02:20] clicking appear on products and
+[02:22] Priceless all right perfect now from
+[02:24] here we're going to quickly create a
+[02:26] price list for our coolest customers so
+[02:28] let's click on new and name this what
+[02:32] cool customers because I'm insanely cut
+[02:35] insanely clever
+[02:38] I was gonna say I'm insanely cool but
+[02:40] not really all right now in this case
+[02:42] we'll leave the currency as well as the
+[02:44] company Fields blank and just kind of as
+[02:47] is we still need USD
+[02:50] now let's direct our Focus over here to
+[02:52] the price rules tab this is where we're
+[02:54] actually going to click on add a line
+[02:55] and as you notice we have a pop-up
+[02:57] window where we can actually customize
+[02:59] our Priceless rules in more detail now
+[03:01] first we have the very first thing which
+[03:03] is price computation now we can choose
+[03:05] to compute this price list with a fixed
+[03:07] price discounts or formula now the fixed
+[03:10] price option is pretty straightforward
+[03:12] it means that the price for this
+[03:13] Priceless rule will be a fixed price
+[03:16] makes sense right now for this video
+[03:19] though I'm going to show you examples of
+[03:20] how the discount and formula options
+[03:22] work so let's get started by selecting
+[03:25] the discount field over here inside of
+[03:28] the computation now when clicked you'll
+[03:30] notice below the field actually changed
+[03:32] to a discount percentage over here
+[03:34] different options will appear on this
+[03:36] pop-up window as well based on what you
+[03:39] basically select for your computation
+[03:41] method like formula and that but leaving
+[03:44] that as is let's keep that in mind now
+[03:46] let's say I want to give these cool
+[03:48] customers of mine a super cool 10
+[03:50] percent discount when they buy three
+[03:52] items or more
+[03:53] fortunately there are a couple ways we
+[03:56] can do this first we have obviously the
+[03:59] discount computation we could simply
+[04:00] enter 10 inside of here if we wanted to
+[04:03] and then we have it apply on all which
+[04:07] all products and then for a quantity
+[04:09] field we would want to set the minimum
+[04:11] quantity two three
+[04:14] boom
+[04:15] it's pretty easy and that's how you do
+[04:16] it now let's say that we also want our
+[04:19] prices to end in 99 Cents now to do that
+[04:22] I'd like to click on formula as an
+[04:25] option boom and when I do you'll see
+[04:27] even more options appear like I talked
+[04:29] about I kept telling you that was going
+[04:31] to happen
+[04:32] anyways in the based on field you
+[04:35] actually have to reveal pretty much a
+[04:37] couple options so we have sales price
+[04:39] cost other price list in case there's
+[04:42] another price list
+[04:43] and this can give you all of those
+[04:45] options if you would like them though in
+[04:47] this case we're going to stick with
+[04:48] sales price which is the sales price
+[04:50] listed on the product form and we're
+[04:52] actually going to do the discount
+[04:53] percentage again at 10.
+[04:56] and we're going to move forward now next
+[04:58] inside of the extra fee field I'll enter
+[05:01] a negative number because
+[05:05] we can do that
+[05:08] now with these in place the price will
+[05:10] be rounded up to the nearest whole
+[05:12] number and then have one set subtracted
+[05:15] from it now remember that that means all
+[05:17] my prices will end in 99 Cents just like
+[05:19] I wanted we're going to actually leave
+[05:21] over here the margins line empty we're
+[05:25] going to work on that at some point and
+[05:26] I'll show you how to use the field in
+[05:28] just a few moments so hang tight my
+[05:29] little margin fans for now we'll leave
+[05:32] the apply on field again on all products
+[05:35] and the minimum again is still at three
+[05:37] like we had previously and if we wanted
+[05:39] this Priceless rule to only be valid
+[05:42] during a specific period of time we'd
+[05:44] actually want to configure that inside
+[05:45] of this validity field but that won't be
+[05:47] necessary in this case alrighty I'm
+[05:49] liking how everything is looking here so
+[05:52] I'm actually going to go ahead and hit
+[05:53] save and close boom now back here on our
+[05:57] cool customers prices form we'll see
+[05:58] that the rule we just configured a 10
+[06:00] discount with a little negative
+[06:02] surcharges right there now let's quickly
+[06:05] jump into our configuration tab or one
+[06:07] last adjustment so we're going gonna go
+[06:08] into configuration and inside of this
+[06:10] tab we'll see a collection of other
+[06:12] useful settings that we discussed in the
+[06:13] other Priceless tutorial video and as
+[06:16] always be sure to check that out by the
+[06:18] way makes me very happy but in this case
+[06:21] the only section that we'll focus on is
+[06:23] the discounts portion over here now this
+[06:26] is where we can decide how our discount
+[06:28] policy will be displayed on quotations
+[06:30] and sales orders we could have the
+[06:32] discount included in the price which
+[06:34] only shows the customers the final price
+[06:36] with the discount already applied or
+[06:39] we could actually show the public price
+[06:42] and discount to the customer which shows
+[06:45] the original price and the given
+[06:47] discount now that sounds a bit more
+[06:48] appealing as it'll directly show the
+[06:50] customer just how good of a deal they're
+[06:51] getting so we're gonna go with that
+[06:53] because we're psychological monsters
+[06:55] okay now this cool customer's price list
+[06:58] is looking pretty cool calm and
+[07:01] configured
+[07:03] now let's make another price list to
+[07:06] demonstrate how margins work so we're
+[07:08] actually going to hit save right there
+[07:11] and we're going to go back over here to
+[07:13] our price list
+[07:15] and we're gonna make a new one again
+[07:18] okay now let's start by giving this one
+[07:20] a simple name like ours is going to be
+[07:23] margins
+[07:25] and that's because we'll know exactly
+[07:27] what this price list is for when we use
+[07:28] it later then we're actually going to
+[07:30] click again on the add a line
+[07:33] and we have our options all over again
+[07:35] all right let's say I want to ensure
+[07:37] that I make a profit of at least twenty
+[07:39] dollars on my popular office chairs no
+[07:41] problemo we could do that now to do that
+[07:43] we'll switch on the based on field to
+[07:46] what this time we have to actually
+[07:48] change it to in our case it has to be on
+[07:51] cost so when you select that it ends up
+[07:54] allowing you to change this
+[07:56] all right perfect
+[07:58] now once we set that we want to set our
+[08:00] margins over here to 20 and 70.
+[08:04] now for those who may not know a profit
+[08:06] margin is the difference between the
+[08:07] cost and the sales price of a product so
+[08:10] this will make a sales price of our
+[08:12] products at least twenty dollars more
+[08:14] than the cost which ensures that our
+[08:16] profit margin is at least twenty dollars
+[08:18] now down here inside of the conditions
+[08:20] field that we have over here we'll
+[08:22] switch the apply on field over to in our
+[08:26] case we're going to select the product
+[08:28] and then you want to select the actual
+[08:29] product from the list and it has to be
+[08:31] in our case our office chair
+[08:33] now we actually don't need to worry
+[08:35] about any other settings in this case so
+[08:37] we can actually just go ahead and hit
+[08:39] save and close all right perfect now
+[08:41] with all this set up we can move on to
+[08:43] the next part
+[08:45] okie dokie everything is ready to go so
+[08:47] let's see our newly configured discounts
+[08:49] and margins and action shall we now to
+[08:51] do that here we are inside of the sales
+[08:53] dashboard the very first thing we'll do
+[08:55] is we got to make a new quotation and
+[08:57] this time we're going to use a customer
+[08:58] that will literally buy anything that we
+[09:01] sell them as our interior all right
+[09:04] let's get in that product we've been
+[09:05] working with that office chair so we're
+[09:07] going to select the office chair
+[09:08] but before we move on I'd like to make a
+[09:11] quick note let's check this internal
+[09:13] link for the office chair now our sales
+[09:15] price is 70 and our cost is 55. so
+[09:19] that's only about 15 profit margin for
+[09:22] the chair at the moment let's go back
+[09:24] via the breadcrumbs which today is
+[09:25] pumpernickel and we're actually going to
+[09:28] change this price list over here over to
+[09:29] the margins price list we're going to
+[09:31] hit update prices and okay now you'll
+[09:33] notice our unit price went up slightly
+[09:35] why because that's twenty dollars more
+[09:38] than the cost of the product which is
+[09:40] exactly what we configured with the
+[09:41] margins Priceless if we want the margin
+[09:43] information to appear on the actual
+[09:45] quotation we just have to hit in the
+[09:46] options menu and select them over here
+[09:48] I'm not going to do that right now now
+[09:51] let's assume that we want to see what
+[09:54] we'd get with a different type of price
+[09:55] list let's see what happens when we go
+[09:57] to the cool customers but remember cool
+[09:59] customers requires three items so we'll
+[10:01] switch on over there select cool
+[10:03] customers and we'll update those prices
+[10:05] now would you look at that the unit
+[10:07] price changed but 70 times three is not
+[10:12] a hundred and eighty eight ninety eight
+[10:14] now why is that well if we actually go
+[10:16] over here to the customer preview you'll
+[10:18] notice once that this loads up it
+[10:20] actually did change right over here
+[10:22] there's our price ending in the 99 Cents
+[10:25] and it is reflected to show them so
+[10:27] psychologically they assume they've
+[10:29] gotten a very good deal
+[10:32] and now the customer knows hey I got a
+[10:34] fat discount and over here we have our
+[10:36] 210 which is the 70 times three so let's
+[10:39] go back over here to edit mode now I
+[10:41] just wanted to briefly touch on that
+[10:43] because you won't actually see that over
+[10:44] here as you did with the margins price
+[10:46] but that's everything for now a doers
+[10:49] you just saw how to quickly use
+[10:51] discounts and margins with price list to
+[10:53] get the most out of your sales and
+[10:55] ensure you're always making money on
+[10:57] every single sale and I'll see you in
+[10:58] the next video Party People
+[11:01] foreign

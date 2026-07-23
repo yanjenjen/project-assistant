@@ -1,0 +1,304 @@
+影片 ID: kK7IBFi8FEE
+來源: https://www.youtube.com/watch?v=kK7IBFi8FEE
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:04] Hello dears and welcome back. My name is
+[00:06] Jose Ignacio. While some products can be
+[00:09] bought online, others like custom
+[00:11] products, services, and highly
+[00:12] specialized products such as medical
+[00:15] devices and cars,
+[00:17] for those customers typically work with
+[00:19] a sales rep. Today we're learning about
+[00:21] that sales flow where we create a quote
+[00:23] for our furniture and upholstery service
+[00:26] products, which we configured in the
+[00:28] selling products for Odoo sales video.
+[00:31] You're going to see how sales people can
+[00:32] quickly build, adjust, and send quotes
+[00:35] as part of a guided sales process. So,
+[00:38] let's dive into Odoo to see how it
+[00:39] works.
+[00:41] First, we need to enable a few features
+[00:42] to set up the quotation. So, we're going
+[00:44] to go over to our sales application and
+[00:46] then select configuration and settings.
+[00:49] Okay, perfect. Inside of our pricing
+[00:51] section, we want to ensure discounts as
+[00:54] well as promotions, loyalty, and gift
+[00:56] cards are both enabled. This is going to
+[00:58] allow us to add discounts or reward
+[00:59] points directly from the sales quote
+[01:01] form.
+[01:02] And then going down further over here to
+[01:04] our quotations and orders section, you
+[01:06] want to ensure that you have quotation
+[01:08] templates enabled. This lets us
+[01:10] configure preset products and quantities
+[01:13] as templates and apply them to the
+[01:14] quote. If you made any of these changes,
+[01:16] remember to hit save up at the top.
+[01:18] Okay. Let's go make a quote by selecting
+[01:21] orders and then quotations over here.
+[01:24] Perfect. So, when you open the sales
+[01:26] app, it automatically takes you to the
+[01:27] quotations dashboard with an applied
+[01:29] filter that curates all the quotes that
+[01:31] you've made. You can see that with the
+[01:33] my quotations one by default. To create
+[01:35] a new one, we're just going to select
+[01:36] new over here in the top left.
+[01:39] First thing you're going to need, if
+[01:40] you're planning to sell something, you
+[01:41] need a customer.
+[01:44] And Odoo auto populates over here for
+[01:46] all of
+[01:48] the client families estate, as we will
+[01:51] leave it. It's already been in our
+[01:52] system. But, if this is your first time
+[01:54] adding someone, you'll more than likely
+[01:56] either have to search or create the uh
+[01:58] customer.
+[01:59] All right, so down here we have our
+[02:00] quotation template area. So this can be
+[02:03] helpful for quickly adding commonly
+[02:05] bought products that are frequently
+[02:07] purchased together. To learn more about
+[02:09] setting up quotation templates, refer to
+[02:11] the quotation templates video.
+[02:13] We can also change a few other things
+[02:14] here.
+[02:15] We can change the expiration, our price
+[02:18] list as I you saw it inside of the
+[02:20] settings earlier, and payment terms as
+[02:22] well.
+[02:23] But everything looks good to me.
+[02:25] Remember, you can change these as
+[02:27] needed.
+[02:28] You can also learn more about those
+[02:29] options in the price list multiple price
+[02:32] per product video and other
+[02:33] documentation links below.
+[02:36] Now let's actually start adding some
+[02:37] products. So I'm going to click add a
+[02:39] product over here on our order lines,
+[02:41] and I'm going to select
+[02:43] throw pillow.
+[02:44] When I do that,
+[02:46] product happens to have variants, so a
+[02:48] pop-up window displays the different
+[02:49] material options.
+[02:51] So Miss Klein actually wanted woven,
+[02:55] none of that faux leather,
+[02:57] and they wanted black as well.
+[03:00] And they're going to do a pack of three.
+[03:02] Nice.
+[03:03] We can also see additional optional
+[03:05] products over here configured on the
+[03:07] throw pillow product. So I'm actually
+[03:10] going to add the upholstery service over
+[03:12] here.
+[03:13] A fast way, by the way, to add multiple
+[03:15] products after we confirm this,
+[03:18] if you would like to do so, is actually
+[03:20] to select catalog over here.
+[03:22] And then on the catalog,
+[03:25] you can actually see all our furniture
+[03:27] and services. Each product's varying
+[03:29] combination is listed individually as
+[03:31] well.
+[03:32] So let's actually finish this off here.
+[03:34] We're looking for
+[03:36] It's kind of funny, we're already there,
+[03:38] pretty much.
+[03:40] We need a camelback sofa, but remember
+[03:43] we're looking for the size 84 over here,
+[03:47] and then we're looking for the faux
+[03:48] leather. Thankfully, we've We the color
+[03:50] over here, so we can just pick this.
+[03:53] Boom.
+[03:54] Nice.
+[03:55] Now we have all of this set.
+[03:57] And then we're going to need something
+[03:58] to go along with that. We're going to
+[04:00] need a faux leather chair as well.
+[04:02] Perfect. When I'm done selecting
+[04:04] products, I'm going to select back to
+[04:06] quotation in the top left over here. And
+[04:08] when we do that, would you look at that?
+[04:11] Everything I selected has been added to
+[04:12] the quote as separate order lines, and
+[04:14] the total has been calculated.
+[04:16] Let's assume that we want to organize.
+[04:18] So, to organize the quote further and
+[04:20] give it a more polished look, we can add
+[04:22] sections or notes. So, I'm actually
+[04:24] going to select
+[04:25] add a section down below.
+[04:27] And then we're going to call this one
+[04:31] furniture.
+[04:33] And then we're going to add one more.
+[04:35] Services.
+[04:36] If I can spell right today.
+[04:39] We're going to click away.
+[04:40] All right, so they're done now. So, I'm
+[04:42] going to use our nice little drag handle
+[04:45] over here on furniture. We're going to
+[04:46] put it up at the top. Perfect.
+[04:50] And now you kind of guessed it. We want
+[04:52] to make sure our upholstery one is in a
+[04:54] different little area, so that we have
+[04:56] that, and we're going to move these
+[04:57] things so that they're properly split
+[05:00] up. Boom. Now the quote is definitely
+[05:03] easier to read at a glance. I can also
+[05:06] add more columns to the quote by
+[05:08] selecting our settings icon on the right
+[05:10] over here if I would like to. Here we
+[05:13] can enable or disable any columns that
+[05:15] we want. Maybe I want to see product
+[05:18] variants and other things.
+[05:19] So, once that we're done here, I want to
+[05:21] also make sure that I have added
+[05:24] shipping. So, we're going to hit add
+[05:25] shipping down here in the bottom right.
+[05:27] And for our shipping method, it's just
+[05:29] going to be standard delivery right
+[05:30] there, and then we're just going to hit
+[05:32] add to apply it. Boom.
+[05:35] Right there.
+[05:36] So, you notice the few other things as
+[05:38] well. Next to that shipping button are
+[05:40] buttons for the features that we enabled
+[05:42] in the sales settings. We've got coupon
+[05:43] code, rewards,
+[05:46] discount, which I mean it could be like
+[05:48] loyalty points or other things as well
+[05:50] for rewards and etc. etc.
+[05:53] Now since Ms. Klein is a first time
+[05:55] customer, she gets a discount on her
+[05:56] first purchase. So we're going to hit
+[05:57] that discount button over here.
+[06:00] And then I'm going to hit 10% and I
+[06:02] wanted to do all order lines because I
+[06:05] am a generous business owner and I'm
+[06:07] going to hit apply right after that.
+[06:09] Perfect. So we can see now
+[06:11] nice little discount got applied to the
+[06:13] total over here. And isn't that kind of
+[06:15] nice?
+[06:16] We could see it in our nice little
+[06:18] discount percent column. And then our
+[06:20] unit price versus the amount.
+[06:22] Check the math. It checks out. So I'm
+[06:25] also going to click on our quote builder
+[06:27] tab over here.
+[06:29] So if I wanted to, I can apply a PDF
+[06:32] document as a header or footer to our
+[06:34] quote. It's a simple way to customize
+[06:36] the quote to the customer. Learn more
+[06:37] about the PDF quote builder feature in
+[06:39] our documentation link below.
+[06:41] So I'm actually going to click on our
+[06:42] nice little catalog just to add it to
+[06:45] the quote.
+[06:46] Okay. Now that I filled out all the
+[06:47] information, I'm going to select preview
+[06:50] just so I could check this out and I
+[06:52] want to see what it's going to look like
+[06:53] to the customer.
+[06:54] So this opens a live quote that updates
+[06:56] as we add to the database. This is the
+[06:59] customer's portal as you can see over
+[07:01] here.
+[07:02] Isn't that extra nice?
+[07:05] Okay. So we can actually see the quote
+[07:07] with our sections
+[07:09] and our discounts got applied and it's
+[07:10] very visual and nice. And then also
+[07:12] since we happen to have online signature
+[07:14] and payment enabled, we can see our nice
+[07:16] sign and pay button over here to the top
+[07:18] left. If Ms. Klein changes her mind on
+[07:21] what materials or furniture pieces, the
+[07:23] customer portal offers two options she
+[07:25] can provide. In this case, maybe she
+[07:27] needs to give me some sort of feedback.
+[07:30] Maybe she doesn't like these things. She
+[07:32] can provide that if she would like by
+[07:33] just hitting feedback like I said. And
+[07:36] now our communication history section.
+[07:40] Anything she types there is recorded in
+[07:42] the chatter back in the sales app. She
+[07:44] can also, if she wanted to, click reject
+[07:47] over here and submit a message
+[07:48] explaining why. Let's reject this. I
+[07:51] didn't like this. So, I'm going to say
+[07:54] the furniture
+[07:56] doesn't fit in the space it's intended
+[08:01] for.
+[08:03] Bunch of exclamation marks and an
+[08:04] unhappy face, just to really drive it
+[08:06] home to my heart.
+[08:08] All right, we're going to reject this.
+[08:10] I'm going to pretend that I'm Miss
+[08:11] Klein. And we get this nice, well,
+[08:13] terrible red banner up at the top
+[08:16] letting us know it's been canceled.
+[08:18] And isn't that sad? Okay, so I'm going
+[08:20] to click our back to edit mode button to
+[08:23] exit the customer portal.
+[08:25] Okay, and also you can see the rejection
+[08:28] message over here is recorded recorded
+[08:31] nicely in our chatter.
+[08:33] And the status of the quote has actually
+[08:34] been changed to canceled. Now sales
+[08:36] people can negotiate and revise quotes
+[08:38] faster and more effectively with their
+[08:40] customers.
+[08:41] But, let's just say that we try to
+[08:43] negotiate with Miss Klein. I'm actually
+[08:45] going to click our set to quotation
+[08:47] button over here up at the top. And then
+[08:49] this time I'm going to select to email
+[08:52] the quote for Miss Klein to review it.
+[08:55] Let's assume maybe we gave her the wrong
+[08:57] measurements in this time around we
+[08:59] changed some stuff. We got a pop-up
+[09:01] option to customize the email message
+[09:02] here. We can see the message includes
+[09:04] the quotation number,
+[09:07] the quote total as well, and the nice
+[09:11] little PDF down there. Once that I'm
+[09:12] good and ready, we just hit send and
+[09:14] it's on its way.
+[09:16] Once that we do this,
+[09:18] the status has changed. It's a quotation
+[09:20] that's been sent. Clicking confirm
+[09:22] further changes this now into a sales
+[09:25] order. You can see with the smart
+[09:27] buttons above, this kick-starts the
+[09:29] order fulfillment process because we
+[09:31] have a delivery smart button now as
+[09:33] well. And the projects and planning
+[09:35] processes with we have a nice little
+[09:37] plan thing and a nice little projects
+[09:39] one as well. We cover those in other
+[09:40] videos. And there you have it. To recap,
+[09:42] we've tackled the full quoting life
+[09:44] cycle, enabling features directly on the
+[09:46] form, creating quotes, and adding
+[09:48] products.
+[09:49] We also customize the layout and attach
+[09:51] docs.
+[09:52] And actually, we've done a lot.
+[09:54] Honestly, we've also checked the
+[09:55] customer portal view and finally sending
+[09:57] and confirming the deal. Now you're
+[09:59] ready to generate quotes and customize
+[10:01] them to any project or customer. To
+[10:03] learn more about the features we
+[10:04] covered, check out the links provided
+[10:05] below. Thank you for watching. I'm going
+[10:07] to see you in the next one.

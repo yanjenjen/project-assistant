@@ -1,0 +1,144 @@
+# Odoo Inventory YouTube 網址清單
+# 說明：每行一個 YouTube 網址，# 開頭為備註行
+# 來源：https://www.odoo.com/slides/inventory-24
+# 更新日期：2026-07-22
+# 共 37 支影片（4h 34m）
+#
+# ============================================================
+# Section 1: Inventory basics（9 支）
+# ============================================================
+
+# INV01｜Inventory Basics: Receive and Store Stock
+https://www.youtube.com/watch?v=6_mi7NKfzpA
+
+# INV02｜Inventory Basics & Outgoing Shipments
+https://www.youtube.com/watch?v=zIswRW3wIkw
+
+# INV03｜Basic Warehouse Setup
+https://www.youtube.com/watch?v=ZfixUdS64j8
+
+# INV04｜Warehouses & Locations
+https://www.youtube.com/watch?v=SM0NBkX_V2s
+
+# INV05｜Units of Measure
+https://www.youtube.com/watch?v=nDfTxCAihFs
+
+# INV06｜Inventory Adjustments & Cycle Counts
+https://www.youtube.com/watch?v=3kRnqfKyljk
+
+# INV07｜Integrate Landed Costs
+https://www.youtube.com/watch?v=u_JhVbCjslA
+
+# INV08｜Access Rights for Inventory Teams
+https://www.youtube.com/watch?v=gTBdKnX3IQw
+
+# INV09｜Make-to-Order (MTO)
+https://www.youtube.com/watch?v=sBtSYPszKfM
+
+# ============================================================
+# Section 2: Replenishment（3 支）
+# ============================================================
+
+# INV10｜Reordering Rules
+https://www.youtube.com/watch?v=nJ2grHTSOwo
+
+# INV11｜Lead Times
+https://www.youtube.com/watch?v=z_YjeJxAO04
+
+# INV12｜Resupply Warehouse
+https://www.youtube.com/watch?v=5KjbxYNlQ9k
+
+# ============================================================
+# Section 3: Traceability（3 支）
+# ============================================================
+
+# INV13｜Lots & Serial Numbers
+https://www.youtube.com/watch?v=XWJjWc0Vl04
+
+# INV14｜Working with Perishable Products
+https://www.youtube.com/watch?v=N8--9n9i43c
+
+# INV15｜Expiration Dates
+https://www.youtube.com/watch?v=alUnAL4PNDw
+
+# ============================================================
+# Section 4: Warehouse transfers（6 支）
+# ============================================================
+
+# INV16｜Push & Pull Rules
+https://www.youtube.com/watch?v=qkhDUezyZuc
+
+# INV17｜Putaway Rules
+https://www.youtube.com/watch?v=UuGF3-2e5So
+
+# INV18｜Storage Categories
+https://www.youtube.com/watch?v=N9PK8FgBvxI
+
+# INV19｜Cross-Docking
+https://www.youtube.com/watch?v=xssYTTyH2Mo
+
+# INV20｜Consignment
+https://www.youtube.com/watch?v=9j1zvMuPFMk
+
+# INV21｜Dispatch Management System
+https://www.youtube.com/watch?v=mjrYuigXii4
+
+# ============================================================
+# Section 5: Reserve products（6 支）
+# ============================================================
+
+# INV22｜Reservation Methods
+https://www.youtube.com/watch?v=neyn_3ShmdM
+
+# INV23｜Removal Strategies Overview
+https://www.youtube.com/watch?v=K7HR1gJf1dk
+
+# INV24｜FIFO & LIFO Removal Strategy
+https://www.youtube.com/watch?v=rV6iGcv7qW0
+
+# INV25｜FEFO Removal Strategy
+https://www.youtube.com/watch?v=cX0Q_G7b9Vo
+
+# INV26｜Closest Location Removal Strategy
+https://www.youtube.com/watch?v=wrSIHzmHnZM
+
+# INV27｜Least Packages Removal Strategy
+https://www.youtube.com/watch?v=XAGgrZJO-ak
+
+# ============================================================
+# Section 6: Packages and Packagings（6 支）
+# ============================================================
+
+# INV28｜Packaging
+https://www.youtube.com/watch?v=t5pyxwbDG6Q
+
+# INV29｜Packages
+https://www.youtube.com/watch?v=cXHGO6080dI
+
+# INV30｜Ship Multi-Box Packages
+https://www.youtube.com/watch?v=XW8BaggHBTE
+
+# INV31｜Multi-Package Shipments
+https://www.youtube.com/watch?v=6jgEliiBU8Y
+
+# INV32｜Shipping Policy
+https://www.youtube.com/watch?v=o9987zzf9Rg
+
+# INV33｜Custom Returns Operation
+https://www.youtube.com/watch?v=EXzYonqzDSw
+
+# ============================================================
+# Section 7: Daily operations（4 支）
+# ============================================================
+
+# INV34｜Batch Transfers
+https://www.youtube.com/watch?v=oGTIn2TOdkY
+
+# INV35｜Cluster Picking
+https://www.youtube.com/watch?v=xUwEzgmfXsg
+
+# INV36｜Print Shipping Labels
+https://www.youtube.com/watch?v=UmpGUNpAM7Q
+
+# INV37｜Wave Picking
+https://www.youtube.com/watch?v=Gcmuw4qR5Wc

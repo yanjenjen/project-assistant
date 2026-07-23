@@ -1,0 +1,185 @@
+影片 ID: Q0MKrE5YfnQ
+來源: https://www.youtube.com/watch?v=Q0MKrE5YfnQ
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:05] what's up o doers and welcome back for
+[00:08] today's video we're going to focus on
+[00:09] the salespeople and their most utilized
+[00:11] asset the sales quotation that's right
+[00:13] today we're going to show you how to
+[00:14] create and send quotations using Odo so
+[00:17] let's jump into our database and get to
+[00:18] it shall we let's kick things off on our
+[00:21] sales app dashboard and just so you know
+[00:23] this page is also accessible by clicking
+[00:25] on orders and then quotations from here
+[00:28] though let's click on new to create a
+[00:29] new quot quation now this is a blank
+[00:32] quotation form so let's start filling it
+[00:34] in we'll start by adding a customer Deco
+[00:36] addict and if the customer is already in
+[00:38] our database like this one their invoice
+[00:40] and delivery addresses autop populate to
+[00:42] save time same goes for the price list
+[00:44] field if they're a part of one a price
+[00:47] list is a list of prices or Price rules
+[00:49] that ODU uses to determine the
+[00:50] appropriate price for a customer now
+[00:53] obviously if this is a new customer
+[00:54] you'll need to enter that information in
+[00:55] those respective
+[00:57] fields in the quotation template field
+[00:59] you can choose a pre-configured template
+[01:01] that autop populates other necessary
+[01:02] fields in tabs instantly based on
+[01:04] pre-configured options and settings all
+[01:07] of which that can be created and
+[01:08] modified if we go to configuration and
+[01:10] select our quotation templates
+[01:12] field don't worry there's an entire
+[01:14] tutorial about quotation templates so
+[01:16] keep an eye out for that to learn more
+[01:18] to the right we can add an expiration
+[01:20] date for this quotation and if this
+[01:22] quote happens to include a subscription
+[01:25] product or a service of some kind we'd
+[01:27] have the ability to enter the
+[01:28] appropriate reoccurring plan in this
+[01:30] field right here below that we have the
+[01:33] previously mentioned price list field
+[01:35] this is where you can apply a price list
+[01:36] to a quotation and customer if required
+[01:39] and lastly below that we have our
+[01:41] payment terms field where we can choose
+[01:43] terms for this
+[01:45] quotation in the order lines tab down
+[01:47] below we can add products adjust
+[01:49] quantities modify prices add or remove
+[01:51] taxes you name it so let's click on add
+[01:54] a product and we'll select our acoustic
+[01:57] block screens
+[01:58] product now since this product has
+[02:00] product variants this popup appears
+[02:02] where we can select the exact variant we
+[02:04] want this particular customer is looking
+[02:06] for two of our white screens so we'll
+[02:08] switch the color to white and update the
+[02:10] quantity to two from here all we have to
+[02:12] do is Click confirm and boom our
+[02:15] selection appears in the order lines tab
+[02:17] just like that we can also add products
+[02:20] by clicking the catalog button right
+[02:22] here and selecting our desired products
+[02:25] and quantities from this needly
+[02:26] organized page so for example let's add
+[02:29] our custom iable desk we'll leave the
+[02:32] quantity to one and pretty cool right
+[02:35] from here all we have to do to return to
+[02:36] the quotation is use the
+[02:38] breadcrumbs and just like that we have
+[02:40] our customizable desk product from our
+[02:42] catalog waiting for us in the order
+[02:43] lines tab now ODU also provides the
+[02:47] option to organize the quotation even
+[02:49] further with sections and notes for
+[02:51] example we can add a
+[02:52] section type in something like office
+[02:55] furniture
+[03:00] we can click away drag it anywhere we
+[03:02] want in the order lines tab so let's
+[03:03] place it above the desk that we just
+[03:07] added now if we want to add a note all
+[03:09] we have to do is Click add a note and we
+[03:11] can leave a message about a product like
+[03:14] one of our newest
+[03:22] models and let's drag it beneath our
+[03:24] block
+[03:27] screens beneath the product lines you'll
+[03:29] find buttons that can be clicked such as
+[03:32] add a coupon code reward discounts or ad
+[03:34] shipping costs if we want to view more
+[03:37] details in the order lines tab all you
+[03:39] have to do is click this slider up at
+[03:40] the top of the right
+[03:42] column and that reveals a drop- down
+[03:44] menu of other useful information you can
+[03:46] add to the
+[03:47] tab now if we jump to our optional
+[03:50] products tab you'll see a similar setup
+[03:52] to the order lines tab this is where you
+[03:54] can offer complimentary products to your
+[03:56] customer during the transaction for
+[03:58] example since this quotation contains a
+[04:00] desk we'll add one of our chairs as an
+[04:02] optional product to hopefully entice our
+[04:04] customer to add it to their order so
+[04:06] let's click add a product and let's
+[04:08] select our office
+[04:12] chair nice you can add as many optional
+[04:15] products to a quotation as you'd like
+[04:18] next in the quotation Builder tab we can
+[04:21] add some options to utilize to create a
+[04:24] stunning PDF quote for our customer here
+[04:26] we'll see options to add things like a
+[04:28] custom header and a product specific
+[04:30] documents to round out our informative
+[04:31] quote all of which that can be
+[04:33] customized in a number of different ways
+[04:35] but don't worry we get into all that in
+[04:37] a separate video so stay tuned to check
+[04:38] that out or also feel free to check out
+[04:41] our documentation to learn more to add
+[04:44] those elements to our PDF quote all we
+[04:45] have to do is click on the grade buttons
+[04:47] to include our preconfigured aspects in
+[04:49] our PDF
+[04:51] quote hopping into the other info tab
+[04:54] we'll find a collection of useful
+[04:56] related fields to this quotation for our
+[04:58] sales invoice ing delivery so feel free
+[05:01] to customize any of those to suit the
+[05:03] needs of your company then if we click
+[05:05] into the notes tab we have the option to
+[05:08] leave any internal notes about this
+[05:10] quotation for our employees the customer
+[05:12] won't see this so be sure to keep that
+[05:14] in mind then once we're happy with how
+[05:17] everything looks we can choose the
+[05:19] preview button at the top of the
+[05:21] page and this will show you what your
+[05:23] customer seat when they view this quote
+[05:24] through their customer portal here we
+[05:27] can clearly see the products sections
+[05:29] notes optional products and
+[05:33] more and when we're ready to hop back
+[05:35] into our quotation form all we have to
+[05:37] do is click the back to edit mode in the
+[05:39] blue banner and just like that we're
+[05:41] back to where we
+[05:42] started so let's say you created
+[05:44] quotation and you're ready for the next
+[05:46] step in that case you want to send the
+[05:48] quotation to the customer for them to
+[05:49] confirm via the send by email
+[05:53] button when we do this popup appears
+[05:56] with a templated message that we can
+[05:58] modify along with the the PDF of our
+[06:00] quotation already attached once we're
+[06:02] ready all we have to do is click this
+[06:04] send button and then off it goes to the
+[06:07] customer doing so removes the popup and
+[06:10] changes the status of the quotation to
+[06:11] quotation sent now let's say we heard
+[06:14] back from the customer and they confirm
+[06:16] the quotation great we'll click this
+[06:18] confirm button to confirm the order and
+[06:21] this officially turns the quotation into
+[06:22] a sales order pretty easy right and
+[06:25] there you have it OD doers those are the
+[06:27] basic fundamentals of the sales
+[06:29] application in how to create and send a
+[06:31] quotation stay tuned for more tutorials
+[06:33] and check out our documentation to learn
+[06:34] even more about odu's super useful sales
+[06:36] application until then see you soon

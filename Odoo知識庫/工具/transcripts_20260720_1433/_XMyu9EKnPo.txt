@@ -1,0 +1,220 @@
+影片 ID: _XMyu9EKnPo
+來源: https://www.youtube.com/watch?v=_XMyu9EKnPo
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:05] what's up o doers and welcome back when
+[00:08] you're shopping you'll often find that a
+[00:09] product has different options to choose
+[00:11] from those are called Product variants
+[00:14] product variants are options related to
+[00:15] a certain product like different sizes
+[00:18] colors Brands and so on product variants
+[00:21] increase sales and keep customers happy
+[00:22] throughout the shopping process so let's
+[00:24] jump into our database to see how easy
+[00:26] it is to create and use product variants
+[00:28] with Odo sales let's kick things off on
+[00:31] our sales app dashboard from here we'll
+[00:33] select configuration and then settings
+[00:35] then we need to ensure that the variance
+[00:37] setting is enabled as you can see I've
+[00:40] taken care of that already but if you
+[00:41] haven't Now's the Time and once you do
+[00:44] make sure we click save in the upper
+[00:45] leftand corner before moving
+[00:47] on now with that locked in we can jump
+[00:50] to our attributes page which can be
+[00:51] accessed through this attributes link
+[00:53] which is directly under our variant
+[00:54] setting or we could click on
+[00:57] configuration and then select attributes
+[01:01] either route brings us to the attributes
+[01:02] page where we'd find a list of all the
+[01:04] product variants that we currently have
+[01:06] in our database along with a series of
+[01:08] related information for each one an
+[01:10] attribute is something like a product's
+[01:12] different color size brand and other
+[01:14] things like that and for values those
+[01:17] are specific variants of the attribute
+[01:20] so for example for a pair of shoes the
+[01:22] attribute could be the size and the
+[01:24] values would be the size 10 11 12 and so
+[01:27] on and a product variant would be a
+[01:29] specific combination of a attribute and
+[01:32] value so a product variant of a shoe
+[01:34] could be red size 12 makes sense right
+[01:38] besides the attributes name we can see
+[01:39] its display type which lets me decide
+[01:42] how I'd like the values displayed to my
+[01:44] customers on our e-commerce website we
+[01:46] can also see each variance creation mode
+[01:48] which tells me when those specific
+[01:50] variants are generated and the
+[01:52] e-commerce filter visibility information
+[01:54] tells me if the attribute is an
+[01:56] available selection for my online
+[01:58] customers from here though we're going
+[02:00] to click new and this is going to create
+[02:03] a blank attribute form here we can
+[02:05] customize the attributes in a different
+[02:08] way first let's give this attribute a
+[02:10] name so let's say this is a material
+[02:12] that we're creating for our stealthy
+[02:14] wood jacket in this case we'll name this
+[02:16] attribute
+[02:18] material next we can determine how we
+[02:21] want this attribute to be on our online
+[02:24] store the radio option presents the
+[02:26] choices with a clickable Circle besides
+[02:29] each option the pills display type is
+[02:31] more of a button the select option
+[02:34] provides customers with a drop- down
+[02:35] menu of choices the color type is only
+[02:38] for color related attributes and lets
+[02:40] the customer select their desired Choice
+[02:42] from an array of color circles and
+[02:45] lastly the multi checkbox option
+[02:46] provides multiple checkboxes
+[02:48] representing the attribute and customers
+[02:50] collect more than one if
+[02:52] desired we'll keep the default radio
+[02:55] option selected for now and keep things
+[02:57] moving then we have our variance
+[02:59] creation mode
+[03:00] instantly means all possible fields are
+[03:02] created on the product variance page as
+[03:04] soon as the attribute and its values are
+[03:05] added to a product dynamically means
+[03:08] that each variant is created on the
+[03:09] product variance page only when its
+[03:11] corresponding attributes and values are
+[03:13] added to a sales order and never means
+[03:16] that the variants are never created on
+[03:18] the product attributes page for the
+[03:20] attribute should be noted that the
+[03:22] variant creation mode can't be changed
+[03:24] once the attribute is used at least on
+[03:26] one product so be sure to keep that in
+[03:28] mind for now though we're going to keep
+[03:30] things on instantly which is the most
+[03:32] commonly used option up next we have the
+[03:35] e-commerce filter visibility field here
+[03:37] we can choose to make these attributes
+[03:38] visible to customers or hide them
+[03:40] completely we're going to go with
+[03:41] visible though because I want people to
+[03:42] see all the different options we have
+[03:45] available now it's time to add some
+[03:47] attribute values in the tab directly
+[03:49] below this is where we'll add all the
+[03:51] different types of materials that our
+[03:53] jacket comes in so we'll click add a
+[03:55] line and type coton
+[04:01] then if desired we could tick the free
+[04:03] text checkbox which allows customers to
+[04:05] set their own value but that's more of a
+[04:07] customization attribute and since we're
+[04:09] dealing with the set values for our
+[04:11] jacket we're going to leave that box
+[04:13] unticked if one value happens to cost
+[04:16] more and should result in a higher sales
+[04:18] price then you can enter that in the
+[04:20] default extra price field that value is
+[04:23] then added to the original price and
+[04:25] that information is shown on the product
+[04:26] page so customers are aware of the
+[04:28] increase of cost
+[04:30] since this is our basic jacket material
+[04:32] we won't need to apply any extra price
+[04:34] information but let's add two material
+[04:36] values for fleece and polyester so we'll
+[04:39] click add a line
+[04:41] again and this time we're going to put
+[04:44] in
+[04:45] fleece we're going to go ahead and
+[04:47] bypass the free text checkbox again and
+[04:50] for the default extra price we're going
+[04:52] to add
+[04:55] 10 then we'll click add Aline again and
+[04:59] this we're going to add the polyester
+[05:03] option and then we're going to give this
+[05:05] one a default extra price
+[05:07] of
+[05:12] five and that's it of course we can have
+[05:15] the option to add as many attribute
+[05:17] values as we'd like but all right now
+[05:20] that we have our attributes and values
+[05:21] ready to go it's time to add them to our
+[05:23] product so since we just created the
+[05:26] attributes values for this jacket let's
+[05:27] navigate to our stealthy wood jacket
+[05:29] product page to officially add them as
+[05:31] options to our customers so we're going
+[05:34] to click on products and then products
+[05:35] once again and then we're going to
+[05:37] select our stealthy wood jacket and then
+[05:40] we're going to open the attributes and
+[05:42] variance
+[05:43] tab here we'll click add a
+[05:45] line and click into the empty field that
+[05:49] appears and since our material attribute
+[05:51] isn't one of the first choices all we
+[05:53] have to do is type material and then
+[05:56] select
+[05:57] it then we'll click into the values
+[05:59] field field and this is where we can see
+[06:02] all of our different options that we
+[06:04] already created which in this case is
+[06:06] cotton fleece and polyester so let's
+[06:09] just click into them to add
+[06:12] them and then click save at the
+[06:15] top after it's saved you'll notice a new
+[06:18] variant smart button appears at the top
+[06:19] of the product form so let's click into
+[06:22] that really quick and doing so takes us
+[06:25] to the product variance page for the
+[06:26] specific product where we'll find all
+[06:28] our newly three added materials if we
+[06:31] click into the cotton variant we'll be
+[06:34] taken to that specific product variant
+[06:35] form page where additional details of
+[06:38] this variant can be configured like
+[06:39] codes Logistics pricing and sales
+[06:42] settings for this video though let's
+[06:44] just change the product photo so our
+[06:46] customers know exactly what our cotton
+[06:48] jacket looks like so to do that we'll
+[06:50] click the pencil icon in the photo here
+[06:53] choose our
+[06:55] file and then just upload it and there
+[06:58] we go then we'll navigate to our fleece
+[07:00] variant directly from here via the
+[07:02] arrows in the upper right hand
+[07:05] corner and we'll just go ahead and do
+[07:07] the same
+[07:09] thing but this time with our fleece
+[07:13] photo perfect now before we part ways
+[07:16] let's see what these variants look like
+[07:18] for our customers to do that we'll click
+[07:20] back to the stealthy wood jacket via the
+[07:22] breadcrumbs and then click the go to
+[07:24] website smart
+[07:25] button that takes us to the product page
+[07:28] of our online store here you'll see the
+[07:30] product along with the variants we
+[07:31] configured for it to start we have our
+[07:33] cotton jacket with the appropriate photo
+[07:36] representing it then if we click the
+[07:38] fleece
+[07:40] option we can see it's clearly indicated
+[07:43] $10 upcharge due to the material option
+[07:46] and ODU shows us exactly what our fleece
+[07:48] jacket looks like same thing happens
+[07:50] when we click on the polyester jacket
+[07:52] pretty cool right and there you have it
+[07:55] OD doers that's how you create and use
+[07:56] product variants using Odo sales thanks
+[07:58] for watching and I'll see you in the
+[08:00] next video

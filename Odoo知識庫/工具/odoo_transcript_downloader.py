@@ -6,21 +6,27 @@ Odoo 學習逐字稿批次下載工具
 
 【方式一】批次下載（推薦）
 1. 在同一資料夾建立 urls.txt，每行貼一個 YouTube 網址
-2. 執行：python3 odoo_transcript_downloader.py
-3. 逐字稿自動存到 transcripts/ 資料夾
+2. 執行：python odoo_transcript_downloader.py urls_inventory.txt
+3. 逐字稿自動存到 transcripts_YYYYMMDD_HHMM/ 資料夾
 
 【方式二】單支下載
-執行：python3 odoo_transcript_downloader.py "https://www.youtube.com/watch?v=xxxxx"
+執行：python odoo_transcript_downloader.py "https://www.youtube.com/watch?v=xxxxx"
 
 安裝需求：
-pip install youtube-transcript-api
+pip install yt-dlp
 """
 
-from youtube_transcript_api import YouTubeTranscriptApi
-import re
+import yt_dlp
+import json
 import os
+import re
 import sys
+import tempfile
 from datetime import datetime
+
+if sys.stdout.encoding and sys.stdout.encoding.lower() != 'utf-8':
+    sys.stdout.reconfigure(encoding='utf-8')
+    sys.stderr.reconfigure(encoding='utf-8')
 
 
 def extract_video_id(url):
@@ -31,7 +37,6 @@ def extract_video_id(url):
         r'youtube\.com/embed/([a-zA-Z0-9_-]{11})',
     ]
     url = url.strip()
-    # 如果直接輸入 ID（11位字元）
     if re.match(r'^[a-zA-Z0-9_-]{11}$', url):
         return url
     for pattern in patterns:
@@ -39,6 +44,93 @@ def extract_video_id(url):
         if match:
             return match.group(1)
     return None
+
+
+def parse_json3(content):
+    """解析 json3 格式字幕，回傳 [{'start': float, 'text': str}]"""
+    data = json.loads(content)
+    entries = []
+    for event in data.get('events', []):
+        if 'segs' not in event:
+            continue
+        start = event.get('tStartMs', 0) / 1000.0
+        text = ''.join(seg.get('utf8', '') for seg in event['segs']).strip()
+        if text and text != '\n':
+            entries.append({'start': start, 'text': text})
+    return entries
+
+
+def parse_vtt(content):
+    """解析 WebVTT 格式字幕"""
+    entries = []
+    lines = content.split('\n')
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        if '-->' in line:
+            time_match = re.match(r'(\d{2}):(\d{2}):(\d{2})\.(\d{3})', line)
+            if not time_match:
+                # mm:ss.mmm 格式
+                time_match = re.match(r'(\d{2}):(\d{2})\.(\d{3})', line)
+                if time_match:
+                    m, s, ms = map(int, time_match.groups())
+                    start = m * 60 + s + ms / 1000.0
+                else:
+                    i += 1
+                    continue
+            else:
+                h, m, s, ms = map(int, time_match.groups())
+                start = h * 3600 + m * 60 + s + ms / 1000.0
+            i += 1
+            text_lines = []
+            while i < len(lines) and lines[i].strip():
+                text_lines.append(lines[i].strip())
+                i += 1
+            text = ' '.join(text_lines)
+            text = re.sub(r'<[^>]+>', '', text).strip()
+            if text:
+                entries.append({'start': start, 'text': text})
+        else:
+            i += 1
+    return entries
+
+
+def get_transcript(video_id):
+    """使用 yt-dlp 下載字幕，回傳 [{'start': float, 'text': str}]"""
+    url = f"https://www.youtube.com/watch?v={video_id}"
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        ydl_opts = {
+            'skip_download': True,
+            'writeautomaticsub': True,
+            'writesubtitles': True,
+            'subtitleslangs': ['en', 'en-orig', 'en-US'],
+            'subtitlesformat': 'json3/vtt/best',
+            'outtmpl': os.path.join(tmpdir, '%(id)s'),
+            'quiet': True,
+            'no_warnings': True,
+        }
+
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([url])
+
+        # 尋找下載的字幕檔
+        sub_file = None
+        for fname in os.listdir(tmpdir):
+            if fname.endswith('.json3') or fname.endswith('.vtt'):
+                sub_file = os.path.join(tmpdir, fname)
+                break
+
+        if not sub_file:
+            raise Exception("找不到任何可用的字幕（影片可能未開放字幕）")
+
+        with open(sub_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        if sub_file.endswith('.json3'):
+            return parse_json3(content)
+        else:
+            return parse_vtt(content)
 
 
 def format_transcript(entries, video_id, url=""):
@@ -52,36 +144,12 @@ def format_transcript(entries, video_id, url=""):
     lines.append("")
 
     for entry in entries:
-        start = entry.start
+        start = entry['start']
         mins = int(start // 60)
         secs = int(start % 60)
-        lines.append(f"[{mins:02d}:{secs:02d}] {entry.text}")
+        lines.append(f"[{mins:02d}:{secs:02d}] {entry['text']}")
 
     return "\n".join(lines)
-
-
-def get_transcript(video_id, prefer_lang='en'):
-    """嘗試取得逐字稿，依語言優先順序"""
-    api = YouTubeTranscriptApi()
-    # 優先英文，再試中文，再試任意語言
-    lang_orders = [
-        [prefer_lang],
-        ['en'],
-        ['zh-TW', 'zh-CN', 'zh'],
-        []  # 空列表 = 取第一個可用的
-    ]
-    for langs in lang_orders:
-        try:
-            if langs:
-                return api.fetch(video_id, languages=langs)
-            else:
-                # 列出所有可用的，取第一個
-                transcript_list = api.list(video_id)
-                first = next(iter(transcript_list))
-                return first.fetch()
-        except Exception:
-            continue
-    raise Exception("找不到任何可用的逐字稿（影片可能未開放字幕）")
 
 
 def download_transcript(url, output_dir="transcripts", index=None, total=None):
@@ -96,8 +164,8 @@ def download_transcript(url, output_dir="transcripts", index=None, total=None):
     print(f"{prefix}正在下載: {video_id} ({url})")
 
     try:
-        transcript = get_transcript(video_id)
-        content = format_transcript(list(transcript), video_id, url)
+        entries = get_transcript(video_id)
+        content = format_transcript(entries, video_id, url)
 
         os.makedirs(output_dir, exist_ok=True)
         output_file = os.path.join(output_dir, f"{video_id}.txt")
@@ -105,13 +173,11 @@ def download_transcript(url, output_dir="transcripts", index=None, total=None):
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(content)
 
-        line_count = len(list(transcript))
-        print(f"  ✅ 已儲存: {output_file}（{line_count} 段）")
+        print(f"  ✅ 已儲存: {output_file}（{len(entries)} 段）")
         return True, output_file
 
     except Exception as e:
         print(f"  ❌ 下載失敗: {e}")
-        # 建立錯誤紀錄
         error_file = os.path.join(output_dir, f"{video_id}_ERROR.txt")
         os.makedirs(output_dir, exist_ok=True)
         with open(error_file, 'w', encoding='utf-8') as f:
@@ -120,26 +186,19 @@ def download_transcript(url, output_dir="transcripts", index=None, total=None):
 
 
 def main():
-    # 判斷輸入方式
     if len(sys.argv) > 1:
         arg = sys.argv[1]
-        # 如果是 URL 或 video ID，直接下載單支
         if arg.startswith('http') or re.match(r'^[a-zA-Z0-9_-]{11}$', arg):
             print(f"\n下載單支影片逐字稿...\n")
             download_transcript(arg, output_dir="transcripts")
             return
-        # 否則當作 urls 檔案路徑
         urls_file = arg
     else:
         urls_file = os.path.join(os.path.dirname(__file__), "urls.txt")
 
-    # 讀取 URLs 清單
     if not os.path.exists(urls_file):
         print(f"找不到 {urls_file}")
         print("請建立 urls.txt，每行一個 YouTube 網址，再重新執行。")
-        print("\n範例 urls.txt 內容：")
-        print("https://www.youtube.com/watch?v=NoxYrnnHgfk")
-        print("https://www.youtube.com/watch?v=xxxxxxxxxxxxxxxx")
         return
 
     with open(urls_file, 'r', encoding='utf-8') as f:
@@ -152,12 +211,11 @@ def main():
         print("urls.txt 是空的，請填入 YouTube 網址後再執行。")
         return
 
-    # 建立輸出資料夾（以執行時間命名）
     timestamp = datetime.now().strftime('%Y%m%d_%H%M')
     output_dir = os.path.join(os.path.dirname(__file__), f"transcripts_{timestamp}")
 
     print(f"\n{'='*60}")
-    print(f"  Odoo 逐字稿批次下載")
+    print(f"  Odoo 逐字稿批次下載（yt-dlp 版）")
     print(f"  共 {len(urls)} 支影片 → {output_dir}")
     print(f"{'='*60}\n")
 
@@ -172,7 +230,6 @@ def main():
             fail_count += 1
         print()
 
-    # 產出摘要
     print(f"{'='*60}")
     print(f"  完成！成功：{len(success_files)}／{len(urls)}  失敗：{fail_count}")
     print(f"  輸出資料夾：{output_dir}")

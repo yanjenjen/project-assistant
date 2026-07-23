@@ -1,0 +1,43 @@
+# Odoo Purchase YouTube 網址清單
+# 說明：每行一個 YouTube 網址，# 開頭為備註行
+# 來源：https://www.odoo.com/slides/purchase-23
+# 更新日期：2026-07-21
+# 共 10 支影片（1h 15m）
+#
+# ============================================================
+# Section 1: Buy and Receive（5 支 · 41 分鐘）
+# ============================================================
+
+# PAL01｜Purchase Basics: Your First Request for Quotation
+https://www.youtube.com/watch?v=LX_kRgiqUj0
+
+# PAL02｜Purchase Lead Times
+https://www.youtube.com/watch?v=PM18TP8MZ0I
+
+# PAL03｜Reordering Rules
+https://www.youtube.com/watch?v=y1b18-c3F_s
+
+# PAL04｜Vendor Pricelists
+https://www.youtube.com/watch?v=MtO2XNCE-xw
+
+# PAL05｜Approvals & Warnings
+https://www.youtube.com/watch?v=VubhZlCYDp0
+
+# ============================================================
+# Section 2: Manage Deals（5 支 · 34 分鐘）
+# ============================================================
+
+# PAL06｜Blanket Orders
+https://www.youtube.com/watch?v=qybxkC1tENs
+
+# PAL07｜Bill Control（3-Way Matching）
+https://www.youtube.com/watch?v=Yu48MWUVxgI
+
+# PAL08｜Purchase Agreements: Alternative RFQs - Calls for Tender
+https://www.youtube.com/watch?v=YUTArZ4STcM
+
+# PAL09｜Purchase Agreement: Purchase Template
+https://www.youtube.com/watch?v=xjdqJVy6VUo
+
+# PAL10｜EDI Purchase to Sales Order
+https://www.youtube.com/watch?v=KI78WxaAJg8

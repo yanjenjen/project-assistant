@@ -1,0 +1,66 @@
+# Sales 模組 YouTube 字幕批次下載清單
+# 執行方式：python3 odoo_transcript_downloader.py urls_sales.txt
+# 共 31 支影片
+
+# SAL01 Invoicing for what is ordered
+https://www.youtube.com/watch?v=8QviDPrj39I
+# SAL02 Invoicing for what is delivered
+https://www.youtube.com/watch?v=JpqZFT7RLaw
+# SAL03 Selling products
+https://www.youtube.com/watch?v=uPMpMH1A6vk
+# SAL04 Create your First Sales Quotation
+https://www.youtube.com/watch?v=kK7IBFi8FEE
+# SAL05 Adding headers and footers to quote templates and products
+https://www.youtube.com/watch?v=pJ7YgbYToD0
+# SAL06 Sales Basics
+https://www.youtube.com/watch?v=IwvVR2H7gvE
+# SAL07 Your First Quotation
+https://www.youtube.com/watch?v=Q0MKrE5YfnQ
+# SAL08 Create Products
+https://www.youtube.com/watch?v=LvGCY5rXISg
+# SAL09 Create Product Variants
+https://www.youtube.com/watch?v=_XMyu9EKnPo
+# SAL10 Quotation Templates
+https://www.youtube.com/watch?v=MBrOVjjfdJw
+# SAL11 PDF Quote Builder
+https://www.youtube.com/watch?v=SIvlo2JFU_U
+# SAL12 Product Documents
+https://www.youtube.com/watch?v=dhlNDmD3l-o
+# SAL13 Online Quotation
+https://www.youtube.com/watch?v=SNsRDT9qB34
+# SAL14 Invoicing Policies
+https://www.youtube.com/watch?v=Nk3Ro_2vqP4
+# SAL15 Pipeline Management for a B2B Equipment Supplier
+https://www.youtube.com/watch?v=8V2DXRZH9qo
+# SAL16 Promotion Basics & Discounts
+https://www.youtube.com/watch?v=RdniKQlnxTQ
+# SAL17 Coupons
+https://www.youtube.com/watch?v=KW5cZHg10jQ
+# SAL18 Loyalty Programs
+https://www.youtube.com/watch?v=CymB_sD11bI
+# SAL19 Gift Card Programs
+https://www.youtube.com/watch?v=zjUHM0TSKZ0
+# SAL20 Sales Tax: Part 1
+https://www.youtube.com/watch?v=d97m_ns40qU
+# SAL21 Sales Tax: Part 2
+https://www.youtube.com/watch?v=gNuXCNm3kH0
+# SAL22 Sales Tax: Part 3
+https://www.youtube.com/watch?v=PwbZ-6gDxmg
+# SAL23 Delivery Prices
+https://www.youtube.com/watch?v=fyFPOUx2LJc
+# SAL24 Delivery Lead Times
+https://www.youtube.com/watch?v=X5lTOpEsoT8
+# SAL25 Dropshipping
+https://www.youtube.com/watch?v=V4BdvVcuajY
+# SAL26 Pricelists: Multiple Prices Per Product
+https://www.youtube.com/watch?v=VeQxtSIfMuc
+# SAL27 Pricelists - Discounts and Margins
+https://www.youtube.com/watch?v=d-upMNmIftU
+# SAL28 Commission Plans
+https://www.youtube.com/watch?v=0F0hlB6dl-Q
+# SAL29 Gelato Connector
+https://www.youtube.com/watch?v=l_wf90mwWo0
+# SAL30 Quote Calculator Basics
+https://www.youtube.com/watch?v=W_0-gUc87WI
+# SAL31 Using the Product Import Template
+https://www.youtube.com/watch?v=U1nFe6wYfxA

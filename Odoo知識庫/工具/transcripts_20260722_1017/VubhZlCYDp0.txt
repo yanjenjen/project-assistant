@@ -1,0 +1,202 @@
+影片 ID: VubhZlCYDp0
+來源: https://www.youtube.com/watch?v=VubhZlCYDp0
+下載時間: 2026-07-22 10:17
+============================================================
+
+[00:04] hello doers and welcome back my name is
+[00:06] hos ignasio and today I'm going to be
+[00:08] talking about stealthy wood where we've
+[00:10] actually recently hired a bunch of new
+[00:11] interns to review and accept the best
+[00:13] request for quotations from our vendors
+[00:15] but because they are so new I'm a little
+[00:17] bit worried that they're going to
+[00:18] squander our budget we don't have a lot
+[00:20] of money so let's keep it there so
+[00:23] thankfully through ODU we can actually
+[00:24] set orders to require manager validation
+[00:26] above a certain price limit so using
+[00:29] warnings allows us to display
+[00:30] notifications while employees create
+[00:31] orders so not only can we grab their
+[00:34] attention about an issue but we can also
+[00:37] entirely block them from completing an
+[00:39] order with a specific product or vendor
+[00:41] so enough chitchat let's go be cautious
+[00:43] inside of stealthy Woods database and
+[00:45] I'm going to show you how all of this
+[00:46] works okay so to use approvals in the
+[00:48] purchase app we first need to go up here
+[00:50] to our configuration menu and settings
+[00:53] great we've all seen this a lot so
+[00:55] inside of the order section that we have
+[00:57] make sure that the purchase order
+[00:58] approval option is checked off and then
+[01:02] I think we should also change the
+[01:03] minimum amount it's a little bit high
+[01:04] right now and that makes me ever so
+[01:07] anxious so let's cut that in half $500
+[01:09] so now if a user creates an RFQ that's
+[01:12] $500 or higher and that's the good part
+[01:15] it requires administrator approval and
+[01:17] then to lock this in let's go ahead and
+[01:19] hit save in the top left corner and
+[01:20] we're all good to go so now I happen to
+[01:24] be the manager of stealthy wood I get
+[01:26] access and permission to anything and to
+[01:29] do anything but the new employee can't
+[01:32] do that so I'm going to once again go
+[01:35] out of here to my main Odo dashboard and
+[01:36] go to my general settings and this time
+[01:39] around we're going to click on manage
+[01:41] users so let's go over here all right so
+[01:44] we're going to change some of these user
+[01:46] access rights now once again I'm going
+[01:49] to change this interns rights we're at
+[01:51] the profile we'll scroll down over here
+[01:53] to the inventory section and you see
+[01:54] where it says purchase we have a nice
+[01:56] little toggle over here we're going to
+[01:57] change it over to user so with po
+[02:00] approvals in place any employees with
+[02:02] user access rights will need approval
+[02:04] from employees with administrator access
+[02:06] rights in order to complete a purchase
+[02:08] by the way if you're an administrator we
+[02:09] can actually change anybody's access
+[02:11] rights at any time so let's make sure to
+[02:14] manually save just in case now next
+[02:16] let's Implement some warnings to our
+[02:17] workflow to help our new employee
+[02:19] understand certain limitations about the
+[02:21] products and vendors you know as they
+[02:23] continue to create rfqs so honestly
+[02:26] These Warnings are actually super
+[02:27] helpful for the entire healthy wood team
+[02:30] healthy stealthy wood team I'm feeling a
+[02:33] little bit like OD dupsies today and
+[02:35] it's because we tend to forget things
+[02:37] when we're in a rush like the name of
+[02:39] our company so to use warnings inside of
+[02:41] the purchase app we're actually going to
+[02:42] go inside of the purchase app first then
+[02:44] go to configurations and this time
+[02:46] around once again we're going to go into
+[02:48] settings and here in the orders area
+[02:51] what do you see right there warnings
+[02:53] make sure it's enabled now warnings can
+[02:55] be set both on products and vendors and
+[02:57] they come in two types simple warnings
+[03:00] and blocking messages so first let's add
+[03:04] a simple warning to a vendor we want
+[03:05] employees to be notified about a
+[03:07] specific vendor and how they famously
+[03:09] slow to respond to rfqs this is
+[03:11] important information that may prompt
+[03:13] some of us to reconsider their vendor
+[03:14] Choice especially if they're in a hurry
+[03:16] to purchase something so in our case
+[03:18] let's go up to the word
+[03:19] orders and this time around we're going
+[03:21] to select the word vendors great Azure
+[03:24] interior will be selected and then we're
+[03:26] going to go to our internal notes tab
+[03:28] over here so at the very bottom in the
+[03:31] warning section of the purchase order
+[03:33] we're going to select as we already have
+[03:34] it right now it's going to be a
+[03:37] warning and then we need to no how toy
+[03:40] employees they're very sluggish and in
+[03:42] our case we have we told them they
+[03:44] happen to be unresponsive don't use if
+[03:46] in a rush please
+[03:49] use another
+[03:51] vendor great now remember the other
+[03:54] option that we had was also a blocking
+[03:56] message but in our case we just want a
+[03:58] warning and this is not going to
+[04:00] completely prevent them from creating a
+[04:02] purchase order so in the text box below
+[04:04] we've already listed what we want so up
+[04:07] next we can actually add a blocking
+[04:09] message to a product and let's go talk
+[04:11] about that because I just showed it so
+[04:13] we want to prevent employees from making
+[04:14] any rfqs with a specific product because
+[04:16] we were informed that this particular
+[04:18] item will be out of stock for several
+[04:19] months so let's go up to products and
+[04:22] select products and which item is going
+[04:24] to be gone we're going to select the
+[04:25] cabinet with doors over there so we're
+[04:27] going to go over to the purchase tab
+[04:29] okay perfect at the very bottom as you
+[04:31] can see warning when purchasing this
+[04:33] product we currently don't have anything
+[04:35] right now I'm going to select in this
+[04:36] case a blocking
+[04:38] message and then nice F so it even
+[04:41] remembers it because I've used this
+[04:43] before it happens to say not in stock
+[04:45] until further notice but I'm going to
+[04:47] add to this for several
+[04:51] months great we're all done so with the
+[04:55] approvals and warnings configured I
+[04:57] think it's time for us to switch over to
+[04:58] our interns account to see what a
+[05:00] purchase flow looks like when all of
+[05:02] these guards are up hey what's up I'm
+[05:05] aana the intern so I'm going to show you
+[05:08] what happens when a new employee like
+[05:10] myself creates a request for quotation
+[05:12] that totals more than $500 so in my case
+[05:15] let's go into purchase create a new RFQ
+[05:18] and for our vendor we're going to use
+[05:19] that same one as her Interior right
+[05:21] there ah look at that we get a warning
+[05:24] right there H don't use if in a rush
+[05:27] please use another vendor it's that one
+[05:29] we set earlier so let's actually get out
+[05:32] of there real quick so inside of our
+[05:34] product section I'm going to first
+[05:36] trigger the block Warning by adding the
+[05:38] cabinet with the doors as well CU I
+[05:39] showed you what happens when I do that
+[05:41] boom once again as you can see we can't
+[05:44] even order this because it's not in
+[05:45] stock until further notice for several
+[05:48] months so oh my goodness we're going to
+[05:50] have to trash that right there so
+[05:52] instead I'm going to add two of my
+[05:55] acoustic block screens in white color
+[05:58] remember I said two great I'm going to
+[06:01] click on confirm
+[06:02] order and as we can see we have an
+[06:05] additional two approv stage over here so
+[06:08] this RFQ hasn't actually been changed
+[06:11] into a PO just yet let's go back to the
+[06:13] other account and let's finish this
+[06:16] off and I'm back OD doers now here we
+[06:19] are inside of the purchase app and at
+[06:20] the top of the list we see our interns
+[06:24] newly created RFQ with a nice status of
+[06:26] to approve over here in the far right
+[06:28] and if I quickly wanted to just see the
+[06:30] ones that are in need of approval I just
+[06:31] go up to the search bar and select it
+[06:33] and then on the left hand side under the
+[06:34] filters area to approve great and there
+[06:37] we have it right there now let's
+[06:39] actually approve this RFQ so let's
+[06:41] select it right there and in the top
+[06:42] left corner you see that approve order
+[06:44] button click it and just like that the
+[06:46] RFQ is now converted into a purchase
+[06:49] order and there you have it OD doers
+[06:52] with the approvals and warnings we can
+[06:54] actually ensure our employees avoid
+[06:55] costly mistakes so be sure to check out
+[06:58] our other awesome tutorial videos come
+[07:01] Vibe with me check out odu's purchase
+[07:03] app but thank you for watching o doers
+[07:05] go grab yourself a snack

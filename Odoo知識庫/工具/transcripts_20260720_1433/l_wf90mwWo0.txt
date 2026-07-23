@@ -1,0 +1,212 @@
+影片 ID: l_wf90mwWo0
+來源: https://www.youtube.com/watch?v=l_wf90mwWo0
+下載時間: 2026-07-20 14:34
+============================================================
+
+[00:05] what's up o doers and welcome back
+[00:08] stealthy wood recently jumped on that
+[00:09] merch bandwagon with our sister company
+[00:12] stealthy wear our online store is I mean
+[00:14] as the kids say popping off but we're
+[00:17] thinking of designs much faster than we
+[00:18] can produce and ship them but luckily
+[00:21] odu's gelato connector makes it easy to
+[00:23] turn designs into customized print
+[00:25] products as a global print on demand or
+[00:27] pod platform gelato handles all the
+[00:30] production and shipment for products so
+[00:32] we don't have to worry about the
+[00:33] logistics of fulfillment and shipping so
+[00:36] let's get started and see how the ODU
+[00:38] gelato connector takes designs and turns
+[00:40] them into printed
+[00:42] masterpieces so before we configure the
+[00:44] gelato connector inod do we need to grab
+[00:46] the API credentials and web hooks from
+[00:49] our gelato account an API key is a
+[00:52] unique code that allows ODU to
+[00:54] communicate which aot system it acts
+[00:56] like a digital handshake making sure
+[00:58] only authorized apps can exchange
+[01:01] information web Hook is an automatic
+[01:03] notification system that sends realtime
+[01:06] updates from gelato to Odo whenever
+[01:08] something happens like when an order is
+[01:10] confirmed or delivered okay it's time to
+[01:13] grab the API and web hooks from our
+[01:15] gelato account so here on the left side
+[01:18] of our navigation bar we're going to
+[01:19] select developer and we want to click
+[01:22] into the API key
+[01:24] section from here we're just going to
+[01:26] click add API key and for the name we're
+[01:29] just going to going to type in Odo keep
+[01:31] it something simple and
+[01:33] rememberable and from here we'll just
+[01:35] click create
+[01:37] key so this generated our key which
+[01:40] we'll grab by clicking this copy to
+[01:41] clipboard button and we're also just
+[01:43] going to paste this into a separate
+[01:45] notepad because we're going to need this
+[01:47] later but no worries if the API key gets
+[01:49] lost we can always repeat this step to
+[01:52] create a new key okay next we're just
+[01:55] going to set up a web hook to receive
+[01:57] automatic order updates in Odo so under
+[02:00] the same developer section we're just
+[02:02] going to click web hooks this time on
+[02:05] this web hooks page we're just going to
+[02:07] click ADD web
+[02:09] hook and in the URL field we're just
+[02:11] going to type in our database
+[02:15] URL and under the events field right
+[02:18] here we're going to select order status
+[02:20] updated and this ensures that we'll
+[02:22] receive order changes automatically in
+[02:24] our ODU database directly under that in
+[02:27] our method field we're just going to
+[02:29] select HTTP post and this is the request
+[02:33] method used to send data from gelato to
+[02:36] Odo next we're going to tick this
+[02:38] checkbox right here which allows us to
+[02:40] take authorization to this web hook and
+[02:43] let's also make sure that the header in
+[02:45] gelados product matches the header in
+[02:47] Odo so here in the header name field
+[02:50] we're just going to type in
+[02:54] signature and these are all backend
+[02:57] settings that allow Odo and gelato to
+[02:59] exchange information ensuring that your
+[03:01] orders and updates are processed
+[03:03] correctly next here in the header value
+[03:07] we're just going to click generate
+[03:10] key then we'll go ahead and highlight
+[03:13] and copy the newly generated header
+[03:17] value and we're going to save this for
+[03:19] later so make sure to add this to your
+[03:20] notepad as
+[03:23] well and finally we're just going to
+[03:25] click
+[03:27] create and now we're done with this step
+[03:30] now let's connect gelato with Odo so
+[03:33] here in the sales app we're just going
+[03:35] to head to configuration and then to
+[03:37] settings and then we're going to scroll
+[03:38] to the bottom to our connector section
+[03:42] and here we want to make sure that the
+[03:43] gelato connector is enabled next we'll
+[03:46] paste in our API key and web hook
+[03:54] key then we're going to click save at
+[03:56] the top
+[04:01] and now we're ready to sync our gelato
+[04:02] product to
+[04:04] Odo okay it's time to make sure that our
+[04:06] information is correct inel so we're
+[04:09] going to click our profile picture here
+[04:10] in the top right corner and then click
+[04:12] settings followed by
+[04:15] company to make orders from Odo that go
+[04:18] directly to gelato we need to make sure
+[04:20] that our company name and billing
+[04:24] address are correct this looks good so
+[04:27] we're going to head over to the side
+[04:28] menu and click
+[04:32] templates and today we're going to sync
+[04:35] our posum trucker cap so we'll hover
+[04:38] over this click the three dots that
+[04:41] appear and then we're going to click on
+[04:43] copy template
+[04:46] ID so the product template ID is a
+[04:49] unique identifier that links an ODU
+[04:51] product to its corresponding template in
+[04:53] gelato it allows us to automatically
+[04:55] pull in product variants like the color
+[04:57] options in our hat in this casee we have
+[05:00] white and
+[05:02] pink this makes sure that our products
+[05:04] are consistent across both platforms so
+[05:07] let's see this in action in our Odo
+[05:09] database back in Odo we're going to
+[05:12] navigate to our sales application and
+[05:14] click products at the top followed by
+[05:16] products once again and to create a new
+[05:18] product we're just going to click new in
+[05:20] the top left corner and we're going to
+[05:22] add a name to this product which will be
+[05:24] our posum trucker hat
+[05:30] we're also going to update the retail
+[05:31] price to match the price we have in
+[05:33] gelato which is going to be
+[05:36] $20 next we're going to click into the
+[05:39] sales Tab and here in the gelato section
+[05:41] we have our template reference field
+[05:44] that field we just need to paste in our
+[05:45] template ID from our gelato
+[05:49] product when we paste that in and click
+[05:51] away the synchronized button appears and
+[05:53] when we click synchronize ODU gives us a
+[05:56] confirmation that our product and its
+[05:58] product variants have have been
+[05:59] successfully synchronized so after
+[06:02] synchronizing a print images field also
+[06:05] appears and to make sure the order goes
+[06:07] through the correct product we're going
+[06:08] to click this front embroidery button
+[06:11] and this pop-up window appears here if
+[06:13] we hover over the camera we'll click
+[06:15] this edit pencil icon and we'll go ahead
+[06:18] and upload our product picture for our
+[06:21] posum trucker hat then we'll click save
+[06:24] and
+[06:25] close now it's time to add the product
+[06:28] variant pictures so we're going to click
+[06:29] the variant smart button at the top and
+[06:31] we'll start with our pink variant so
+[06:33] we'll click into the pink posum hat
+[06:36] trucker and click the edit button and
+[06:39] just upload our pink product
+[06:43] image then we'll save this and we'll use
+[06:45] the product variance breadcrumbs to do
+[06:48] the same thing to our white awesome
+[06:50] trucker
+[06:56] hat once we save this we're all set and
+[07:00] now our product variants are ready to go
+[07:03] once products are synced they're ready
+[07:05] to sell we can sell gelato products
+[07:07] through our e-commerce store or directly
+[07:09] in the sales app our customer Chris Luda
+[07:12] has been dying for our new hats and
+[07:14] wants to put in a direct order so to do
+[07:16] that I'm just going to click new in this
+[07:18] upper left hand corner and we're going
+[07:20] to add Chris to the customer name
+[07:24] field so here in the order lines we're
+[07:26] just going to add our possum trucker hat
+[07:34] and he said he wants five of the white
+[07:36] ones so we'll just update this
+[07:38] accordingly and then click
+[07:41] confirm now we have to make sure to
+[07:44] account for shipping in our Odo order so
+[07:46] we're going to click this add shipping
+[07:48] button right
+[07:50] here and we'll just use our standard
+[07:52] delivery rate and click get rate
+[08:00] this pulls up the standard delivery
+[08:02] price from gelato so now we'll just
+[08:04] click
+[08:05] add and then to confirm the order we'll
+[08:08] just click
+[08:14] confirm this order has gone through and
+[08:17] gelato will handle the production of the
+[08:18] garments and ship them directly to Chris
+[08:21] and we're free to work on creating more
+[08:23] designs without the hassle of order
+[08:25] production and fulfillment and that's it
+[08:28] for today o doers we walked through how
+[08:30] to set up our gelato products in our Odo
+[08:32] account now our customers can order
+[08:34] print on demand items directly while we
+[08:36] focus on creating more amazing designs
+[08:38] I'm going to go sketch some more rodents
+[08:40] but I'll catch you in the next video

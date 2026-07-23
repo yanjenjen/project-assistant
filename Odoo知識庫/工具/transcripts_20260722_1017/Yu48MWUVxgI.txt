@@ -1,0 +1,155 @@
+影片 ID: Yu48MWUVxgI
+來源: https://www.youtube.com/watch?v=Yu48MWUVxgI
+下載時間: 2026-07-22 10:17
+============================================================
+
+[00:05] hello doers and welcome back my name is
+[00:07] Jose gasio So today we're going to
+[00:09] decide when we pay our vendors it's
+[00:11] either now or never nah I'm actually
+[00:14] just kidding when defining the bill
+[00:16] control policy we can either pay vendors
+[00:18] before receiving products or after so at
+[00:21] stealthy wood we send our payment after
+[00:24] products are delivered but everyone does
+[00:26] things differently but if you do things
+[00:28] like us I can actually show you how to
+[00:30] do a three-way matching between the
+[00:31] purchase order the vendor Bill and
+[00:33] finally the receipt ensuring that we
+[00:35] only pay for receive products at the
+[00:37] agreed upon price so I think enough
+[00:40] chitchat is in order and let's jump in
+[00:42] to see how it works okay so to start
+[00:45] let's take a look at the bill control
+[00:46] policy by selecting configuration and
+[00:48] settings and reminder we're inside of
+[00:50] the purchase app right now so let's move
+[00:52] down actually right here perfect inside
+[00:54] of this invoicing section for the bill
+[00:56] control feature right there we're going
+[00:58] to configure whether a vendor bill is
+[00:59] created before or after receiving the
+[01:01] ordered items so selecting ordered
+[01:04] quantities I want to get rid of that
+[01:05] real quick ordered quantities right
+[01:07] there means we can create a bill as soon
+[01:09] as the purchase order is confirmed for
+[01:11] today we'll have received quantities
+[01:13] over here selected this means that when
+[01:16] we order products ODU will only let us
+[01:18] create a bill after we have received at
+[01:20] least part of the total order so next I
+[01:23] think it's time for us to make sure the
+[01:24] three-way matching feature is enabled
+[01:26] and it happens to be which is great
+[01:29] because if you haven't done on that or
+[01:30] the other things for this tutorial make
+[01:32] sure to take care of that now and select
+[01:34] save in the top left before moving on so
+[01:37] now that we're done with the company
+[01:38] settings I'd like to take a note that if
+[01:40] one or more products needs a different
+[01:42] Bill control policy we can actually
+[01:44] specify the control policy on the
+[01:45] product form itself and override the
+[01:48] company's Bill control policy as well so
+[01:50] let me show you so we're going to
+[01:51] actually go to products and then select
+[01:53] products again and we're going to select
+[01:55] a good old granny smith apple pie right
+[01:58] there so ins of our purchase tab
+[02:00] selected over here down here where it
+[02:02] says vendor bills and control policy I
+[02:04] want you to focus there let's do
+[02:06] something different than earlier we're
+[02:08] going to select unordered quantities
+[02:11] then manually save up at the top so in a
+[02:14] bit we'll see how this workflow differs
+[02:15] from the rest of the companies so to
+[02:18] check that out we're going to go over to
+[02:19] orders and select purchase orders and
+[02:22] here we'll see all of the purchase
+[02:23] orders that we've created the very top
+[02:26] we have a purchase order for Gemini
+[02:28] furniture and has a very interesting
+[02:30] status of nothing to Bill hm it's a
+[02:33] little strange so let's click into this
+[02:35] and we see there's a purple button up at
+[02:37] the top that says receive products now
+[02:40] we're going to try to create a bill
+[02:41] because remember we're creating bills
+[02:43] and oh dupes SE o doers we can't create
+[02:46] a bill yet since we haven't received the
+[02:48] products and as you recall the company's
+[02:50] Bill control policy is set to receive
+[02:52] quantities it looks like the policy is
+[02:54] working so far though so let's click
+[02:56] close Okay so to do this properly we're
+[02:59] going to going to first receive our
+[03:00] products in the top left and then
+[03:02] validate this and once that we're done
+[03:04] doing all of that we're going to select
+[03:05] our breadcrumbs to go back to our
+[03:07] purchase order and now you'll notice we
+[03:09] have a create Bill button in the top
+[03:11] left but to be fully sure that it's time
+[03:14] to build a vendor I'm going to go to my
+[03:16] other information tab over here and
+[03:19] would you look at that in our billing
+[03:20] status field we have it set and it says
+[03:23] right now it's waiting bills it's not
+[03:25] keep OD to waiting though so let's click
+[03:27] create Bill okay there we go so in the
+[03:30] bill I'm going to see where odu's
+[03:31] three-way matching feature makes sure
+[03:33] that we only pay for things we received
+[03:35] we go to our other info tab over here as
+[03:37] well and in the should be paid field
+[03:41] well would you look at that right there
+[03:42] ODU tells us that since we received the
+[03:44] products we can't run away anymore we
+[03:46] have to pay the vendor so let's set the
+[03:48] bill dates in our case to today perfect
+[03:53] and then once that we're done with that
+[03:54] we'll select
+[03:55] confirm and would you look at that we're
+[03:58] done
+[04:00] so what I just showed you was the bill
+[04:01] control policy for receive quantities
+[04:03] let's see what the ordered quantity flow
+[04:05] looks like so in our case we're going to
+[04:07] go and select orders purchase orders
+[04:09] over here once again and this time let's
+[04:11] click the PO for the vendor healthy food
+[04:14] okay so this is where we're ordering
+[04:16] several apple pies as you guess it now
+[04:19] different from earlier both the received
+[04:22] products and the create Bill buttons are
+[04:24] both purple right there so let's click
+[04:26] on create
+[04:28] bill so this time around same as earlier
+[04:31] I'm going to set the build date as today
+[04:34] once that we go into
+[04:36] there and then confirm it right there
+[04:38] perfect so then we're actually going to
+[04:40] select our purchases smart button up at
+[04:42] the top and back on the PO inside of the
+[04:46] build area as you could just see right
+[04:48] there it gives us our little field right
+[04:51] there we can compare that build
+[04:52] quantities to the receive quantities
+[04:54] that we have right there which happens
+[04:55] to be zero and that's to ensure that we
+[04:58] pay for what we receive then we're going
+[05:00] to click on receive products right there
+[05:02] and then validate that and there you
+[05:05] have it we just saw how ODU handles Bill
+[05:07] price matching and how we can make sure
+[05:09] we're always on good payment terms with
+[05:10] our vendors so to learn more I encourage
+[05:13] you to check out our other awesome
+[05:14] tutorials on odu's purchase app thanks
+[05:16] for watching see you next time go grab a
+[05:19] snack I don't have any on my desk so
+[05:21] drink water

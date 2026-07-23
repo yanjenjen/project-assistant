@@ -1,0 +1,273 @@
+影片 ID: MBrOVjjfdJw
+來源: https://www.youtube.com/watch?v=MBrOVjjfdJw
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:05] what's up OD doers and welcome back
+[00:08] regardless of Industry when it comes to
+[00:09] business time is money that's why it's
+[00:12] vital for companies to always think of
+[00:13] new ways to be as efficient as possible
+[00:15] with their valuable time that's where
+[00:17] quotation templates come into play
+[00:20] quotation templates allow you to build
+[00:21] preconfigured quotations complete with
+[00:23] already loaded custom details products
+[00:25] settings and more those templates can
+[00:28] then quickly be implemented into a
+[00:30] quotation to help our salespeople sell
+[00:32] more in less time so let's jump into our
+[00:35] database to see how easy it is to create
+[00:37] and use quotation templates using Odo
+[00:39] sales all right since we're talking
+[00:41] about quotation templates today we first
+[00:43] need to make sure we have the proper
+[00:45] settings enabled so first things first
+[00:47] we're going to click on configuration at
+[00:49] the top and then down to settings and
+[00:51] from here we're just going to scroll
+[00:52] down to our quotation and Order section
+[00:55] and here we want to make sure that our
+[00:56] quotation template setting is enabled as
+[00:59] you can see we've already taken care of
+[01:00] that on our end but if you haven't you
+[01:02] should do so now and make sure to click
+[01:04] save before moving on now once that
+[01:07] setting is enabled you can choose from
+[01:09] an existing template in our default
+[01:11] templates field using the drop- down
+[01:13] menu if so desired however today we're
+[01:16] trying to focus on how to create a new
+[01:17] quotation template from scratch so we'll
+[01:20] need to go to the quotation templates
+[01:21] page which is accessible in a couple
+[01:23] different ways we could click on this
+[01:25] quotation templates link directly or we
+[01:27] can go back to configuration and then
+[01:29] click on quotation templates either
+[01:31] route takes us to the same quotation
+[01:33] templates page where we'll find all the
+[01:35] existing templates in our database if we
+[01:37] wanted to modify any of these we'd
+[01:39] simply click on them and then make any
+[01:42] of our desired modifications on the
+[01:44] template form or if we wanted to change
+[01:46] the order of how they appear on the
+[01:48] quotation template drop down menu which
+[01:50] is available on quotation forms we could
+[01:52] drag and drop them using the six block
+[01:55] icon on the
+[01:57] left right now though we're going to
+[01:58] click on new in the upper leth hand
+[02:02] corner and first let's give this
+[02:04] template a proper title in the quotation
+[02:06] template field at the top let's go ahead
+[02:08] and say we have a new promotion starting
+[02:10] this month we'll be selling our
+[02:12] four-person desk with four of our office
+[02:14] chairs we want to save our salese time
+[02:16] by creating a quotation template to use
+[02:18] in order to Quicken this process so for
+[02:21] this title we're going to label this for
+[02:25] person desk combo
+[02:30] next in the quotation validity field
+[02:32] directly below we can determine how many
+[02:34] days we want this template to stay valid
+[02:35] for this field comes in handy when
+[02:38] dealing with limited time promotional
+[02:39] deals on products leaving it set to zero
+[02:42] means that this quotation template is
+[02:44] always valid but since this is a
+[02:46] promotional quotation it's only good for
+[02:49] a month so we're going to set this
+[02:50] validity field set to
+[02:53] 30 then we have the confirmation mail
+[02:56] field directly below here we can select
+[02:58] a pre-made email template to be sent to
+[03:00] the customer when they confirm the
+[03:02] quotation which turns it into an
+[03:04] official sales order if we click into
+[03:06] the drop- down menu we'll select our
+[03:08] sales order confirmation which is our
+[03:11] standard confirmation
+[03:13] template beneath that we have our
+[03:15] company field which appears when working
+[03:17] in a multi-company environment select a
+[03:19] company from this
+[03:21] dropdown to only have this quotation
+[03:23] available to that company/ website if
+[03:26] you leave it blank it'll apply to all
+[03:28] websites and companies in your database
+[03:30] for this video though we're just going
+[03:31] to leave this set to stealthy
+[03:34] wood next we have our invoicing Journal
+[03:37] field in this drop- down menu we're just
+[03:39] going to select our customer
+[03:41] invoices next we have the quotation
+[03:44] calculator field the quote calculator
+[03:46] feature in ODU is great for selling
+[03:48] things that require a great deal of
+[03:51] customization for example if we were
+[03:52] selling solar panels This tool can be
+[03:54] used to help the customer fine-tune
+[03:56] their order and see the exact
+[03:58] specifications related to their Pur
+[03:59] purchase a quote calendar is essentially
+[04:02] a spreadsheet with calculated cells for
+[04:04] various product specifications like the
+[04:06] transport assembly cost that salespeople
+[04:08] can fill out with customer preferences
+[04:10] to help get them the detailed estimate
+[04:12] of their purchase but since we're
+[04:14] dealing with simple office furniture we
+[04:16] won't be needing that field so we're
+[04:18] going to leave it blank for
+[04:19] now if you're curious to learn more
+[04:22] about odu's quote calculator be sure to
+[04:24] check out our tutorial and documentation
+[04:26] about it under that field we have a
+[04:28] couple check boxes we have online
+[04:30] signature and online payment if the
+[04:32] online check box or online signature
+[04:35] checkbox is ticked that means we want
+[04:37] our customers to confirm the order with
+[04:39] an online signature and if the online
+[04:42] payment check box is ticked that means
+[04:45] we require a percentage of the total
+[04:46] payment in advance which we can
+[04:48] configure in this adjacent field so
+[04:51] we're going to leave both of those check
+[04:52] boxes ticked but we're going to make the
+[04:54] online payment percentage
+[04:57] 50% to allow our customers to confirm
+[05:00] the order by paying half of the price up
+[05:02] front of course they can go ahead and
+[05:04] pay the full amount if they'd like but
+[05:05] this makes the deal a bit more enticing
+[05:07] for them also if this quotation template
+[05:11] was for a subscription product or
+[05:13] service we'd then apply a specific
+[05:15] recurring plan here in the upper right
+[05:17] corner but since this is just a standard
+[05:19] storable product we're going to leave
+[05:20] that field
+[05:22] blank let's then focus our attention at
+[05:24] these bottom tabs here starting with the
+[05:27] lines tab here we'll add our desired
+[05:30] products to the template in this case
+[05:31] it'll be our four-person desk and our
+[05:33] four office chairs so first all we have
+[05:36] to do is Click add a product and we're
+[05:38] going to add our four-person
+[05:40] desk then we'll click add a line
+[05:44] again and change this to our office
+[05:50] chair and we're going to add this a
+[05:52] quantity of
+[05:54] four nice now we're going to jump into
+[05:57] our optional products tab
+[06:00] and let's see what else we can recommend
+[06:02] for our four desk combo customers also
+[06:05] might be interested in adding a cable
+[06:08] management box perhaps so we'll go ahead
+[06:10] and add that
+[06:12] here we should also recommend our
+[06:14] furniture assembly service to just in
+[06:16] case they need help putting everything
+[06:18] together so we'll click add a line and
+[06:21] type in
+[06:22] furniture and select our furniture
+[06:24] assembly
+[06:26] service now jumping into the terms and
+[06:28] conditions tab
+[06:30] we have the opportunity to add any
+[06:32] specific terms and conditions that may
+[06:33] apply to this template and its included
+[06:36] products for this video though we're
+[06:37] just going to quickly paste in our
+[06:39] standard stealthy wood terms and
+[06:41] conditions here but feel free to get as
+[06:43] detailed and as specific as you'd like
+[06:45] to fit your company's needs last tab we
+[06:48] have is the quote Builder tab here ODU
+[06:50] provides us with the ability to upload
+[06:52] and modify unique header and footer
+[06:54] pages to create a truly stunning PDF
+[06:56] quote for your customers there's so much
+[06:59] you can can do with odu's PDF quote
+[07:01] Builder we dedicated an entire video and
+[07:03] documentation to it so be sure to check
+[07:05] those out to learn more once those tabs
+[07:08] and general information fields are
+[07:10] completed with all your desired
+[07:11] configurations you're good to go and
+[07:14] that ladies and gentlemen is how you
+[07:15] create a quotation template in Odo sales
+[07:19] now let's see how to use a quotation
+[07:20] template to do that we're going to
+[07:22] navigate to orders at the top and then
+[07:24] select quotations to return to the main
+[07:26] sales dashboard and from here we're just
+[07:28] going to click on new to create a new
+[07:31] quotation now let's say we have a
+[07:33] customer who'd like to take advantage of
+[07:35] our four-person desk combo deal we have
+[07:37] going on this month great we'll add
+[07:39] their name in the customer field which
+[07:41] is Deco
+[07:44] attic now instead of our salesperson
+[07:47] spending their valuable time adding each
+[07:48] element to this quotation one by one
+[07:51] they simply have to click on the
+[07:52] quotation template field and just select
+[07:54] our four person desk combo product
+[07:58] template when when they do the order
+[08:00] lines are automatically populated with
+[08:03] our four person desk as well as our four
+[08:06] office chairs and beneath that you'll
+[08:08] find our added terms and conditions
+[08:11] perfect back on the top of the form we
+[08:14] have our expiration date which is
+[08:15] already added you'll see the data set to
+[08:18] 30 days from now just like we configured
+[08:20] on the template form and if we select
+[08:23] our optional products tab we'll see our
+[08:25] two suggested products waiting for us
+[08:28] awesome all right since everything is
+[08:31] looking good we could just click Send by
+[08:33] email so the customer can validate and
+[08:35] confirm their order however let's go
+[08:37] ahead and click
+[08:39] preview so we can see how everything
+[08:41] will look when the customer logs into
+[08:43] their customer portal to view the
+[08:46] quotation here we'll see our template
+[08:49] products and if we scroll down we have
+[08:51] our optional products just a click a way
+[08:54] as
+[08:55] well and from here we can just quickly
+[08:57] add furniture assembly to our order if
+[08:59] we'd like pretty cool right now let's
+[09:02] say they're ready to confirm the order
+[09:04] to do that all they have to do is Click
+[09:06] sign and
+[09:07] pay and if you recall we require an
+[09:10] online signature and an online payment
+[09:12] confirmation so they'd submit a
+[09:14] signature and then simply click accept
+[09:16] and
+[09:21] sign then ODU presents them with an
+[09:24] additional validate order popup
+[09:26] requesting the customer to pay at least
+[09:27] half of the total amount to go confirm
+[09:29] the quotation then all they'd have to do
+[09:32] is click on pay to confirm the quotation
+[09:34] which turns it into a sales order thus
+[09:36] the sale is complete man those quotation
+[09:39] templates sure made that entire process
+[09:41] a breeze and there you have it o doers
+[09:44] you learned how easy it is to create and
+[09:46] use quotation templates in Odo sales
+[09:48] told you is super simple thanks for
+[09:50] watching and stay tuned for even more
+[09:52] sales tutorials and I'll see you in the
+[09:54] next video

@@ -1,0 +1,218 @@
+影片 ID: V4BdvVcuajY
+來源: https://www.youtube.com/watch?v=V4BdvVcuajY
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:04] what's going on OD doers my name is O
+[00:06] ignasio and here at stealthy wood the
+[00:08] last thing we want to do is be wasteful
+[00:10] one of the best things and the best ways
+[00:12] to accomplish that anti-waste goal is to
+[00:14] make sure we avoid having a bunch of
+[00:15] products taking a valuable space and
+[00:18] collecting dust in our warehouse but at
+[00:20] the same time we don't want to remove
+[00:21] those items from our product catalogs
+[00:23] entirely I mean who knows maybe those
+[00:26] stealthy wood jean shorts will
+[00:27] eventually come back in style someday
+[00:30] you never know you never know anyway
+[00:33] fortunately for us we can actually keep
+[00:36] offering those not so popular products
+[00:38] to our customers without taking any
+[00:40] warehouse space how you might ask why
+[00:43] with a Drop Shipping strategy of course
+[00:45] with Drop Shipping instead of keeping
+[00:47] all of the underselling products on hand
+[00:49] we can have our vendors and suppliers
+[00:51] pack and ship those goods directly to
+[00:53] our customers whenever they're ordered
+[00:55] by doing that we'll never have to handle
+[00:57] those items ever again our vendors will
+[00:59] take care of all the hard work for us
+[01:00] while we reap all of the benefits from
+[01:03] those sales not only that but new
+[01:05] products will also be less expensive for
+[01:07] us too since they won't require any
+[01:09] investment on our part
+[01:11] because they are already going to be
+[01:13] sold now with Drop Shipping in place we
+[01:16] can offer a much wider variety of
+[01:18] products than we would have been able to
+[01:21] if we were responsible for storing
+[01:22] everything ourselves think about it OD
+[01:24] doers Drop Shipping frees up warehouse
+[01:26] space increases our product catalog
+[01:29] decre inrees our workload and helps us
+[01:31] save money and it helps us avoid ml lzo
+[01:33] doers all while continuing to pile up
+[01:36] money there's really nothing but at this
+[01:38] point upsides with Drop Shipping so
+[01:41] enough chitchat let's get right into it
+[01:43] OD doers business bro time okay so to
+[01:46] get this Drop Shipping tutorial off the
+[01:48] ground we'll first need to activate the
+[01:49] Drop Shipping feature makes sense right
+[01:51] now to do that we actually need to go
+[01:53] into the purchase application up here to
+[01:55] configuration and settings once inside
+[01:58] of there scroll to the bottom into the
+[02:00] logistics section and check off that box
+[02:02] next to drop shipping and save now we're
+[02:05] all we're all set up all right now that
+[02:07] we have our Drop Shipping feature
+[02:09] activated it's time to apply it to one
+[02:10] of our products so you can see how a
+[02:12] typical Drop Shipping flow works now
+[02:14] lucky for us Odo makes that process
+[02:17] super simple and super easy let's go do
+[02:20] that okay so from here we're actually
+[02:22] going to select up here products and
+[02:24] products now let's select the first one
+[02:26] that me my eyes pedal bin all right so
+[02:29] when you're on a product form that you
+[02:31] want to configure to use Drop Shipping
+[02:32] you'll need to do a couple things now
+[02:34] first you'll need to head on over to the
+[02:35] inventory tab you want to select drop
+[02:38] ship under the bottom left over here on
+[02:40] operations and routes all right we're
+[02:42] all set up now with that option checked
+[02:44] OD will know to use the Drop Shipping
+[02:45] route whenever a customer orders this
+[02:48] product and we don't have any of the
+[02:49] product in stock but now the question is
+[02:51] if we're going to use a Drop Shipping
+[02:53] route for this product when we're out of
+[02:55] stock what vendor are we going to use to
+[02:57] ship it directly to the customer well
+[02:59] that my friends is why we need to hop
+[03:01] into the purchase tab over here and
+[03:03] assign one so let's add another one
+[03:05] let's assume Lumber in is there too and
+[03:08] their price is actually very favorable
+[03:10] it is $420 420 now this is the second
+[03:14] thing that must be done on product forms
+[03:15] in order to enable proper Drop Shipping
+[03:17] flows now to assign a vendor we just hit
+[03:20] that we added a line and we've done our
+[03:22] purchase price and everything but what
+[03:24] if we have multiple vendors like you see
+[03:26] here with multiple prices and different
+[03:28] names and different ations well when it
+[03:31] comes to drop shipping OD will go with
+[03:32] the first vendor on the list so be sure
+[03:35] to keep that in mind and place your
+[03:36] desired Drop Shipping vendor at the top
+[03:38] of the list and you can do that by just
+[03:39] dragging and dropping over here from the
+[03:41] left just putting that up there maybe
+[03:43] you want the cheaper one maybe you like
+[03:45] AER interior maybe you like the number
+[03:47] 420 that's all you need to do and once
+[03:49] you've got the drop ship route activated
+[03:51] in the inventory tab just like we did
+[03:54] and the vendor you're actually ready to
+[03:56] go and since we're all set as well it's
+[03:58] time to see these in action
+[04:01] okay so let's navigate over to our sales
+[04:03] app so we're going to go into there and
+[04:05] we want to whip up a fresh sales order
+[04:07] using the product from earlier so let's
+[04:10] pick a customer right here now from the
+[04:12] sales dashboard we've already selected
+[04:13] new and we're going to pick someone like
+[04:15] Susie customer from earlier because we
+[04:18] like her we're going to put that petal
+[04:20] bin over here and we're just going to
+[04:22] buy one of these and then we're going to
+[04:24] confirm it and this is actually really
+[04:27] important now normally when I click
+[04:29] confirm we see a delivery smart button
+[04:31] up at the top which would indicate that
+[04:33] a delivery order for this product has
+[04:34] been generated but right now we aren't
+[04:36] seeing that instead the only thing we
+[04:37] see is a purchase smart button up at the
+[04:39] top right corner and that's since we
+[04:41] have this product being drop shipped to
+[04:43] the customer directly from the vendor so
+[04:45] a purchase order has been generated that
+[04:47] we'll need to confirm and validate in
+[04:48] order to complete the flow so let's
+[04:50] click into that odd doers and give it
+[04:51] that a look now this Stakes us straight
+[04:54] over here to our generated purchase
+[04:55] order for the sales order we just
+[04:57] created that's pretty convenient all
+[04:59] right now let's actually confirm this
+[05:02] order and when I do now we have a
+[05:05] Dropship smart button over here at the
+[05:07] top and as usual let's click on that and
+[05:10] let's check it out real quick odd doers
+[05:13] all right this ladies and gentlemen is
+[05:14] our Drop Shipping order which is nicely
+[05:16] indicated by this little DS that we have
+[05:18] over here in front of our order and
+[05:20] that's kind of convenient now inside of
+[05:22] these tabs operations additional info
+[05:25] and everything we'll find all the
+[05:27] information related to the original
+[05:28] sales order which is always nice to see
+[05:31] and up here at the top we can also see
+[05:34] in our case the source document which is
+[05:36] the purchase order that we were just
+[05:37] looking at let's go back over here to
+[05:39] detailed operations real quick all right
+[05:41] everything seems to be in order here so
+[05:43] we're actually going to click on set
+[05:45] quantities over here and once that we do
+[05:48] that we want to make sure that it knows
+[05:50] that we have done one
+[05:51] units because that's what we need it to
+[05:54] match all right now that we're done with
+[05:56] everything and it's the same as the
+[05:58] ordered quantities let's say the vendor
+[06:00] has confirmed the drop ship in that case
+[06:02] we're going to validate this real quick
+[06:05] and boom we're done now you'll notice
+[06:06] that the status of this Drop Shipping
+[06:08] order is done o doers and if we were to
+[06:12] hop back to the original sales order
+[06:14] which can be done via these tasty little
+[06:16] breadcrumb links up here which today is
+[06:18] pumper nickel you notice something else
+[06:20] has
+[06:22] happened it's a brand new object in here
+[06:24] can you spot it my Vigilant OD doers if
+[06:26] you said there's now a drop ship smart
+[06:29] button up at the top of the sales order
+[06:31] go ahead and cancel that automet
+[06:32] appointment because your Eagle Eye
+[06:34] Vision is outstanding yes we now have a
+[06:37] drop ship smart button available on the
+[06:38] sales order because we just validated
+[06:40] that sales and drop ship order moments
+[06:43] ago and if we click on that Dropship
+[06:45] button boom it completes the full circle
+[06:48] it brings us right back to our recently
+[06:49] completed drop ship order which you can
+[06:52] tell is all finished up because it tells
+[06:53] us everything to that done status that's
+[06:56] it people that's how easy it is to set
+[06:58] up Drop Shipping with with ODU sales
+[07:00] with just a c like what couple quick
+[07:03] configurations like 10 minutes of your
+[07:05] time you can have your vendors taking
+[07:07] care of all the shipping and storing for
+[07:09] you that way you can free up space in
+[07:11] your Warehouse save some money expand
+[07:13] your product catalog start an MLM
+[07:15] everything you want to do all right OD
+[07:18] doers thank you for everything please
+[07:20] remember to check out all of the other
+[07:21] tutorials documentation all the nice
+[07:24] tutorials with yours truly and I'll
+[07:26] teach you as much as possible have a
+[07:28] great day I love love
+[07:32] you

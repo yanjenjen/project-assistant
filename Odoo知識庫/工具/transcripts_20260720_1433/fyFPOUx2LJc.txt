@@ -1,0 +1,345 @@
+影片 ID: fyFPOUx2LJc
+來源: https://www.youtube.com/watch?v=fyFPOUx2LJc
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:05] hello doers and welcome back my name is
+[00:06] ignasio now today we're going to take a
+[00:08] closer look at how to handle delivery
+[00:10] charges inside of ODU now here at the
+[00:12] world famous stealthy wood HQ we enjoy
+[00:15] having a bit of flexibility when it
+[00:16] comes to what we charge our customers
+[00:18] for their deliveries now we either base
+[00:20] our delivery fees on a fixed price or we
+[00:23] base them on a set of rules it all
+[00:25] depends on what products need to be
+[00:26] shipped for example we typically charge
+[00:29] our customers fixed price to ship any
+[00:31] small non-furniture items but when
+[00:33] delivering bigger heavier items we're
+[00:36] going to charge different amounts based
+[00:38] on the weight because it costs more
+[00:40] money to ship heavier items makes sense
+[00:43] right now lucky for us ODU lets us
+[00:45] customize or delivery prices to fit any
+[00:47] unique business need plus ODU has
+[00:50] seamless Integrations with major
+[00:51] shipping services like betex ups and
+[00:55] local Postal Services thus ensuring
+[00:58] every delivery is quick easy and
+[01:00] reliable so enough chitchat let's hop on
+[01:03] in so I can actually deliver a quality
+[01:06] lesson about delivery prices see what I
+[01:09] did there deliver it doesn't matter hop
+[01:12] in all righty once again let's start on
+[01:14] our sales dashboard now before we do
+[01:16] anything we're going to want to make
+[01:17] sure that we have the delivery methods
+[01:19] feature activated and to do that we'll
+[01:21] navigate to our settings page via the
+[01:22] configuration menu and settings and once
+[01:25] that that loads we're going to scroll
+[01:26] down over here to we're at the shipping
+[01:28] area and you'll notice delivery methods
+[01:31] right there and we're all ready to go
+[01:33] now here you'll also find all these
+[01:34] shipping services that can be integrated
+[01:36] with Odo and if you want to learn more
+[01:37] about those be sure to check out our
+[01:39] inventory tutorials and documentation
+[01:41] but for now let's take a closer look at
+[01:43] a general shipping configuration shall
+[01:46] now in order to do that we could either
+[01:48] click on the shipping methods internal
+[01:49] link or go up here to configuration and
+[01:51] shipping methods so here we see a
+[01:54] collection of all the shipping methods
+[01:56] we have configured in our database and
+[01:58] as you can see I have a a bunch of
+[02:00] integrated delivery methods ready to go
+[02:02] but most of them aren't published as you
+[02:04] could tell over here by this column now
+[02:07] this means they aren't activated yet and
+[02:09] they also can't be used so be sure to
+[02:11] publish any shipping methods you plan on
+[02:13] using now no worries I'll show you how
+[02:15] to do that in just a minute now first
+[02:17] let's create a new shipping method now
+[02:19] to do that we're actually going to
+[02:20] select as you guessed it new up here all
+[02:23] right now we need a name so in our case
+[02:26] we're going to name this one fixed
+[02:27] delivery price now up next we have the
+[02:30] website field and in this case you can
+[02:33] basically select the website the
+[02:34] shipping method should apply to
+[02:36] personally I want this method to apply
+[02:38] to all of my websites so I'm going to
+[02:40] leave this blank because that's the only
+[02:42] method that allows us to do that now
+[02:44] then we have the provider field which
+[02:46] lets us choose who is going to make the
+[02:48] delivery for us and if you select it it
+[02:51] allows you to pick some different ones
+[02:53] so in our case for now if I choose one
+[02:55] of my integrated shipping services like
+[02:57] FedEx for example I'd select FedEx from
+[03:00] the list and then it changes stuff I
+[03:02] would then need to add my company
+[03:04] specific shipping information related to
+[03:06] the shipping service down here now if we
+[03:08] go back up here to provider I'm going to
+[03:11] show you something else then in my case
+[03:13] let's assume if I select pickup in store
+[03:17] stuff changes then my customers would
+[03:19] have the option to pick up their items
+[03:20] in person however it should be noted
+[03:22] that this option will only be available
+[03:24] if the onsite payments and picking
+[03:26] feature is activated inside of the
+[03:28] website application settings so be sure
+[03:30] to keep that in mind o doers anyways
+[03:33] here at stealthy wood we want to charge
+[03:35] a fixed price to deliver small non
+[03:37] Furniture products to our customers so
+[03:40] let's set the provider field to fix
+[03:42] price because that's what we said
+[03:45] earlier all right beneath the provider
+[03:47] field is the company field where we pick
+[03:50] the company for the shipping method and
+[03:53] that's if it's supposed to apply to a
+[03:55] specific company if we're working in a
+[03:57] multi-company environment however just
+[03:59] like we did with the website field I
+[04:00] want this to apply to all my companies
+[04:01] so I'm going to leave that blank as well
+[04:03] now moving on o doers we have in our
+[04:07] case the delivery product field over
+[04:09] here in the top right now the delivery
+[04:11] product is what's listed on the order
+[04:12] line of the sales order for this
+[04:14] shipping method so that the customer
+[04:16] will see this as the name of the
+[04:17] delivery charge for example I'll just
+[04:21] call this in our case we're going to
+[04:23] type in
+[04:24] delivery and why would we do that well
+[04:27] because in our case we're going to
+[04:28] create that because this is going to be
+[04:30] a new delivery thing now up next we can
+[04:33] actually choose to add a margin on rate
+[04:35] to the shipping price if necessary but
+[04:38] in my case I'm actually going to leave
+[04:39] that as is for now after that we also
+[04:42] have the option to offer free shipping
+[04:44] if the order exceeds a certain dollar
+[04:46] amount if we want to check off this box
+[04:49] next to free if order is above a certain
+[04:51] amount you'll see a new amount thing
+[04:54] appears right there we can enter the
+[04:55] designated amount like in my case 42 20
+[05:00] 420 is a good number it's a pretty good
+[05:02] deal now let's direct our attention over
+[05:05] here to the pricing tab that we have
+[05:07] over here now I'm going to set the fixed
+[05:09] price for our smaller items and let's go
+[05:11] with a lucky number seven perfect that
+[05:14] should be enough to cover our shipping
+[05:15] cost hopefully knock on wood all right
+[05:18] moving over to the destination
+[05:20] availability tab we can choose which
+[05:22] country states or specific zip codes
+[05:25] that can apply to this particular
+[05:26] shipping method again if we leave these
+[05:29] blank will apply to all options
+[05:31] available in the respective categories
+[05:34] and since we want all of our stealthy
+[05:36] wood stands around the world to enjoy
+[05:37] the same fixed price for smaller items
+[05:40] I'm going to leave these blank once
+[05:41] again it's a method that applies it to
+[05:43] all of them and we're going to move on
+[05:44] to the description tab all right here we
+[05:47] can add a well a custom description that
+[05:50] will be displayed online and at the
+[05:52] bottom of sales orders whenever we
+[05:54] confirm any of those in emails and stuff
+[05:58] all righty when we're happy happy with
+[05:59] how everything looks the only thing left
+[06:01] to do is if we want this shipping method
+[06:04] to be usable by our customers we just
+[06:05] have to publish it so to do that all we
+[06:08] have to do is click this smart button up
+[06:11] here and when we click it the status
+[06:13] will change from unpublished in red to
+[06:16] published in green and that's it o doers
+[06:18] all righty let's make a new shipping
+[06:20] method this time and this one's going to
+[06:21] be based on a couple rules so we're
+[06:23] going to name a rule-based delivery for
+[06:25] our delivery product I've renamed the
+[06:27] delivery product from before to special
+[06:29] delivery to make it easier to find and
+[06:31] our provider in this case is based on
+[06:33] rules perfect now everything is done so
+[06:36] let's go down here to pricing and we're
+[06:37] going to add a line now once that we do
+[06:39] that you'll notice we can see that the
+[06:42] condition field and everything is an
+[06:43] equation for defining our delivery
+[06:45] pricing rules for the shipping method
+[06:48] now this mini equation can allow us to
+[06:49] configure things in a number of ways I
+[06:51] could choose whether I want to use
+[06:52] something such as weight volume and
+[06:55] volume price or quantity as well for the
+[06:58] items in the order it should be noted
+[07:00] that whatever factor is chosen here it
+[07:02] must be configured on the product forms
+[07:04] as well if it isn't then the rule simply
+[07:06] won't work properly for example if
+[07:08] weight and volume is chosen then a
+[07:10] weight and a volume must be designated
+[07:12] on product forms in order for things to
+[07:14] work smoothie that makes sense now for
+[07:17] now I'm going to leave it on weight
+[07:19] since it costs our company money to ship
+[07:20] heavier things with that in mind let's
+[07:22] say that if the weight of the order is
+[07:24] greater than so we're going to swap this
+[07:26] over there or equal to I don't know
+[07:29] let's put 30 for the
+[07:31] weights greater than 30 and then in our
+[07:34] case our delivery cost is supposed to be
+[07:36] 20 plus whatever that weight is and as
+[07:39] you can see in addition to a fixed
+[07:41] delivery cost I could choose to have the
+[07:43] cost be a multiple of the weight or
+[07:45] factor as well now to do that I'd simply
+[07:47] add an amount to the second delivery
+[07:49] cost that we have over here in this
+[07:51] field but for the sake of the demo I'm
+[07:52] going to leave it at the flat $20
+[07:54] delivery cost then we're going to hit
+[07:56] save and new all right and that's
+[07:59] because I have another rule in mind for
+[08:00] this shipping method in this new funky
+[08:03] fresh create a pricing rules window that
+[08:06] we have right now we're going to go with
+[08:08] something else and it is if the weight
+[08:10] is greater than so we're going to go
+[08:12] back over here or equal to 100 because
+[08:15] it's another nice number then the
+[08:17] delivery cost will be $100 so our
+[08:20] delivery cost is just going to be
+[08:23] 100 now if we hit save and close over
+[08:27] here as well you'll see something else
+[08:31] I don't have any other rules that I want
+[08:33] to add right now but I can always come
+[08:34] back and create some more later and now
+[08:36] that you see that OD doers we have our
+[08:38] special rules lined up that we have down
+[08:40] here and they're ready to go in the
+[08:42] pricing tab but there's one more thing I
+[08:44] need you all to know about when it comes
+[08:46] to these rules the order and sequence of
+[08:47] the matters that means whatever rule is
+[08:50] first on the list is the rule that ODU
+[08:51] will apply first if the rule doesn't
+[08:53] apply to the customer's order then OD
+[08:55] will apply the next rule on the list and
+[08:57] so on so that in mind I'll switch Swit
+[08:59] the order of these real quick and that's
+[09:01] what I wanted to show you because I
+[09:04] basically want the 100 rule to be at the
+[09:06] top and that's so that ODU can check
+[09:08] whether the product weighs more than a
+[09:10] 100 in that case then if it doesn't ODU
+[09:13] we'll check to see if it weighs over 30
+[09:15] does that make sense good okay now that
+[09:18] we've got all of our rules configured
+[09:20] and in the right order it's time to
+[09:22] publish it so we're going to select
+[09:24] publish again and just like that we're
+[09:26] done now let's see these in action so in
+[09:28] order to do that we're going to navigate
+[09:30] back to the sales dashboard and select
+[09:32] new going to put a random customer in
+[09:34] here as our interior let's say that they
+[09:36] want one of our smaller non-furniture
+[09:38] products such as wood glue once that
+[09:41] we're done with that we're going to hit
+[09:43] confirm on this one perfect awesome now
+[09:46] let's add some shipping cost to the
+[09:48] sales order and we can actually do that
+[09:49] by just hitting add shipping down here
+[09:51] all right now which one do we want to
+[09:53] use in our case we're going to use the
+[09:54] first one we created earlier which is
+[09:57] fixed price and and once we do that
+[09:59] you'll notice that everything populates
+[10:01] the cost field is autogenerated and
+[10:03] everything is ready so we're going to
+[10:04] select add and just like that it's there
+[10:08] not only do we see the appropriate
+[10:10] delivery price added to the sales order
+[10:11] but we'll see the product and
+[10:13] description Fields over here also are
+[10:14] updated just like we wanted but wait a
+[10:17] minute what about free shipping and how
+[10:19] we configure that we can actually see
+[10:20] that in action let's assume that AER
+[10:22] interior fumbled it they made an
+[10:24] accounting error and they won a hundred
+[10:26] of these now you'll notice that they
+[10:28] qualify for free shipping and there was
+[10:30] one more change that happened not only
+[10:33] did the quantity change on here but
+[10:35] you'll notice now it's yellow for the
+[10:37] delivery line as well and the color for
+[10:40] the update shipping also changed so
+[10:42] let's put that and click it over here
+[10:45] now once we do that and we select update
+[10:47] we don't have to do anything there boom
+[10:48] free shipping is done right there now I
+[10:51] want to show you one more thing so let's
+[10:54] go ahead and make another one so I could
+[10:56] show you the rulebase one so we're going
+[10:57] to go back to quotations select new AER
+[11:00] interior again and this time around
+[11:03] let's assume that they want to purchase
+[11:04] one of our heavy products our
+[11:06] four-person desk we're going to select
+[11:08] that perfect now remember in order for
+[11:12] it to work properly we need to make sure
+[11:14] that the product has a weight configured
+[11:15] on the product form so let's go double
+[11:17] check that with the internal link now if
+[11:19] we go over here inside of our inventory
+[11:21] oh no it does not have a weights but
+[11:24] that's not a problem I already know how
+[11:26] much it weighs it weighs about as much
+[11:28] as I bench press with one hand 110
+[11:33] kg for all my non-metric users out there
+[11:36] in our case we're going to use something
+[11:38] else and that is going to be 240 lbs but
+[11:42] we're going to leave at the 110 right
+[11:44] there all right now that we're all ready
+[11:46] to go let's go back over here onto our
+[11:48] sales order so we're going to save that
+[11:50] back onto the new sales order and we're
+[11:52] going to hit add shipping now we're
+[11:55] going to do our rulebase
+[11:56] one and let's see how that goes
+[12:00] and would you look at that this time
+[12:02] around you'll see that since our product
+[12:04] weighs over 100 kilog ODU has correctly
+[12:06] added the delivery price of $100 over
+[12:08] there a hundo for a hundo and that's
+[12:12] perfect there you have it OD dudes and
+[12:14] odets as one of the other experts once
+[12:17] said or Bro Doers that's how you
+[12:19] properly configure delivery prices thank
+[12:22] you have a great
+[12:24] night

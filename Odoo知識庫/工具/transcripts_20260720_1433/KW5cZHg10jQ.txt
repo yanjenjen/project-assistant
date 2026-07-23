@@ -1,0 +1,232 @@
+影片 ID: KW5cZHg10jQ
+來源: https://www.youtube.com/watch?v=KW5cZHg10jQ
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:01] foreign
+[00:05] ERS as we've touched on in previous
+[00:07] videos promotional programs are a great
+[00:08] way to generate Revenue they're simple
+[00:10] effective and if you do them right they
+[00:13] can encourage customers to routinely
+[00:14] come back and buy more products from
+[00:16] your company now here at stealthy wood
+[00:18] one of our most reliable promotions is
+[00:20] our 10 discount when you spend a hundred
+[00:22] dollars or more this charming little
+[00:24] promotion encourages folks to spend at
+[00:26] least 100 with us and not with one of
+[00:29] our competitors
+[00:31] and more money for stealthy means more
+[00:33] Smiles for Jose
+[00:35] anyways in the same vein we offer
+[00:37] coupons for can't miss deals like our 20
+[00:40] discount for example we do this because
+[00:42] we want Shoppers to come back and buy
+[00:44] even more stuff from us down the road
+[00:46] and if they think they'll always get a
+[00:48] good deal at stealthy wood they're going
+[00:49] to be coming back as repeat customers
+[00:52] are you picking up what I'm putting down
+[00:54] of course you are
+[00:56] alrighty now that we have everything in
+[00:59] that Preamble out of the way let's see
+[01:01] how easy it is to create and configure
+[01:02] coupons with odoo sales
+[01:05] all right to do is let's kick things off
+[01:06] here on our sales settings page which
+[01:09] you can find here under configuration
+[01:11] settings boom there we are now go ahead
+[01:14] and scroll down for a little bit now on
+[01:16] this page just like we did for
+[01:18] promotional discounts we'll want to make
+[01:20] sure that the discounts loyalty and gift
+[01:23] card feature is activated right there
+[01:25] you'll need to do that before we can do
+[01:27] anything related to coupons so if you
+[01:30] still need to enable that setting simply
+[01:32] click this little box right there hit
+[01:34] save and then we can move forward
+[01:37] all right once that you have those
+[01:39] settings ready to go it's time for us to
+[01:41] hop in and do one of these so go up here
+[01:44] to products discounts and loyalty so we
+[01:48] have to see how coupons are actually set
+[01:50] up because they are a bit different from
+[01:51] other promotions but don't worry our
+[01:52] doers the entire process is quick and
+[01:54] easy so let's get right into it now to
+[01:57] get started we're going to click new up
+[01:59] here in the top left corner all right
+[02:00] now just as a reminder a coupon is a
+[02:02] type of promotion which a customer must
+[02:04] be in possession of a specific code or a
+[02:07] physical coupon in order to basically
+[02:09] redeem the benefits of a promotion which
+[02:13] it sounds pretty straightforward to be
+[02:14] honest with you but the difference
+[02:16] between coupon codes and promotional
+[02:18] codes might not be as obvious coupon
+[02:20] codes are given to a specific customer
+[02:23] and are usually only valid for one-time
+[02:25] use while promotional codes are shared
+[02:27] with a general public and can be used
+[02:29] basically a multitude of times so be
+[02:32] sure to keep that in mind okay now for
+[02:34] ours let's say we want to create a 20
+[02:36] discount coupon let's give it a
+[02:38] memorable name and change the program
+[02:40] type to coupons so very first thing
+[02:43] we're going to do is coupons Under there
+[02:45] and then a memorable name twenty percent
+[02:48] twenty Ampersand discounts
+[02:52] beautiful very very nice name now let's
+[02:55] take a look at the rules and rewards tab
+[02:57] more specifically at the conditional
+[02:59] rules over here
+[03:01] now inside of here we're going to select
+[03:03] add because right now it's empty and
+[03:06] we're going to have this pop-up right
+[03:07] now now for the rules I actually want to
+[03:09] change the minimum quantity over here to
+[03:11] 2 meaning that this coupon will work on
+[03:13] any order as long as the customer
+[03:14] purchases at least two products since I
+[03:17] don't care how much they spend or what
+[03:19] product they buy to use this coupon we
+[03:21] can actually use everything as it is and
+[03:24] leave it blank however if we wanted to
+[03:26] specify a minimum purchase amount or
+[03:28] ensure this coupon only works for a
+[03:30] specific product product category and or
+[03:33] even tag right here you can actually use
+[03:35] those configurations if you would like
+[03:37] to but in our instance we're good to go
+[03:39] so we're actually going to hit save and
+[03:40] close just like that it updates now
+[03:43] let's hop over to the reward side of
+[03:44] things and make a quick adjustment as
+[03:46] you can see the default discount is 10
+[03:48] but we want this coupon to offer a 20
+[03:51] price break so let's take care of that
+[03:53] right now so we're going to click on
+[03:54] this existing rectangle and you kind of
+[03:57] guessed it all we actually have to do is
+[03:59] change this and we want to leave it on
+[04:01] on order so right now our discount is
+[04:03] going to be 20 on order another pretty
+[04:06] cool thing worth mentioning here is that
+[04:08] the description on order field updates
+[04:10] automatically when you change the
+[04:12] discount amount as well and that's very
+[04:14] cool notice when I type in 40.
+[04:18] 40 right there but we don't want to give
+[04:20] them too much and go bankrupt all right
+[04:22] anyways we'll keep everything else as is
+[04:24] save and close boom bang boom we're done
+[04:27] that's it now it's time to generate the
+[04:30] coupons now to do that all we have to do
+[04:32] is Click
+[04:34] generate coupons in the top left from
+[04:37] right here we can choose to create
+[04:39] coupons for anonymous customers or
+[04:41] selected customers as well if we choose
+[04:43] Anonymous customers we would designate
+[04:45] the number of coupons that we would want
+[04:47] to generate over here under the quantity
+[04:49] to generate field then Oda would create
+[04:51] the number of coupons which I could then
+[04:53] send out to customers at any time but in
+[04:55] our case we're going to select selected
+[04:57] customers
+[05:00] and when I do we got two new Fields one
+[05:02] is customers field where I can enter the
+[05:04] specific customer and also customer tags
+[05:07] if I want to use tags and if I leave
+[05:09] those fields blank it will generate
+[05:10] coupons for every customer in the
+[05:13] database so remember that okay so for
+[05:15] this particular coupon let's enter the
+[05:18] name of our best customer Mitchell admin
+[05:22] it was his birthday recently and I
+[05:23] figured he could use a sweet deal for
+[05:25] his birthday so we're gonna type him in
+[05:29] you go Mitch
+[05:31] and just so you know you can enter as
+[05:33] many customers as you'd like inside of
+[05:35] this field but for this example I think
+[05:36] we'll keep it super ultra exclusive and
+[05:38] just make one coupon for my buddy Mitch
+[05:41] he deserves it now we could also set an
+[05:44] expiration date if you notice down here
+[05:46] where we can select from the calendar
+[05:48] but I'm gonna leave that blank I want to
+[05:49] give him time
+[05:51] and once that we do generate and send
+[05:53] coupons you'll notice something very
+[05:55] cool happens Oda will create our desired
+[05:57] number of coupons and immediately email
+[05:59] it to our selected customers and that's
+[06:01] pretty cool now after we've done that
+[06:03] you'll see that a coupon smart button
+[06:05] has appeared in the top right corner and
+[06:07] if we click that smart button we're
+[06:09] taken directly to where it shows us all
+[06:12] the coupons we've created for this
+[06:13] promotion along with all the pertinent
+[06:15] information related to this one and if
+[06:18] we click into them we can get a closer
+[06:20] look at the coupons information we can
+[06:22] even scroll over here or check on the
+[06:24] right side depending on your resolution
+[06:26] and we can actually see the odoo email
+[06:30] and that's very convenient now let's put
+[06:32] ourselves in the comfy shoes of good old
+[06:34] Mutual admin let's say we got home
+[06:36] checked our inbox and found this awesome
+[06:37] coupon from our homie Jose at that point
+[06:40] all he'd have to do is open up that
+[06:43] email I'm going to show you what that
+[06:45] looks like
+[06:46] so here I am is Mitchell admin and we've
+[06:48] made our way to this stealthy wood
+[06:49] furniture store and we've been eyeing
+[06:52] this large cabinet over here for a while
+[06:55] it's very beautiful it's mysterious and
+[06:57] we like to purchase it but we have to
+[06:59] remember we want to add two of them to
+[07:01] the cart because that's the stipulation
+[07:02] of our coupon and then once that we're
+[07:05] inside of our cart we're going to want
+[07:07] to go over here to this discount code or
+[07:08] gift card section paste it on in there
+[07:12] and look at that
+[07:15] everything has been applied you'll see
+[07:16] we have successfully applied the code
+[07:18] and it's reflected here beneath the
+[07:20] product as well as a discount then all
+[07:24] Mitchy would have to do is proceed
+[07:26] through the whole checkout process and
+[07:27] he'd be good to go now even though we
+[07:29] sent this coupon code directly to our
+[07:31] boy Mitch anyone would be able to use it
+[07:34] you don't need to be signed in as a
+[07:35] specific customer in order to redeem the
+[07:37] coupon so Mitch would be able to give
+[07:39] the coupon away if he wanted to as well
+[07:41] same goes for gift cards as well but
+[07:45] we'll get more into gift cards and
+[07:47] e-wallets in a different video so again
+[07:49] always keep your eye on that and there
+[07:50] you have it outdoers you just learn how
+[07:52] quickly to create and configure coupons
+[07:54] with odoo sales told you it was super
+[07:56] easy but stick around folks because we
+[07:58] have other awesome tutorials to teach
+[08:00] you all about promotions discounts
+[08:02] loyalty programs gift cards e-wallets
+[08:04] and honestly a lot of stuff that I'm
+[08:06] running out of breath I always got you
+[08:08] covered that's all for now though see
+[08:10] you in the next video Party People
+[08:13] foreign

@@ -1,0 +1,157 @@
+影片 ID: LX_kRgiqUj0
+來源: https://www.youtube.com/watch?v=LX_kRgiqUj0
+下載時間: 2026-07-22 10:17
+============================================================
+
+[00:04] Hello doers. My name is Jose Ignasio.
+[00:07] Imagine this. You're a fast growing
+[00:09] furniture company like Stealthywood.
+[00:11] Orders are booming. Customer demand is
+[00:13] at an all-time high. And your warehouse,
+[00:16] well, it's humming. But with so many new
+[00:18] orders coming in, your procurement team
+[00:20] is starting to feel the strain. Keeping
+[00:21] up with the vendors pricing and delivery
+[00:23] timelines, it's becoming a real
+[00:25] challenge. But the growth comes with new
+[00:28] headaches. Multiple vendors with
+[00:30] inconsistent pricing, unclear delivery
+[00:33] times, no standardized way to track who
+[00:36] ordered what, when, and how much. If
+[00:39] your procurement process lives in email,
+[00:41] spreadsheets, and sticky notes, it's
+[00:44] pretty easy to lose control,
+[00:47] and you miss critical lead times or
+[00:49] overpay for products. That's why we use
+[00:51] the OD to purchase app. Let's actually
+[00:53] take a look at how it helps solve these
+[00:56] challenges by managing vendor
+[00:57] relationships and streamlining orders
+[00:59] using requests for quotations or RFQS
+[01:02] for my acronym lovers. So, enough
+[01:03] chithat, let's hop right into ODO. So,
+[01:06] from the purchase app dashboard, we can
+[01:07] see an overview of our RFQS and purchase
+[01:10] orders. So, the larger boxes up at the
+[01:12] top that are colored over here, well,
+[01:14] that's all the RFQS in the database and
+[01:16] their respective status. The smaller
+[01:18] boxes below them are RFQS assigned to
+[01:21] me. Let's not talk about my late ones.
+[01:23] Let's actually create a new RFQ. So, we
+[01:25] are getting ready for a big showroom
+[01:27] launch at Stealthy Wood and we need more
+[01:29] of our top selling teakwood tables.
+[01:31] Clicking new up at the top allows me to
+[01:33] create a new RFQ. So, we've already
+[01:35] talked to our vendor Azer Interior about
+[01:37] the upcoming sale. And all those past
+[01:39] conversations, pricing agreements, and
+[01:40] vendor details are neatly tracked within
+[01:42] ODU, so they know when to expect those
+[01:44] big orders. Let's type them in over here
+[01:47] for our vendor. There we go. Perfect.
+[01:50] So, in the past, we may have had to send
+[01:52] spreadsheets back and forth, compare
+[01:53] prices, and hope that everything arrived
+[01:56] on time. Now, everything is tracked in
+[01:58] one place. I'm going to set our order
+[02:00] deadline for that reason to one week
+[02:02] from today, uh, good old July. Perfect.
+[02:07] We're going to click away. And we're
+[02:09] ready to go. We need this fast. So, on
+[02:11] the products tab that we have right
+[02:13] here, I'm going to add the products. So,
+[02:14] we're going to select the word add a
+[02:16] product and I'm going to select, what
+[02:17] did I say? The teakwood table. And now
+[02:20] you'll notice that the quantity defaults
+[02:21] to one and the unit price is 125 freedom
+[02:25] units or USD. This is a great time to
+[02:28] test OD's vendor rules. We have an
+[02:30] agreement with Azer Interior where if we
+[02:32] order 15 or more of these tables, we get
+[02:34] a nice discount. So when I update the
+[02:37] quantity over here to 15
+[02:41] odo magically, it just happened right
+[02:44] there. The unit price decreases to a 100
+[02:46] bucks each. You can learn more about
+[02:47] vendor price list, including how to set
+[02:49] quantity based pricing and manage
+[02:51] supplier agreements by checking out the
+[02:52] tutorial linked in the description. Now,
+[02:55] in our talks with Azour, they
+[02:57] recommended a new product for a
+[02:58] showroom. This teakwood lamp, we should
+[03:02] order a few with this shipment just to
+[03:04] see what it looks like with a table. So,
+[03:05] we're going to select add a product and
+[03:08] teak wood lamp.
+[03:11] Hold the phone. I just realized that
+[03:14] doesn't exist here. Well, that's no
+[03:16] problem. We're actually going to type
+[03:17] that in and then select create and edit.
+[03:19] Perfect. Now, we can get started on this
+[03:21] nice popup. All right. So, inside of
+[03:23] here, the cost for each of these lamps
+[03:25] is $30. That is all I'm going to need to
+[03:28] update for now because it's the only
+[03:29] thing we care about. Okay. Now, I'm just
+[03:32] going to hit save on that. And boom, it
+[03:33] exists now. Let's take 10 of them. All
+[03:37] right. Perfect. That should be enough to
+[03:40] stock our showroom at least for the
+[03:42] first few days. Now it's time to send
+[03:43] the order to Azor and get these products
+[03:45] shipped to us. So up here, I'm going to
+[03:47] click on send RFQ. Doing so generates a
+[03:50] compose email popup that is very well
+[03:53] timely appeared for me right there. And
+[03:55] it's a nice pre-written email, which is
+[03:57] a nice time save. I can edit the email
+[03:59] if I'd like such as just putting this. I
+[04:04] don't know why. And once that I need to
+[04:06] and everything is done, we can
+[04:08] personalize it, add notes for ourselves,
+[04:10] and then once we're done with
+[04:11] everything, we can get started. All
+[04:13] right. So once it's ready to go, we
+[04:15] select send.
+[04:18] Perfect. Now we could see the record of
+[04:21] the email inside of the chatter over
+[04:23] here. And the status has changed to
+[04:25] RFQent.
+[04:27] As a side note, we also have this print
+[04:29] button over here up at the top. So if
+[04:31] any of our vendors work on an in-person
+[04:33] basis, we can grab a PDF version.
+[04:35] Fortunately for us, we just had to wait
+[04:36] for Azer Interior to approve this RFQ.
+[04:39] So once that the vendor confirms with us
+[04:41] that they can honor our request by the
+[04:43] order deadline, I can click confirm
+[04:46] order. And once that we're done with
+[04:49] that, it is now turned into a purchase
+[04:51] order. So at this point, I have a new
+[04:55] receipt smart button over here up at the
+[04:57] top. Now let's actually click into
+[04:59] there. All right. So, inside of here in
+[05:03] our operations tab, we can actually
+[05:05] confirm that the demand and quantity are
+[05:07] the same. So, that means I can validate
+[05:09] up at the top, which confirms that our
+[05:11] shipment has arrived and our inventory
+[05:13] has been updated. Now, once we do that,
+[05:15] we just have to wait and see if the new
+[05:17] lamp is as popular as the matching
+[05:19] table. There you have it, folks. ODO's
+[05:21] RFQ workflow turns what used to be email
+[05:23] chains and spreadsheets into one
+[05:26] clickable pipeline. request, confirm,
+[05:28] receive, and update inventory in real
+[05:30] time. Thanks for watching. Be sure to
+[05:32] check out our other purchase tutorials
+[05:33] linked below. Until next time, Odoers,
+[05:35] go grab a snack. I have immune lossenes
+[05:40] because I'm getting sick.
+[05:42] [Music]

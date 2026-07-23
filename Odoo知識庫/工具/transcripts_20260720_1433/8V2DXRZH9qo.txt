@@ -1,0 +1,221 @@
+影片 ID: 8V2DXRZH9qo
+來源: https://www.youtube.com/watch?v=8V2DXRZH9qo
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:05] what is up OD doers and welcome back
+[00:08] today we'll explore how to B2B supplier
+[00:10] of industrial equipment uses odu's many
+[00:13] apps to manage their sales pipeline from
+[00:15] lead acquisition to closing deals along
+[00:18] the way we'll see how websites CRM Sales
+[00:21] inventory and accounting work together
+[00:23] to create a super efficient workflow
+[00:25] this is a quick overview so for more
+[00:27] details check out our in-depth video on
+[00:29] the same subject but for now we'll use
+[00:32] odu's webbsite to generate leads with a
+[00:34] customer form ODU CRM to manage those
+[00:37] leads through the pipeline Odo sales to
+[00:39] turn quotes into sales orders Odo
+[00:42] inventory to keep tabs on all of our
+[00:44] machines and stock levels and Odo
+[00:46] accounting to handle invoicing so let's
+[00:49] mosey over to our database and see how
+[00:51] all this works in action shall we for
+[00:54] this use case we're going to look at a
+[00:56] company that specializes in selling
+[00:57] factoring Machinery to other businesses
+[01:00] for companies like this a traditional
+[01:02] e-commerce platform typically isn't a
+[01:03] great fit unlike b2c retailers they
+[01:06] don't offer a direct online checkout
+[01:08] process instead businesses often
+[01:11] showcase their Machinery on a dedicated
+[01:13] product page and then rely on customized
+[01:15] forms for clients to formally send
+[01:17] requests for quotations as seen
+[01:20] here that's just a common way B2B
+[01:23] companies generate leads for their sales
+[01:24] department and ODU makes that entire
+[01:27] process super easy if we click edit here
+[01:30] in the top right corner this opens our
+[01:32] code free website configurator we cover
+[01:35] in other tutorials how to customize a
+[01:37] form like this so on the web page we're
+[01:39] just going to click the submit
+[01:42] button and then Odo will pull up the
+[01:45] customize column for that specific
+[01:47] button and if we scroll down to the form
+[01:50] section we're going to be able to see
+[01:53] that the action is set to create an
+[01:55] opportunity which means that every
+[01:57] submission will automatically generate
+[01:59] an opportunity in our CRM
+[02:01] app we can also assign leads to a
+[02:04] specific sales team or even a specific
+[02:07] sales
+[02:08] person there are numerous ways to
+[02:11] personalize forms like this so be sure
+[02:13] to check out our other tutorials and
+[02:15] documentation to learn more but once
+[02:17] you're done customizing everything make
+[02:19] sure to click save here before moving on
+[02:21] to lock in all of your
+[02:25] adjustments now let's see how buying
+[02:27] Equipment Works from a customer
+[02:28] perspective I'll act like a potential
+[02:31] customer who's interested in buying five
+[02:32] machines for their business with these
+[02:35] other fields we have your name phone
+[02:37] number email as well as your company all
+[02:40] this is pre-filled with my information
+[02:43] but we're going to start off by typing
+[02:44] in the subject line here saying looking
+[02:46] to purchase five
+[02:55] machines and following that in the
+[02:57] question field we're just going to type
+[03:00] how much would this
+[03:06] cost then we'll just click
+[03:08] submit and that's all I need to do as a
+[03:12] customer now we'll navigate to our CRM
+[03:17] app and then at the top of the page
+[03:19] we're just going to click
+[03:20] leads then we'll just scroll to the
+[03:22] bottom find our new
+[03:25] opportunity and now let's say we called
+[03:27] our customer and they're definitely
+[03:29] interested in C cling a deal in fact
+[03:31] they may even want more than five
+[03:33] machines in that case we're going to
+[03:35] sign this opportunity the highest
+[03:37] priority by clicking the third star here
+[03:39] in the priority field and then we're
+[03:41] going to click the convert to
+[03:42] opportunity
+[03:43] button now from this resulting popup
+[03:46] we'll set the conversion action to
+[03:47] convert to opportunity and then we're
+[03:50] going to sign this to our best
+[03:51] salesperson
+[03:54] Jerry and then in the customer area here
+[03:57] we're just going to C create a new
+[03:59] customer
+[04:00] and then I'll click create
+[04:05] opportunity we usually sell our machines
+[04:08] for
+[04:09] $3,000 and since he's looking to
+[04:11] purchase five we're going to update our
+[04:12] expected Revenue to
+[04:18] 15,000 now let's click on the new
+[04:20] quotation button on the opportunity form
+[04:22] to put a quick quote together to send to
+[04:24] our
+[04:27] customer and this is using our fully
+[04:30] integrated sales application and from
+[04:32] this point all we have to do is add five
+[04:34] factoring machines to our ordered lines
+[04:43] Tab and thanks to the integration with
+[04:45] the inventory application we can see
+[04:48] that we have enough stock on hand to
+[04:50] fulfill this
+[04:51] order next if we click into the quote
+[04:53] Builder
+[04:55] tab we're going to select the about us
+[04:58] header as well as the fact machine
+[05:00] product documents so our customer can
+[05:03] learn even more about our machine then
+[05:05] we'll just scroll up click Send by
+[05:11] email and here we can edit the email
+[05:14] that will be sent but it looks good to
+[05:16] me so I'm just going to click Send to
+[05:17] shoot this off to our
+[05:23] customer great now if we scroll
+[05:28] down we can see the email and quote that
+[05:31] we sent to our customer and if we click
+[05:32] into the PDF here in the chatter we can
+[05:35] see the entire documents that we
+[05:38] sent and from here we have our product
+[05:42] documentation as well as the quote
+[05:44] itself
+[05:47] perfect so if we go back to the
+[05:49] opportunity via the
+[05:52] breadcrumbs we can move this into the
+[05:54] proposition stage since we know they're
+[05:57] qualified vetted and we just sent them a
+[05:59] quote as a
+[06:02] proposal now we don't want this
+[06:04] important opportunity to fall off our
+[06:05] radar so let's schedule an activity for
+[06:07] our salesperson help them stay attentive
+[06:09] to our customer we're just going to
+[06:10] scroll down and click on the activities
+[06:12] button here and in the activity type
+[06:15] field we're just going to select
+[06:17] follow-up quote and then in the summary
+[06:20] we're going to type in see if they want
+[06:24] to double their order
+[06:29] then we're going to change the due date
+[06:33] here we'll set it due for this coming
+[06:37] Monday and then we're going to assign
+[06:39] this to
+[06:41] Jerry then we're just going to click
+[06:46] schedule now let's say Jerry reached out
+[06:49] to the client and they do want to double
+[06:50] their order sweet amazing job Jerry so
+[06:54] all we're going to do is click done here
+[06:55] on this task and leave a note saying
+[06:59] they
+[07:00] are down to
+[07:04] double
+[07:07] woohoo and then click
+[07:10] done in this case we're just going to go
+[07:13] back to the expected Revenue field and
+[07:14] let's update this to
+[07:18] 30 and then we're going to click the
+[07:20] quotation smart button here at the top
+[07:23] and then update this to a quantity of 10
+[07:26] of our Factory machine
+[07:30] now let's say the customer just reached
+[07:32] out to confirm the quote awesome in that
+[07:34] case we're just going to click confirm
+[07:36] which turns this quote into a sales
+[07:38] order and then we also have a delivery
+[07:40] smart button that appears linking this
+[07:43] order to a task in our inventory to make
+[07:45] sure someone in our warehouse delivers
+[07:47] the items to the customer so we're going
+[07:49] to click the delivery button and since
+[07:52] our warehouse guy told us that he
+[07:54] already delivered the products we're
+[07:55] just going to click
+[07:58] validate then all use the sales order 70
+[08:01] breadcrumb to get back to the sales
+[08:03] order and now we have a delivered column
+[08:07] that confirms that we've delivered 10 of
+[08:09] what he ordered now we can create and
+[08:12] send an invoice through the integrated
+[08:14] accounting application so all we have to
+[08:16] do is Click create invoice followed by
+[08:20] create
+[08:24] draft now let's say they confirmed the
+[08:27] invoice so we'll just click confirm here
+[08:31] and they're ready to pay so we'll click
+[08:33] pay and then we'll click create
+[08:37] payment doing so brandishes an in
+[08:39] payment Banner here on the right of the
+[08:41] invoice and if we head back to the
+[08:43] opportunity via the breadcrumbs here at
+[08:45] the top we can now click the one button
+[08:49] and then ODU will then congratulate Us
+[08:51] by foreclosing the
+[08:52] deal and there you have it oders you
+[08:55] just saw how a common B2B company can
+[08:57] use odu's integrated website CRM Sales
+[09:00] inventory and accounting applications to
+[09:02] manage their sales pipeline quickly and
+[09:04] efficiently all with one software pretty
+[09:06] convenient right thanks for watching
+[09:09] hope you learned a lot and I'll see you
+[09:10] in the next video
+[09:12] [Music]

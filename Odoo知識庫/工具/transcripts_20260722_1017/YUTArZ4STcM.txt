@@ -1,0 +1,168 @@
+影片 ID: YUTArZ4STcM
+來源: https://www.youtube.com/watch?v=YUTArZ4STcM
+下載時間: 2026-07-22 10:17
+============================================================
+
+[00:06] hello OD doers and welcome back like all
+[00:08] businesses stealthy wood likes to spend
+[00:10] as efficiently as possible when
+[00:12] purchasing goods and services from our
+[00:14] vendors that's why we take advantage of
+[00:16] odu's alternative RFQ feature
+[00:18] alternative rfqs in ODU help us select
+[00:21] the cheapest and fastest vendors in the
+[00:23] market by sending out a wide range of
+[00:24] offers alternative rfqs can be used by
+[00:28] organizations in the public sector to
+[00:30] create calls for tenders these
+[00:31] organizations use calls for tenders to
+[00:33] find the best purchase options since
+[00:35] they're often legally bound when making
+[00:37] a purchased however private companies
+[00:40] also strive to achieve competitive
+[00:41] offers and that's why they also like to
+[00:43] use this way of purchasing with
+[00:45] alternative rfqs we invite multiple
+[00:47] vendors to submit offers for similar
+[00:49] goods or services all at once when we've
+[00:52] received all the offers we can pick the
+[00:53] one that works best for us minimizing
+[00:56] cost and increasing profitability in the
+[00:58] most efficient manner sounds great right
+[01:00] let's hop into our database and see how
+[01:02] this all works in odo's purchase app
+[01:05] first things first we need to make sure
+[01:06] our database settings are configured
+[01:08] correctly so we can create alternative
+[01:10] rfqs from the purchase app dashboard
+[01:12] we'll click on configuration then down
+[01:14] to settings and we want to make sure
+[01:16] purchase agreements and purchase
+[01:18] alternatives are enabled and saved great
+[01:22] we're all set okay now with everything
+[01:24] set up let's create a new RFQ to do that
+[01:27] we'll click on orders and then down to
+[01:29] request for quotation and then select
+[01:32] new for the vendor we'll go ahead and
+[01:34] use our most trusted supplier which will
+[01:36] be wood
+[01:39] Corner then we'll add some products to
+[01:41] the product lines down here and we'll
+[01:43] click add product and add some acoustic
+[01:45] block screens for the quantity of 10 and
+[01:49] let's also add some office
+[01:51] chairs for the quantity of
+[01:56] 20 okay so you'll notice each of these
+[01:59] products has a unit price based on the
+[02:02] information from the individual product
+[02:03] forms let's also see when these products
+[02:06] are expected to be delivered to do that
+[02:08] we'll click on the additional sliders
+[02:10] option right here and we'll tick on the
+[02:13] expected arrivals option and voila we've
+[02:16] got our expected delivery dates based on
+[02:19] the lead times found on the product form
+[02:22] now we're ready to send this quotation
+[02:23] and see if these rates from our vendor
+[02:25] still hold today for that we'll click
+[02:27] Send by email
+[02:31] and then
+[02:35] send now we also see this changes the
+[02:38] status to RFQ sent now this is where the
+[02:42] fund begins let's click on the
+[02:43] Alternatives Tab and this is where I can
+[02:46] directly create alternatives to this RFQ
+[02:48] to send to other
+[02:49] vendors as well as keep track of any
+[02:52] alternative rfqs I have out currently so
+[02:55] let's click on create an
+[02:57] alternative and when I create that that
+[03:00] alternative this popup appears and from
+[03:02] here we'll choose another vendor which
+[03:04] will be Azure
+[03:06] interior and we'll also untick the copy
+[03:09] products option
+[03:11] here selecting the copy products option
+[03:14] would copy all the products from this
+[03:15] original RFQ to our alternative RFQ but
+[03:19] we want to add manually all the products
+[03:21] for this one next we'll click on create
+[03:24] Alternatives and add what we need to
+[03:27] Azure interior which will just be 10
+[03:29] acous block
+[03:35] screens and once again we'll select send
+[03:38] by
+[03:43] email and then
+[03:48] send now when we click into the
+[03:50] Alternatives tab we see the current
+[03:53] alternative RFQ we just made as well as
+[03:56] the original RFQ for wood Corner below
+[03:59] it
+[04:00] now while I'm waiting for an answer from
+[04:02] my vendors why don't I reach out to
+[04:03] Gemini furniture and see if they have a
+[04:05] deal for those office chairs to do that
+[04:08] we'll stay on this page and simply just
+[04:10] click new in the upper left corner of
+[04:12] the
+[04:14] dashboard and on this new RFQ we'll
+[04:16] choose Gemini
+[04:19] furniture and we'll also add those
+[04:21] office chairs again for the quantity of
+[04:24] 20
+[04:31] one last time we'll click on send by
+[04:35] email and then select
+[04:40] send now when we click into the
+[04:42] Alternatives
+[04:43] tab the first thing you'll notice is
+[04:46] there are no Alternatives listed here
+[04:48] that's because we haven't linked this
+[04:49] RFQ to the others yet but if we click on
+[04:51] the link to existing RFQ to gather all
+[04:55] the offers that these products from
+[04:56] different vendors in one place and
+[04:58] compare them all we have to do is Select
+[05:00] our two most recent rfqs and then select
+[05:06] select now that all the rfqs are linked
+[05:09] we're able to see all the offers on one
+[05:11] screen for the variety of products we're
+[05:13] looking for now let's click compare
+[05:19] products and this takes me to a page
+[05:21] with all the information we sent out and
+[05:23] got back from our other vendors this is
+[05:25] where we can select the best vendors for
+[05:27] our needs and to help make things easier
+[05:29] for me Odo is automatically highlighted
+[05:31] in green the fastest expected arrival
+[05:34] date the cheapest unit and the cheapest
+[05:37] total cost for me in the respective
+[05:38] columns for these products we want to
+[05:41] choose the cheapest and the fastest
+[05:42] options so let's go ahead and choose
+[05:45] Gemini
+[05:46] furnature as well as Azure
+[05:51] interior then we can go ahead and
+[05:53] navigate back to our request for
+[05:55] quotations via the
+[05:57] breadcrumbs and Azure interior here
+[05:59] offered us the best price for acoustic
+[06:01] block screens so let's click on that
+[06:07] RFQ and now it's time to click on
+[06:09] confirm
+[06:11] order and now a popup asks us if we want
+[06:14] to keep or cancel our Alternatives in
+[06:17] this case we'll click on cancel Al
+[06:19] Alternatives because this is the only
+[06:20] RFQ we need and there we go we just sent
+[06:24] a purchase order to Azure interior here
+[06:27] we see the other rfqs
+[06:30] have been cancelled all that's left now
+[06:32] to do is wait for our vendor to deliver
+[06:34] our products and that's it for this
+[06:36] video we learned that obtaining the best
+[06:38] prices from multiple vendors is easy
+[06:40] with the Odo purchase app to learn more
+[06:42] I encourage you to check out some of our
+[06:44] other awesome purchase tutorials thanks
+[06:46] for watching and I'll see you next time
+[06:47] o doers

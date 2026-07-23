@@ -1,0 +1,282 @@
+影片 ID: SIvlo2JFU_U
+來源: https://www.youtube.com/watch?v=SIvlo2JFU_U
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:05] hello doers my name is Jose Osio today
+[00:08] we're going to be talking about standard
+[00:09] quotations which while they are
+[00:11] informative they kind of lack a certain
+[00:13] personality that most companies such as
+[00:15] stealthy wood work hard to obtain and
+[00:18] it's that personality style and
+[00:20] attention to detail that often sets us
+[00:21] apart from the rest of the pack nowadays
+[00:24] customers expect everything about the
+[00:25] shopping experience to be customized
+[00:27] specifically for them while also being
+[00:29] VIs ually appealing and that's where
+[00:31] odu's PDF quote Builder comes into play
+[00:34] with odu's PDF quote Builder companies
+[00:36] can create stunning quotations that are
+[00:38] customized for each customer specific
+[00:39] Order each quotation includes the
+[00:41] standard order line section like we're
+[00:43] supposed to be seeing and we're also
+[00:45] used to that after all it's literally
+[00:48] the most important thing so don't forget
+[00:50] that however depending on what's added
+[00:52] to the quote the PDF can also include
+[00:55] other relevant and customizable sections
+[00:57] like unique product specifications about
+[01:00] us Cross or upso product offerings and
+[01:03] more like all dressed up pretty nicely
+[01:07] so enough chat let's jump into our
+[01:08] database to see how all of this
+[01:10] works so starting off on our sales app
+[01:13] dashboard let's go to configuration and
+[01:15] settings I want you to scroll down over
+[01:17] here until you reach the quotations and
+[01:19] orders section and I want you to enable
+[01:22] the PDF quote Builder by selecting that
+[01:24] little check box right there after you
+[01:26] do that make sure you hit save in the
+[01:27] top left and let's get to it so with
+[01:30] this locked in we're going to actually
+[01:32] want to take a look at the headers and
+[01:33] Footers page which we could access by
+[01:35] clicking this link that we have right
+[01:37] there but we're going to go ahead and
+[01:39] assume that you want another way so
+[01:41] let's go up to configuration and then
+[01:43] you might have guessed it we're going to
+[01:44] go to headers and Footers okay so here
+[01:47] you're going to find all the dynamic PDF
+[01:49] components that have been created and
+[01:51] uploaded to the database as you can see
+[01:53] we already have a few three to be exact
+[01:55] but we still need to get a quality
+[01:57] header updated and uploaded over here to
+[02:00] ODU which is exactly what we're going to
+[02:02] do today so the process goes like this
+[02:05] you're going to create a custom PDF with
+[02:07] all the information and images you want
+[02:09] to share with your customers with the
+[02:10] help of a thirdparty PDF Builder like
+[02:13] Adobe today I'm going to be using a free
+[02:16] free open-source PDF Builder known as
+[02:20] scribus scribus depending on how you
+[02:22] want to say that okay so once the PDF is
+[02:25] created with the dynamic attributes
+[02:27] embedded and of course complete with all
+[02:29] of those IC catching elements that
+[02:30] capture the client's attention don't
+[02:32] forget those you can upload it to the
+[02:34] back end of the sales application on
+[02:36] this page actually specifically with
+[02:37] this upload button right there so the
+[02:40] header section is the first thing that
+[02:42] the customer Sees at the top of the
+[02:44] larger compil PDF document so we want to
+[02:47] include all the information that's
+[02:48] relevant to their specific order and
+[02:50] present it nicely you can do this in two
+[02:53] parts by using Dynamic attributes in the
+[02:55] PDF program that update the text
+[02:57] automatically based on the information
+[02:59] OD gives it and then for the second part
+[03:03] by using a design program like Adobe
+[03:06] canva Ms paint I don't know to
+[03:09] incorporate any images or stylings we'd
+[03:11] like to include to uplift the overall
+[03:14] presentation so for that we actually
+[03:16] need to go ahead and hop on over to our
+[03:18] application so I'll see you there so
+[03:21] here we're inside of the software and
+[03:23] right away you're going to notice that
+[03:25] there are some boxes that we have all
+[03:27] over the place
+[03:29] so here we are inside of our PDF and
+[03:31] you're going to notice right away there
+[03:33] are some boxes everywhere all over the
+[03:35] place those boxes represent our Dynamic
+[03:37] text Fields let's say I want to add a
+[03:39] validity date field to our PDF quote no
+[03:43] problemo for that I'm going to click on
+[03:45] the PDF text field icon which happens to
+[03:47] be this little newspaper one that looks
+[03:49] like it's right next to this dot we're
+[03:51] going to click somewhere on the page and
+[03:53] immediately you'll notice we have this
+[03:54] nice little red box that's opened up so
+[03:58] we're going to drag it around to decide
+[03:59] the size that we want and once that it's
+[04:01] perfect and done we're going to now
+[04:03] double click it once we do that we have
+[04:05] this popup box that's giv us a lot of
+[04:07] other information very first thing where
+[04:10] I can do right now is customize the
+[04:12] dynamic text name in our case this one
+[04:15] we're going to change it to I'm going to
+[04:17] pick validity date and you're going to
+[04:20] see why in a second make sure that I
+[04:22] type that proper okay and while I'm here
+[04:25] and while you're here there's a lot of
+[04:27] other things that you can customize
+[04:28] inside of this pop up let's just keep
+[04:30] our focus on the important elements for
+[04:32] this video so I'm going to select okay
+[04:34] so that we can move on great now just so
+[04:36] you know we do it in lowercase with
+[04:39] underscore so it mirrors the technical
+[04:41] name value inside of ODU if you're
+[04:43] actually curious what a technical name
+[04:45] for specific field is inside of ODU
+[04:47] there's a super easy way to find out so
+[04:50] once you're inside of ODU you must be in
+[04:52] developer mode then once that you are in
+[04:55] developer mode you navigate to orders
+[04:58] quotations and in our case select a
+[05:00] sales order so while in developer mode
+[05:03] all you have to do is hover the cursor
+[05:05] over the question mark beside your
+[05:07] desired field and in the popup over that
+[05:11] appears the technical name can be found
+[05:13] in the second row titled field in this
+[05:17] case you can see that the technical name
+[05:18] for the expiration field is validity
+[05:21] date and that's pretty cool right okay
+[05:24] so now back over here back on our PDF
+[05:27] header inside of progress that we're
+[05:29] making
+[05:30] let's just say that we've successfully
+[05:31] configured all the necessary PDF text
+[05:34] fields that we wanted and we're ready
+[05:35] for the next step well awesome now we
+[05:38] need to make sure that the mapping
+[05:39] between the text field and the dynamic
+[05:41] field are set up correctly in ODU so
+[05:43] first we're actually going to go up to
+[05:46] file and then what you want to do from
+[05:48] here is Select export and then that
+[05:51] brings us to a new menu now inside of
+[05:53] here you want to select save as PDF and
+[05:57] I need you to ignore the errors for now
+[05:59] I know and in this case ignore the
+[06:01] errors and now once that we're finally
+[06:03] done select save
+[06:06] great now we can head back over to ODU
+[06:10] so I'll see you there so here we are
+[06:12] back inside of our ODU database and I
+[06:14] happen to be in the configurations and
+[06:16] header Sloter section so once uploaded
+[06:20] by selecting upload over here to our
+[06:22] header PDF it's going to appear
+[06:24] immediately over here in the same list
+[06:26] so we're actually going to open it by
+[06:27] selecting it once and we're to select
+[06:30] the configure Dynamic Fields option
+[06:32] right there now the form field name
+[06:34] column over here represents the PDF text
+[06:36] field that we added to the document with
+[06:38] our PDF Builder the path field over here
+[06:41] represents the technical name for the
+[06:42] desired field inside of ODU and looking
+[06:44] at our latest validity date one that we
+[06:46] have well it matches the correct path in
+[06:49] ODU meaning ODU is able to automatically
+[06:51] recognize it and form its own path
+[06:53] without any manual intervention saves us
+[06:55] a lot of time you're also going to
+[06:57] notice there's a funny one we have
+[06:58] partner I ID name over here but we have
+[07:01] partner id. name over here with a period
+[07:05] and that's because in the PDF Builder
+[07:06] that we used it didn't allow the use of
+[07:08] periods in the field name but if you get
+[07:10] close enough and you compensate with
+[07:11] underscores that we have over here ODU
+[07:14] is able to offer the closest suggestion
+[07:16] which in this case is perfect and if we
+[07:19] jump back to our PDF form using the
+[07:21] breadcrumbs which today is pretzels it's
+[07:23] the bread we're going to come over here
+[07:25] to this page where there's a lot of
+[07:26] useful fields of information we can see
+[07:29] the doc document type appear here is
+[07:30] displayed along with our file name and
+[07:33] we can even add this to quotation
+[07:35] templates if we'd like right below that
+[07:37] that way whenever we use those
+[07:38] configured templates inside of a
+[07:40] quotation we're going to have this PDF
+[07:42] option available on the quotation form
+[07:44] so let's select the very first one that
+[07:47] we have right there you can also
+[07:49] designate this and I'm sure you can see
+[07:51] to be to a specific company if you're
+[07:53] working in a multi-company environment
+[07:55] this might be something that you like if
+[07:56] you leave it blank it's going to apply
+[07:58] to all companies in the data base we can
+[08:00] also see immediately we have our form
+[08:02] Fields included here which if you recall
+[08:05] were in the list of dynamic fields we
+[08:07] just saw a moment ago along with the
+[08:09] History Section as well you know when
+[08:12] who created this when but once we're
+[08:15] done with looking at all of this I'm
+[08:16] going to save this manually all right
+[08:18] everything looked good let's see this
+[08:20] sucker in action so to do that we're
+[08:22] going to go to orders quotations select
+[08:26] new and let's get started I'm going to
+[08:29] bother Abigail I'm feeling like the
+[08:31] letter A today we're going to select our
+[08:34] office furniture as the quotation
+[08:36] template because I just talked about
+[08:38] that one as
+[08:39] well okay there we go now this got
+[08:42] started right there okay next let's jump
+[08:45] into the quote Builder tab here that we
+[08:47] have let me go right there okay look at
+[08:51] that here you're going to find all the
+[08:52] PDF headers and Footers we've created we
+[08:55] can decide which of them to include in
+[08:56] this specific PDF quote so let's click
+[08:58] on our new created header and then we're
+[09:02] going to select our about us as well
+[09:04] because Abigail is a new customer who
+[09:06] might be curious about our company then
+[09:08] we're going to go with in our case
+[09:10] testimonials and we're going to bypass
+[09:12] the terms and conditions because no one
+[09:13] reads them all right perfect then with
+[09:16] all our selections and configurations
+[09:18] complete it's time to send this
+[09:19] quotation to the customer for their
+[09:21] review and approval so we're going to
+[09:22] select send by email going to let that
+[09:26] cook for a second because it's making a
+[09:28] beautiful PD PF slail for us and while
+[09:31] that flies over to Abigail's inbox once
+[09:34] that we hit
+[09:35] send we can actually take a look at the
+[09:37] PDF quote just to see that just by
+[09:39] taking a quick peek and what do you co
+[09:42] doers in there everything we've been
+[09:45] cooking this whole time there is our
+[09:47] validity date as well right where we
+[09:49] wanted it to along with the custom sales
+[09:51] order number the customer's name oh my
+[09:54] God we have everything and so much more
+[09:57] and there's a lot of cool things but oh
+[10:00] we even have our quotation right there
+[10:01] of course it's there and there you have
+[10:03] it oders you just saw how easy it is to
+[10:05] create and customize and use odu's PDF
+[10:07] quot Builder please stay tuned for more
+[10:09] ODU sales tutorials coming your way you
+[10:12] I'm sure you can't wait to see what I'm
+[10:13] cooking grab a
+[10:15] snack zaps Chips please sponsor me

@@ -1,0 +1,123 @@
+影片 ID: KI78WxaAJg8
+來源: https://www.youtube.com/watch?v=KI78WxaAJg8
+下載時間: 2026-07-22 10:17
+============================================================
+
+[00:05] Hello doers. My name is Jose Ignacio.
+[00:07] Today we are learning how to use Odoo's
+[00:09] electronic data interchange. EDI for my
+[00:12] acronym lovers. I might suggest you use
+[00:14] it. This is a feature that streamlines
+[00:16] the import of purchase orders from one
+[00:18] Odoo database to another converting it
+[00:20] into a sales order.
+[00:22] So electronic data interchange enables
+[00:24] businesses to exchange documents such as
+[00:27] purchases and sales orders in a
+[00:29] structured standardized format improving
+[00:32] efficiency and accuracy. In Odoo you can
+[00:35] export a purchase order as an XML file
+[00:37] from the buyer's database and import it
+[00:39] as a sales order into the seller's Odoo
+[00:41] database. Since the process does not
+[00:44] require manual data entry, we are
+[00:45] significantly reducing the risk of
+[00:47] errors. I don't know about you, but I
+[00:49] love any process that means less work
+[00:51] for me. So enough chit-chat, let's get
+[00:53] started.
+[00:54] So there are two roles in this process,
+[00:57] the buyer and the seller. We are going
+[00:59] to start off in the buyer database where
+[01:02] we actually have the purchase app all
+[01:03] set and ready to go. Now I'm going to
+[01:06] click new
+[01:07] so as to create a new RFQ. So I want
+[01:10] this to go to our favorite vendor, Joel
+[01:11] Williams. So we're going to get started
+[01:13] with that. Well, Joel Willis.
+[01:15] Okay, so down here I'm going to add some
+[01:18] products. We're going to get started
+[01:19] right now.
+[01:20] Going to do our acoustic block screens.
+[01:23] Feel like I use that one a lot. I'm
+[01:24] going to do a couple of these just to
+[01:26] get us some big old numbers, so I'm
+[01:27] going to up the quantity. I also want to
+[01:30] order some chairs. Office chairs. How
+[01:33] many should we do? Well, we're going to
+[01:35] keep it in line. We're going to do 10 of
+[01:36] those. Okay, so now up next I'm going to
+[01:39] confirm this order which converts this
+[01:41] RFQ into a purchase order as we can tell
+[01:43] now by the name and also purchase order.
+[01:46] So now let's switch to the seller's
+[01:48] perspective. I actually have an overview
+[01:50] of Joel's login over here to show you
+[01:52] how he receives and processes the order.
+[01:54] So Joel has portal access to our
+[01:56] database. So this is what he sees when
+[01:59] he logs in. Right now we are only
+[02:01] concerned about the our orders little
+[02:03] area right here in the center. So let's
+[02:05] click it.
+[02:06] Okay, so this is where Joel can see all
+[02:09] of the purchase orders that we have sent
+[02:10] him. And here actually happens to be the
+[02:13] one that we just created today.
+[02:15] So let's check it out. All right.
+[02:17] Everything looks correct right here. We
+[02:19] have the items listed here and as you
+[02:20] can tell we have 10 of each, both the
+[02:22] acoustic block screens and the office
+[02:24] chair. So now Joel needs to upload these
+[02:27] to his own Odoo database so that he can
+[02:29] fulfill this order. Right over well,
+[02:32] actually right over here on the left
+[02:33] side, which happens to be with the
+[02:35] connect with your software button. So
+[02:38] when we click that here is a pop-up
+[02:40] telling me how I can upload the data
+[02:41] into Odoo including how I can drag and
+[02:43] drop a PDF. That is also good to know.
+[02:46] But I want to use the XML. So I just
+[02:49] need to actually copy this URL up here
+[02:51] and then paste it in a new tab. And as
+[02:54] soon as I do that, it automatically
+[02:56] downloads the XML file. We just have one
+[02:59] less tab now.
+[03:00] All right, so I'll address the elephant
+[03:02] in the room. Joel is an incredibly cool
+[03:04] person. Joel happens to use dark mode.
+[03:06] If you don't know how to do that, over
+[03:07] here in the top right corner. Okay, so
+[03:09] Joel just needs to upload this purchase
+[03:11] order information into the sales app
+[03:13] right here. So let's go into our sales
+[03:16] application and we're going to select
+[03:18] upload in the top left. We're going to
+[03:20] select that file that we had just
+[03:22] downloaded recently.
+[03:24] And would you look at that? Just like
+[03:27] that, I happen to have a brand new sales
+[03:28] order. And we can also notice that we
+[03:31] happen to have everything already
+[03:33] imported such as the customer field is
+[03:36] automatically updated as well and it
+[03:38] tells us it's Stealthy Wood. As did the
+[03:41] product information as well below. And
+[03:44] we see everything over here including
+[03:46] the XML file in our chatter. And that is
+[03:48] the exact file that this information
+[03:50] came from which is great for
+[03:51] traceability. Now, as far as actually
+[03:53] fulfilling this order, uh I'm going to
+[03:55] leave that step to Joel. We don't want
+[03:56] to step on his toes. I can't do
+[03:58] everything for him. And there you have
+[03:59] it, a sales order is automatically
+[04:00] created with the buyer, product lines,
+[04:02] prices, and quantities already filled
+[04:04] in, saving time and ensuring accuracy.
+[04:07] Thank you for watching, Odooers.
+[04:09] Go grab a snack.

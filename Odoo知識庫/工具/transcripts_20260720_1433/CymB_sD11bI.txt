@@ -1,0 +1,274 @@
+影片 ID: CymB_sD11bI
+來源: https://www.youtube.com/watch?v=CymB_sD11bI
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:04] hey there oo doers my name is Jose
+[00:06] ignasio let's actually get right into it
+[00:09] how do you keep someone loyal with a
+[00:11] discount loyalty program of course we
+[00:14] love our customers here at stealthy wood
+[00:16] and we want them to feel rewarded for
+[00:17] shopping with us in the form of loyalty
+[00:20] points this way they get a little extra
+[00:22] something something every purchase that
+[00:24] they can then cash in on later while we
+[00:27] keep that Revenue stream a flowing ODU
+[00:30] sales app makes everything easy with a
+[00:32] discount in loyalty feature where I can
+[00:34] set up different types of programs that
+[00:36] encourage customers to keep shopping
+[00:37] with us with deals too good to refuse so
+[00:41] enough chitchat let's dive into our
+[00:43] database to see how easy it is to work
+[00:44] with discounts and loyalty programs
+[00:46] using Odo sales so we're getting started
+[00:49] on the sales dashboard where we have a
+[00:51] quick view of all active quotations and
+[00:53] sales orders at stealthy wood so from
+[00:56] here let's select configuration and then
+[00:58] settings over there perfect we've been
+[01:00] here before so we're working on loyalty
+[01:02] programs today so we want to make sure
+[01:04] that the check box happens to be there
+[01:06] over here next to Promotions loyalty and
+[01:08] gift card make sure it's checked off
+[01:10] like you see there then once it is you
+[01:12] hit
+[01:13] save so it's stealthy wood we reward our
+[01:16] amazing return customers with a loyalty
+[01:18] card that lets them accumulate points
+[01:20] from their purchases those points can
+[01:22] then be turned into discounts on future
+[01:24] orders I also think the Loyalty program
+[01:27] itself is a great way to encourage
+[01:28] customers to buy specific products for
+[01:31] special points they get their reward and
+[01:34] then we get to move inventory specific
+[01:37] inventory in fact off of our shelves
+[01:39] it's feeding two birds with one scone
+[01:42] and that is the real saying so to get
+[01:44] started let's head into our products
+[01:46] menu up at the top and then once again
+[01:48] we're going to select discount and
+[01:50] loyalty perfect so from here we're going
+[01:53] to click into the line for stealthy
+[01:55] points I just talked about them so here
+[01:58] is the program page where we conf figure
+[02:00] everything in the program type field
+[02:02] that we have up at the Top This one is
+[02:04] important we have the set to Loyalty
+[02:05] cards and look Odo also lets us know
+[02:09] what this program type does inside of
+[02:10] the text right below it so when
+[02:13] customers make an order they accumulate
+[02:14] points they can exchange for rewards on
+[02:16] the current order or a future one we
+[02:18] even give you a tldr right there so for
+[02:21] now this is just for our customers in
+[02:23] the United States so we have the
+[02:25] currency set to USD as you could tell if
+[02:27] you'd like to you can also change that
+[02:30] so over here we also have a points unit
+[02:32] field we can choose a custom name for
+[02:34] the points that our customers accumulate
+[02:36] maybe if it was Jose agasio it's brother
+[02:38] points snack points because we want our
+[02:40] customers to be wealthy over here we're
+[02:42] going to call them
+[02:44] stealthy and that's a very good
+[02:48] joke anyways let's focus on the rules
+[02:50] and rewards tab that we have down below
+[02:52] and we got to check out some of these
+[02:53] conditional rules so if I actually click
+[02:56] into conditional rules the rectangle
+[02:58] itself right there
+[03:00] would you look at that we can see the
+[03:02] conditions that must be met in order for
+[03:03] a customer's purchase to earn loyalty
+[03:06] points so under the conditions section
+[03:08] that we have right here in the top left
+[03:10] we have the minimum quantity set to one
+[03:13] and the minimum purchase amount as well
+[03:15] is set to zero meaning that any purchase
+[03:18] qualifies a customer to earn points with
+[03:19] our loyalty program regardless of how
+[03:21] much they spend for any loyalty program
+[03:24] however the customer must have an
+[03:25] account with us in order to collect
+[03:27] loyalty points this makes it easy to
+[03:30] track who our loyal customers are and
+[03:31] how many points they've earned over time
+[03:34] kind of important so they can either
+[03:36] make an account themselves on our
+[03:38] website or one of our salespeople can
+[03:40] add them as a contact and ODU either way
+[03:42] they're going to need that if they want
+[03:43] to participate in our loyalty program be
+[03:46] sure to keep that in mind should also be
+[03:48] noted that if a customer is logged in
+[03:50] and they happen to make a qualifying
+[03:52] purchase or if a sales person confirms a
+[03:54] sales order for a qualifying purchase in
+[03:56] ODU then ODU automatically adds them to
+[03:59] the loyalty program and tracks their
+[04:01] points that is far too convenient am I
+[04:04] right
+[04:07] now as mentioned earlier there's a great
+[04:10] opportunity here to push some product
+[04:12] and incentivize customers to purchase
+[04:13] them with special points so how do we do
+[04:16] that well first of all we click X we get
+[04:18] out of here we don't delete this and now
+[04:21] we're going to exit this existing
+[04:22] conditional rules box we're going to
+[04:24] open up a new one by selecting add over
+[04:26] here okay perfect so I'm going to keep
+[04:29] everything the same as our standard
+[04:31] conditional rules that I just showed you
+[04:32] earlier
+[04:33] except for the products one we're going
+[04:37] to change that some stuff over here now
+[04:39] if I'm looking around what I need to
+[04:41] move is our acoustic block screens are
+[04:43] super popular we do not have well
+[04:47] actually we don't have many of them in
+[04:48] stock I'm sorry to say that and I'd like
+[04:50] to incentivize my customers to order
+[04:52] more so we're going to click into the
+[04:55] products field and we're going to start
+[04:57] typing in there we go acoustic block
+[05:00] screens we're actually going to add both
+[05:02] variants so once again and go right in
+[05:05] there we got the white one now we got
+[05:07] the other wood one perfect I could also
+[05:10] set specific categories if I would like
+[05:13] to and product tags but for now let's
+[05:15] keep the focus on our acoustic block
+[05:17] screens so over here inside of the point
+[05:19] section we can choose how many points we
+[05:21] are granting and whether these points
+[05:23] are awarded per order per dollar amount
+[05:25] spent or per unit paid over there make
+[05:29] this extra special for my loyal
+[05:32] customers over here I'm going to change
+[05:34] this to
+[05:36] 4.2
+[05:38] 420 stealthy points right there and
+[05:41] since there's nothing else I need to
+[05:42] configure here we're done so all I have
+[05:45] to do is Select save and close and
+[05:47] beautiful it's added right there
+[05:49] automagically let's move over to our
+[05:51] rewards card over here into this
+[05:53] existing one okay so here we have the
+[05:56] option to give away a free product or a
+[05:59] discount if we would like and that's
+[06:01] also kind of
+[06:02] nice but we're going to keep our set to
+[06:05] discount so you could do that right
+[06:07] there as a toggle by the way hopefully
+[06:09] it didn't disappear there we go just in
+[06:11] case I'm going to reopen it real quick
+[06:13] perfect so we're going to keep it at
+[06:15] discount and set the discount field as
+[06:17] well instead to 10% because I'm feeling
+[06:20] generous we're doubling it up so we also
+[06:22] have the options on whether to apply
+[06:23] this discount to the customer's total
+[06:25] order the cheapest product or specific
+[06:29] products as well which we can click on
+[06:31] and if we do that it allows us to then
+[06:33] select the targeted products for the
+[06:35] discount field as well if we would like
+[06:37] to but for now let's apply this to order
+[06:42] makes it easier anyways and let's make
+[06:44] it so that this discount reward cost my
+[06:46] customers we're going to make this one
+[06:48] cost 100 points
+[06:51] perfect makes it easy so in the
+[06:54] description over here we have as you may
+[06:56] have guessed the description of the
+[06:57] reward on the order which is fully
+[06:59] customizable let's add a special message
+[07:01] to our
+[07:02] customers thanks for being a brother to
+[07:07] us nope little bit too crazy there a
+[07:12] stealthy
+[07:13] wood do you get it I hope you did
+[07:18] anyways we also have the option to add a
+[07:19] Max discount which caps the order amount
+[07:22] so that it doesn't bankrupt us and
+[07:25] that's how much the max that they can
+[07:26] take off and Order and in our case I
+[07:28] don't want anything too crazy so I'm
+[07:30] going to still leave this as 10,000
+[07:33] everything looks good here so let's go
+[07:34] ahead and
+[07:36] save beautiful we're all done right
+[07:39] there but you'll notice up here we have
+[07:41] a smart button it's the Loyalty cards
+[07:44] which shows us that we already have a
+[07:45] stealthy water using our loyalty program
+[07:48] and if we click that Loyalty cards
+[07:49] button over there we'll see a separate
+[07:52] page that shows customers with the
+[07:53] stealthy wood points cards over here as
+[07:55] well as how many points they have on it
+[07:57] it looks like in our case Deco addict
+[08:00] has an obscene amount of points wow I
+[08:04] did not expect that but I think it's
+[08:08] time for us to see this in action so
+[08:10] let's not be an enabler but I heard that
+[08:12] my customer Deco addict is itching for
+[08:14] some new acoustic block screens to get a
+[08:17] new order going I think it's time for us
+[08:18] to go show this so to get a new order
+[08:21] going we're going to select orders in
+[08:23] the top left and then quotations and
+[08:25] we're going to select new right there so
+[08:28] inside of our customer field we're going
+[08:29] to select Deco addict and we're going to
+[08:31] start typing while Things fill out so
+[08:34] great now we're going to head down over
+[08:35] to our product lines and select out a
+[08:37] product I happen to know that they want
+[08:39] those acoustic block screens and then we
+[08:41] got this nice kind of cool prompt over
+[08:43] here so we're going to select our wood
+[08:46] ever so amazing block screens and the
+[08:48] quantity is three for these and then
+[08:50] confirm that out perfect we're all done
+[08:53] now once that we have these three
+[08:54] puppies to our order we want to add Deco
+[08:56] addict hard-earned loyalty discount and
+[08:59] to do that that well all we have to do
+[09:00] is Select reward down here in the bottom
+[09:02] right and would you look at that ODU
+[09:04] automatically loads the percentage
+[09:05] discount under a new product line that
+[09:08] was so easy now we just have to select
+[09:10] send by email up in the top left and
+[09:13] once that we got our nice little PRP we
+[09:14] just hit send and boom Deco addict
+[09:17] quotation is ready with their stealthy
+[09:19] points in tow now just was one last
+[09:22] thing actually if we were curious as to
+[09:24] how many points our customer has all we
+[09:26] actually have to do is hover their name
+[09:28] select the interal lnk over here and
+[09:30] then the loyalty card smart button up at
+[09:32] the top and would you look at that here
+[09:34] we go look at that we see all of their
+[09:37] special page with all of their points
+[09:39] and it looks like Deco addict is still
+[09:42] incredibly wealthy and stealthy points
+[09:44] and there you have it oders now you know
+[09:46] how to create and use loyalty programs
+[09:48] inside of ODU so that you can keep your
+[09:50] customers happy and coming back for more
+[09:53] I'm going to go look up Furniture
+[09:55] interventions to help Deco addict out
+[09:58] but I'm going to catch you in the next
+[09:59] video go grab a snack today is Tim's
+[10:02] potato chips sponsor me

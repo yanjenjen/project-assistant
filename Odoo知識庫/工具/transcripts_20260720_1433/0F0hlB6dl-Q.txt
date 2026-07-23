@@ -1,0 +1,193 @@
+影片 ID: 0F0hlB6dl-Q
+來源: https://www.youtube.com/watch?v=0F0hlB6dl-Q
+下載時間: 2026-07-20 14:34
+============================================================
+
+[00:05] What's up odoers and welcome back.
+[00:07] Commissions are a powerful tool for
+[00:09] motivating and incentivizing a sales
+[00:11] team. They incentivize performance,
+[00:13] boost productivity, and encourage
+[00:15] healthy competition. But commissions can
+[00:18] be difficult to track, especially with a
+[00:19] growing sales team where we have
+[00:20] different commission structures. Since
+[00:23] different sales team have varying
+[00:24] expectations, handle different levels of
+[00:26] customers, and maybe even manage
+[00:28] different products, we often have to
+[00:30] track multiple commission structures all
+[00:32] at the same time. Here at Stealthy Wood,
+[00:34] we're implementing a new commission plan
+[00:36] that calculates each salesperson's
+[00:38] commission quarterly. I'm extremely
+[00:41] excited to see sales go up, and I'm sure
+[00:42] the sales team is excited for their
+[00:44] reward. So, let's get started. All
+[00:47] right, we're getting started here in our
+[00:49] sales app. Let's make sure sales
+[00:51] commissions are enabled by heading to
+[00:52] configuration followed by settings. And
+[00:55] we're just going to scroll all the way
+[00:57] down to our invoicing section and just
+[00:59] tick this checkbox next to commissions.
+[01:01] And then we'll click save before moving
+[01:05] on. After we save, a new commissions
+[01:08] button is available here at our top
+[01:10] menu. Today we're going to cover how to
+[01:13] set up commission plans and what they
+[01:15] look like for the team on the
+[01:17] commissions dashboard. So, let's click
+[01:19] into commissions and click on commission
+[01:22] plans. And here we see a list of all the
+[01:24] commission plans set up in my company
+[01:26] and a quick overview of their
+[01:28] configurations. We'll click new in the
+[01:30] top left
+[01:31] corner. And here in the commission plan
+[01:34] configuration form under commission
+[01:36] plan, we're going to name this
+[01:39] 2025
+[01:42] quarterly. And by default, a new
+[01:44] commission plan is based on achievements
+[01:47] per salesperson. This means that
+[01:50] commissions are based on a flat
+[01:51] percentage of the value of a
+[01:53] salesperson's
+[01:54] invoices. Let's base this commission
+[01:56] plan on
+[02:00] targets. This means that commissions are
+[02:02] awarded based on the percentage of the
+[02:04] target each salesperson hits. This opens
+[02:07] up a new field where we can also set the
+[02:10] ontarget commission.
+[02:12] This is the dollar amount that each
+[02:13] salesperson will receive if they hit
+[02:15] their target. So, let's click into this
+[02:17] field and change this from 1,00 to
+[02:22] 2,000. Now, the effective period here on
+[02:25] the right specifies the commission plan
+[02:27] start and end dates, determining the
+[02:29] allegible period for paid invoices.
+[02:32] Given that we're doing this for
+[02:33] quarterly commissions throughout all of
+[02:35] 2025, we'll maintain these start and end
+[02:39] dates.
+[02:40] This is a quarterly commission plan, so
+[02:42] we'll keep this target frequency field
+[02:44] set to quarterly. But for other plans,
+[02:47] we do also have monthly and yearly, but
+[02:50] we're going to keep this on quarterly,
+[02:52] like I
+[02:53] mentioned. So, to set our invoicing
+[02:56] targets, we'll click on this targets tab
+[02:58] right
+[02:59] here. Since we set the target frequency
+[03:02] to quarterly, the periods here have been
+[03:04] autopop populated. Here we can click
+[03:07] into each target field to set the amount
+[03:09] to
+[03:19] $10,000. Just like
+[03:21] so. This is the goal I expect each
+[03:24] salesperson to aim for each quarter. We
+[03:27] can grant commissions based on the
+[03:28] performance of an individual salesperson
+[03:30] or on the overall performance of an
+[03:32] entire sales team depending what's
+[03:34] selected here at the top
+[03:36] half. If we change this to team
+[03:40] performance, these are typically used
+[03:42] for sales managers commissions and that
+[03:44] would mean that my bonus is dependent on
+[03:46] the entire team achieving their goals.
+[03:48] However, for this plan, we're focused on
+[03:50] individual salespeople. So, I'm going to
+[03:52] change this
+[03:54] back. Moving on, here in the
+[03:56] achievements tab, we'll set how we
+[03:59] calculate the target for this plan. Here
+[04:02] we have a few different options for
+[04:03] calculating targets.
+[04:05] Like we have quantity sold, we have
+[04:09] margin, but I want to calculate the
+[04:11] target based off of the amount invoiced.
+[04:13] So, I'm going to click on amount
+[04:15] invoiced. Next, we'll click on the rate
+[04:18] percentage here on the right, and we're
+[04:20] going to change this to 100%.
+[04:23] This means that we're using the entire
+[04:25] dollar amount of the invoice to
+[04:27] calculate commission targets. Now, to
+[04:30] assign commission to our salespeople,
+[04:32] we'll just click salespeople here on the
+[04:34] right, and we'll click add new
+[04:38] salesperson. And we're going to select
+[04:40] our newest account manager,
+[04:43] Mindy. Of course, we can go back and add
+[04:45] multiple sales people to this plan, but
+[04:47] for now, we're just going to focus on
+[04:49] Mindy. Now, in the from column right
+[04:52] here, this lets us know the first
+[04:53] invoice they sent that falls within the
+[04:56] commission plan's effective period.
+[04:58] Since this plan is only going to
+[04:59] calculate commissions up to the end of
+[05:01] the year, we can leave this two column
+[05:03] blank. Otherwise, we can set the end
+[05:06] days for the individual salespeople in
+[05:07] case they need specific dates that are
+[05:09] different from the
+[05:11] plan. Here in the other plans column,
+[05:13] this lets us know the other commission
+[05:15] plans that each salesperson is a part
+[05:17] of. And if we quickly add, for example,
+[05:19] Mitchell admin here, it looks like he's
+[05:23] assigned to the manager achievement
+[05:24] plan. As a manager, we want him to focus
+[05:27] on motivating the team and hitting their
+[05:29] goals instead of participating in this
+[05:31] plan. So, I'm just going to click the
+[05:32] trash icon on this
+[05:34] line. Lastly, let's set tiers in this
+[05:37] commission tab.
+[05:41] Examining the target completion field
+[05:43] right here, as well as the commission
+[05:45] field, we see that each salesperson
+[05:47] earning 100% of their commission will
+[05:50] receive
+[05:51] $2,000. I think that's some great
+[05:53] commission, but let's add a few extras
+[05:55] tiers. We'll click in the commission
+[05:57] column for 50% here, and we're going to
+[05:59] update this to 500.
+[06:03] That means if the person hits 50% of
+[06:06] their target, they'll be given $500 in
+[06:10] commission, of course. Not bad. But what
+[06:12] if we want to motivate sales people to
+[06:14] go above and beyond their target? Let's
+[06:16] add a couple more percentage points to
+[06:17] sweeten this deal. I'll just click add a
+[06:20] new commission level. And here I'm going
+[06:22] to type in
+[06:25] 150%. And in the commission field right
+[06:28] here to the right of it, we're going to
+[06:29] update this to 3500.
+[06:32] And let's also add another one for
+[06:36] 200%. And we're going to update this to
+[06:42] $4,000. Here in the graph, we have a
+[06:45] visual representation of our commission
+[06:47] plan. We can see that it's a bit of a
+[06:49] curve with a slow start and it gets
+[06:52] steeper after the 50 to 100% mark.
+[06:56] So, we're going to click approve here in
+[06:58] the top left corner to begin calculating
+[07:01] commissions to edit this later or add
+[07:04] more salespeople. We can use this reset
+[07:06] to draft button. Once the commission
+[07:09] plan is approved, it calculates
+[07:11] commissions for the assigned salespeople
+[07:12] based on confirmed invoices. And there
+[07:15] you have it, odoers. Stay tuned for more
+[07:17] tutorials on our brand new sales
+[07:19] commission feature. And of course, catch
+[07:21] you in the next video.

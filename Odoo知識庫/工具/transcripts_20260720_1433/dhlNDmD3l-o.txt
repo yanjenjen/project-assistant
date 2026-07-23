@@ -1,0 +1,178 @@
+影片 ID: dhlNDmD3l-o
+來源: https://www.youtube.com/watch?v=dhlNDmD3l-o
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:04] welcome back o doers my name is Jose
+[00:06] Osio today we're going to learn how to
+[00:08] use product documents to enhance the
+[00:10] shopping experience for all of our
+[00:11] customers with ODU sales you can upload
+[00:14] customized informative documents and
+[00:16] attach them to your products and decide
+[00:18] how and when customers can see them
+[00:20] these documents can be eye-catching ways
+[00:22] to inform curious customers about every
+[00:24] detail related to a product to ensure
+[00:26] they know exactly what they're getting
+[00:28] into before making a purchase not only
+[00:30] is this a great way to establish trust
+[00:32] with your clients but it's a visually
+[00:34] stunning educative way to set yourself
+[00:36] apart from your competitor so enough
+[00:39] chiad let's hop right into our database
+[00:41] and see what this is all about all
+[00:43] righty so let's kick things off on our
+[00:44] sales dashboard so from here let's
+[00:46] select new in the top leftand Corner
+[00:48] over here because we're going to create
+[00:49] a new quotation for a customer who
+[00:51] happen to just express interest in our
+[00:53] acoustic block screens so we're going to
+[00:55] add Anita Oliver to our customer we're
+[00:57] going to make our way to the product
+[00:59] lines over here and what did I just say
+[01:01] we're adding our acoustic block screens
+[01:03] but they're actually extra special in
+[01:06] fact they're fairly unique enough that I
+[01:07] want to ensure that our customers are
+[01:09] aware of all of the available options
+[01:11] and specifications they can choose from
+[01:13] that's why we're going to add a PDF
+[01:15] document to this product so that our
+[01:16] customers can view an organized
+[01:17] collection of every detail related to
+[01:19] this specific item so how do we do that
+[01:21] well we'll need to jump over to the
+[01:23] product form by selecting our internal
+[01:25] link Arrow right here when we selected
+[01:27] the words acoustic block screens now
+[01:29] here we're in the product form and we're
+[01:31] going to select documents in the top
+[01:33] middle and now we're taken to the
+[01:34] documents page for this specific product
+[01:36] where we're going to find all of the
+[01:38] necessary documents and anything that
+[01:40] we've uploaded for it and as you can see
+[01:42] right now I have not uploaded anything
+[01:44] for it so let's actually change that so
+[01:47] if somebody was to upload something
+[01:48] we're going to select new for our
+[01:50] example we'll be taken to a blank
+[01:51] product document form here we can
+[01:53] configure a handful of fields in
+[01:55] addition to uploading a custom PDF
+[01:57] detailing the desired specifications of
+[01:59] our product so we'd first have to choose
+[02:01] a type and remember if you're ever
+[02:03] confused by anything here you can also
+[02:04] hover these little question marks now we
+[02:07] have the options to select a file or a
+[02:10] URL now if we selected a file we'd
+[02:13] upload a document and if we select a URL
+[02:15] we enter the URL of a pre-existing
+[02:17] product document whichever type is
+[02:19] chosen we'd also have the option to
+[02:21] configure Dynamic fields for which we
+[02:23] covered this in our PDF quote Builder
+[02:26] tutorial so be sure to check that out to
+[02:28] learn more cuz I'm not going to check
+[02:30] that out right now so up next we decide
+[02:32] where this document would be visible to
+[02:34] the customer where we have this sales
+[02:36] option I'm going to start with this we
+[02:38] could keep it hidden or we could have it
+[02:40] appear on quote on confirmed order and
+[02:43] inside quote
+[02:45] PDF and lastly we have another option we
+[02:47] have this little check box down here and
+[02:50] this is for Ecommerce and it says
+[02:51] publish on website so ticking the box
+[02:53] would provide customers with a clickable
+[02:55] PDF link to the product document for
+[02:57] them to view directly from the online
+[02:58] store provide Ving them with all of the
+[03:01] information they need before they buy
+[03:03] something that way they can't blame you
+[03:05] but let's actually discard this using
+[03:07] the X to return over to our documents
+[03:09] page before us what if I told you that
+[03:12] there's an even quicker way to upload a
+[03:13] document well actually all we have to do
+[03:16] is select the word upload over there
+[03:18] I've already created a specific document
+[03:20] for our acoustic block screens in a
+[03:21] separate PDF Builder so I'm ready to
+[03:24] upload it so as you just saw we select
+[03:26] it now and look at that ODU instantly
+[03:28] creates a cand card for the document and
+[03:30] I could choose its visibility and
+[03:32] whether I'd like to publish it on the
+[03:33] website or not which we're going to see
+[03:36] and talk about in a moment so for this
+[03:38] sample I'm going to select inside quote
+[03:40] PDF using the drop down right there if
+[03:42] you can't see it on my screen you're
+[03:44] going to see it on yours when you do it
+[03:45] it happens to be OS specific then we're
+[03:47] also going to toggle publish on website
+[03:49] so now let's jump back to the quotation
+[03:51] we created in the beginning via the
+[03:53] breadcrumb link so we're going to select
+[03:54] new right there and there we are so from
+[03:57] here let's open up the quote Builder tab
+[03:59] and we're going to find our product
+[04:01] specific documents waiting for us right
+[04:02] here so along with the header and the
+[04:06] about us PDFs let's also select our
+[04:08] acoustic block screens one we're going
+[04:10] to add that all to our quote then we're
+[04:11] going to Simply select send by email and
+[04:15] while ODU prepares this I wanted to talk
+[04:17] to you about today's sponsor it's me
+[04:19] Jose Osio all right we're ready so we
+[04:22] just saw how everything was built we
+[04:24] just saw it in the PDF quote Builders
+[04:25] video before as well a copy that message
+[04:29] and also so a PDF will appear in the
+[04:31] chatter once that we select send so
+[04:33] check this out now give this a little
+[04:35] second today and look at that both
+[04:38] copies are right there and when we click
+[04:40] on that PDF to preview it right there
+[04:42] you're going to see that header that we
+[04:44] saw previously followed by our newly
+[04:47] added product form and look at that the
+[04:50] acoustic block screens are right there
+[04:52] ah and Isn't that cool but let's get out
+[04:54] of there okay back on the quotation
+[04:56] we're going to click back right now to
+[04:58] go over to the order lines Tab and we're
+[05:00] going to return to the product page for
+[05:02] acoustic block screens via the internal
+[05:04] link just I need to check one last thing
+[05:07] so remember how we chose to publish this
+[05:09] document on the website via the toggle
+[05:10] switch well if we happen to select the
+[05:12] green goto website option over here
+[05:14] we're going to see its product forms and
+[05:16] what do you see right there I noticed a
+[05:18] link that allows me to download the
+[05:20] product document right there so when
+[05:22] clicked Odo automatically downloads the
+[05:24] PDF for our Shoppers so that they can
+[05:26] take their time to review every option
+[05:28] in detail before they make it decision
+[05:30] helping them make the best and honestly
+[05:32] the most informative shopping experience
+[05:35] possible that's not too shabby right and
+[05:37] there you have it OD doers you just
+[05:38] learned how to create configure upload
+[05:40] and utilize product documents with the
+[05:42] ODU sales application sorry about that
+[05:46] small o dupsy I just realized we're at
+[05:47] the end so remember that's all for this
+[05:50] video but stay tuned for more sales
+[05:51] related awesomeness see you soon party
+[05:53] people remember go grab a snack bananas
+[05:55] today I'm healthier

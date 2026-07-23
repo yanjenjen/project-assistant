@@ -1,0 +1,489 @@
+openapi: 3.0.3
+
+info:
+  title: 建大 ERP 介接 API（API#1–#6）
+  version: 3.0.0
+  description: |
+    本規格對應《DOC-05 API / 介接規格書 v3.0》**第 4 章「建大 ERP 介接 API 規格」**。
+    定義艾創點平台（Odoo）與建大工業 ERP（鼎新 TipTop）之間的 6 支 API。
+
+servers:
+  - url: http://{host}:8200
+    description: Mock 測試環境（艾創點測試機，容器 kenda-mock-erp，主機 port 8201）
+    variables:
+      host:
+        default: localhost
+        description: 測試機 IP
+
+tags:
+  - name: erp
+    description: 建大ERP資料交換
+
+security:
+  - ApiKeyAuth: []
+
+paths:
+  /erp/v1/bonus:
+    post:
+      tags:
+        - erp
+      operationId: syncMonthlyBonus
+      summary: 獎金發佈
+      description: |
+          經銷商獎金拋轉。
+          Odoo 暫存至 `kenda.bonus` 後提供前台查詢。
+
+          **觸發時機：** 建大 ERP 結算後呼叫 API，定期同步獎金資料。
+      parameters:
+        - $ref: '#/components/parameters/XSignature'
+      requestBody:
+         description: 奬金明細
+         required: true
+         content:
+           application/json:
+            schema:
+              allOf:
+                - $ref: '#/components/schemas/MonthlyData'
+                - type: object
+                  properties:
+                    bonus:
+                      type: array
+                      items:
+                        $ref: '#/components/schemas/DealerBonus'
+      responses:
+        '200':
+          description: 查詢成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/OdooEnvelope'
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '403': { $ref: '#/components/responses/Forbidden' }
+
+  /erp/v1/reconciliation/invoices:
+    post:
+      tags:
+        - erp
+      operationId: syncMonthlyInvoices
+      summary: 對帳資訊-發票
+      description: |
+          發票資訊拋轉。
+          Odoo 暫存至 `kenda.xxx` 後提供前台查詢。
+
+          **觸發時機：** 建大 ERP 每月結算後呼叫 API。
+      parameters:
+        - $ref: '#/components/parameters/XSignature'
+      requestBody:
+        description: 發票資訊
+        required: true
+        content:
+          application/json:
+            schema:
+              allOf:
+                - $ref: '#/components/schemas/MonthlyData'
+                - type: object
+                  properties:
+                    bonus:
+                      type: array
+                      items:
+                        $ref: '#/components/schemas/SalesInvoice'
+      responses:
+        '200':
+          description: 查詢成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/OdooEnvelope'
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '403': { $ref: '#/components/responses/Forbidden' }
+
+  /erp/v1/reconciliation/allowances:
+    post:
+      tags:
+        - erp
+      operationId: syncAllowances
+      summary: 對帳資訊-折讓金額
+      description: |
+          折讓資訊拋轉。
+          Odoo 暫存至 `kenda.xxx` 後提供前台查詢。
+
+          **觸發時機：** 建大 ERP 每月結算後呼叫 API。
+      parameters:
+        - $ref: '#/components/parameters/XSignature'
+      requestBody:
+        description: 發票資訊
+        required: true
+        content:
+          application/json:
+            schema:
+              allOf:
+                - $ref: '#/components/schemas/MonthlyData'
+                - type: object
+                  properties:
+                    bonus:
+                      type: array
+                      items:
+                        $ref: '#/components/schemas/TireAllowance'
+      responses:
+        '200':
+          description: 查詢成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/OdooEnvelope'
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '403': { $ref: '#/components/responses/Forbidden' }
+
+components:
+  securitySchemes:
+    ApiKeyAuth:
+      type: apiKey
+      in: header
+      name: X-API-Key
+      description: |
+        來源身分識別（必須）。搭配 HMAC-SHA256 簽章與 IP 白名單使用。
+        開發測試用值：`KENDA_DEV_KEY`
+
+  parameters:
+    XSignature:
+      name: X-Signature
+      in: header
+      required: true
+      schema:
+        type: string
+        example: Base64EncodedHmacSha256Here
+      description: |
+        HMAC-SHA256 簽章（建議實作）。
+        `Base64(HMAC-SHA256(簽名素材, 共用密鑰))`
+
+        簽名素材（以 `\n` 串接）：
+        ```
+        {HTTP Method}\n{URL Path}\n{X-Timestamp}\n{Request Body JSON 或 ""}
+        ```
+
+  schemas:
+
+    OdooEnvelope:
+      type: object
+      description: API 回應統一格式
+      required:
+        - success
+        - ts
+      properties:
+        success:
+          type: boolean
+          description: 是否成功
+        data:
+          description: 成功時的回應資料
+          nullable: true
+        error:
+          $ref: '#/components/schemas/OdooError'
+          nullable: true
+        ts:
+          type: string
+          format: date-time
+          description: 回應時間（ISO 8601 UTC）
+          example: '2026-05-31T12:00:01+00:00'
+
+    OdooError:
+      type: object
+      required:
+        - code
+        - message
+      properties:
+        code:
+          type: string
+          description: 錯誤碼
+          enum:
+            - AUTH_INVALID_KEY
+            - AUTH_IP_BLOCKED
+            - CUSTOMER_NOT_FOUND
+            - ORDER_NOT_FOUND
+            - VALIDATION_ERROR
+            - ERP_TIMEOUT
+            - ERP_INTERNAL_ERROR
+            - INTERNAL_ERROR
+          x-enum-descriptions:
+            AUTH_INVALID_KEY: X-API-Key  不正確或缺少 
+            AUTH_IP_BLOCKED: 來源 IP 不在⽩名單 
+            CUSTOMER_NOT_FOUND: 
+            ORDER_NOT_FOUND: 
+            VALIDATION_ERROR: 請求欄位格式錯誤（型別不符、缺少必填等）
+            ERP_TIMEOUT: 
+            ERP_INTERNAL_ERROR: 
+            INTERNAL_ERROR: 服務端未預期錯誤 
+          example: ORDER_NOT_FOUND
+        message:
+          type: string
+          description: 錯誤說明
+          example: 資料不存在
+
+    MonthlyData:
+      type: object
+      description: API#5 獎金查詢結果
+      required:
+        - company_code
+        - bonus
+        - year_month
+      properties:
+        company_code:
+          type: string
+          description: 公司別
+          example: F
+        year_month:
+          type: string
+          description: 年月（格式 YYYYMM）
+          pattern: '^\d{6}$'
+          example: '202606'
+
+    DealerBonus:
+      type: object
+      description: 經銷商獎金資料主體
+      required:
+        - dealer_code
+        - standard_amount
+        - actual_amount
+        - sales_details
+        - total_sales_tax_amount
+        - bonus_amount
+        - invoice
+      properties:
+        dealer_code:
+          type: string
+          maxLength: 6
+          description: 經銷商代號
+          example: "R02019"
+        standard_amount:
+          type: integer
+          format: int64
+          description: 標準額
+          example: 500000
+        actual_amount:
+          type: integer
+          format: int64
+          description: 實際額
+          example: 480000
+        sales_details:
+          type: array
+          description: 分類銷售明細
+          items:
+            $ref: "#/components/schemas/DealerSalesDetailItem"
+        total_sales_tax_amount:
+          type: integer
+          format: int64
+          description: 銷售稅額合計
+          example: 380000
+        bonus_amount:
+          type: integer
+          format: int64
+          description: 獎金
+          example: 12000
+        invoice:
+          $ref: "#/components/schemas/InvoiceInfo"
+        handler_name:
+          type: string
+          maxLength: 20
+          description: 承辦人員
+          example: 謝統宇
+
+    DealerSalesDetailItem:
+      type: object
+      description: 單一分類的銷售額與稅額
+      required:
+        - category_code
+        - category_label
+        - sales_amount
+        - tax_amount
+      properties:
+        category_code:
+          type: string
+          description: 分類代碼(傳代號，下方說明省略，由odoo平台提供多語系對照供維護)
+          example: "bc"
+        category_label:
+          type: string
+          description: 分類中文說明(待討論，與上方代號擇一)
+          example: "B1銷售額"
+        sales_amount:
+          type: integer
+          format: int64
+          description: 銷售額
+          example: 120000
+        tax_amount:
+          type: integer
+          format: int64
+          description: 稅額
+          example: 6000
+
+    InvoiceInfo:
+      type: object
+      description: 發票資訊
+      required:
+        - invoice_date
+        - invoice_number
+        - invoice_discount_amount
+        - invoice_tax_amount
+        - invoice_amount
+      properties:
+        invoice_date:
+          type: string
+          format: date
+          description: 發票日期
+          example: "2023-01-03"
+        invoice_number:
+          type: string
+          maxLength: 10
+          description: 發票號碼
+          example: KH35329466
+        invoice_discount_amount:
+          type: integer
+          format: int64
+          description: 發票折讓金額
+          example: 0
+        invoice_tax_amount:
+          type: integer
+          format: int64
+          description: 發票稅額
+          example: 0
+        invoice_amount:
+          type: integer
+          format: int64
+          description: 發票金額
+          example: 30000
+
+    SalesInvoice:
+      type: object
+      description: 銷貨發票資料
+      required:
+        - dealer_code
+        - delivery_date
+        - uniform_invoice_number
+        - tax_amount
+        - tire_disposal_fee_amount
+        - net_sales_amount
+        - total_amount
+      properties:
+        dealer_code:
+          type: string
+          maxLength: 6
+          description: 經銷商代號
+          example: "R02019"
+        delivery_date:
+          type: string
+          format: data
+          description: 交貨日期(發票日期)
+          example: "2025-06-15"
+        invoice_number:
+          type: string
+          description: 發票號碼
+          example: "AB1234567890"
+        tax_amount:
+          type: number
+          format: double
+          description: 稅額(台幣)
+          example: 1575.50
+        tire_disposal_fee_amount:
+          type: number
+          format: double
+          description: 廢胎處理費用金額
+          example: 300.00
+        net_sales_amount:
+          type: number
+          format: double
+          description: 淨銷貨金額
+          example: 31500.00
+        total_amount:
+          type: number
+          format: double
+          description: >
+            總金額
+            計算公式:total_amount = net_sales_amount + tax_amount + tire_disposal_fee_amount
+          example: 33375.50
+
+    TireAllowance:
+      type: object
+      description: 應收帳款胎別折讓資料
+      required:
+        - dealer_code
+        - allowance_number
+        - allowance_date
+        - tire_allowance_amount
+      properties:
+        dealer_code:
+          type: string
+          maxLength: 6
+          description: 經銷商代號
+          example: "R02019"
+        allowance_number:
+          type: string
+          maxLength: 10
+          description: 折讓單編號
+          example: "B6035512"
+        allowance_date:
+          type: string
+          format: date
+          description: 折讓日期
+          example: "2026-06-15"
+        tire_allowance_amount:
+          type: number
+          format: double
+          description: 胎別折讓金額
+          example: 850.50
+        remark:
+          type: string
+          maxLength: 50
+          nullable: true
+          description: 備註
+          example: "客訴補償折讓"
+
+  responses:
+    ValidationError:
+      description: 請求欄位格式錯誤（型別不符、缺少必填等）
+      content:
+        application/json:
+          schema:
+            allOf:
+              - $ref: '#/components/schemas/OdooEnvelope'
+              - type: object
+                properties:
+                  data:
+                    nullable: true
+                    default: null
+                  error:
+                    $ref: '#/components/schemas/OdooError'
+          example:
+            success: false
+            data: null
+            error:
+              code: VALIDATION_ERROR
+              message: order_qty 必須大於 0
+            ts: '2026-05-31T12:00:01+00:00'
+
+    Unauthorized:
+      description: X-API-Key 不正確或缺少
+      content:
+        application/json:
+          schema:
+            allOf:
+              - $ref: '#/components/schemas/OdooEnvelope'
+          example:
+            success: false
+            data: null
+            error:
+              code: AUTH_INVALID_KEY
+              message: X-API-Key 不正確或缺少
+            ts: '2026-05-31T12:00:01+00:00'
+
+    Forbidden:
+      description: 來源 IP 不在白名單
+      content:
+        application/json:
+          schema:
+            allOf:
+              - $ref: '#/components/schemas/OdooEnvelope'
+          example:
+            success: false
+            data: null
+            error:
+              code: AUTH_IP_BLOCKED
+              message: 來源 IP 不在白名單
+            ts: '2026-05-31T12:00:01+00:00'

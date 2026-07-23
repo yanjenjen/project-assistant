@@ -1,0 +1,226 @@
+影片 ID: qybxkC1tENs
+來源: https://www.youtube.com/watch?v=qybxkC1tENs
+下載時間: 2026-07-22 10:17
+============================================================
+
+[00:04] hello doers and welcome back my name is
+[00:06] Jasio now it's stealthy would we pride
+[00:08] ourselves on our high quality Furniture
+[00:10] products how do we keep those safe well
+[00:12] to keep our products safe in transit
+[00:14] we're going to be using sturdy packaging
+[00:16] and also protective foam inserts so we
+[00:18] actually found a vendor that's offering
+[00:20] an awesome bulk discount on those items
+[00:22] but it's for a year supply of packaging
+[00:25] and let's be real we don't need all of
+[00:27] that at once so introducing blanket
+[00:30] orders these are long-term purchase
+[00:31] agreements with our vendors to receive
+[00:33] products over time instead of one big
+[00:35] shipment so to snag that discount with
+[00:38] the hassle of storing a Year's worth of
+[00:39] packaging which don't get me wrong is
+[00:41] pretty hard we're going to break our
+[00:43] order into three smaller deliveries
+[00:45] we're going to time these with our
+[00:47] busiest periods when customer orders
+[00:48] will tend to Peak so enough chitchat
+[00:51] let's see how we can set up a blanket
+[00:52] order inside of ODU okay so first up
+[00:55] we're actually going to need to enable
+[00:56] the feature by going to the purchase
+[00:58] apps configuration and settings menu
+[01:00] over here so in the order section that
+[01:02] I'm at right there make sure that the
+[01:04] purchase agreements option is ticked off
+[01:06] and if it isn't be sure to tick that
+[01:08] check boox and then hit the save button
+[01:09] in the top left before moving on it's
+[01:11] not going to work if you don't do that
+[01:13] okay now that we're done with that let's
+[01:15] create a blanket purchase order for
+[01:16] plastic packaging material by going to
+[01:19] the order subheading up here at the top
+[01:21] and then select purchase agreements now
+[01:23] we're going to select new and then we
+[01:25] can get started so I want to actually
+[01:27] skip down here to this area this field
+[01:30] that says agreement type make sure that
+[01:32] blanket order selected if you select
+[01:34] purchase template it looks different and
+[01:35] that's how you'll know so blanket order
+[01:38] then after that we're going to go back
+[01:39] up here we need a vendor let's pick
+[01:42] Fantastic Plastic haven't done them
+[01:44] before and then let's move on over here
+[01:46] to the agreement validity field in here
+[01:49] we'll Define when the discounted price
+[01:51] and blanket order is effective so we're
+[01:53] actually going to set the FR field over
+[01:54] here to in our case January 1st
+[01:57] 2024 and observant o doers you've
+[02:01] probably noticed it's not actually
+[02:03] January right now I know that's because
+[02:06] blanket orders usually cover purchases
+[02:08] spanning a length of time you're going
+[02:09] to see in just a moment why I had a time
+[02:11] travel to make this blanket order start
+[02:13] at the beginning of the year so up next
+[02:15] we're going to set the end date and this
+[02:16] time it's going to be at the end of the
+[02:18] year which we're also not at yet perfect
+[02:21] okay we're done with that okay cool now
+[02:23] we're going to add the bulk well
+[02:24] actually the huge bulk order for
+[02:26] stealthy Wood's entire Year's worth of
+[02:27] packaging material inside of our product
+[02:29] section so select out of line and my
+[02:31] very first one in my case is going to be
+[02:33] EPS foam I'm going to need in this case
+[02:36] 30,000 of them and my unit price for
+[02:39] them is
+[02:41] 0.25 okay 25 cents and I'm going to add
+[02:44] the rest of them using
+[02:45] magic okay now that our blanket order is
+[02:48] all filled up with Odo magic think it's
+[02:51] time for us to confirm this over there
+[02:53] and now that the blanket order is fully
+[02:54] complete and confirmed let's split this
+[02:56] bulk order into three so let's click on
+[02:59] on in our case the new quotation button
+[03:01] at the top and a new RFQ is created
+[03:04] using the products and prices we
+[03:05] included in the blanket order here the
+[03:07] only thing we need to do is set a date
+[03:09] that we'd like these items to arrive and
+[03:11] how many we want so since in our case
+[03:14] our highest volume of orders are in
+[03:16] February July and December I'm going to
+[03:18] create three separate rfqs with the
+[03:20] order deadline which we have up here in
+[03:22] the top and our expected arrival date
+[03:25] one month before those busy months so
+[03:27] I'm going to have enough packaging
+[03:28] material to send out all of those orders
+[03:30] in time so for this first RFQ I'm going
+[03:32] to set the order deadline that we have
+[03:34] up here at the top to January 15th 2024
+[03:39] and it apply and then our expected
+[03:42] arrival in this case should be two days
+[03:43] after that because Amazon Prime two-day
+[03:47] shipping something like that okay now
+[03:50] once we do that I'm going to set the
+[03:51] quantities for the products below to in
+[03:54] our case we're going to pick for the
+[03:57] very first one the EPS foam 10,000 which
+[04:00] happens to be a third and then for the
+[04:02] next one if you recall we had a very big
+[04:04] amount of this one so we're going to
+[04:06] pick a th because we had 3,000 and then
+[04:08] for this very last one we're going to
+[04:10] have
+[04:11] 200 respectively those are the thirds
+[04:14] and then once that we're done there
+[04:16] we're going to hit confirm
+[04:17] order and Bing Bang Boom we're done with
+[04:20] that okay so now I need to create two
+[04:22] more rfqs like this and to save you o
+[04:25] doers even more time I'm gonna do it off
+[04:27] screen real quick boom editing magic and
+[04:31] a Time skip so with our rfqs created
+[04:33] having selected our little gear icon and
+[04:36] duplicate and then we updated our order
+[04:38] deadlines we can now move on and that's
+[04:40] how I did it really quickly so I'm
+[04:42] actually going to click on our blanket
+[04:43] orders breadcrumbs to go back over here
+[04:46] and we can actually see that we've used
+[04:48] this to generate our three rfqs up at
+[04:50] the top now so when I select that smart
+[04:52] button over here we see an overview of
+[04:55] all of the rfqs for this blanket order
+[04:57] as you can see at the bottom of the
+[04:58] total column we can actually see how
+[05:00] much that we've actually spent this year
+[05:02] on packaging for the whole year which is
+[05:04] kind of amazing so over here inside of
+[05:06] our status column well I can see whether
+[05:09] the RFQ happens to be in draft mode
+[05:11] happens to be sent or it happens to be a
+[05:13] purchase order and is confirmed in that
+[05:15] type of situation and we can use the
+[05:18] expected arrival dates that we have over
+[05:20] here on our right to keep track of when
+[05:21] the next shipment of products will
+[05:23] arrive then by clicking the blanket
+[05:25] order breadcrumb in our case back over
+[05:28] here we can actually see something cool
+[05:30] our ordered column over here has been
+[05:32] updated where prior it's said zero it
+[05:34] now shows us that onethird of our Year's
+[05:36] packaging has arrived that's because we
+[05:39] hav to confirmed only one of the three
+[05:40] rfqs in the blanket order that appears
+[05:42] to be a problem so now we're going to
+[05:45] have to individually build each purchase
+[05:47] order in the blanket order so I'm going
+[05:49] to click on that rfqs SL ORD smart
+[05:51] button up the top Center again and then
+[05:53] we need to select one of these
+[05:55] unconfirmed ones so let's start with our
+[05:58] very first one okay now I'm going to
+[06:00] speed through our regular Odo purchase
+[06:02] flow since youo doers can get the full
+[06:04] rundown of that in our purchase Basics
+[06:05] video so we're going to click on the
+[06:07] word confirm order over here then
+[06:09] receive products then we validate them
+[06:12] okay next I'm actually going to click on
+[06:14] the breakr to go back to the purchase
+[06:16] order very simple right there then we're
+[06:18] going to select create
+[06:20] bill then confirm that as well and then
+[06:23] oh wait actually I forgot about that one
+[06:25] small o dupsy we need a build date so in
+[06:28] the build date field I'm going to select
+[06:30] today's date and then now when I select
+[06:33] confirm we're good to go see even Jose
+[06:35] makes mistakes I got ahead of myself
+[06:37] going fast so next up I need to complete
+[06:39] the payment to the vendor by clicking on
+[06:41] register payment and then we go through
+[06:44] here and select create the payment oh my
+[06:46] God would you look at that green Banner
+[06:47] right there telling us we have paid
+[06:49] everything and the bill is paid for so
+[06:51] I'm going to click on our rfqs request
+[06:54] for quotations breadcrumbs once again so
+[06:57] back on this page I'm going to click on
+[06:59] our little sliders icon that we have on
+[07:01] the far right right there and we're
+[07:04] going to make our billing status appear
+[07:06] right there which is kind of
+[07:07] useful and would you look at that we
+[07:09] could see our view so up next I'm going
+[07:11] to quickly process the last RFQ and then
+[07:14] we're going to go confirm order receive
+[07:17] products and then we're just going to go
+[07:19] through that so to close a blanket order
+[07:22] we just need all the rfqs to be purchase
+[07:24] orders they do not need to be build yet
+[07:27] so now what ends up happening when I go
+[07:29] back over here to our
+[07:32] box right
+[07:34] there look at that there you have it
+[07:37] odur that's how you can use Odo to place
+[07:39] bll quarters configure several arrival
+[07:41] dates for them and keep track of your
+[07:43] vendor bills all through the purchase
+[07:44] app to learn more be sure to check out
+[07:46] our other videos about purchase
+[07:48] agreements or learn how to reconcile
+[07:50] your payments thank you for watching see
+[07:52] you next time o doers and as you can
+[07:54] tell everything is ordered go grab a
+[07:57] snack

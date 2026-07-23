@@ -1,0 +1,293 @@
+影片 ID: Nk3Ro_2vqP4
+來源: https://www.youtube.com/watch?v=Nk3Ro_2vqP4
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:01] foreign
+[00:05] ERS it's time to talk about one of the
+[00:08] most essential elements of the sales
+[00:09] process invoicing invoices provides us
+[00:13] and our customers with an official
+[00:14] record of a sale they also allow us to
+[00:17] track payments ensure that we get paid
+[00:19] by our customers on time and they
+[00:21] fulfill a bunch of legal and financial
+[00:23] obligations as well that's always nice
+[00:25] now invoicing can be done at different
+[00:27] times using different methods and
+[00:29] depending on the product we're selling
+[00:30] and how we're selling it for example
+[00:32] here at stealthy wood we typically
+[00:34] create an invoice when a sales order is
+[00:36] confirmed before we deliver the product
+[00:38] in odoo this invoicing policy is known
+[00:41] as invoicing based on ordered quantities
+[00:44] because we invoice them right when they
+[00:46] place an order other times we may want
+[00:48] to hold off on invoicing the customer
+[00:50] until after the products have been
+[00:52] delivered this investing policy is known
+[00:54] as invoicing based on delivered
+[00:57] quantities so when we deliver the goods
+[00:59] then we'll deliver the invoice as well
+[01:01] this particular policy is ideal for
+[01:04] businesses that frequently ship large
+[01:05] quantities of goods or typically deal
+[01:08] with discrepancies between their ordered
+[01:10] and delivered quantities for example
+[01:12] let's say a client orders 50 shares from
+[01:14] us but we only have 40 chairs we don't
+[01:16] want to ignore the whole order and just
+[01:18] leave them kind of hanging I guess you
+[01:20] could say in that case standing without
+[01:23] any chairs you know because
+[01:26] it doesn't matter you know see what I
+[01:28] did there but anyways in that scenario
+[01:30] we'd send them all the chairs that we
+[01:31] have now and just fill the rest of the
+[01:34] order later on at that point we'd
+[01:36] invoice the customer based on the number
+[01:37] of products they actually receive
+[01:39] instead of the amount they initially
+[01:40] ordered makes sense right there's also
+[01:43] instances when we prefer to invoice the
+[01:45] customer based on Milestones that our
+[01:47] employees reach as they provide a
+[01:48] service think of it like a video game
+[01:50] whenever our workers complete a level
+[01:52] AKA reaching a milestone the customer
+[01:55] pays them for their efforts and that fun
+[01:57] little pattern keeps going until the
+[01:59] entire project is complete and just like
+[02:01] some video games out there there are
+[02:03] projects and services that can take a
+[02:05] long time to complete with a ton of
+[02:07] steps in that case it makes more sense
+[02:09] for our workers to be paid along the way
+[02:11] instead of waiting until the whole
+[02:12] project is finished just to get
+[02:13] compensated this type of invoicing can
+[02:16] be based on work hours lucky for us ODU
+[02:18] lets us create a bunch of different
+[02:20] invoices for all sorts of occasions so
+[02:22] let's put on our sales shorts and dive
+[02:25] into our database so doers
+[02:27] so as usual we're going to start things
+[02:29] off on our sales settings page which can
+[02:32] be found here by going to configuration
+[02:34] and settings that'll take you to the
+[02:36] same page now once we're here let's
+[02:38] scroll down over here to the invoicing
+[02:40] section now first off we see that the
+[02:42] invoicing policy setting which can
+[02:44] actually be set to invoices what is
+[02:46] order and invoice what is delivered like
+[02:50] I was talking about in the introduction
+[02:52] now this particular setting will decide
+[02:54] what Odo uses as the default invoicing
+[02:56] policy for all newly created products it
+[02:59] won't change the invoicing policy on any
+[03:01] pre-configured products however so
+[03:04] always make sure to not worry about that
+[03:06] and even though this will be the default
+[03:09] invoicing policy that shows up when
+[03:11] creating a new product that doesn't mean
+[03:13] it's set in stone you can change the
+[03:15] policy directly on the product form to
+[03:17] suit your needs at any time regardless
+[03:19] of what we choose right here onto this
+[03:21] page but for this video I'm going to
+[03:24] select invoice what is ordered which is
+[03:26] already selected and you'll notice that
+[03:28] there is an essential new setting over
+[03:30] here you'll notice that there is
+[03:32] automatic invoice over here to the right
+[03:34] side when we enable this setting as well
+[03:36] once that it's checked off it allows us
+[03:38] to do something special Odo
+[03:40] automatically generates an invoice the
+[03:42] moment a payment is confirmed through
+[03:44] our online store or by Saving you time
+[03:45] and on that note I'm going to make an
+[03:48] additional one odoo does not
+[03:50] automatically send the invoice to the
+[03:52] customer because they've already paid
+[03:54] for their order but that said we could
+[03:56] still choose to send it manually if we
+[03:58] wanted it's always nice to have options
+[04:00] right alrighty last part in this section
+[04:02] we have a down payment setting below but
+[04:05] we don't need to stress about that right
+[04:06] I talk more about down payments in
+[04:08] another video so be sure to check that
+[04:10] out when you get the chance okay so now
+[04:12] that we got our settings in order let's
+[04:14] go on up here let's hit save always save
+[04:16] odoers and get down to the nitty gritty
+[04:19] about invoicing policies
+[04:21] all right in order to move on we'll need
+[04:23] to navigate to our products page so head
+[04:25] on up to the top and hit products
+[04:26] Naturally products now from inside of
+[04:29] here we're going to select new up here
+[04:31] in the top left because we're going to
+[04:32] make a new product all right now we need
+[04:35] a title as always
+[04:37] so let's go through the motions of
+[04:39] creating a product so that I could just
+[04:41] show you how to properly configure
+[04:42] different invoicing policies now back to
+[04:45] that title we need something that I'll
+[04:47] be keeping in my warehouse like a
+[04:50] leather chair for example so we're going
+[04:51] to name this leather office chair
+[04:54] because I'm very clever
+[04:56] all right and our product type again is
+[04:58] I just said it's a storable product so
+[05:00] we'll select storable product underneath
+[05:02] the product type perfect and you can
+[05:04] already see it below it we have
+[05:06] invoicing policy and again you'll notice
+[05:09] that we have the option to choose
+[05:11] between ordered quantities and delivered
+[05:13] quantities in our cases and all you
+[05:16] Eagle Idaho doers probably saw that the
+[05:18] ordered quantities option was set by
+[05:21] default just like we configured in the
+[05:23] settings but as you can see I can still
+[05:25] choose to swap it over to delivered
+[05:27] quantities because nothing is limited
+[05:31] and remember when the invoicing policy
+[05:33] is set to deliver quantities all need to
+[05:35] validate a delivery before creating an
+[05:38] invoice and boom that's it that's how
+[05:41] you configure invoicing policies for
+[05:43] standards adorable products that's super
+[05:45] easy right now I'm sure you're probably
+[05:48] asking and saying yourself okay Jose I
+[05:51] see how easy it is to configure all that
+[05:53] stuff but what about service products
+[05:56] what about other products are you going
+[05:58] to cover that well of course I am
+[06:02] and my short answer to that is of course
+[06:04] we will so you think Professor Jose was
+[06:06] going to just leave you high and dry no
+[06:08] we're going to talk about those two I'm
+[06:10] going to take you immediately into that
+[06:12] right now
+[06:13] all right now let's pretend that we're
+[06:15] creating a service product so in our
+[06:16] case we're going to delete some stuff
+[06:18] namely you can get rid of this name
+[06:20] right there because now we're doing a
+[06:22] service and since we're doing a service
+[06:24] we're also going to configure this so
+[06:26] we're going to change the product type
+[06:27] over here to service and some new
+[06:29] options appear now you'll notice if I
+[06:31] click the invoicing policy drop down
+[06:33] menu we have new options added over here
+[06:35] if we choose something such as the
+[06:38] prepaid slash fixed price the invoicing
+[06:40] policy this works the same way as
+[06:42] invoicing based on ordered quantities
+[06:44] for a storable product we could also
+[06:46] choose to invoice customers based on
+[06:48] delivered quantity which if we select
+[06:50] that you'll notice something else
+[06:51] changes boom now this works similarly to
+[06:54] invoicing based on delivered quantities
+[06:56] for a stored product however instead of
+[06:59] validating a physical delivery we'd have
+[07:01] to manually enter the delivered quantity
+[07:03] into the confirmed sales order before
+[07:05] creating the invoice which I understand
+[07:07] that may sound confusing so let me show
+[07:08] you what that means real quick now to do
+[07:11] that I'll need to create a sales order
+[07:12] with this product so let's go do that
+[07:14] now we're going to be up here to orders
+[07:16] actually and quotations
+[07:19] hit new up there and we're going to
+[07:21] select our customer
+[07:22] I'm going to pick Azure interior because
+[07:24] they are the only customer that I like
+[07:26] at this point now all right now we're
+[07:29] going to select our office design
+[07:31] service over here and boom we're going
+[07:33] to confirm this
+[07:34] now after confirming it I'd like to see
+[07:37] something else and right now I'm
+[07:39] noticing that I don't have a delivered
+[07:40] column so if we click over here on our
+[07:42] options menu we can make it pop up give
+[07:44] that a quick refresh that is where
+[07:47] you'll always find it outdoers it's
+[07:49] always tucked over there all right
+[07:51] perfect now we have everything appearing
+[07:52] over here now we can enter in the
+[07:55] delivered quantity into that column
+[07:56] which in this case we're going to select
+[07:57] as just one
+[07:59] boom we've delivered one so far and
+[08:01] that's it now you can actually click
+[08:04] create an invoice over here
+[08:06] and you can select your desired invoice
+[08:08] option for this order I'm going to
+[08:10] select a regular invoice and I'm going
+[08:12] to click create and view that invoice
+[08:14] and there we go here's an invoice for
+[08:16] our service product based on the
+[08:18] delivered quantity that we manually
+[08:20] input it's pretty simple okay now let's
+[08:22] navigate back to our product form by
+[08:24] clicking on the product inside of this
+[08:26] invoice over here boom we're back over
+[08:29] here all right next we have the option
+[08:31] to invoice based on Milestones which is
+[08:34] basically an automatic version of
+[08:36] invoicing based on delivered quantity so
+[08:38] let's select that right now based on
+[08:39] Milestones boom now with this policy the
+[08:42] delivered quantity on the sales order
+[08:43] updates automatically based on the
+[08:45] Milestones that employees completed in
+[08:47] the odoo project app and given that this
+[08:49] option directly connects to the project
+[08:51] app you'll need to make sure that you
+[08:52] not only have the odoo project app
+[08:54] installed you'll also need to make sure
+[08:56] the Milestones feature is activated in
+[08:58] the Project's app settings as well so be
+[09:01] sure to keep that in mind so let's
+[09:03] reopen that invoicing policy once more
+[09:06] and lastly but sure not least we have
+[09:09] the option invoice based on timesheets
+[09:12] we all love them now this option is
+[09:15] perfect for when we want to build our
+[09:16] customers based on the hours our
+[09:19] employees work now in order for this
+[09:21] option to even appear you're going to
+[09:22] need a couple of things first one
+[09:25] you're gonna need to have the timesheets
+[09:26] app installed on your database and two
+[09:29] you'll need to have the timesheets
+[09:31] feature enabled in your project app
+[09:33] settings with those two things taken
+[09:35] care of you'll be able to use the
+[09:36] timesheets app to accurately track the
+[09:37] work hours of your employees and to
+[09:39] learn even more about those apps be sure
+[09:42] to check out the videos on the project
+[09:43] and time sheets app they're all great
+[09:45] there you have it oh do fam bam that's
+[09:47] all for this video you now have all the
+[09:49] knowledge you'll ever need to quickly
+[09:50] configure any kind of invoicing policy
+[09:52] for any kind of product now remember to
+[09:55] give our other sales tutorials a watch
+[09:57] so that you can discover more stuff
+[09:58] about odoo until next time party people
+[10:01] take care of yourselves and don't oh do
+[10:04] anything I wouldn't oh do
+[10:08] foreign

@@ -1,0 +1,287 @@
+影片 ID: W_0-gUc87WI
+來源: https://www.youtube.com/watch?v=W_0-gUc87WI
+下載時間: 2026-07-20 14:34
+============================================================
+
+[00:01] [music]
+[00:04] >> Hello Odooers. My name is Jose Ignacio
+[00:06] and today we're going to learn about
+[00:08] what a quote calculator can do for your
+[00:09] business and how you can begin setting
+[00:11] one up. Let me paint a picture for you.
+[00:14] You've got a thriving business and being
+[00:15] the savvy Odooer that you are, you've
+[00:18] created quotation templates for products
+[00:20] commonly sold together. That helps to
+[00:22] speed things up for your sales team.
+[00:24] Nice.
+[00:25] But what if you sell services, too? For
+[00:28] a business like Stealthy Wood, which
+[00:29] offers bespoke furniture and on-site
+[00:31] assembly, a one-size-fits-all approach
+[00:34] to determining service costs doesn't cut
+[00:36] it.
+[00:37] After all, having our expert ninja
+[00:39] craftsmen people assemble the furniture
+[00:42] for an entire office building is a lot
+[00:43] more time-consuming and costly than
+[00:45] having a single ninja intern make a desk
+[00:48] for a home office.
+[00:50] That's where quote calculators come in.
+[00:53] Once a quotation template has been set
+[00:55] up, a quote calculator is a spreadsheet
+[00:57] that communicates with the Odoo sales
+[00:58] app to make it easy to adjust costs for
+[01:01] the goods and services in quotations.
+[01:03] Let me show you what I mean. So, enough
+[01:04] chitchat. Let's hop into our database.
+[01:07] Quoting means selling, so let's open up
+[01:09] our sales application over here. Now,
+[01:11] we're actually going to go ahead and
+[01:13] click on the new button over here just
+[01:15] to create a new quotation. For this
+[01:16] example, I'm going to pick one of our
+[01:18] regular customers,
+[01:20] Azure Interior. Let's start by typing
+[01:22] their name in our customer field and
+[01:24] letting this all auto-populate. And once
+[01:26] that's done, Stealthy Wood does so much
+[01:28] business with Azure Interior that we've
+[01:29] created a quotation template just for
+[01:32] selling to them. So, I'm going to go
+[01:33] ahead and select it here.
+[01:35] All right, so you guessed it. It's going
+[01:37] to be furniture essentials. And presto,
+[01:40] a pre-made quotation, wow,
+[01:43] loads and all the sections and
+[01:45] everything for both furniture and for
+[01:47] assembly and even delivery costs,
+[01:49] actually. Wow, we thought of everything
+[01:51] for this one.
+[01:52] So, having a quotation template is
+[01:54] essential for using a quote calculator.
+[01:56] Orders without a quotation template
+[01:57] can't use a quote calculator at all.
+[02:00] There's a lot of products here, but
+[02:01] let's check out these
+[02:03] first two products that we happen to
+[02:04] have.
+[02:05] Furniture assembly and local delivery.
+[02:07] So, these are services with a set price
+[02:11] per, in this case,
+[02:13] additional cost based on details like
+[02:15] who's doing the assembly,
+[02:17] where the delivery is, etc., etc. To
+[02:19] change those details, let's go to the
+[02:21] top of the quotation form and click on
+[02:24] our quote calculator smart button. Woo.
+[02:27] So,
+[02:29] over here, we've got a preconfigured
+[02:30] quote calculator. At the bottom of this
+[02:32] preconfigured spreadsheet, you can see
+[02:34] the tabs for, in our case, transport and
+[02:36] assembly, instructions, products, sales
+[02:39] order lines, as well.
+[02:41] Transport and assembly is the sheet
+[02:43] where we'll actually make changes that
+[02:45] update the quotation.
+[02:46] Instructions over here
+[02:49] is just instructions for the user on how
+[02:51] this particular calculator works.
+[02:53] Products, which is a list of every
+[02:55] product Stealthy Wood, in our case,
+[02:57] stealthily sells and its related
+[03:00] information, as well. We need that
+[03:01] information to do quote calculating. And
+[03:04] you can see that right there, cuz it's a
+[03:05] very beneficial. And here's the
+[03:07] instructions just so you can see that
+[03:09] real quick.
+[03:10] Moving over here to SO lines, this
+[03:11] section sees what's in the sales order
+[03:14] and that's why we call it SO, if you
+[03:16] will. And it uses that information to do
+[03:18] the calculations, too. But let's go back
+[03:20] and focus on transport and assembly
+[03:22] sheet over here, since it has the
+[03:24] sections we're updating.
+[03:25] Okay, what's going on with this page,
+[03:27] you might ask. Changing the values in
+[03:29] the aptly titled transport
+[03:32] and assembly section that we have over
+[03:34] here updates the quotation. You'll also
+[03:37] notice a couple of tables like transport
+[03:40] costs, which is pretty important right
+[03:43] there.
+[03:45] And this shows the capacity, fixed cost,
+[03:47] and cost per kilometer for a couple of
+[03:50] different vehicles in our fleet.
+[03:52] Kilometer, if you want to pronounce it
+[03:53] that way. Truckload margin and cost
+[03:55] repartition are all informative, by the
+[03:57] way, reflecting the changes that we make
+[03:59] in real time to reflect our changing
+[04:01] quote.
+[04:02] First, over here in our nice little
+[04:04] yellow one, let's type in 5 m for that
+[04:07] one inside of the extra volume field.
+[04:09] And look at that.
+[04:11] That brings the total volume for this
+[04:12] order to 11.1 cubic meters, cube space,
+[04:16] if you will.
+[04:18] That automatically adjusted the
+[04:20] recommended video video. That's a small
+[04:23] oopsy. It adjusted our recommended
+[04:25] vehicle below to a light truck.
+[04:28] So, let's actually adjust that.
+[04:32] We can just select this right there
+[04:35] and pick it.
+[04:36] Perfect. That in turn has now updated
+[04:39] something else. Our fixed cost has gone
+[04:41] up and our cost per kilometer, as well.
+[04:45] Since a bigger vehicle is more expensive
+[04:46] to drive around, that should be obvious.
+[04:49] Azure Interior is nearby, so setting the
+[04:51] distance, in our case, to 20 kilometers
+[04:57] now also covers this delivery. And that
+[04:59] updates, finally, to a transport cost of
+[05:01] $158.
+[05:03] Good stuff. Let's talk assembly next.
+[05:06] Under assembly, we can set the hours our
+[05:09] apprentices and carpenters will spend
+[05:11] assembling the furniture.
+[05:13] Apprentice work and, in our case, extra
+[05:16] apprentice time and a few others are
+[05:18] already set to 8 hours.
+[05:21] So, our carpenters and our apprentices
+[05:23] will be working 8 hours each,
+[05:25] representing time that's been spent
+[05:27] working in Stealthy Wood's wood shop
+[05:28] stealthily.
+[05:30] For the time our carpenters will spend
+[05:32] on-site at Azure Interior, I'm going to
+[05:35] add in 4 hours to both of our extra
+[05:37] slots for there
+[05:39] and for here for both carpenters and
+[05:42] apprentices alike.
+[05:44] So, now you're going to see our total
+[05:46] time
+[05:47] and our other fields have gone up with
+[05:49] each of these changes.
+[05:51] All right, now we have our last field,
+[05:53] risk factor. We're going to set this to
+[05:55] zero. I don't anticipate there being any
+[05:57] risk to our carpenters putting together
+[06:00] tables in an office and Azure Interior
+[06:02] will appreciate us saving the money.
+[06:04] That gives us a grand order total
+[06:07] assembly of $3,990.
+[06:10] With that,
+[06:12] we're going to go up to the top of the
+[06:13] calculator and click our nice little
+[06:16] save button to save it directly and
+[06:18] return us to our quotation.
+[06:20] Back on the quotation, you can see that
+[06:23] the furniture assembly that we have over
+[06:24] here
+[06:25] has been updated as well as the local
+[06:28] delivery, just to match our calculator.
+[06:31] A properly set up quote calculator can
+[06:33] save you time, allowing employees who
+[06:35] aren't product experts to sell more
+[06:37] easily and reduce the possibility of
+[06:39] human error. All great reasons to use
+[06:41] them.
+[06:42] Now that you've seen a quote calculator
+[06:44] in action, I'm going to show you how to
+[06:45] begin creating your own. Every
+[06:47] business's needs are unique and I can't
+[06:49] tell you how to set up your spreadsheet
+[06:51] and which formulas to use, but I can
+[06:54] tell you and show you how to get
+[06:55] started. So, let's click new over here
+[06:58] and we're going to create a new
+[06:58] quotation. We're going to do it like the
+[07:00] first one. We're going to choose Azure
+[07:02] Interior for our customer and we're
+[07:05] going to do the furniture essentials
+[07:07] quotation template once again.
+[07:09] But this time around, we're going to
+[07:10] click our little arrow link over here
+[07:13] and we're going to click on our quote
+[07:15] calculator field.
+[07:17] Okay, instead of choosing the shipping
+[07:19] and assembly costs, I'm going to select
+[07:22] search more over here. All right. So, on
+[07:24] the search quote calculator form over
+[07:27] here, I'm going to go down to the bottom
+[07:30] and click the create new button. All
+[07:32] right.
+[07:33] And there it goes. You guessed it, it's
+[07:35] opened up a new quote calculator in the
+[07:36] form of an untitled spreadsheet.
+[07:40] Untitled, but definitely not empty. This
+[07:42] sheet contains everything in our product
+[07:43] catalog. Regardless of what you want to
+[07:45] do with your quote calculator, the
+[07:47] information about your products is the
+[07:48] most essential element to actually doing
+[07:51] it. So, having everything automatically
+[07:53] pulled here helps you out. The next
+[07:55] thing that you're want to go do is
+[07:56] actually go down to the bottom over here
+[07:59] and we're going to select create a new
+[08:01] sheet.
+[08:02] So, let's make one. Actually, sorry.
+[08:04] It's the plus. Small oopsy right there.
+[08:07] All right, so this one is essentially
+[08:09] going to serve as our control center. I
+[08:11] like to use the control center to define
+[08:13] all the pricing I'm going to use in the
+[08:15] quote calculator. That might be
+[08:16] something like delivery radiuses, hourly
+[08:19] rates for skilled workers, flat fees for
+[08:21] project reviews and redos beyond an
+[08:23] initially agreed-upon amount. Whatever
+[08:26] makes sense for your business and your
+[08:27] needs.
+[08:28] So, then you're going to need to build
+[08:29] your actual quote calculator. This can
+[08:31] be a new sheet, if that helps you stay
+[08:33] organized, or you can put it on the
+[08:35] control center sheet. Your quote
+[08:37] calculator will reference the data in
+[08:39] your product list and control center and
+[08:41] include fields you can fill out just to
+[08:44] update your quotation. Think of the
+[08:46] transport and assembly sections in the
+[08:48] shipping and assembly costs calculator I
+[08:49] showed you earlier.
+[08:51] This setup works for more than just
+[08:53] services like shipping and handling, of
+[08:55] course.
+[08:56] You could use it to keep track of the
+[08:58] materials a general contractor uses for
+[09:00] a home, the creation and review process
+[09:02] for a freelance graphic designer, or
+[09:05] even licenses for custom software
+[09:07] development. So long as you have product
+[09:09] information, a good idea of the
+[09:10] variables that are going to be going
+[09:12] into your customer's final cost, and a
+[09:14] sense for the formulas that you're going
+[09:15] to need to get that data talking to each
+[09:17] other, you can build your own quote
+[09:19] calculator.
+[09:20] Okay.
+[09:21] So, you've seen how a quote calculator
+[09:24] in action works and learned about the
+[09:26] principles behind creating a quote
+[09:27] calculator that makes sense for your
+[09:28] business. If you're a spreadsheet whiz,
+[09:30] you've got everything you need to get
+[09:32] started. If you're not, Odoo has
+[09:34] representatives that'll be happy to help
+[09:35] you set one up. Until next time,
+[09:37] Odooers, go grab a snack. We're eating a
+[09:39] little chocolate cake as I'm hungry now.

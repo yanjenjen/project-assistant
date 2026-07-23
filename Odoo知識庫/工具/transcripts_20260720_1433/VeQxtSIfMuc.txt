@@ -1,0 +1,162 @@
+影片 ID: VeQxtSIfMuc
+來源: https://www.youtube.com/watch?v=VeQxtSIfMuc
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:05] what's up oders and welcome back today
+[00:08] we're going to discuss how to configure
+[00:09] price list for customers and products
+[00:11] using the ODU sales app companies often
+[00:13] utilize price list to charge different
+[00:15] prices on products or offer customized
+[00:17] pricing for specific customers targeting
+[00:20] Regional demographics adjusting B2B or
+[00:22] b2c pricing running seasonal product
+[00:25] sales but here at stealthy wood we have
+[00:28] a surplus of outdoor furniture in in our
+[00:30] warehouse to clear it out we're setting
+[00:32] up price rules for a big sale so let's
+[00:34] dive in and see how we can do that in
+[00:36] Odo sales all right kicking things off
+[00:39] here in our sales app we first need to
+[00:41] head over to configuration at the top
+[00:43] followed by settings and here we just
+[00:46] want to make sure that our Price Less
+[00:47] setting is enabled as you can see we've
+[00:50] already ticked this specific check box
+[00:51] but if you haven't done so yet in your
+[00:53] database make sure to do so and then
+[00:55] click save before moving on now let's
+[00:58] migrate over to our Priceless page and
+[01:00] we can do that by clicking this Price
+[01:01] Less link beneath the
+[01:04] feature here you'll see our currently
+[01:07] defined price list we have our Benelux
+[01:09] here for a special discount for Belgium
+[01:12] Netherlands Luxembourg including
+[01:14] currency conversions we have e here
+[01:16] which is special pricing for our
+[01:18] European union and membership discounts
+[01:20] on special items and shipping for our
+[01:21] loyal customers but now let's create a
+[01:24] new price list for our end of clearance
+[01:27] sale first we're going to click new in
+[01:29] the upper leftand corner and we're going
+[01:32] to name this price list winter outdoor
+[01:35] furniture sale we're going to leave the
+[01:38] company field here as is and we're also
+[01:40] going to leave the country groups field
+[01:43] blank to apply to all stealthy wood
+[01:45] customers if targeting a specific region
+[01:48] you could select one or multiple country
+[01:50] groups
+[01:51] here then in the price rules tab we're
+[01:54] going to click add a
+[01:55] line right now we'll be creating a
+[01:58] advanced Priceless rule through this
+[02:00] pop-up window right here but I'll also
+[02:02] show you how to create a basic one later
+[02:04] in the video first we can select if we
+[02:07] want this rule to apply to a product or
+[02:09] a category we're going to select
+[02:11] category for this
+[02:13] example and beneath that in the category
+[02:16] field we're just going to type in
+[02:18] outdoor and select all salable outdoor
+[02:21] furniture as our
+[02:22] category next we can determine the price
+[02:26] type you can read about these options in
+[02:28] our documentation
+[02:30] but Odo allows us to enter a discounted
+[02:34] percentage but we can also add a
+[02:36] discounted fixed price like $5 off for
+[02:38] example but today we're going to be
+[02:40] using our most dynamic one which is
+[02:44] Formula now watch this first I'm going
+[02:46] to apply a 20%
+[02:49] discount and notice the blue tip boxes
+[02:52] here on the right these help provide a
+[02:55] guidance for configuring detailed price
+[02:57] rules we love making our prices end in 9
+[02:59] 9 it makes customers think the product
+[03:02] is cheaper than it really is so to make
+[03:04] sure that happens every time we're going
+[03:06] to round this off to
+[03:08] 10 and then below that we're going to
+[03:11] follow up with the extra fee setting and
+[03:13] put minus
+[03:16] 01 with that set up ODU will know to
+[03:19] round up the price of an outdoor item to
+[03:21] the nearest $10 then subtract 1
+[03:24] cent to encourage larger purchases we're
+[03:27] going to set the minimum quantity field
+[03:29] here set to two and this ensures that
+[03:32] the discount applies only when customers
+[03:35] buy at least two outdoor furniture items
+[03:38] now this sale only lasts for the winter
+[03:40] so we're going to click on the validity
+[03:42] period here and we're going to start
+[03:44] this with today and then click apply and
+[03:47] then we're going to click the end date
+[03:49] here and put it to the last day of
+[03:51] February then click apply
+[03:55] again okay this looks great and we're
+[03:57] all set here so we're just going to
+[03:58] click save and close
+[04:02] now with that we have a new price rule
+[04:04] added to this tab and just so you know
+[04:07] you can add as many of these price rules
+[04:08] to a price list as you like Advanced
+[04:11] price list such as the one we just
+[04:13] configured can also be applied for
+[04:15] subscriptions through the recurring
+[04:17] prices tab here for more information
+[04:19] about that check out our subscription
+[04:21] tutorials but moving on we're going to
+[04:23] click this e-commerce tab here and
+[04:25] you're going to notice that the
+[04:27] furniture sale can be applied to our
+[04:29] website as well and below that we have a
+[04:32] selectable checkbox and when that's tick
+[04:35] this makes the Priceless viewable and
+[04:37] selectable for our customers on our
+[04:39] online store now let's see this price
+[04:41] list in action we're going to navigate
+[04:43] to products at the top followed by
+[04:45] products again and we're going to select
+[04:46] a piece of our outdoor furniture like
+[04:49] this outdoor chair and we're just going
+[04:51] to jump to the product page on our
+[04:53] online store and to do that we're just
+[04:55] going to click the go to website smart
+[04:56] button here at the top
+[05:00] the price of the item as you've most
+[05:02] likely noticed hasn't changed yet
+[05:05] however if our customer clicks this plus
+[05:08] sign to add two of these to their cart
+[05:11] you'll see the discounted price to
+[05:13] double check oo it's time to do some
+[05:15] Mental Math 20% of the full price of $75
+[05:19] is$ 15 that's $60 minus 1 C which is
+[05:26] $59.99 now before we go I know I promise
+[05:29] you that I'd show you an even quicker
+[05:31] way to set a price list and price rule
+[05:33] to a product which can be directly done
+[05:36] from the product page itself so we're
+[05:38] just going to click back onto our
+[05:40] product form and back on the product
+[05:42] form we're just going to click this
+[05:43] Priceless smart button at the top and
+[05:46] here we can configure a price list for
+[05:48] this product only then all we have to do
+[05:50] is click
+[05:51] new and here we can enter the Priceless
+[05:54] name the price minimum quantity as well
+[05:58] as the start and end date
+[06:00] and there you have it o doers just learn
+[06:02] how to create configure and use
+[06:03] Priceless and price rules to create
+[06:05] multiple prices per product in Odo sales
+[06:08] stay tuned for more tutorials thanks for
+[06:10] watching and I'll see you in the next
+[06:12] video

@@ -1,0 +1,196 @@
+影片 ID: PM18TP8MZ0I
+來源: https://www.youtube.com/watch?v=PM18TP8MZ0I
+下載時間: 2026-07-22 10:17
+============================================================
+
+[00:05] Hello doers. My name is Jose Ignasio.
+[00:07] Ever send a purchase order too late and
+[00:09] find yourself wondering exactly when to
+[00:10] send a request for quotation? We need to
+[00:12] send that RFQ so stock shows up before
+[00:14] we run out, but not so early that cash
+[00:17] is tied up on a shelf. Purchase lead
+[00:19] times are that answer. So set them up
+[00:21] once and ODU will tell you the perfect
+[00:22] day to confirm an RFQ and the day those
+[00:25] goods should arrive at your warehouse.
+[00:27] They automatically keep procurement on
+[00:29] point while we meet our delivery
+[00:30] deadlines. Vendor lead times, well, that
+[00:33] happens to be the calendar days it takes
+[00:35] a supplier to deliver after you confirm
+[00:37] a PO. The security lead time is a
+[00:39] companywide buffer of calendar days that
+[00:41] ODU adds to every purchase order. It's
+[00:43] just to offset any unexpected delays,
+[00:47] maybe unavailable stock, shipping
+[00:49] delays, other unforeseen issues. Life
+[00:52] happens. So, it's like when you tell
+[00:54] your friend who's always late to arrive
+[00:56] 30 minutes earlier than everyone else
+[00:59] because they always get stuck in
+[01:00] traffic, tricked by an earlier meetup
+[01:02] time. They arrive at the same time as
+[01:04] everyone else. Now, days to purchase is
+[01:06] the calendar days the vendor needs to
+[01:08] review your RFQ before they confirm with
+[01:10] you. Once they do, you click confirm
+[01:13] order and the countdown begins. Now,
+[01:15] let's see how all of this works together
+[01:16] with the Erggo chair. So, first the
+[01:20] vendor lead time is 7 days, which is the
+[01:22] typical transit time from Gemini
+[01:24] Furniture to our warehouse. Next, we
+[01:26] have a two-day purchase security lead
+[01:28] time, which is a buffer for any
+[01:30] unforeseen issues or delays. And lastly,
+[01:33] the days to purchase lead time is 1 day,
+[01:35] which gives them a full business day to
+[01:37] check their email, determine whether
+[01:38] they have stock, and confirm that they
+[01:40] can get the product to meet. Together,
+[01:43] these three lead times give ODU a 10-day
+[01:45] planning window. Now, when using
+[01:47] reordering rules, ODU will remind you to
+[01:50] order 10 days before the quantity is
+[01:52] expected to drop below the minimum. All
+[01:55] right, that was a lot of background
+[01:56] information. So, let's dive right into
+[01:58] the database to set that up. So, first
+[02:01] here we are inside of the inventory
+[02:02] application. We're going to select
+[02:04] products up in the top heading and then
+[02:05] products once again. Let's pick that
+[02:07] Erggo chair that we talked about. Now,
+[02:09] we're going to make our way over to the
+[02:10] purchase tab. So, in the vendor price
+[02:13] list, we have our default vendor, which
+[02:15] happens to be Gemini Furniture. We've
+[02:17] set the delivery lead time that we
+[02:19] happen to have over here to 7 days.
+[02:22] That's actually the vendor lead time. I
+[02:24] know we should be consistent, but that's
+[02:25] just a little
+[02:27] dupy. All right, on to the next lead
+[02:29] time. So, we're going to go over to
+[02:30] configuration and settings this time
+[02:32] around. We're going to scroll down until
+[02:34] we see the word advanced over here so
+[02:36] that we know we're at the right place.
+[02:38] Advanced scheduling. There we go. Now,
+[02:39] you want to make sure this little check
+[02:41] box next to security lead time for
+[02:43] purchase is checked. Now, we want this
+[02:45] field over here to say 2 days. Next over
+[02:49] here is days to purchase, which we want
+[02:51] set to one day. Now, if you're setting
+[02:53] this up for the first time or doers,
+[02:54] remember to hit save in the top left
+[02:56] corner. It's always a very good tip. So,
+[02:59] with our lead time set up, let's go to
+[03:00] the replenishment report to check what
+[03:02] we need to order today. Well, in this
+[03:04] case, a reorder. So, let's do that by
+[03:07] going to operations over here. And this
+[03:09] time we're going to select replenishment
+[03:10] down at the bottom. So this is where ODU
+[03:13] uses manual reordering rules to notify
+[03:15] us that things need to be ordered. For
+[03:17] more about setting up reordering rules,
+[03:18] check out that tutorial link below. So
+[03:21] here we have our ergonomic chair line.
+[03:24] We see that we have zero on hand. And in
+[03:27] the minimum column that we have over
+[03:29] here, well, we should have at least
+[03:31] three in stock. Let's click on our nice
+[03:33] little eye icon that we have right
+[03:35] there. Okay. So the blue highlighted
+[03:37] forecasted date is the sum of all my
+[03:40] purchase lead times listed above. ODU
+[03:42] checks to make sure that we have enough
+[03:44] to fulfill orders from today to the
+[03:46] forecasted date. And the reordering
+[03:48] rules work to replenish that. For a deep
+[03:50] dive on what all of this means just for
+[03:52] your procurement, check out our just in
+[03:54] time logic video also linked below. All
+[03:58] right, let's click. In our case, I think
+[04:01] it's time for us to just close out of
+[04:02] this and we're going to select order.
+[04:05] Why? Well, because we're here now. We
+[04:09] see an RFQ was created as you saw from
+[04:11] our nice little link. I could click that
+[04:13] link, but it's also disappeared. So,
+[04:15] we're going to go out of here and I'm
+[04:16] going to show you the way to do this if
+[04:17] it also disappeared on you. Now, we're
+[04:20] in the purchase application. And look at
+[04:22] that right here. The most recent RFQ for
+[04:24] Gemini Furniture. So, on the RFQ, you
+[04:27] notice we have an order deadline, and
+[04:29] that happens to be tomorrow. That's the
+[04:31] days to purchase at work. When an RFQ is
+[04:34] created, the order deadline is the day
+[04:35] the RFQ was created plus the days to
+[04:38] purchase. And our expected arrival date
+[04:41] is 7 days after the order deadline,
+[04:43] which is eight total days from today. So
+[04:45] to send the RFQ to the vendor, we're
+[04:47] going to click send by email over here.
+[04:49] Now, once they do that, ODO starts the
+[04:52] prep us with a compositional email.
+[04:54] We'll review that the email is very,
+[04:56] very nice. We'll review the actual
+[04:58] template, and then we're just going to
+[05:00] hit send over here. Perfect. Once that
+[05:02] that sends on over, we see in the
+[05:04] chatter, all the vendor has to do when
+[05:05] they receive the email is click accept.
+[05:07] Right there, we make it easy. Now, let's
+[05:10] pretend to be the vendor for a second.
+[05:12] The receive this email and open up the
+[05:14] portal view. They'll see that we need 10
+[05:17] chairs expecting it on the receipt date.
+[05:20] And all they have to do is click the
+[05:21] accept button on the left side. And then
+[05:24] once that the vendor accepts, we got our
+[05:26] nice confirmation over here. The RFQ has
+[05:28] been acknowledged by Gemini Furniture.
+[05:30] Thank you, Odubot. All right, with that
+[05:32] acceptance, let's confirm our order over
+[05:34] here. Now, you'll notice the expected
+[05:37] arrival date remains eight days from
+[05:39] today, even though our lead time is 7.
+[05:42] That's because we confirm the RFQ one
+[05:44] day before its order deadline. OD
+[05:46] retains the original arrival date. The
+[05:48] result is that the supplier has 8 days
+[05:50] to ship it to us. They ship sooner, we
+[05:52] get everything sooner. So, let's click
+[05:55] our receipt smart button up in the top
+[05:57] center over here. All right, this shows
+[05:59] us at this point that the warehouse is
+[06:01] expecting the shipment from Gemini
+[06:02] Furniture on or before our schedule date
+[06:05] over here. This transfer is linked to
+[06:08] our purchase order as you can see over
+[06:10] here for our source documents. So I the
+[06:14] purchasing team can stay in sync with
+[06:15] the warehouse team. Finally, I'm going
+[06:17] to click validate over there. Now once
+[06:20] that I did that, well guess what? the
+[06:22] deadline turned into effective date that
+[06:25] we have over here, showing us the
+[06:26] difference between the scheduled date of
+[06:27] arrival versus the date we actually
+[06:29] received the item. And there you have
+[06:31] it. That's the convenience of purchase
+[06:32] lead times. Once you've told ODU how
+[06:34] long suppliers and logistics really
+[06:36] take, the system schedules everything
+[06:38] for you. No spreadsheets, no guessing,
+[06:40] no stockouts. Thanks for watching,
+[06:41] Odoers. Remember, you're doing great.
+[06:43] Grab a snack. I don't have one. Once
+[06:46] again, I need to get more. See you next
+[06:47] time.

@@ -1,0 +1,124 @@
+影片 ID: MtO2XNCE-xw
+來源: https://www.youtube.com/watch?v=MtO2XNCE-xw
+下載時間: 2026-07-22 10:17
+============================================================
+
+[00:00] [Music]
+[00:05] hello OD doers and welcome back at
+[00:08] stealthy wood we work with a ton of
+[00:09] suppliers to make sure we're getting the
+[00:10] best products at the best prices
+[00:13] sometimes one product has multiple
+[00:14] suppliers which can be tricky to keep
+[00:16] track of in Odo the vendor price list
+[00:19] stores product vendors prices and Deals
+[00:21] ensuring we correctly input prices on
+[00:23] our request for quotation or RFQ so
+[00:27] let's dive into Odo and see how we
+[00:28] create and edit V price
+[00:31] list we can configure a vendor price
+[00:33] list from any Odo app that includes the
+[00:35] products tab in the purchase app I'll go
+[00:38] to products in the menu and select
+[00:40] products and let's choose our cabinet
+[00:42] with doors on the product form we're
+[00:45] going to go to the purchase tab to see
+[00:46] the vendor price
+[00:48] list here we can see all of our vendors
+[00:50] that supplies to this product our first
+[00:52] vendor wood Corner lowered their price
+[00:55] so let's update the price to
+[00:58] $100 it's important to note that order
+[01:01] does matter on this list the vendor at
+[01:02] the top is selected by default when we
+[01:04] use a reordering rule we've selected
+[01:06] wood Corner as the default vendor
+[01:08] because they give us the best price as
+[01:10] long as we're willing to wait 5 days for
+[01:12] them the delivery lead time field tells
+[01:14] us how long it takes for the product
+[01:16] arrive at the warehouse after confirming
+[01:17] the purchase order so if we're in a rush
+[01:20] we'll pay a little bit more and have our
+[01:21] alternative vendor ready mat Deliver Us
+[01:23] the stuff in two
+[01:25] days we can also configure a vendor
+[01:28] discount on this page to do that I'll
+[01:30] click add a line and let's use wood
+[01:32] Corner as the
+[01:35] vendor wood Corner offers us a bulk deal
+[01:38] that gives us a 10% discount if we buy
+[01:40] 10 or more cabinets the quantity field
+[01:43] defines the minimum amount of products
+[01:44] for this special price to apply so I'll
+[01:47] set it to
+[01:49] 10 we can do this in one of two ways in
+[01:52] the prize field we can input 90 which is
+[01:54] the discounted price or we can input the
+[01:58] original price of $100
+[02:02] then click on the slatter icon in the
+[02:04] far right and we'll enable the discount
+[02:07] field in the new field we can add the
+[02:10] discount of
+[02:13] 10% and great with either method we'll
+[02:16] have the cabinets at a super special
+[02:17] price of $90 per unit as you can see
+[02:21] it's pretty easy to add product vendors
+[02:23] one at a time but what should you do
+[02:25] when you have a ton of vendors to add
+[02:26] all at once in that case we can use
+[02:28] odo's import feature to add multiple
+[02:30] vendors at once to do so let's go to the
+[02:33] configuration button in the menu and
+[02:35] select vendor price
+[02:37] list here we'll see price list for all
+[02:40] the products in our database now let's
+[02:42] download a template spreadsheet of
+[02:44] vendors so uod doers can see how you're
+[02:46] supposed to format the column names when
+[02:48] uploading your vendor price list to do
+[02:50] that I'll click on the first three check
+[02:52] boxes for the large cabinet and then
+[02:56] click the action button here at the top
+[02:59] and then export
+[03:01] we can choose Excel or CSV file formats
+[03:04] the fields to export on the right shows
+[03:08] the columns that are expected to be
+[03:09] exported in the file after clicking the
+[03:12] export button we'll get a file that
+[03:14] looks like
+[03:15] this and after entering the vendor info
+[03:18] in this exact
+[03:19] format after entering the vendor info in
+[03:22] this exact format click the Cog icon in
+[03:25] the top left corner and select import
+[03:27] records then I'll click on upload file
+[03:31] and upload our vendor price
+[03:35] list since we see these fields here on
+[03:37] the right that means all the columns and
+[03:40] info are formatted correctly I just need
+[03:43] to click on the import button now and
+[03:45] we're done
+[03:49] importing now let's see how all that
+[03:51] comes together by clicking new to create
+[03:53] a new RFQ let's set the vendor to Wood
+[03:57] corner and add a product and choose our
+[04:00] cabinet with
+[04:02] doors depending on the delivery lead
+[04:04] times we set on the vendor price list
+[04:06] the expected arrival date is updated too
+[04:09] as we can see in the unit price field
+[04:11] here the price is automatically set to
+[04:13] $100 like what we set on the price list
+[04:16] now check this out I'll change the
+[04:17] quantity to
+[04:20] 10 and then we can see that the tax
+[04:22] excluded subtotal field here on the far
+[04:24] right is updated to 900 that's 10
+[04:27] multiplied by 90 the discount we config
+[04:29] figured is automatically applied Isn't
+[04:31] that cool and there you have it vendor
+[04:34] Priceless make it easy to keep track of
+[04:36] suppliers prices and discount specials
+[04:39] in the next video we'll talk more but
+[04:41] see you next time OD doers

@@ -1,0 +1,192 @@
+影片 ID: JpqZFT7RLaw
+來源: https://www.youtube.com/watch?v=JpqZFT7RLaw
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:01] [music]
+[00:04] >> Welcome back Odooers. My name is Jose
+[00:06] Ignacio. Ever deal with inventory
+[00:08] shortages, shrinkage, or weight
+[00:10] variances?
+[00:11] Issues like these don't just cause
+[00:13] logistical nightmares, they can tank
+[00:15] your customer trust and your bottom
+[00:16] line. So, today I'm going to show you
+[00:18] how to fix that by setting up the
+[00:20] invoice what is ordered policy.
+[00:22] Invoicing for what is delivered means
+[00:24] customers only pay for what they
+[00:26] actually receive. This is a lifesaver if
+[00:28] your final quantities are unpredictable
+[00:31] until they leave the warehouse.
+[00:33] Think perishables, liquids, bulk
+[00:35] materials, or in our case, hay.
+[00:39] That's right. Did I forget to mention
+[00:40] that my side hustle is wholesale feed
+[00:42] supplier?
+[00:43] Business is cropping up everywhere. And
+[00:46] in this video, we're going to set the
+[00:47] default invoicing policy, apply the
+[00:50] right payment terms, and streamline
+[00:53] those tricky partial shipments. By the
+[00:54] end, your sales workflow will be
+[00:56] perfectly synced with your cash flow.
+[00:58] So, enough chit-chat, let's get started.
+[01:01] So, here I am inside of the sales
+[01:02] application. Let's check our settings to
+[01:03] keep the cash flowing. So, we're going
+[01:05] to select configuration, and then from
+[01:07] here, settings. Let's take a look at the
+[01:09] invoicing section. So, we're going to
+[01:11] scroll down until we reach the invoicing
+[01:13] section. Okay, so for this one, I've
+[01:16] already selected invoice what is
+[01:18] delivered right there. So, what does
+[01:20] that mean? This means that every new
+[01:21] product created will default to this
+[01:23] policy automatically. Now, we're ready
+[01:25] to sell. If it's your first time
+[01:26] selecting this option, don't forget to
+[01:28] click save up in the top left.
+[01:30] So, I need to create a new quote for one
+[01:33] of our regular customers, Gwyneth Ur
+[01:35] Aniston.
+[01:36] Yeah, the one who buys the tiny hats for
+[01:38] her guinea pigs.
+[01:40] So, I'm going to select orders up at the
+[01:42] top over here, and then I'm going to
+[01:43] select quotations. Then, I'm going to
+[01:45] click new over here up at the top. All
+[01:48] right, so Gwyneth Ur wants 500 bundles
+[01:51] of hay. So, first of all, we need to add
+[01:53] her as a customer right there.
+[01:55] And then we're going to go to our
+[01:55] product lines. So, she wanted hay.
+[01:59] And
+[02:00] actually, before we even do a product,
+[02:02] we need to actually talk about payment
+[02:04] terms. So, small O dupsy,
+[02:06] I'm going to go up here to the payment
+[02:08] terms, and I'm going to hit search more
+[02:10] because there's something important that
+[02:11] we need to talk about. And it's right
+[02:13] here, this 2/7 net 30. So, this means
+[02:16] that if she pays within 7 days, she gets
+[02:18] a 2% discount. Otherwise, the invoice is
+[02:21] due
+[02:23] well, 30 days of the invoice date as it
+[02:25] says. It's a great way to motivate early
+[02:27] payments and keep the cash flow steady.
+[02:30] Now, we can finally add our product.
+[02:32] See?
+[02:34] For the product, we're going to go with
+[02:35] our Timothy hay right there, and she
+[02:37] told me she wants 500 of them.
+[02:40] Perfect. Ooh. Another little O dupsy
+[02:44] right there, Odooers.
+[02:46] I've got a red chart, and I only have,
+[02:48] it looks like, 400 of them in stock.
+[02:50] But, because we're invoicing based on
+[02:52] delivery, I don't have to wait for a
+[02:53] resupply to get paid for what I do have.
+[02:57] So, in that case, Gwyneth Ur already
+[02:58] agreed to accept partial deliveries. So,
+[03:00] since this isn't the first time that
+[03:02] this has happened, I'm going to click
+[03:03] confirm over here up at the top, and
+[03:06] then we're going to click our delivery
+[03:07] smart button over there.
+[03:09] Now, when I click validate, would you
+[03:11] look at that? Odoo gives us the option
+[03:13] to create a back order for the remaining
+[03:15] 100. So, we're going to click create
+[03:17] back order. So, this keeps everything
+[03:19] organized. It reserves the remaining
+[03:21] stock for later and ensures the customer
+[03:23] portal stays accurate. No "Where's my
+[03:26] stuff?" phone calls.
+[03:28] Okay, we're going to go back over to
+[03:29] over here to our sales order, following
+[03:31] our breadcrumbs. So, back on our sales
+[03:34] order over here, the delivery smart
+[03:36] button has actually been updated to
+[03:38] reflect our second delivery for the back
+[03:41] order.
+[03:42] Now, let's actually get paid. So, I'm
+[03:44] going to select create invoice over
+[03:46] here,
+[03:47] and then we're going to make this a
+[03:48] regular invoice right there as our
+[03:50] option, and select create draft.
+[03:52] Perfect. So, Odoo automatically knows to
+[03:55] bill for the 400 bundles delivered, as
+[03:57] you could tell right there from our
+[03:58] quantity. Ah. Isn't that great? I'm
+[04:01] going to select confirm up at the top,
+[04:03] and then pay.
+[04:05] And then inside of here,
+[04:06] I Ooh, would you actually honestly look
+[04:09] at that?
+[04:10] The 2% discount is applied
+[04:12] automatically.
+[04:14] The actual banner says
+[04:16] we saved $381.60.
+[04:21] I'm going to click create payment. Boom,
+[04:23] just to finish our process. So, I still
+[04:25] have to process a different sales order.
+[04:27] So, let's go back to the quotations
+[04:29] dashboard by selecting it from our
+[04:31] breadcrumbs right there. Perfect. I'm
+[04:34] going to click on the other sales order
+[04:35] for Julia Rodent. Let's click on that
+[04:39] one. So, Julia ordered 500 bundles of
+[04:42] orchard hay for her goat farm. We only
+[04:45] had 400 in stock, which was delivered on
+[04:48] this sales order that we have
+[04:51] that happens to be right here, actually.
+[04:53] But, anyways, I'm going to click our
+[04:55] delivery smart button up at the top
+[04:57] because I know something that you don't.
+[04:59] I have two delivery orders for this
+[05:01] sales order because we had to split up
+[05:02] the shipments into two. The one with a
+[05:04] status of done, right here below, was
+[05:07] already delivered. Now, I need to
+[05:09] process the remaining 100 bundles of
+[05:11] hay.
+[05:12] I, in my case, I'm going to click our
+[05:15] transfer record option
+[05:17] just because
+[05:19] it's already ready. So, let's select
+[05:21] that one. All right.
+[05:22] So, I'm going to validate this one as
+[05:24] well, and this is going to be the one
+[05:27] for that final 100 bundles. So, let's go
+[05:29] back over to over to our nice little
+[05:30] sales order, and this time around, we're
+[05:33] going to create our invoice. This is
+[05:34] going to be our regular one for our
+[05:35] final one. I'm going to click draft, and
+[05:38] see what happens.
+[05:40] And do you see that? The draft only
+[05:41] shows the remaining 100 right there. No
+[05:45] messy spreadsheets, no double billing,
+[05:47] just clean accurate data. Once I confirm
+[05:50] this,
+[05:51] and then we can complete it by selecting
+[05:54] pay,
+[05:55] look at that. She's also getting the
+[05:57] discount for paying so quickly, and we
+[05:59] have our nice little banner. Then we're
+[06:01] going to select create payments.
+[06:03] And just like that, look at that nice
+[06:04] green paid banner. Just like that, you
+[06:07] just learned how to automate invoicing
+[06:09] based on real-time fulfillment, use
+[06:11] smart payment terms to incentivize and
+[06:13] get paid faster, and handle back orders
+[06:16] without breaking a sweat. With the right
+[06:17] setup, your sales app handles the heavy
+[06:19] lifting so that you can focus on growing
+[06:21] your business. Happy selling, and I'm
+[06:22] going to see you in the next one.

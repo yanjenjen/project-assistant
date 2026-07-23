@@ -1,0 +1,198 @@
+影片 ID: d97m_ns40qU
+來源: https://www.youtube.com/watch?v=d97m_ns40qU
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:01] foreign
+[00:05] ERS you know old Benjamin Franklin once
+[00:08] said nothing is certain in life except
+[00:10] death
+[00:11] and taxes and today we're gonna talk
+[00:15] about one of those things
+[00:17] death
+[00:19] just kidding we're actually going to be
+[00:20] talking about taxes people come on it's
+[00:23] not as bad but just as scary now because
+[00:26] we sell things here at stealthy wood
+[00:27] that means we have to abide by certain
+[00:29] sales tax laws that are mandated by the
+[00:32] government fortunately odoo
+[00:34] automatically installs a tax
+[00:36] localization package for US based on our
+[00:38] company's country when we first create
+[00:40] an Odo database so in most cases we
+[00:43] start with our country's default taxes
+[00:45] already locked in and ready to go and
+[00:47] that's Pretty stinking convenient and of
+[00:50] course odoo lets us create and edit
+[00:52] taxes whenever we want we can
+[00:54] automatically apply taxes to our
+[00:56] invoices as well another thing that we
+[00:58] always need to account for is varying
+[01:00] tax rates which really comes into play
+[01:03] when we sell products to customers
+[01:04] outside of the country International tax
+[01:07] rules or fiscal positions as the smart
+[01:11] folks like to call them are part of the
+[01:14] localization package O2 installs when we
+[01:16] create a database so in most cases
+[01:18] they're already set up and ready to go
+[01:19] but again in a true odoo fashion we can
+[01:22] create and edit fiscal positions at any
+[01:25] time to ensure we are always charging
+[01:27] the correct tax rate to every single
+[01:29] customer now if any of you finance
+[01:32] freaks out there want to learn more
+[01:33] about stuff like this be sure to check
+[01:35] out our accounting videos and
+[01:37] documentation as well you'll find a lot
+[01:39] of useful information in there now in
+[01:41] this video though we'll just do a quick
+[01:43] informative overview of taxes and how
+[01:45] they relate to sales but enough of my
+[01:47] mumbling mumbo jumbo let's jump into our
+[01:50] database take a closer look at how ODU
+[01:52] deals with sales taxes okay now in order
+[01:55] to get the most out of odoo's sales tax
+[01:57] potential you'll want to install and
+[01:59] activate a few things first so let's
+[02:01] kick things off by diving into the apps
+[02:04] app
+[02:05] whatever name I know
+[02:07] all right so let's head on in there
+[02:09] now once that we're inside of here we'll
+[02:11] want to actually remove the default
+[02:12] filter up above because we're going to
+[02:15] search for a few modules not apps let's
+[02:17] just search for the term tax first boom
+[02:20] now we have something as you can see we
+[02:22] already have some of the actual
+[02:24] necessary modules installed but this is
+[02:26] a great way to find a ton of different
+[02:27] tax modules that you may want to add to
+[02:29] your company's database for starters
+[02:31] from this list that I see you'll want to
+[02:33] consider installing in our case AB
+[02:34] attacks Account Tax cloud and another
+[02:38] one as well is the fine taxes as python
+[02:41] code and don't worry we'll touch on all
+[02:43] of those in a little bit so sit tight
+[02:45] right now so we're gonna go back out of
+[02:46] here okay since sales and accounting go
+[02:49] hand in hand especially when it comes to
+[02:51] sales taxes let's hop into our
+[02:53] accounting application to check a few
+[02:54] things out so we're going to go ahead
+[02:55] and go on into accounting by typing now
+[03:00] first it should be noted that taxes can
+[03:02] also be found in the invoicing
+[03:04] application which also appears on the
+[03:06] main dashboard if you don't have it
+[03:08] installed make sure you go to the apps
+[03:11] Apple doers
+[03:12] okay now moving on from here we'll go up
+[03:16] here to configuration and you're going
+[03:17] to want to select taxes boom there we
+[03:20] are now all of our country's taxes are
+[03:22] automatically listed for us over here
+[03:24] thanks to odoo super helpful
+[03:25] localization package
+[03:27] now let's take a closer look at in our
+[03:30] case one of these we're going to look at
+[03:31] the 15 tax because that's kind of big
+[03:34] now at the top of the tax form we see
+[03:36] the tax name and beneath that we also
+[03:39] have in our case the tax computation
+[03:41] feature over here now if we click it it
+[03:43] allows us to change it as from a few
+[03:45] other options that we have here now the
+[03:48] very first one that we have that I'm
+[03:49] going to go through is group of taxes
+[03:51] and that's for creating a list of taxes
+[03:53] that make up a group so when you apply
+[03:55] this tax on an invoice it applies all of
+[03:58] the taxes in the group at once and just
+[04:00] so you know you can add as many existing
+[04:02] taxes to this list as you want so feel
+[04:04] free to go nuts all right up next on the
+[04:07] list that I'm going to click into is
+[04:09] fixed now this option is a fixed tax
+[04:13] computation that is basically a tax
+[04:16] that's always the same amount regardless
+[04:18] of the sales price of the product so
+[04:20] once it's locked in it's locked in no
+[04:22] matter what then a following one we have
+[04:25] percentage of price now this is the type
+[04:28] of tax that you'll probably use most of
+[04:30] the time percentage of price means the
+[04:32] tax is computed by multiplying a
+[04:34] percentage amount of that price in this
+[04:37] case 15 percent and that's going to be
+[04:40] pulled out of the sales price of the
+[04:42] product that's being sold which may
+[04:43] sound a little complex so let me break
+[04:45] it down a bit for you right now okay
+[04:48] so if we're selling a product with a
+[04:50] price of a hundred dollars with a
+[04:52] fifteen percent tax we would multiply
+[04:54] 100 by 0.15 to get the tax amount of
+[04:58] fifteen dollars now that makes the total
+[05:00] price for the customer
+[05:02] 115 dollars in total another way to
+[05:06] write this calculation would be 100
+[05:08] times 1 plus Point fifteen
+[05:12] either way it's pretty standard math
+[05:14] right oh doers now the next tax
+[05:17] computation type on our tax form in our
+[05:20] case is
+[05:21] percentage of price tax included now the
+[05:25] percentage of price tax included option
+[05:26] means the tax amount is computed by
+[05:29] multiplying a percentage amount by the
+[05:31] final price of a product with the tax
+[05:33] already included so let's say that we're
+[05:36] selling a product with a price of a
+[05:38] hundred dollars with the 15 tax again to
+[05:41] find the tax amount we'll multiply the
+[05:43] tax percentage by the total price of the
+[05:46] product including the tax amount so if
+[05:48] we turn this into an equation with the
+[05:51] tax amount being a variable and then
+[05:53] solve for the variable we'll get 17 and
+[05:56] some change for the tax amount then if
+[06:00] we add the tax to the sales price we'll
+[06:01] get a total price of a hundred and
+[06:04] Seventeen dollars and 65 cents over hero
+[06:08] doers now don't worry Honduras I know
+[06:11] that was a lot of stuff that we just did
+[06:13] there's a simplified way to calculate
+[06:15] this because who wants to deal with
+[06:16] complicated math and equations all the
+[06:19] time not me now the easy way to
+[06:21] calculate the percentage of price tax
+[06:22] included is to Simply divide the sales
+[06:25] price by one minus the percentage amount
+[06:28] and that's it not too complicated right
+[06:30] now as you can see with this computation
+[06:32] method the tax amount ends up being a
+[06:35] little bit more than it basically would
+[06:37] with the regular percentage of price
+[06:38] computation even though we're using the
+[06:41] same 15 percent tax as well but let's go
+[06:44] back over hero doers alrighty the very
+[06:47] last one we have is python code option
+[06:49] which is only available when the defined
+[06:52] taxes as python code module is installed
+[06:54] like I showed you earlier
+[06:57] now this tax computation option lets us
+[06:59] compute the tax with custom python code
+[07:02] if none of these other options apply
+[07:04] basically now I know that's a lot to
+[07:06] take in no doers and as you could tell
+[07:08] I'm out of breath I'm ready to relax for
+[07:11] a bit so how about we let those tax
+[07:13] calculations marinate for a bit go up
+[07:15] get a snack take a nap as I already am
+[07:18] and let's get back to this in a second
+[07:21] so let's go do that
+[07:24] foreign

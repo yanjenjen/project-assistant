@@ -1,0 +1,286 @@
+影片 ID: gNuXCNm3kH0
+來源: https://www.youtube.com/watch?v=gNuXCNm3kH0
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:00] [Music]
+[00:00] all right now that we've had our crucial
+[00:03] snack and sleep break it's time to get
+[00:06] back into our tax related tutorial so
+[00:08] previously we just talked about python
+[00:10] code calculations as you can tell
+[00:12] there's a lot more stuff on that page so
+[00:14] how about we both jump right back into
+[00:16] that oh doerers so I'll see you there
+[00:18] now over here onto the right side we
+[00:20] have the tax type
+[00:22] and there's a few options as well now
+[00:24] this field determines which app the tax
+[00:26] is used on and subsequently Which
+[00:29] documents the tax can appear on as well
+[00:31] for instance we choose in our case the
+[00:34] sales to use this tax on sales orders we
+[00:37] would use the none option over here if
+[00:40] we want it to basically
+[00:43] we would actually just use that
+[00:44] essentially if we wanted to include this
+[00:46] text in a group of taxes but don't want
+[00:48] to list it individually with our sales
+[00:50] or purchase taxes how to remember that
+[00:53] one real quick doers so be sure to keep
+[00:55] that in mind now beneath that as well
+[00:57] and we're actually going to set this
+[00:58] back up there to the way it was or we're
+[01:00] just going to go back a little doopsy
+[01:02] now beneath that there's the tax scope
+[01:04] option field over here and when you
+[01:07] click into that it gives you a few more
+[01:10] options now this isn't a required field
+[01:12] but if we do choose a tax scope it will
+[01:14] restrict the configured tax to only be
+[01:16] used on either Goods
+[01:19] or Services over here I'm toggling them
+[01:21] just so that you could see them as well
+[01:23] and in my case as you could tell since I
+[01:25] left it blank there won't be any
+[01:27] restriction whatsoever so let's leave
+[01:28] this blank because I don't like
+[01:29] restrictions and keep moving all right
+[01:32] finally the amount field of course this
+[01:34] is basically the tax amount in this case
+[01:37] it is right now 15
+[01:38] now moving our Focus towards the bottom
+[01:41] of the tax form we'll find the
+[01:43] definition tab over here
+[01:45] and here we'll be able to define the
+[01:47] parameters of this tax even further in
+[01:50] this tab we have a couple of options and
+[01:52] sections we have distribution for
+[01:54] invoices and distribution for refunds
+[01:57] right below it over there let's start by
+[01:59] taking a look up here at the invoices
+[02:01] section
+[02:02] now to configure this section correctly
+[02:05] we must have exactly one line that says
+[02:07] base
+[02:08] and in our case base refers to the order
+[02:11] line in our sales order or invoice this
+[02:14] is important because it is what the
+[02:16] following lines pretty much will be
+[02:18] based upon additionally we also need to
+[02:20] have at least one line for the tax
+[02:22] percentage which in our case is actually
+[02:24] the second line over here
+[02:26] and the account column of this tax
+[02:28] percentage line we can choose the
+[02:30] account in which this particular tax
+[02:32] will be recorded now when we specify an
+[02:34] account here a journal item will
+[02:36] automatically be recorded over in the
+[02:38] accounting app for each basically each
+[02:40] sale that uses this tax every single one
+[02:43] now as you can see for this tax we have
+[02:46] 100 of the tax recorded into this one
+[02:49] account over here
+[02:51] over to the very far right we have this
+[02:53] column over here called tax grids now
+[02:55] this is used to generate tax reports
+[02:57] automatically according to our country's
+[03:00] specific regulations
+[03:02] now below this over here distribution
+[03:05] for refunds we're moving on now this
+[03:07] section operates under those very same
+[03:09] principles so once you know how to
+[03:11] configure one you'll know how to
+[03:12] configure the other one easy squeezy
+[03:14] right there
+[03:15] now if we go over here into the advanced
+[03:18] options tab we have a few other options
+[03:21] we can configure first off we can
+[03:23] actually add a label on invoices which
+[03:25] is what our customers will see on
+[03:27] exported invoices if you don't specify a
+[03:29] label on invoices then the tax name will
+[03:32] appear instead on those invoices then
+[03:35] what else do we have we'll need to
+[03:37] select an accounting Tax Group which
+[03:39] appears above the Total Line on exported
+[03:41] invoices we also have Fields related to
+[03:45] Country and company over here as well
+[03:48] if this tax only applies to one
+[03:50] particular company or country
+[03:52] over here to the right you can choose to
+[03:55] have this tax included in the price
+[03:57] which means that the sales price we list
+[03:59] on our product form will already include
+[04:01] this tax but for now I'm going to leave
+[04:03] that unchecked because I want to show
+[04:05] you guys the math and stuff if we ever
+[04:06] work with it now lastly we could choose
+[04:09] to have this tax affect the base of
+[04:11] subsequent taxes over here
+[04:13] and that basically means taxes with a
+[04:15] higher sequence than this one will be
+[04:17] affected by this tax but again we're
+[04:19] going to leave that unchecked as well
+[04:20] now as a reminder your taxes should
+[04:22] already be configured correctly thanks
+[04:24] to odu's localization package so you
+[04:26] probably won't need to configure a tax
+[04:28] basically set up yourself but it's good
+[04:31] to know how all of this works outdoers
+[04:34] all right now that we know what goes
+[04:36] into configuring attacks let's see how
+[04:38] we can apply it automatically to our
+[04:40] invoices so let's go do that
+[04:42] so in order to see how to apply them
+[04:44] automatically we're going to go up here
+[04:46] to configuration and settings now go on
+[04:49] and head over to the default taxes
+[04:50] section now this is where we can set up
+[04:52] default sales and purchase taxes Now the
+[04:54] default taxes are automatically chosen
+[04:56] according to your company's country but
+[04:58] we can always modify them here whenever
+[05:00] we want also it should be noted that the
+[05:02] default sales tax that's configured here
+[05:04] is the one that's automatically applied
+[05:06] to all our new invoices but again we can
+[05:08] always change which tax we're using on
+[05:10] each individual sales order or invoice
+[05:12] okay like I mentioned before these pesky
+[05:15] tax rates tend to vary greatly by
+[05:17] country no worries though odoo has
+[05:19] built-in tax rules or fiscal positions
+[05:21] so we can automatically apply the
+[05:23] correct tax rate whenever we sell some
+[05:26] stealthy Wood Products outside of the
+[05:28] country now to check that out let's jump
+[05:30] into our fiscal positions Page by going
+[05:32] up here to configuration and fiscal
+[05:34] positions and we see a few right there
+[05:37] all right you'll notice one of them is
+[05:38] called avatax which is only there
+[05:41] because we previously installed the
+[05:42] avatax module in the apps app like I
+[05:45] showed you now since stealthy wood is
+[05:47] located in the good old us of a we can
+[05:49] use the tax cloud or avatax fiscal
+[05:52] position options listed here for those
+[05:54] who may not know these are programs that
+[05:56] help us calculate sales tax rates in
+[05:59] real time for every single city state
+[06:01] and special jurisdiction inside of the
+[06:03] US of a trust me there's a lot of them
+[06:07] all right if you want to learn even more
+[06:09] about them check out our documentation
+[06:11] check out my video that I did on that
+[06:13] for avatax for all you physical fans out
+[06:15] there now we could use one of these or
+[06:18] it could create a new custom fiscal
+[06:19] position from scratch and as a friendly
+[06:22] reminder you should only create new
+[06:24] taxes and fiscal positions when your
+[06:26] accounting team gives you the go ahead
+[06:28] to do so you never want to catch them
+[06:30] off guard with any new unapproved taxes
+[06:32] or fiscal positions as that would lead
+[06:34] to some serious financial problems lucky
+[06:36] for us though the head accountant here
+[06:38] at stealthy wood Carroll Carol said I
+[06:41] can make a new one why well Carol loves
+[06:43] me
+[06:44] so with her blessing let's go ahead and
+[06:46] do that so we're going to select new up
+[06:47] here
+[06:48] all right perfect
+[06:50] so let's make one for I don't know
+[06:52] Country Canada let's do Canada it's
+[06:54] close enough Canada
+[06:58] all right now we're set
+[06:59] now next we can choose to use the avatax
+[07:01] or tax Cloud API but I'm going to leave
+[07:03] those blank for now since those are us
+[07:05] related programs now beneath that we
+[07:08] have a company and that's basically the
+[07:10] company that the fiscal position is
+[07:12] connected to and then over on the right
+[07:14] side over here we see how to configure
+[07:16] when this fiscal position is applied to
+[07:18] a sale I could choose detect
+[07:19] automatically which opens up a couple
+[07:22] new options over here
+[07:24] now we have the option to select vat
+[07:27] required and country group so we're
+[07:28] actually going to select vat required
+[07:30] over here and underneath the country
+[07:32] field we're going to type in Canada
+[07:35] it should appear in this list because it
+[07:37] is a real country
+[07:39] perfect and when I did that you'll
+[07:41] notice two more Fields appeared federal
+[07:43] states and zip range which are there if
+[07:46] we need to further drill down the
+[07:47] specifics related to the country-based
+[07:49] fiscal positions but we're going to
+[07:51] leave those alone right now because I
+[07:52] don't know anywhere in them
+[07:53] okay now moving forward outdoers with
+[07:57] this all set in place this physical
+[07:59] Position will automatically apply to
+[08:01] customers in Canada who have a valid vat
+[08:03] number Perfect all right now we just
+[08:06] need to configure the taxes themselves
+[08:07] which is what these bottom tabs over
+[08:10] here are for so let's say that a product
+[08:12] of ours has a 15 tax in the US but only
+[08:15] five percent in Canada to configure that
+[08:17] we're going to select that align and our
+[08:19] product thing is 15 over here and under
+[08:22] tax to apply and this is where it's
+[08:24] going to get cool we're going to type in
+[08:26] five percent Canada
+[08:29] and I'm going to select the option to
+[08:30] create and edit real quick it's five
+[08:33] percent for Canada so we're gonna go
+[08:35] over here to the amount and we're going
+[08:36] to set it as five percent
+[08:39] once that we do that inside of this we
+[08:41] can actually just hit save and close
+[08:42] and just like that we've created that
+[08:45] now if we click into the account mapping
+[08:47] tab
+[08:48] we can add some additional accounting
+[08:50] rules or any legal notes we may have
+[08:52] inside of this section below over here
+[08:54] but that's more on the accounting side
+[08:56] of things so be sure to check out all of
+[08:59] those accounting tutorials I was going
+[09:01] to give a quick shout out to them
+[09:02] they're awesome
+[09:03] all right we're all done another quick
+[09:06] thing that I can show you before we go
+[09:08] our separate ways is how to specify a
+[09:11] fiscal position directly on a contact
+[09:13] form now to do that we're actually going
+[09:15] to first of all say real quick we're
+[09:17] gonna head home over here
+[09:19] and we're going to select in our case
+[09:20] contacts boom
+[09:23] beautiful
+[09:24] all right uh we're gonna pick anyone in
+[09:27] here you have nice hair Audrey so we're
+[09:29] gonna pick you
+[09:30] now that we're inside of here what do we
+[09:32] want to choose outdoers well if you see
+[09:35] this section over here that basically
+[09:38] says fiscal position
+[09:41] and you select the right one for us
+[09:44] would you look at that oh doers that's
+[09:46] it now this way we can always be sure
+[09:48] the correct fiscal position is applied
+[09:51] to the correct customer there you have
+[09:53] it ladies and gentlemen
+[09:54] those are the detailed ins and outs of
+[09:57] how to configure and apply taxes inside
+[09:58] of odoo

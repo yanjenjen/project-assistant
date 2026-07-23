@@ -1,0 +1,287 @@
+影片 ID: uPMpMH1A6vk
+來源: https://www.youtube.com/watch?v=uPMpMH1A6vk
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:01] [music]
+[00:04] >> What's up, Odooers, and welcome back. My
+[00:06] name is Jose Ignacio. At Stealth Wood,
+[00:08] we're expanding beyond furniture into
+[00:10] upholstery and online selling. But,
+[00:13] selling a chair isn't the same as
+[00:15] billing 5 hours of labor. Each requires
+[00:18] a different way of setting up what you
+[00:19] sell. Today, I'm going to show you
+[00:21] different ways that you can sell with
+[00:23] Odoo. We're going to cover physical
+[00:24] products and inventory, variants and
+[00:26] custom options, service products and
+[00:29] time-based billing, online sales and
+[00:31] price strategies, and by the end of the
+[00:33] video, you're going to have a clear
+[00:35] picture of what your business can offer
+[00:37] and how Odoo supports that. We're going
+[00:39] to keep this high-level and in other
+[00:41] videos, we'll break down each setup and
+[00:43] use case in detail. So, without further
+[00:44] ado, let's jump in.
+[00:46] First, let's enable our settings. So,
+[00:47] I'm going to go to configuration and
+[00:49] then settings. Immediately in our
+[00:51] product catalog section, we're going to
+[00:52] ensure that variants is enabled, just so
+[00:55] that we can house dozens of color and
+[00:56] material combinations in a single
+[00:58] product card. I've also enabled units of
+[01:01] measure and packagings, which is useful
+[01:03] if you buy pillows in bulk but sell them
+[01:05] in packs of three, which is our example.
+[01:08] And under pricing, right below this over
+[01:10] here, you want to ensure that you have
+[01:12] both priceless and discounts enabled to
+[01:14] automate discounts. If you've made any
+[01:16] changes or it's your first time here,
+[01:18] remember to select save up at the top.
+[01:20] Wonderful. Now, we're ready to build.
+[01:23] So, today, I am creating product
+[01:25] variants for our ottoman and applying
+[01:28] some selling strategies to our throw
+[01:29] pillows. So, I'm going to go to products
+[01:31] and then products once again.
+[01:33] I already happen to have an ottoman
+[01:35] product configured, so let's actually
+[01:37] take a look at this. Okay.
+[01:39] So, the product type over here is set to
+[01:41] goods, which is good.
+[01:44] For the invoicing policy over here,
+[01:46] we're going to stick with ordered
+[01:47] quantities. This allows us to bill the
+[01:49] customer as soon as they confirm the
+[01:51] order. I'm also going to enable track
+[01:54] inventory below.
+[01:55] Notice that the smart ones appeared at
+[01:58] the top over here.
+[02:00] It's pretty interesting. We have
+[02:02] our forecasting one and our reordering
+[02:05] smart buttons as well.
+[02:07] Typically, I would need to add the
+[02:09] number of ottomans we have via an
+[02:11] inventory adjustment, but we're going to
+[02:13] skip that for now.
+[02:14] So, this track inventory setting links
+[02:17] the sales up to the inventory
+[02:18] application. When you confirm an order,
+[02:21] Odoo reserves the stock so that you
+[02:23] don't oversell the same item. But
+[02:25] remember, you need the inventory app
+[02:27] installed to use these inventory
+[02:29] tracking features. Learn more about
+[02:31] inventory tracking in the inventory
+[02:33] basics perceive and store stock video.
+[02:36] Anyways, we are back over here. So, the
+[02:39] sales price is $750
+[02:43] over here and our category is furniture.
+[02:47] So, what does that mean? Well, our
+[02:49] ottoman comes in a variety of colors and
+[02:51] materials. Instead of cluttering our
+[02:53] product dashboard with 20 different
+[02:55] ottomans that are all under a furniture
+[02:57] category, I'm going to click our
+[02:59] attributes and variants little tab over
+[03:02] here.
+[03:03] So, we actually offer two types of
+[03:05] fabrics,
+[03:07] two colors, and three sizes.
+[03:09] Odoo automatically generates all 12
+[03:11] unique combinations for us. If I wanted
+[03:14] to add a new one, I would click add a
+[03:15] line down over here, and then, if I
+[03:18] wanted to, I would select the types of
+[03:20] values that I'm working with. We have a
+[03:21] drop-down menu over there as well.
+[03:24] So, for more info on setting up
+[03:25] variants, watch the create product
+[03:27] variants video.
+[03:28] So, up next, I'm going to click into our
+[03:30] nice little prices tab over here. Price
+[03:33] rules are used for creating discounts or
+[03:34] promotions. For the ottoman, any
+[03:37] US-based retailer over here happens to
+[03:40] have a 20% off on a minimum quantity of
+[03:44] five that are ordered. If we wanted to
+[03:46] add another price rule, we would
+[03:48] actually just click over here for add a
+[03:49] price,
+[03:51] and to learn more about how to do these
+[03:52] and how this works, refer to the links
+[03:54] below as well. We're going to discard
+[03:56] this for now.
+[03:57] All right. Now, moving forward, let's
+[03:59] talk accounting. All right. Perfect.
+[04:03] So, here we have an income account and
+[04:06] an expense account, and I actually want
+[04:08] to do something today. I'm going to link
+[04:09] this ottoman specifically to our 4,000
+[04:13] Actually, it's an even bigger number
+[04:14] than that. Our furniture sales account.
+[04:16] Let's just call it that. This allows our
+[04:19] CFO to see exactly which product
+[04:21] categories are driving revenue without
+[04:23] having to dig through individual
+[04:25] invoices. To learn more about account
+[04:27] configuration for products, see the
+[04:29] links below.
+[04:30] So, I'm actually done configuring the
+[04:32] ottoman over here. So, let's move on to
+[04:35] the throw pillow. We're just going to
+[04:36] manually save cuz I'm a little paranoid
+[04:39] princess. We'll just call myself that.
+[04:41] All right. We're going to select our
+[04:42] nice little products breadcrumb over
+[04:44] here,
+[04:45] and then, what was the other one that I
+[04:47] said? The throw pillow. There we go.
+[04:49] We're forgetting things today.
+[04:51] All right. So, let's boost the average
+[04:53] order value. So, I'm going to select our
+[04:55] sales tab inside of here, and under the
+[04:58] upsell and the cross-sell section, we're
+[05:00] going to start doing stuff for
+[05:01] categories by filling out these fields.
+[05:04] In the packagings area, this allows me
+[05:07] to sell our throw pillows in sets of
+[05:09] three. So, we're going to pick that pack
+[05:10] of three right there.
+[05:12] This optional products field allows me
+[05:15] to recommend other products when a
+[05:17] customer adds the ottoman to their cart
+[05:19] on our online store.
+[05:21] So, for this one over here, I'm going to
+[05:24] select
+[05:27] Actually, we have a service that I like
+[05:28] over here, the upholstery service, as I
+[05:31] just talked about. This is a refresh and
+[05:34] restore service that we offer for
+[05:36] furniture.
+[05:37] So, then we also have accessory
+[05:39] products, and that's if they're buying a
+[05:41] throw pillow. So, let's think about what
+[05:44] we would want to also add on to there.
+[05:47] Well, I mean, maybe a sofa in this case.
+[05:51] Force them to pay a little bit more. 84
+[05:53] in woven.
+[05:55] All right. So, this is an accessory
+[05:57] product is basically one that's also
+[05:58] going to show up over during the cart
+[06:00] before payment at checkout.
+[06:03] Alternative products down here, this
+[06:06] lets me list additional products at the
+[06:07] bottom of the product page. So, for this
+[06:09] one, I'm going to add an end table cuz
+[06:12] you kind of got to have a table at the
+[06:13] end of a couch where these pillows also
+[06:15] can go. Remember, this isn't about
+[06:17] selling more, it's about a better
+[06:18] customer experience by suggesting things
+[06:20] that they actually need. We're
+[06:22] indoctrinating them a little bit.
+[06:25] So, we cover this in more detail in the
+[06:26] selling strategies video from the
+[06:28] e-commerce series.
+[06:30] Now, for something different, which is
+[06:31] creating a service product. When you
+[06:33] sell them, Odoo creates tasks and
+[06:35] scheduling in our project and planning
+[06:37] apps. To create another product, I would
+[06:39] select new over here up at the top, but
+[06:41] I'm actually going to select the
+[06:42] upholstery service over here to show you
+[06:44] a preconfigured one.
+[06:46] So, inside of our general information
+[06:48] tab over here, we have a product type
+[06:49] that is set to service.
+[06:51] Notice the new create on order field
+[06:54] right below it. When we select it,
+[06:56] there's a few options that we have. So,
+[06:58] this field is a project app integration
+[07:02] and automatically creates whatever
+[07:04] selected option in the projects app when
+[07:06] an upholstery service quote is
+[07:07] confirmed.
+[07:09] So, no manual emails or forgotten jobs.
+[07:11] The production team sees it instantly.
+[07:14] So, I'm going to set this one to, in my
+[07:17] case, I just want it to be a project, as
+[07:19] it's best for large-scale custom work
+[07:21] that needs its own dedicated workspace.
+[07:24] We have an option to apply a project
+[07:26] template, but I don't actually use any,
+[07:28] so we're going to leave this empty.
+[07:31] Okay. So, then we also have our
+[07:32] invoicing policy. Now, we have a few
+[07:34] options here. Service invoicing requires
+[07:36] a different strategy than physical
+[07:38] goods. Since upholstery labor varies, I
+[07:41] need to choose based on timesheets for
+[07:43] this one.
+[07:45] And we only bill for the actual hours
+[07:47] our team logs, so it's the best option.
+[07:49] I'm also going to make sure that plan
+[07:51] services over here is enabled, and it's
+[07:54] set to an upholsterer, so that our team
+[07:57] sees the demand for shifts inside the
+[07:59] planning app as soon as the sale is
+[08:00] confirmed. And with that, we also need a
+[08:03] sales price, which is $21 per hour over
+[08:07] here, which also means that the category
+[08:09] now
+[08:10] is services, not furniture or anything
+[08:13] else.
+[08:14] Okay. Now that we're done with this,
+[08:15] let's publish our throw pillow as well
+[08:18] onto our online store. So, to make this
+[08:21] go live, we're going to go back after
+[08:23] saving over here to products,
+[08:25] and then we're going to select our nice
+[08:27] little throw pillow.
+[08:29] Okay. So, for this one, we're now going
+[08:31] to select over inside of our
+[08:34] nice little sales area, our e-commerce
+[08:36] shop section is published. All you have
+[08:39] to do is just click on that little
+[08:40] toggle right there.
+[08:42] And then you're all set. If you wanted
+[08:43] to do this in another method, you can
+[08:45] also go to the website where it's
+[08:46] hosted, and you should see this little
+[08:49] publish thing up there as well,
+[08:51] which kind of helps you out with making
+[08:52] sure that it's visible there.
+[08:55] Okay. Now, let's go back over to where
+[08:57] we were. Perfect.
+[08:59] Okay. So, when I scrolled down, by the
+[09:01] way, before I forget, going back to our
+[09:04] website, you kind of notice that this is
+[09:06] now the little area where we have our
+[09:08] pack of three. We have our little
+[09:10] options over here and the 12 little
+[09:12] variants that I talked about, but
+[09:15] I knew you'd miss that.
+[09:17] We have our end table down below. Isn't
+[09:20] that nice?
+[09:22] All right. We're already here. Let's go
+[09:23] express our love for this website and go
+[09:25] to our shop tab. And now we could see
+[09:28] everything there, including the
+[09:30] upholstery service and the price. That's
+[09:32] it. Today, we defined goods versus
+[09:34] services. We've automated project
+[09:36] creation, organized our catalog with
+[09:38] variants, and set up smart pricing. To
+[09:40] see how these product configurations
+[09:42] work in action, watch our tutorial
+[09:44] create your first sales quotation in
+[09:45] Odoo. Thanks for watching, and I'm going
+[09:48] to see you in the next one. Go grab a
+[09:49] snack.
+[09:51] >> [music]

@@ -1,0 +1,197 @@
+影片 ID: zjUHM0TSKZ0
+來源: https://www.youtube.com/watch?v=zjUHM0TSKZ0
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:05] what's up o doers and welcome back
+[00:08] picture this you just bought a special
+[00:10] item that you've been dreaming about for
+[00:11] weeks it's a good feeling but what makes
+[00:14] that experience even more special
+[00:16] getting a free gift card with your
+[00:18] purchase of course when you provide
+[00:20] incentives like gift cards to your
+[00:22] customers you not only encourage them to
+[00:24] purchase more items to reach the amount
+[00:25] needed for the gift card but you also
+[00:28] give them a more rewarding and meor able
+[00:30] shopping experience that'll have them
+[00:32] coming back to your shop again and again
+[00:34] and more business is always a good thing
+[00:36] right ODU makes it easy to set up gift
+[00:39] cards for your business with our gift
+[00:40] card programs in the sales app we can
+[00:43] generate new gift cards modify them how
+[00:45] we like and have our customers use them
+[00:47] in our online shop let's see how it
+[00:50] works okay to get started we're just
+[00:52] going to head to our sales application
+[00:54] click the configuration header at the
+[00:56] top followed by settings here in the
+[00:59] pricing section we just want to make
+[01:01] sure that our promotions loyalty and
+[01:02] gift card setting is enabled if you
+[01:05] haven't done so in your database make
+[01:06] sure to check that tech box and then
+[01:08] click save before moving
+[01:10] on cool with that set up we're just
+[01:12] going to click the products header
+[01:14] followed by gift cards and ew wallet
+[01:17] here we can see a list of all of our
+[01:19] gift card programs that we have set up
+[01:20] in our database we can also confirm that
+[01:23] this is a gift card by looking at the
+[01:25] program type column in here where is
+[01:28] listed we can see it says gift card
+[01:30] under the items column we can also see
+[01:32] how many of these gift cards have been
+[01:34] generated this one has zero while this
+[01:36] one has 10 and we can also see if this
+[01:39] is associated with any website or POS
+[01:42] system even what company and we'll get
+[01:44] further into that later in the video
+[01:47] here at stealthy wood we're starting up
+[01:48] a promotion to send a $60 gift card to
+[01:51] anyone who purchases our latest Alpine
+[01:53] table design so let's make a brand new
+[01:55] gift card program and to start that
+[01:57] we're just going to click new in the
+[01:58] upper leftand corner
+[02:01] when we do this opens a create a new
+[02:03] program page and we can start by giving
+[02:06] this a name so our employees know what
+[02:08] the gift card's for so I'm just going to
+[02:11] type 60 off with
+[02:16] alpine
+[02:19] table and next we can check the program
+[02:22] type it's already set to gift card so
+[02:24] we're just going to leave it as is and
+[02:26] below that is the gift card products
+[02:28] field this is is where you enter the
+[02:30] gift card products configured elsewhere
+[02:32] in the database these are actual cards
+[02:34] customers purchase that have a
+[02:36] predetermined amount of money on them so
+[02:39] we're just going to leave this to the
+[02:40] default gift card
+[02:42] setting next we have the email template
+[02:45] field here's where we can select a
+[02:47] preconfigured email that'll be sent to
+[02:49] the customer when they receive the gift
+[02:50] card if we want we can change it by
+[02:53] clicking into this drop- down menu and
+[02:55] selecting a different template but we
+[02:57] can also see what this template looks
+[02:59] like by clicking the internal link arrow
+[03:02] to the right of
+[03:03] it and then when we click into that
+[03:05] we'll see a full preview of what the
+[03:07] customers see when they receive their
+[03:09] gift card but we're just going to use
+[03:11] the breadcrumbs to get back
+[03:16] here and next we have our print report
+[03:20] now this field only appears in the point
+[03:22] of sale application if it's installed of
+[03:25] course and the print report is what
+[03:27] would be printed and given to customers
+[03:29] who purchase physical gift card through
+[03:31] one of our kiosks so we're going to set
+[03:34] this to gift
+[03:37] card below that we have the option to
+[03:39] configure things like which currency we
+[03:42] want our gift card in which company this
+[03:44] gift card is associated with as well as
+[03:47] what applications this gift card is
+[03:49] available
+[03:51] on if any of these checkboxes are
+[03:54] selected we have some extra options
+[03:56] where we can choose which point of sale
+[03:58] or which website this is applicable for
+[04:01] but we're just going to leave this to
+[04:02] all websites and all POS
+[04:05] options all right now we've got
+[04:07] everything configured the way we want so
+[04:09] it's time to generate some gift cards to
+[04:12] do that all we have to do is click the
+[04:13] generate gift cards option here at the
+[04:15] upper left hand
+[04:17] corner and now let's see how we can
+[04:20] generate the gift cards first we can
+[04:22] choose between Anonymous customers and
+[04:24] selected customers if we choose selected
+[04:27] customers then we can select specific
+[04:28] customers that ow to will send gift
+[04:30] cards too the quantity to generate field
+[04:33] becomes uncustomized as ODU
+[04:35] automatically Updates this field to
+[04:37] corespond to the selected customers
+[04:39] above on the other hand if we select
+[04:41] Anonymous customers we can decide on the
+[04:44] quantity to generate and the gift card
+[04:46] value and we're going to set the
+[04:49] quantity to generate to 100 and we'll
+[04:52] set the gift card value to
+[04:56] 60 and below that we have a valid until
+[04:59] field and this is where we can select
+[05:02] how long these cards are valid for so
+[05:05] we're just going to click into this
+[05:06] field and let's say three
+[05:11] months and finally we have a description
+[05:14] section here and we could set this
+[05:18] to
+[05:20] $60 gift card for
+[05:25] Alpine table purchase
+[05:30] and then after you enter your
+[05:31] description assuming everything looks
+[05:32] good to you all you have to do is Click
+[05:35] generate gift
+[05:37] card and just like that you'll notice
+[05:39] the gift card smart button here at the
+[05:41] top shows 100 cards have been generated
+[05:44] to send these gift cards off manually we
+[05:46] can first click into the smart button
+[05:48] here and then we can see a full list of
+[05:51] all the gift cards that we created as
+[05:54] well as the respective columns that we
+[05:56] previewed
+[05:57] earlier and if we want wanted to send
+[06:00] this to a specific customer all we have
+[06:02] to do is click Send here next to
+[06:04] whatever gift
+[06:07] card and then on this page we can either
+[06:10] customize this further if we'd like or
+[06:13] we can just go ahead and enter the name
+[06:15] or email address of the customer who
+[06:16] bought the Alpine table we're going to
+[06:19] use Deco addict for this example and
+[06:21] then just click
+[06:23] Send and just like that Deco addict has
+[06:26] a sweet deal hitting his inbox just
+[06:28] about now
+[06:30] now you might be asking yourself how
+[06:32] does this look on my customer end great
+[06:35] question let's take a look let's say
+[06:38] we're Deco attic and we're looking to
+[06:39] cash in that sweet gift card we got
+[06:41] earlier now I've been eyeing this office
+[06:43] lamp for some time now and it looks like
+[06:45] our gift card will cover the full amount
+[06:47] so let's click into the office lamp add
+[06:50] it to our cart and then click view
+[06:54] cart below the total area we can see a
+[06:57] field labeled gift card or discount code
+[07:01] here's where we can put in our coupon
+[07:02] code that was sent to our email earlier
+[07:05] I already copied it to my clipboard so
+[07:06] I'm just going to paste it in here and
+[07:08] then click
+[07:10] apply as you can see the coupon code has
+[07:13] been successfully applied and we can
+[07:15] proceed to check out pretty easy right
+[07:18] and that'll do it for today o doers we
+[07:20] saw how to set up gift card programs how
+[07:23] we could send those cards out to our
+[07:24] customers and how those customers can
+[07:26] use their gift cards in our e-commerce
+[07:28] shop thanks for sticking around and I'll
+[07:30] see you in the next video

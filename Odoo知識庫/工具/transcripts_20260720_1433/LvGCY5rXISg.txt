@@ -1,0 +1,262 @@
+影片 ID: LvGCY5rXISg
+來源: https://www.youtube.com/watch?v=LvGCY5rXISg
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:05] what's up o doers and welcome back today
+[00:08] I'm going to show you how to create
+[00:09] products in the Odo sales application
+[00:11] with Odo you can configure goods or
+[00:13] services apply attributes and variants
+[00:15] add optional accessory and alternative
+[00:18] products and so much more so let's jump
+[00:20] into our database to see how easy it is
+[00:22] to set a products in the Odo sales
+[00:24] application let's start on our sales app
+[00:26] dashboard from here we'll go to products
+[00:28] and then products once again then we'll
+[00:30] click new to open a blank product form
+[00:33] let's say we're creating a new form for
+[00:35] our new modern office chair so let's
+[00:37] start by typing in modern office
+[00:41] chair next we'll add an image of our
+[00:43] product so our customers know exactly
+[00:45] what they're buying to do that we'll
+[00:46] click the pencil icon that appears when
+[00:48] we hover over this camera Square find
+[00:51] our file to upload and select
+[00:54] it nice beneath the product title we
+[00:56] have a few check Boxes by default the
+[00:59] sales and purchase box are ticked the
+[01:01] sales check box means that it can be
+[01:02] sold and the purchase Box means that it
+[01:04] can be purchased from a vendor the
+[01:06] subscriptions box should only be ticked
+[01:08] when creating a subscription product or
+[01:10] service to learn more about that check
+[01:12] out our tutorial about subscription
+[01:14] products next in the journal information
+[01:16] tab to start we have the product type
+[01:18] field this is where we have the option
+[01:20] to designate this product as a Goods or
+[01:22] service if this product was a
+[01:25] service other fields appear first we
+[01:28] would decide if anything should be
+[01:30] created when we click on the create on
+[01:32] order field by default the nothing
+[01:35] option is selected but Odo can also
+[01:37] create a task project and task or just a
+[01:40] project whenever this item is
+[01:43] purchased doing so would let our
+[01:44] employees know via the integrated
+[01:46] projects application that there's a
+[01:47] recently ordered service that requires
+[01:49] their attention then they can start
+[01:51] servicing the customer promptly without
+[01:53] getting lost in the shuffle so to speak
+[01:55] we also have different invoicing policy
+[01:58] options we could choose to invoice the
+[02:01] customer with a prepaid fixed price
+[02:03] which is the default option or we can
+[02:05] choose to have our invoice based off of
+[02:07] Milestones or on delivered
+[02:10] quantities the last two options based on
+[02:12] milestones and based on delivered
+[02:14] quantities are directly related to how
+[02:16] our employees invoice the customer as
+[02:18] they deliver the ordered service to the
+[02:20] customer perhaps there are certain
+[02:22] Milestones that can be reached
+[02:24] throughout the service and we want to
+[02:25] invoice the customer whenever one of
+[02:26] those is reached for example if they
+[02:28] ordered a remodel in service we could
+[02:31] invoice them after an initial estimate
+[02:33] then after the demolition is finished
+[02:35] and so on the same mentality can be
+[02:37] applied to an invoicing policy for based
+[02:39] on delivered quantities only with that
+[02:41] policy it would be related to specific
+[02:43] quantities related to the service that
+[02:45] has been delivered as opposed to the
+[02:47] predetermined
+[02:48] Milestones below that we have the plan
+[02:51] Services check boox when that's ticked
+[02:53] and additional field appears this is
+[02:56] where we can select a specific employee
+[02:58] rule that ODU would plan shifts for
+[02:59] should the service be ordered for
+[03:01] example if this was a troubleshooting
+[03:03] service we'd assign our maintenance
+[03:06] technician and ODU would instantly plan
+[03:08] a ship for them via the integrated
+[03:10] planning app whenever this is ordered
+[03:12] makes sense
+[03:14] right but let's go ahead and switch this
+[03:16] product type back to Goods because
+[03:18] obviously a chair is not a service if we
+[03:21] didn't need to track the exact quantity
+[03:23] of an item for example like how many
+[03:25] pens there are in the office we could
+[03:27] bypass the track inventory option
+[03:29] entirely
+[03:30] but since we want to keep track of our
+[03:32] modern office chairs we'll go ahead and
+[03:34] tick the track inventory
+[03:36] box when we do various smart buttons in
+[03:39] fields appear allowing us to have more
+[03:41] options on how to decide how we want to
+[03:43] track the
+[03:44] inventory the default option is buy
+[03:47] quantity but we could also track it by
+[03:50] Lots or unique serial numbers but we'll
+[03:52] keep it set to buy quantity for
+[03:54] now then we can choose some good
+[03:57] specific invoicing options
+[03:59] here in the invoicing policy we can
+[04:01] invoice the customer based off of
+[04:02] ordered quantities or delivered
+[04:04] quantities we'll keep it on the default
+[04:06] ordered quantities option so we can
+[04:08] invoice the customer right after they've
+[04:10] placed their order without having to
+[04:11] wait for it to be
+[04:13] delivered on the right side of the
+[04:15] general information tab we have some
+[04:16] Financial related fields these stay the
+[04:18] same regardless of what product type is
+[04:20] chosen We'll add a sales price of
+[04:25] $75 and we'll keep the default 15% sales
+[04:28] tax for this video and and we'll also
+[04:30] bypass the avatax category if you want
+[04:32] to learn more about that be sure to
+[04:34] check out our documentation we'll also
+[04:36] skip over cost and purchase taxes fields
+[04:38] for now because we're solely focused on
+[04:40] adding this product for the
+[04:42] video in the category field we'll go
+[04:44] ahead and type office
+[04:46] furniture and select all salable office
+[04:49] furniture this product to the other
+[04:51] products in the internal category field
+[04:53] and if we want to add a specific
+[04:55] reference which is where SKS or barcodes
+[04:57] is related to UPC RC we do those in the
+[05:01] respective field here now if you're
+[05:04] working in a multi-company environment
+[05:05] and want to select this product for a
+[05:08] specific company then you'd add that
+[05:10] specific company in this field here
+[05:13] however if you leave it blank it'll be
+[05:15] visible to all companies in the
+[05:17] database lastly if we wanted to add any
+[05:19] internal notes for our employees about
+[05:22] the product we'd enter them in this
+[05:24] field here at the bottom like for
+[05:26] example we could put my fave
+[05:32] share jumping up into the attributes and
+[05:35] variance tab we can add different colors
+[05:37] or materials if applicable for example
+[05:39] let's say we also have a red version of
+[05:41] this product so we can click add a line
+[05:45] put color for the attribute and in the
+[05:47] value section here we can add
+[05:50] red now hopping into the sales tab we
+[05:53] can customize this even further and in
+[05:55] the upsell SLC cross cell section here
+[05:58] we can add optional accessory and
+[06:00] alternative products the optional
+[06:02] product Fields allows you to add
+[06:04] complimentary products that will be
+[06:05] recommended to the customer during
+[06:07] checkout to hopefully entice them to add
+[06:08] it to their cart since this is a chair
+[06:11] we can add the customizable desk to the
+[06:14] optional field because chairs and desks
+[06:17] go nicely together wouldn't you say in
+[06:20] the accessories field here directly
+[06:21] below We'll add a supplemental item that
+[06:24] enhances the chair's use for example we
+[06:26] can add our floor protection for the
+[06:29] chair here
+[06:31] for the Alternatives products field this
+[06:33] is where we can suggest similar products
+[06:35] for our customers which they can
+[06:37] considered during the transaction
+[06:39] process so since this is a chair let's
+[06:41] go ahead and add our conference chair
+[06:44] here in the e-commerce section to the
+[06:47] right we can select what website it
+[06:49] appears on and we can categorize it
+[06:51] making it easier for our customers to
+[06:52] search for and find below that we have
+[06:55] the option to continue selling this item
+[06:57] even if it's out of stock and we can
+[06:59] also show how many of this item is left
+[07:01] in our
+[07:02] inventory we even have the option to
+[07:04] create an out of stock message that's
+[07:07] shown to our customers when we run out
+[07:08] of this
+[07:09] product in the e-commerce shop section
+[07:11] we can add tags to our item which adds
+[07:15] to the additional organization of our
+[07:16] products on our e-commerce store so for
+[07:19] this product let's go ahead and ADD
+[07:21] office and chair you can also add as
+[07:24] many tags as you'd like next in the
+[07:27] e-commerce media section we can add any
+[07:29] supplemental content for this product to
+[07:31] be shown alongside it on our e-commerce
+[07:33] store this could be other images or even
+[07:36] a product
+[07:37] video moving to the inventory
+[07:40] tab this is where various fields are
+[07:43] related to the operations and Logistics
+[07:45] of the tab like a specific inventory
+[07:47] route which appears when other apps like
+[07:49] purchase and Manufacturing are installed
+[07:51] there are also Fields designated to the
+[07:53] products weight volume and more which
+[07:55] are important to know for shipping
+[07:57] logistic operations that occur elsewhere
+[07:59] in do for the sake of time though I'm
+[08:02] just going to show you where these
+[08:03] fields are and you can check out our
+[08:05] inventory tutorials and documentation to
+[08:06] learn
+[08:07] more lastly in the accounting tab this
+[08:10] is where you can designate the income
+[08:11] and expense accounts for this specific
+[08:13] product allowing us to automatically
+[08:15] track the income and expense information
+[08:16] related to the product in the accounting
+[08:19] application now at the top of the form
+[08:22] you'll find various analytical smart
+[08:23] buttons for different metrics related to
+[08:25] the product these populate with data as
+[08:27] the product gets stored and purchased
+[08:30] amongst those is the go to website smart
+[08:32] button you'll notice that right now it's
+[08:34] red which means that the product is not
+[08:35] published making it impossible for
+[08:37] customers to view or buy on our website
+[08:40] so let's change that now we'll go ahead
+[08:42] and click the go to website smart
+[08:45] button which takes us to the product
+[08:47] page of our online store we would still
+[08:49] want to add a product description in
+[08:51] more details here but we can publish
+[08:53] this right away and work on that later
+[08:55] to do this at the top of the page you'll
+[08:56] see that this toggle switch is
+[08:58] unpublished when we click that toggle
+[09:01] switch it now changes to publish and our
+[09:03] product is now ready to be seen bought
+[09:05] and enjoyed by our customers and there
+[09:08] you have it OD doers that's how you
+[09:10] create and publish a product in Odo
+[09:11] sales stay tuned for more awesome
+[09:13] tutorials to learn even more about this
+[09:15] amazing application thanks for watching
+[09:17] and I'll see you in the next video

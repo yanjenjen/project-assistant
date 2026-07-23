@@ -1,0 +1,282 @@
+影片 ID: RdniKQlnxTQ
+來源: https://www.youtube.com/watch?v=RdniKQlnxTQ
+下載時間: 2026-07-20 14:33
+============================================================
+
+[00:01] foreign
+[00:04] ERS if you're like me you love a good
+[00:07] promotional sale and there's nothing
+[00:10] like scoring a great deal on my righto
+[00:12] doers anyways here at stealthy wood we
+[00:15] wanna we wanna replicate that feeling
+[00:17] and that same joy to our customers by
+[00:19] offering discounts coupons and other
+[00:21] promotions on our products now
+[00:22] promotions not only encourage customers
+[00:24] to buy items from us they also attract
+[00:26] new customers to our business by
+[00:28] tempting them with great deals and
+[00:30] promotions with limited availability
+[00:32] entice our customers to pull the trigger
+[00:34] on their potential purchase now before
+[00:37] they miss out and the deal is gone no
+[00:39] matter how you slice it promotions are a
+[00:41] proven way to organically grow Revenue
+[00:43] now look I could talk about this kind of
+[00:46] stuff all day but how about we just jump
+[00:48] into our stuff with database so I can
+[00:50] show you just how easy it is to set up
+[00:52] promotions with ODU sales so for this
+[00:55] video we're going to focus on discounts
+[00:57] but we have other tutorials that take a
+[00:59] closer look at coupons loyalty programs
+[01:01] and other types of promotions so check
+[01:03] those out as well now enough chit
+[01:05] chatting let's jump in
+[01:07] once again we find ourselves on our
+[01:09] sales dashboard now from here we're
+[01:10] going to navigate up here to
+[01:11] configuration and settings now once the
+[01:14] deck has a quick loading you want to
+[01:15] make your way over to the pricing
+[01:17] section over here
+[01:18] now we'll want to make sure that the
+[01:20] discounts loyalty and gift card option
+[01:22] is activated as you can see with ours
+[01:24] our feature is already selected just to
+[01:26] save you time if you need to activate it
+[01:28] just click the little check box go on
+[01:30] ahead and hit save over here and you're
+[01:33] locked in now once that you've done that
+[01:35] you'll probably be ready to join us on
+[01:37] our magical promotions Journey we're
+[01:39] about to embark on So speaking of let's
+[01:41] get things started by going up here to
+[01:42] products and discounts and loyalty
+[01:46] so here on the discounted loyalty page
+[01:49] we'll find a few promotional programs
+[01:51] that I've already set up but let's click
+[01:53] new because we're going to make another
+[01:55] one I can't get enough of these all
+[01:57] right on the program form we'll start by
+[01:59] giving this a name how about we create a
+[02:01] 15 discount for our customers so in that
+[02:04] case we'll title this 15 off orders as
+[02:09] always it's because I'm very clever with
+[02:10] these names moving forward below the
+[02:14] program name you'll notice we have a
+[02:15] program type and if we click that field
+[02:17] we actually see a bunch of different
+[02:19] options that we have we can do a coupon
+[02:20] change of stuff here Loyalty cards
+[02:24] a lot of other things as well now up at
+[02:27] the top we have and I'll go through them
+[02:29] let's talk about the fact that we have
+[02:30] coupons now this is used to generate
+[02:32] specific coupon codes that we can send
+[02:33] to individual customers up next we have
+[02:36] what I like to call next order coupons
+[02:38] which is a customer send specific
+[02:41] coupons they can use on their next order
+[02:43] with us but don't worry like I said
+[02:45] there's a separate tutorial where I
+[02:47] teach you how to configure coupons in
+[02:48] general and in greater detail as well so
+[02:51] be sure to check that out then there's
+[02:53] another option that I want to talk about
+[02:54] which is the Loyalty cards and that
+[02:57] allows you to set up a loyalty program
+[02:58] for customers but again I go over that
+[03:01] again in another video now moving on
+[03:03] promotions
+[03:05] that is a very general option that is
+[03:07] typically used if our intent with this
+[03:08] program doesn't exactly fit the criteria
+[03:10] of any of those other specific options
+[03:12] now the very other last one pretty much
+[03:15] at this point is discount code is the
+[03:16] option we use when we want our customers
+[03:18] to enter a code at checkout in order to
+[03:21] redeem the discounted benefits of a
+[03:22] promotion and I lied lastly we have the
+[03:25] buy X get y option this option is used
+[03:28] when we want to give away free
+[03:32] free products with any type of order
+[03:35] like buy three cabinets get a fourth
+[03:38] cabinet free if you want more Cabinets
+[03:39] Now for this video we're actually going
+[03:41] to go with discount code because all of
+[03:43] those will be covered at some point as
+[03:45] well now we're going to leave the
+[03:46] currency field as is and direct our
+[03:48] attention over here to the validity
+[03:50] field now in this field we can choose a
+[03:52] date for the future for this promotion
+[03:54] to officially end so we're going to
+[03:55] select the date in the future and I'm
+[03:57] going to pick tomorrow
+[03:59] now next week on the 7th because it's a
+[04:02] lucky day so we've already picked
+[04:04] October 7th which is a month from now
+[04:07] okay or if you actually never wanted to
+[04:10] expire you actually just have to leave
+[04:11] this blank and it'll be valid in
+[04:13] definitely at this point now beneath
+[04:15] that we can actually choose to limit the
+[04:17] usage of this basically this promotion
+[04:20] to a certain number of customers let's
+[04:22] say for this one I only want
+[04:25] 420 usages
+[04:29] it'll only wear 420 times and that's
+[04:32] beautiful
+[04:34] now up next if you're working in a
+[04:35] multi-company environment you can make
+[04:37] sure that this promotion only applies to
+[04:39] a specific company here inside of the
+[04:41] company field that I've hovered over or
+[04:43] you can leave it blank and it'll apply
+[04:45] to all of your companies in your
+[04:46] database now below that we have a few
+[04:48] other options with the available on
+[04:50] field where we can choose whether we
+[04:52] want this promotion to be available on
+[04:54] the sales app
+[04:55] website point of sale now obviously you
+[04:58] would need to have these specific
+[04:59] applications installed for these options
+[05:01] to be available in this field so please
+[05:03] be sure to keep that in mind now another
+[05:05] thing that should be noted here is that
+[05:07] the website option itself must be
+[05:10] checked in order to use this promotion
+[05:12] on your website and your store since
+[05:16] most of our business comes from there I
+[05:18] think it's best we keep that box checked
+[05:20] also we want to actually we want to make
+[05:24] this discount to be usable on all of our
+[05:26] websites so we're actually going to
+[05:27] leave this websites field as is to all
+[05:30] websites okay everything at this point
+[05:31] looks pretty good now let's take a look
+[05:33] at our rules and our rewards tab down
+[05:35] here at the bottom in this section we
+[05:37] could customize the conditional rules
+[05:38] and rewards related to this promotion at
+[05:41] the moment if our customers use this
+[05:42] code right now that we have that says
+[05:46] promo code and a bunch of numbers it
+[05:49] basically means that their purchase will
+[05:51] receive a discount which is nice and all
+[05:52] but I think we can fine tune this a bit
+[05:54] more so in our case we're actually going
+[05:57] to click on
+[05:59] the conditional rules again we're going
+[06:00] to add one at this point
+[06:02] now let's start by changing the discount
+[06:05] code associated with this promo and in
+[06:08] our case I've actually created a new one
+[06:10] I actually want to edit the other one so
+[06:12] let's change this one from promo code
+[06:14] and a bunch of numbers over here after
+[06:17] our odoopsy to odoopsy 15 because I
+[06:21] messed up
+[06:22] there that's perfectly better at this
+[06:25] point you also notice that there aren't
+[06:27] any conditions set right now so let's
+[06:28] adjust a couple things what if we make
+[06:30] it so they get a 15 discount with a
+[06:32] purchase of 100 or more well in our case
+[06:35] we want that to be 100 right there
+[06:38] and now it's set up
+[06:39] and let's actually make that the B tax
+[06:43] include no actually let's exclude tax we
+[06:45] want to be making sure we get our profit
+[06:48] margins now down here in the among
+[06:50] section we can choose specific products
+[06:52] or product categories that would need to
+[06:54] be purchased to count towards this
+[06:55] minimum purchase price but personally I
+[06:57] want this promotion apply to all of our
+[06:59] products so we're actually just going to
+[07:00] leave these all blank okay I'm happy
+[07:02] with that everything looks at this point
+[07:04] so let's go ahead and click save and
+[07:05] close
+[07:07] beautiful we're all done now rewards and
+[07:10] this is very important we're going to
+[07:12] click on the existing one okay
+[07:14] for the reward type we have the option
+[07:16] to give a discount a free product
+[07:20] free shipping and that type of stuff
+[07:23] we are working with a discount
+[07:26] but let's talk about some of the other
+[07:28] ones so for the reward field now the
+[07:31] reward for this promotion is set to 10
+[07:33] on specific products
+[07:35] and that is because well we want the 10
+[07:39] to apply on things such as our stealthy
+[07:41] wood t-shirt which you could see over
+[07:44] here inside of the discounted product
+[07:45] sections which is great and all but we
+[07:47] also have the option to give them a
+[07:48] discount on their entire order or the
+[07:50] cheapest product on their order as well
+[07:52] actually while we're here I'll fill you
+[07:55] in on a little trick if you ever wanted
+[07:56] to do a promotion where the customer
+[07:58] gets their cheapest item free here's how
+[08:00] you do it you select discount up here
+[08:03] right and then you want to change it
+[08:05] over here to 100 percent on and you're
+[08:09] following me here cheapest product boom
+[08:12] pretty easy right this is just one of
+[08:14] the many ways you can customize
+[08:15] promotions with odoo but for this
+[08:16] example we're going to go with a more
+[08:18] straightforward approach a 15 discount
+[08:23] on the entire order
+[08:26] so see right there it's perfect now to
+[08:29] the right you'll notice that we have the
+[08:30] option to enter a maximum discount which
+[08:32] would put a limit on how large of a
+[08:34] discount a customer could get as a
+[08:36] monetary amount we also have the option
+[08:38] to add in a custom description as you
+[08:40] can tell down here and this will make it
+[08:42] you know visible to your customer when
+[08:44] they make their purchase so it's a good
+[08:46] idea to put stuff there now the default
+[08:48] description will just tell them what it
+[08:49] is and it's pretty good so at this point
+[08:52] I actually want to hit save and close
+[08:54] boom now that we're all done I'm also
+[08:57] going to save manually I want to lock
+[08:59] all of this in and there we go those are
+[09:01] the ins and outs of how to configure a
+[09:03] discount program using odoo now whenever
+[09:05] a customer uses the odupsy
+[09:08] the 2c15 code sorry it's really funny
+[09:11] they'll get a 15 discount on their
+[09:13] entire order but they better act quick
+[09:16] because once that this code has been
+[09:17] used 420 times it'll no longer work just
+[09:20] like we configured so let's see that in
+[09:23] action
+[09:24] so here we are on the stealthy wood
+[09:26] website now let's select something to
+[09:28] buy we're going to buy this large
+[09:29] cabinet because it ends in 20. we're
+[09:31] going to add that to the car you're
+[09:33] gonna go to that car and you see the
+[09:35] section over here that says discount
+[09:36] code well we're about to have no dupsy
+[09:39] right there and this time it'll save us
+[09:41] 15 on our order just like that boom say
+[09:44] goodbye to 15 of that total because we
+[09:46] just used our newly configured discount
+[09:48] code that's it folks that's how you
+[09:50] quickly and easily set up a promotional
+[09:52] discount code with odoo sales it really
+[09:54] couldn't be simpler than that have a
+[09:56] good one Bro Doers
+[09:58] foreign

@@ -99,38 +99,74 @@ Track A 檔案：
 
 ## Sales 模組
 
-狀態：📖 知道（多個功能已在 Notion 整理）
+狀態：🔄 草稿（31 支影片完成，Track A 全部更新 2026-07-20；依 Sales/README.md 待最終確認後升級為 📖 知道）
 
-Track A 檔案（空殼，待逐字稿填入）：
-- [[../../Odoo知識庫/Sales/README|Sales 模組說明]]
+Track A 檔案：
+- [[../../Odoo知識庫/Sales/01_功能概覽|Sales 功能概覽]]
+- [[../../Odoo知識庫/Sales/02_操作SOP|Sales 操作 SOP]]
+- [[../../Odoo知識庫/Sales/03_欄位與單據清單|Sales 欄位與單據清單]]
+- [[../../Odoo知識庫/Sales/04_內控點與風險|Sales 內控點與風險]]
+- [[../../Odoo知識庫/Sales/05_Demo情境腳本|Sales Demo 情境腳本]]
+- [[../../Odoo知識庫/Sales/06_常見問題|Sales 常見問題]]
 
-已涵蓋功能（Notion Track B）：
-- Sales Basics（銷售基礎）
-- Selling Products（銷售產品）
-- Create Products（建立產品）
-- Invoicing Policies（發票政策）
-- Delivery Prices（運費價格）
-- Loyalty Programs（會員點數計畫）
-- Commission Plans（佣金方案）
-- Dropshipping（直送）
-- Gelato Connector
+已涵蓋功能（SAL01–SAL31，2026-07-20）：
+- SAL01：Invoicing for what is ordered（依訂購數量開票）
+- SAL02：Invoicing for what is delivered（依交付數量開票）
+- SAL03：Selling products（銷售產品總覽）
+- SAL04：Create your First Sales Quotation（建立第一張報價單）
+- SAL05：Adding headers and footers to quote templates（報價範本頁首頁尾）
+- SAL06：Sales Basics（銷售基礎介面導覽）
+- SAL07：Your First Quotation（第一張報價操作）
+- SAL08：Create Products（建立產品）
+- SAL09：Create Product Variants（建立產品變體）
+- SAL10：Quotation Templates（報價範本）
+- SAL11：PDF Quote Builder（PDF 報價建構器）
+- SAL12：Product Documents（產品文件）
+- SAL13：Online Quotation（線上報價）
+- SAL14：Invoicing Policies（發票政策）
+- SAL15：Pipeline Management for B2B（B2B 管線管理）
+- SAL16：Promotion Basics & Discounts（促銷基礎與折扣）
+- SAL17：Coupons（優惠券）
+- SAL18：Loyalty Programs（會員點數計畫）
+- SAL19：Gift Card Programs（禮品卡方案）
+- SAL20：Sales Tax: Part 1（銷售稅 Part 1）
+- SAL21：Sales Tax: Part 2（銷售稅 Part 2）
+- SAL22：Sales Tax: Part 3（銷售稅 Part 3）
+- SAL23：Delivery Prices（運費設定）
+- SAL24：Delivery Lead Times（配送前置時間）
+- SAL25：Dropshipping（直送）
+- SAL26：Pricelists: Multiple Prices Per Product（多重定價）
+- SAL27：Pricelists - Discounts and Margins（折扣與利潤）
+- SAL28：Commission Plans（佣金方案）
+- SAL29：Gelato Connector（Gelato 整合）
+- SAL30：Quote Calculator Basics（報價計算機）
+- SAL31：Using the Product Import Template（產品匯入模板）
 
 ---
 
 ## Purchase 採購模組
 
-狀態：🖥 能操作（多個功能已有完整 SOP）
+狀態：🔄 草稿（PAL01–PAL10 全部 10 支影片完成，Track A 01–06 全部填入 2026-07-22；待最終確認後升級為 📖 知道）
 
-Track A 檔案（空殼，待逐字稿填入）：
-- [[../../Odoo知識庫/Purchase/README|Purchase 模組說明]]
+Track A 檔案：
+- [[../../Odoo知識庫/Purchase/01_功能概覽|Purchase 功能概覽]]
+- [[../../Odoo知識庫/Purchase/02_操作SOP|Purchase 操作 SOP]]
+- [[../../Odoo知識庫/Purchase/03_欄位與單據清單|Purchase 欄位與單據清單]]
+- [[../../Odoo知識庫/Purchase/04_內控點與風險|Purchase 內控點與風險]]
+- [[../../Odoo知識庫/Purchase/05_Demo情境腳本|Purchase Demo 情境腳本]]
+- [[../../Odoo知識庫/Purchase/06_常見問題|Purchase 常見問題]]
 
-已涵蓋功能（Notion Track B）：
-- Purchase Lead Times（採購提前期）
-- Vendor Pricelist（供應商價格表）
-- Approvals & Warnings（採購審批與警示）
-- Bill Control（供應商帳單控制）
-- Reordering Rules（補貨規則）
-- Purchase Templates（採購範本）
+已涵蓋功能（PAL01–PAL10，2026-07-22）：
+- PAL01：Purchase Basics: Your First Request for Quotation（第一張詢價單）
+- PAL02：Purchase Lead Times（採購前置期）
+- PAL03：Reordering Rules（補貨規則）
+- PAL04：Vendor Pricelists（供應商價格表）
+- PAL05：Approvals & Warnings（採購審批與警示）
+- PAL06：Blanket Orders（總括訂單）
+- PAL07：Bill Control（3-Way Matching）（帳單控制／三方比對）
+- PAL08：Purchase Agreements: Alternative RFQs - Calls for Tender（採購協議／招標比價）
+- PAL09：Purchase Agreement: Purchase Template（採購範本協議）
+- PAL10：EDI Purchase to Sales Order（EDI 採購對銷售單）
 
 ---
 
@@ -172,8 +208,9 @@ Track A 檔案（空殼）：
 
 ---
 
-**版本**：v0.2
+**版本**：v0.3
 **狀態**：試行中
+**最後更新**：2026-07-23（同步 Sales / Purchase 狀態與連結，修正 MOC 落後於 Track A 實際進度的問題）
 **負責角色**：員工_02_文件資料助理（小果）維護連結索引；員工_03_流程內控助理（海瑟姆）更新知識內容
 **建立日期**：2026-07-10
 **更新規則**：每次執行 odoo-learning-pipeline 後，由小果更新本 MOC 的已涵蓋功能清單與狀態標示
