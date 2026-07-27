@@ -39,10 +39,14 @@
             "id": "e640f082c9e7f3c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "Odoo知識庫/00_學習進度總覽.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_學習進度總覽"
             }
           }
         ],
@@ -104,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 367.5
   },
   "right": {
     "id": "a1f9cdaeab556bfa",
@@ -211,20 +215,24 @@
   },
   "active": "e640f082c9e7f3c2",
   "lastOpenFiles": [
-    "顧問Cowork/00_Obsidian導覽/MOC_Odoo知識庫.md.tmp.9212.4a12a12d445f",
-    "顧問Cowork/00_Obsidian導覽/MOC_Odoo知識庫.md.tmp.9212.1123823d9d05",
-    "顧問Cowork/worklog.md.tmp.9212.9583ea9cb0a2",
+    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/建置紀錄.md.tmp.13936.2ca07c3f403c",
+    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/產品分類與屬性變體重建_A方案調整計畫SOP.md.tmp.13936.d26430e0e2ad",
+    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/Odoo資料匯入SOP.md.tmp.22628.acd839d01205",
+    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/Odoo資料匯入SOP.md.tmp.22628.86463455ea47",
+    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/Odoo資料匯入SOP.md.tmp.22628.d20e8704dc91",
+    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/Odoo資料匯入SOP.md",
+    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/Odoo資料匯入SOP.md.tmp.22628.05159b34894e",
+    "Odoo知識庫/工具/demo環境連線.md.tmp.22628.b690d7e59b29",
+    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/建置紀錄.md.tmp.22628.021dad741893",
+    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/建置紀錄.md.tmp.22628.db301ab25278",
+    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/經銷商業態_去識別化Demo資料集_完整版.xlsx",
+    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/建置紀錄.md",
+    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/建置紀錄.md.tmp.22628.5b90435d7c4b",
+    "經銷商業態案例_去識別化Demo環境建置/01_案例背景與情境設計/案例背景與情境設計.md",
+    "經銷商業態案例_去識別化Demo環境建置/README.md",
     "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/風險評估表_20260720.md",
     "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F003_最新消息功能改造/01_追加資料.md",
-    "顧問Cowork/員工_02_文件資料助理/00_人員設定/人員設定.md.tmp.9212.54e28adb90c6",
-    "顧問Cowork/員工_02_文件資料助理/00_人員設定/人員設定.md.tmp.9212.f71cdf9a9969",
     "Odoo知識庫/工具/demo環境連線.md",
-    "Odoo知識庫/工具/odoo_transcript_downloader.py.tmp.39848.c2186b1e7fff",
-    "Odoo知識庫/工具/transcripts/6_mi7NKfzpA_ERROR.txt",
-    "Odoo知識庫/工具/transcripts",
-    "Odoo知識庫/工具/odoo_transcript_downloader.py.tmp.31292.0da6b049298f",
-    "顧問Cowork/員工_02_文件資料助理/00_人員設定/人員設定.md.tmp.37832.d35ef8d435bd",
-    "顧問Cowork/員工_02_文件資料助理/00_人員設定/人員設定.md.tmp.37832.6044652dce2f",
     "Odoo知識庫/Purchase/06_常見問題.md",
     "Odoo知識庫/Purchase/05_Demo情境腳本.md",
     "Odoo知識庫/Purchase/04_內控點與風險.md",
@@ -253,10 +261,6 @@
     "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F006_合約下載/05_問題追蹤.md",
     "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F006_合約下載/04_關聯功能.md",
     "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F006_合約下載/03_資料來源變更.md",
-    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F006_合約下載/02_延伸需求.md",
-    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F006_合約下載/01_追加資料.md",
-    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F006_合約下載/00_主需求.md",
-    "Odoo知識庫/CRM/06_常見問題.md",
     "未命名.canvas",
     "未命名 9.canvas",
     "未命名 8.canvas",
