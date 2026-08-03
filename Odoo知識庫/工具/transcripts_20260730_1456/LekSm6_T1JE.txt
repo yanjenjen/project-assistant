@@ -1,0 +1,180 @@
+影片 ID: LekSm6_T1JE
+來源: https://www.youtube.com/watch?v=LekSm6_T1JE
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Welcome Odooers. In this e-commerce
+[00:05] video, we will focus on order
+[00:07] management. Now, for that, it's
+[00:09] important to understand the three main
+[00:11] order stages in Odoo.
+[00:13] Quotation, quotation sent, and sales
+[00:16] order.
+[00:17] Each stage represents a different step
+[00:19] in the e-commerce process.
+[00:21] When an order is in the quotation stage,
+[00:24] it means that the product was added to
+[00:25] the cart, but the customer has not gone
+[00:27] through the checkout process. In Odoo,
+[00:30] we can identify these orders and follow
+[00:32] up on them to encourage customers to
+[00:34] finalize their purchase.
+[00:36] The quotation sent stage means the
+[00:38] customer has gone through the checkout
+[00:40] process, but the payment has not yet
+[00:42] been confirmed. This can happen, for
+[00:44] example, if they choose to pay via wire
+[00:47] transfer or when they collect their
+[00:49] order in person at the store.
+[00:51] Finally, an order reaches a sales order
+[00:54] stage when the payment has been
+[00:56] confirmed. Based on this, we can
+[00:58] implement strategies to optimize our
+[01:00] sales, improve overall customer
+[01:02] experience, and streamline our order
+[01:04] management process. And the icing on the
+[01:06] cake? Well, it's Odoo, so everything can
+[01:09] be automated, of course. Let's get into
+[01:11] it.
+[01:15] So, of course, the first thing we're
+[01:16] doing is going to configuration and then
+[01:18] to settings.
+[01:20] If we scroll down a little bit, we will
+[01:22] find the order assignment option over
+[01:25] here.
+[01:26] Now, by default, there's a sales team
+[01:28] and a sales person assigned to online
+[01:32] which means that they will be notified
+[01:33] when an order is made on the website. Of
+[01:35] course, if I want just the sales person
+[01:38] to be notified and not the whole team,
+[01:40] well, then I can just leave the field
+[01:43] blank. And vice versa. But here, we will
+[01:45] leave the website team
+[01:47] in the field.
+[01:48] Now, here we have the order confirmation
+[01:51] section. So, each time a customer orders
+[01:54] on our website, a confirmation email is
+[01:56] sent automatically to them. Now, there's
+[01:59] already a default template in Odoo,
+[02:01] which is selected over here, but you can
+[02:02] modify this one by clicking on the arrow
+[02:05] or by creating a new one and selecting
+[02:07] it from the list over here.
+[02:09] If you have the WhatsApp app installed,
+[02:12] then there will be a option over here
+[02:14] where you can choose to send a WhatsApp
+[02:16] message automatically when the customer
+[02:18] orders online.
+[02:20] Over here with the follow-up abandoned
+[02:23] cart option, I have the possibility to
+[02:25] send an email automatically to people
+[02:27] who have abandoned their order.
+[02:30] As we need our customers' email address
+[02:32] to send them an email, this feature is
+[02:34] only available for signed-in customers
+[02:36] or those who filled in their address and
+[02:38] email details during checkout.
+[02:41] We can configure the email template, as
+[02:43] always, by clicking on this little
+[02:45] button, or we can also configure after
+[02:48] how much time the email should be sent
+[02:50] if you don't want it to be after 10
+[02:52] hours.
+[02:54] If we scroll up a little bit, then we
+[02:56] have the automatic invoice option. This
+[02:59] will generate a invoice
+[03:02] when the payment is confirmed. And of
+[03:04] course, as always, you can configure the
+[03:07] email that goes with the invoice.
+[03:09] Now, for the next part, you will need
+[03:11] the inventory application installed.
+[03:14] I will type confirmation in the search
+[03:16] bar, and then here in the inventory
+[03:19] section, we have two options.
+[03:21] I can activate this option to send an
+[03:24] automatic confirmation email once
+[03:26] delivery is done.
+[03:27] Or we can also activate this option so
+[03:30] that we notify our customers by SMS or
+[03:33] by WhatsApp,
+[03:35] for which we will need to buy some
+[03:36] credits, and we can buy credits by
+[03:38] clicking on this button.
+[03:43] Now, let's imagine that a customer has
+[03:45] placed an order and you want to check
+[03:47] it. Well, we can simply go to the
+[03:49] e-commerce tab and then click on orders.
+[03:53] This dashboard provides a quick overview
+[03:55] of all our online orders and their
+[03:57] status.
+[03:59] So, we can see all the orders we have to
+[04:00] fulfill, all the ones that have to be
+[04:02] confirmed, so the quotation has been
+[04:04] sent but the client hasn't confirmed it
+[04:06] yet,
+[04:06] or the one that we still need to
+[04:08] invoice. The client has confirmed that
+[04:10] they want to order, but they haven't
+[04:11] paid yet.
+[04:13] We can also play with the filters over
+[04:15] here. Uh for example, if you want to see
+[04:17] only the unpaid ones,
+[04:20] or if you want to see all the abandoned
+[04:22] carts over here.
+[04:24] So, this dashboard gives us an overview
+[04:26] of the situation of our sales orders.
+[04:31] Now, let's go to this order
+[04:34] and we can see that it is in the sales
+[04:36] order status. This means that the
+[04:38] customer went through the checkout
+[04:40] process and the payment has been
+[04:42] confirmed.
+[04:43] From here, we could go to the invoice by
+[04:46] clicking on this smart button.
+[04:49] And there we are on the invoice. If we
+[04:50] go back to the sales order,
+[04:52] if you remember, we activated an option
+[04:54] to create the invoice automatically and
+[04:56] to send an automatic email to the
+[04:58] customer. So, if you go in the chatter
+[05:00] over here and its history, we see that
+[05:02] the sales order was created, then the
+[05:04] transaction was initiated and confirmed,
+[05:08] and then an email has been sent to the
+[05:10] client with uh his purchase info and the
+[05:13] invoice,
+[05:14] and then the invoice was paid, the
+[05:17] transaction was posted, and just like
+[05:20] that, everything has been done
+[05:21] automatically.
+[05:26] Now, let's click on this delivery button
+[05:28] over here.
+[05:30] So, we can validate this order.
+[05:33] And then just like that, we see in the
+[05:35] chatter that an email has been sent and
+[05:38] an SMS has also been sent to the
+[05:39] customer, just like we configured
+[05:41] earlier on.
+[05:45] Now, let's talk about returns and
+[05:47] refunds. You can just click on the
+[05:49] return button
+[05:51] and then set the quantity for example
+[05:53] just one
+[05:54] and then you can choose whether this
+[05:55] product will be returned or exchanged
+[05:59] for the same product in case the one
+[06:00] sent was damaged for example.
+[06:02] We'll simply have it returned
+[06:04] and then we can validate it
+[06:07] and now the product is back in our stock
+[06:09] easy right?
+[06:10] Now for the refund part our accounting
+[06:12] colleagues have made specific videos
+[06:14] about the topic so I advise you to check
+[06:16] them out to the accounting tutorials
+[06:19] and that's it for this video as always
+[06:20] don't forget to check out our online
+[06:22] documentation if you want to learn more
+[06:24] about this topic and we'll see you in
+[06:25] the next video. See you then.

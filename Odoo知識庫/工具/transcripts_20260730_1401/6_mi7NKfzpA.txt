@@ -1,0 +1,234 @@
+影片 ID: 6_mi7NKfzpA
+來源: https://www.youtube.com/watch?v=6_mi7NKfzpA
+下載時間: 2026-07-30 14:01
+============================================================
+
+[00:01] [music]
+[00:06] Hello doers and welcome to
+[00:09] inventory. Our furniture company
+[00:11] Stealthywood is expanding fast. With
+[00:13] tons of products to manage, we need a
+[00:15] robust inventory system that keeps us
+[00:17] organized. From tracking stock to
+[00:19] storing incoming products. So today I'm
+[00:21] going to introduce you to ODO inventory
+[00:23] by configuring our first products and
+[00:25] organizing them within our warehouse. So
+[00:27] no cha. Let's dive right into that
+[00:28] database.
+[00:30] So before we can manage inventory, let's
+[00:32] set up a product inside of ODO. So let's
+[00:34] select products and products up at the
+[00:36] very top. So if this happens to be your
+[00:39] first time, you're going to select new
+[00:41] over here. But for me, I'm going to
+[00:43] click on our starred cabinet with doors.
+[00:45] So when configuring items to be stored
+[00:46] in the warehouse, you're going to want
+[00:48] to set your product type over here to
+[00:50] goods. These represent physical products
+[00:52] like our stealthywood furniture. Oh, and
+[00:56] do you notice that we have track
+[00:58] inventory over here enabled? Would you
+[01:01] look at that? So, this lets ODU track
+[01:03] the exact units that we happen to have
+[01:06] over here up at the top
+[01:09] by our smart buttons. And we're going to
+[01:11] get into that later on. So, next, let's
+[01:14] look at unttracked products. So, we're
+[01:15] going to select our products breadcrumbs
+[01:17] up at the top and we're going to select
+[01:18] our screw. So, you'll notice in this
+[01:20] case, our track inventory field is
+[01:22] unchecked. We don't track quantities or
+[01:24] locations for this product. And this can
+[01:26] be perfect for something that we keep in
+[01:28] stock but don't need exact counts for
+[01:29] like screws, pens, I don't have one in
+[01:33] front of me. Tide pen, maybe coffee, and
+[01:36] all of that type of thing. If supplies
+[01:38] run low for those, somebody will let
+[01:39] procurement know so that we can avoid
+[01:41] unnecessary updates. And routes are also
+[01:44] set automatically for products where
+[01:45] possible. So that the buy route is
+[01:47] enabled for products with the purchase
+[01:50] checkbox that happens to be enabled as
+[01:52] well up at the top. So products with a
+[01:55] bill of materials, for example, are
+[01:57] automatically assigned the manufacturer
+[01:59] route. So next, let's set up our storage
+[02:02] locations for incoming products. So
+[02:03] we're going to go to configuration up at
+[02:05] the top and then settings. Perfect. So,
+[02:08] we're going to go to our nice little
+[02:11] location, and that's actually the word
+[02:13] we're going to use for this because we
+[02:15] need to know where our items are at. So,
+[02:18] we need to make sure that storage
+[02:19] locations right here under warehouse is
+[02:21] checked off. If you're just doing this
+[02:23] for your first time, after you take it,
+[02:25] make sure that you also hit save up at
+[02:27] the top. All right. Now, let's manage
+[02:29] storage locations by going to
+[02:31] configuration. And this time around,
+[02:33] we're going to select locations. Great.
+[02:35] Spoiler alert, I'm expecting some
+[02:37] cabinets to arrive since warehouse stock
+[02:40] shelf three over here has space as shown
+[02:43] by our nice little um in this case. See
+[02:47] if it happens to be empty.
+[02:50] Well, it actually is empty. I don't see
+[02:52] a single item inside of here. All right,
+[02:54] so let's actually go inside of here.
+[02:56] Okay, so on this page, we see the
+[02:58] location name. And for storage
+[03:01] locations, make sure that you also
+[03:03] happen to have the location type here
+[03:04] set to internal. So to learn about other
+[03:07] types, make sure to check out the
+[03:08] warehouses and locations tutorial as
+[03:10] well. And I'm going to link that below.
+[03:12] So while we also could use I mean in our
+[03:15] case, we could use putaway rules and we
+[03:19] have those up at the very top just to
+[03:21] automatically route incoming drawers
+[03:22] here. We also won't cover that today. So
+[03:26] for now, we're actually ready to start
+[03:28] receiving products. So, let's click
+[03:30] overview up at the top left of our
+[03:32] heading right there. And here we are at
+[03:33] our inventory dashboard. Now, picture me
+[03:36] as your typical warehouse operations
+[03:37] manager. Every day, I check this
+[03:38] dashboard to see what I need to do. The
+[03:41] receipts card that we have over here
+[03:42] shows shipments from vendors I need to
+[03:44] organize and store. The orange bar that
+[03:47] we have right here, well, that
+[03:48] represents today's arrivals, while red
+[03:51] bars are late items. Tisk, where are my
+[03:55] packages? Green bars over here show
+[03:57] future packages, which is kind of nice.
+[04:00] Now, we also have delivery orders, and
+[04:02] these are orders that we are preparing
+[04:03] for customers. We'll go over that in the
+[04:05] next video about outgoing shipments.
+[04:07] Let's kick off our day by receiving and
+[04:09] storing products. So, we're going to
+[04:10] click right there, tend to receive.
+[04:13] That's going to be our number to receive
+[04:15] button to bring up the list of incoming
+[04:16] shipments. So, when a purchase order,
+[04:18] aka a PO, for my acronym lovers, is
+[04:21] confirmed inside of the purchase app, it
+[04:22] creates a receipt here in inventory.
+[04:24] This helps us make sure that purchased
+[04:25] items actually arrive and are recorded
+[04:27] properly in Odo. So the linked PO if
+[04:31] there is one appears in the source
+[04:34] document column that we have over here.
+[04:36] Okay, let's pretend that I'm standing at
+[04:38] the loading docks and I see all these
+[04:39] incoming shipments that we happen to
+[04:41] have over here, all of them. All right.
+[04:45] In my case, I would pretty much just
+[04:48] want to scan the package's barcode using
+[04:51] the barcode app to pull up its receipt
+[04:53] in ODU. Since I don't have a scanner
+[04:55] right now with me, I'm going to have to
+[04:57] do this manually. So, I'm going to click
+[05:00] on our starred receipt first because
+[05:02] looks kind of important. So, on the
+[05:04] receipt, the vendor's information is
+[05:06] over here on our receive form field.
+[05:08] Inside of our operations tab, I'm going
+[05:12] to verify if the received products
+[05:13] happen to match the order. So, our
+[05:17] demand column that we have over here is
+[05:19] the ordered amount and the quantity is
+[05:22] what we've received. If the received
+[05:24] amount differs, I can manually adjust
+[05:26] the quantity field. Like in my case,
+[05:28] let's set the C the one over here to
+[05:31] four. Boom. Now, if I do that, it's time
+[05:34] to store the products. So, we need in
+[05:37] our case a destination location. We have
+[05:40] this field right here up at the top.
+[05:42] We're going to set this one to, as I
+[05:44] said earlier, shelf three because it was
+[05:47] empty and we've already planned that.
+[05:49] I'm going to do the manual save button
+[05:51] up at the top. Now, all I need to do is
+[05:53] move these items to shelf three. So,
+[05:56] let's pretend that you didn't hear me
+[05:58] wrestling with cabinets and all these
+[06:00] other things for a little bit just
+[06:02] trying to get them all the way over
+[06:04] there across the floor. Okay, once that
+[06:07] everything is neatly stored and we've
+[06:09] pretended that we've done that, we can
+[06:10] validate this and a back order popup.
+[06:14] Since we set the received quantities to,
+[06:15] in this case, four, ODO helped us track,
+[06:18] we are missing some of those quantities.
+[06:21] So, typically I'm going to create a back
+[06:24] order. So that you know in my case we
+[06:27] expect the missing item but we're just
+[06:29] showing an example today. So I'm going
+[06:31] to select no back order. But if you're
+[06:33] expecting the item you'll want to select
+[06:35] that. So after validating the receipt,
+[06:37] clicking on our move smart button up at
+[06:39] the top. Well, this finally shows us
+[06:42] that we've successfully moved these over
+[06:44] to shelf three. Awesome. Isn't that
+[06:47] great? A cabinet of screws and cabinets.
+[06:51] All right, our doers. Now that we've
+[06:52] basically stocked our warehouse, how do
+[06:54] we check what we have? I'm going to go
+[06:55] up to operations and physical inventory.
+[06:58] Up at the top here, we see our onhand
+[07:01] quantity column over here for products
+[07:04] as well as their location on the far
+[07:06] left. For example, if we scroll down, we
+[07:09] have 500 bottles of varnish over in our
+[07:13] warehouse stock, but they should be in
+[07:15] the seller or we're going to shorten its
+[07:18] shelf life. So, pretend that I'm going
+[07:21] to go to the seller and phw. Would you
+[07:23] look at that? They're actually there.
+[07:25] Somebody probably forgot to set the
+[07:26] destination location on the receipt to
+[07:28] the correct storage location. So, to fix
+[07:30] it, we're going to select the check box
+[07:32] over here next to the varnish line. And
+[07:36] then we're going to select actions up at
+[07:38] the top and relocate. And then it's
+[07:41] going to ask us for our location. In my
+[07:43] case, I'm going to type in seller. It's
+[07:45] going to fill it in for me. And the
+[07:48] reason I'm just going to say update
+[07:51] stock location wrong place, Steve.
+[07:56] Okay. And then confirm. Boom. Oh, and
+[07:59] remember the unttracked screws that we
+[08:01] received earlier? They won't appear here
+[08:03] even though we confirmed that we moved
+[08:04] them in the move smart button earlier.
+[08:07] And notice how in my case,
+[08:11] our inventory adjustment line for shelf
+[08:14] 3 shows. If you'll notice, our cabinet
+[08:16] with doors. If you'd like to track stock
+[08:18] and locations for a product, make sure
+[08:20] you tick that track inventory check box
+[08:22] on the product. And there you have it.
+[08:23] We're done. We just learned how to
+[08:25] receive and store products, as well as
+[08:26] how to manage and track existing stock.
+[08:28] For more about inventory, check out the
+[08:30] next tutorial on managing outgoing
+[08:31] shipments and customer orders, as well
+[08:33] as the specifics about inventory
+[08:35] adjustments. Thanks for watching
+[08:36] outdoors. See you next time.

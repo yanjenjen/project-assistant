@@ -1,0 +1,228 @@
+影片 ID: t5pyxwbDG6Q
+來源: https://www.youtube.com/watch?v=t5pyxwbDG6Q
+下載時間: 2026-07-30 14:03
+============================================================
+
+[00:01] [music]
+[00:05] >> Hello there Odouers. My name is Jose
+[00:06] Ignacio. Welcome back. Today we're
+[00:08] talking about packagings, the containers
+[00:10] or formats that hold a specific quantity
+[00:12] of a product. As we saw in our units of
+[00:15] measure video, a unit is an individual
+[00:18] product item. At Stealthy Threads, that
+[00:20] unit is a yard of fabric. That's usually
+[00:23] what our customers want, but we don't
+[00:25] just move fabric yard by yard. On the
+[00:27] purchase side, we buy our fabric in
+[00:29] bolts of 40 yards. On the sale side, in
+[00:32] addition to our typical yard offerings,
+[00:34] our customers are basically asking for
+[00:37] something called a fat quarter, which is
+[00:39] a
+[00:40] It's kind of funny, but it's 1/4 of a
+[00:41] yard.
+[00:43] In Odou, both of these are packagings or
+[00:46] different quantities of units of a
+[00:47] product sold as an item. Using them
+[00:50] makes buying in bulk and selling in
+[00:51] specialty sizes a breeze. Just to be
+[00:54] clear though, packagings are different
+[00:56] from packages.
+[00:57] Packagings are how you buy or sell a
+[00:59] product, like a six-pack of soda.
+[01:01] Packages are how you move products, like
+[01:03] a pallet full of those six-packs.
+[01:06] If you want any more detailed
+[01:07] explanation, we've included links to
+[01:09] some documentation and videos to compare
+[01:11] all of these concepts, so check them out
+[01:13] below.
+[01:14] Anyways, enough chit-chat. Let's hop
+[01:15] into our database.
+[01:17] Stealthy Threads always keeps its
+[01:18] customers happy, so we want to offer a
+[01:20] fat quarter packaging with the help of
+[01:22] Odou. We're going to be working in the
+[01:24] inventory, in this case very first step
+[01:26] there, and then the sales application.
+[01:28] So, let's dive in. Let's open up the
+[01:30] inventory app to get started. First
+[01:32] things first, let's make sure that we
+[01:33] have the feature enabled. We're going to
+[01:35] open up configuration and settings. We
+[01:37] always do this Odouers. So, when that
+[01:39] opens, we're going to scroll down until
+[01:41] we reach our product section, right
+[01:43] here. Perfect. Okay, so you see right
+[01:45] there, units of measure and packagings.
+[01:47] Make sure it's enabled.
+[01:49] And everything looks good here. If this
+[01:50] is your first time doing this, make sure
+[01:51] to click the save button up in the top
+[01:53] left just to move on.
+[01:55] But now that we have this set, let's
+[01:56] create a packaging that we can assign to
+[01:58] our product for sales or purchase.
+[02:01] So first, in this case let's click
+[02:03] configuration up at the top and then
+[02:05] units and packagings. Perfect. Here we
+[02:08] are on our list.
+[02:09] In Odou, these two work hand in hand.
+[02:12] Units of measure are how we measure a
+[02:13] single unit, like 1 yard of fabric.
+[02:16] Packagings are how we group multiple
+[02:18] units when we buy or sell a product,
+[02:20] like a bolt of fabric, which is 40
+[02:22] yards. I learned that recently. Think of
+[02:25] it this way. Since every packaging is
+[02:27] ultimately just a specific number of
+[02:29] units, Odou keeps units and packagings
+[02:31] in the same place so that they can
+[02:33] refer, and in this case reference each
+[02:35] other.
+[02:35] We already have a unit of measure for
+[02:37] yards, and you can see that right there.
+[02:41] So, let's actually create that fat
+[02:43] quarter packaging our customers have
+[02:44] been asking for. We're going to click
+[02:45] new just to get started up at the top.
+[02:48] So, on this form, we're going to name
+[02:49] this one as I said, fat quarter.
+[02:52] Perfect.
+[02:53] Now, look at the quantity field below.
+[02:56] So, this is the most important part.
+[02:58] This is where we tell Odou how much
+[03:00] fabric is in this specific packaging.
+[03:03] Since a fat quarter is 1/4 of a yard,
+[03:05] we're going to enter 0.25 right there.
+[03:08] For my math people.
+[03:10] And then, we're going to set the
+[03:12] reference unit over here to yard. So,
+[03:14] we're asking for 0.25, which is a fourth
+[03:16] of a yard.
+[03:17] And now we've created a permanent link.
+[03:19] Fat quarter will show up as an option on
+[03:21] product forms, and every time that we
+[03:23] sell a fat quarter of any fabric, Odou
+[03:26] knows to subtract exactly 1/4 of a yard
+[03:28] from our inventory. We're going to click
+[03:30] on our nice little manual save icon up
+[03:32] at the top. And this packaging is
+[03:34] available for use on any product in our
+[03:36] inventory now.
+[03:38] Okay, ready to see that in action? Let's
+[03:40] navigate over to products and products.
+[03:44] We're going to go up into
+[03:46] Well, actually we're here and we're
+[03:47] going to take a look at some fabrics.
+[03:49] Which one should we check out? Flowers
+[03:51] flannel. Let's do this one.
+[03:53] So, we're selling this at $16 per yard,
+[03:56] and you can see that in our sales price
+[03:57] field right there. Up until now, we've
+[04:00] sold fabrics exclusively by the yard,
+[04:02] and that's how it shows up in the
+[04:04] inventory, as we can see over here by
+[04:06] our forecasted smart button.
+[04:08] But it's easy to add the new packaging
+[04:10] that we just created for this product.
+[04:12] We're going to open up our sales tab
+[04:13] over here.
+[04:15] Okay, and you kind of guess where I'm
+[04:16] going to head to. You see this
+[04:17] packagings field right there? Let's
+[04:19] click into it to reveal our options.
+[04:22] And would you look at that? We're going
+[04:23] to select our fat quarter. Perfect. We
+[04:27] can also specify packagings for
+[04:29] purchase. For that, we just open the
+[04:30] purchase tab over here.
+[04:33] And in this case,
+[04:35] we can add a line and specify a vendor
+[04:37] and then specify the packaging in the
+[04:39] unit field along with its purchase
+[04:41] price. You can see that over here for
+[04:43] our price and other options like lead
+[04:45] times as well.
+[04:47] Now that we've set up our new packaging,
+[04:48] let's see how it's sold. So, here on our
+[04:51] quotations page right here, we're going
+[04:53] to select new over here up at the top.
+[04:55] Start with our customer field right
+[04:56] there. We're going to sell to
+[04:59] Fatima Quarter over there.
+[05:01] And then down here inside of our order
+[05:03] lines, we're going to basically add a
+[05:04] product, and in this case, it's the one
+[05:06] that we just changed, our flowers
+[05:08] flannel.
+[05:09] And in this case, we happen to know
+[05:13] if we change the quantity over here to
+[05:15] three,
+[05:17] that this one is going to change for us
+[05:20] once that we select our fat quarter.
+[05:23] Look at that.
+[05:25] Odou is smart, so it automatically
+[05:27] calculates what it thinks that the price
+[05:29] of three fat quarters should be. In this
+[05:31] case,
+[05:31] that $16 that we saw initially is
+[05:34] divided by four, and at four of each of
+[05:36] them turns into
+[05:38] 12 for three units.
+[05:41] Perfect. But if you want to add a small
+[05:43] surcharge due to the extra labor
+[05:45] involved in cutting a fat quarter, you
+[05:46] can manually set the unit price as well,
+[05:49] right there. You never know.
+[05:51] In our case, we're satisfied with our
+[05:53] price, so we're going to select confirm
+[05:55] up at the top. And now we've created our
+[05:57] sales order.
+[05:59] And there's one more thing to consider
+[06:00] when we're fulfilling this order. How
+[06:02] does the warehouse know what packagings
+[06:04] our product is being sold in? How do we
+[06:06] keep them from just cutting 3/4 of a
+[06:08] yard
+[06:10] and shipping that as is?
+[06:12] Well, that's easy. Let's click our
+[06:14] delivery smart button up at the top. And
+[06:16] we're going to open up this delivery
+[06:17] order.
+[06:18] So here, we actually see that our demand
+[06:20] is 0.75
+[06:22] or 3/4 of a yard, or three units of a
+[06:26] fat quarter as we just saw before. Let's
+[06:29] actually make sure the correct packaging
+[06:30] shows up as well. So, we're going to
+[06:31] select additional options.
+[06:33] We're going to select this uh packaging
+[06:35] one right there and packaging quantity.
+[06:38] Look at that. Now, whoever views the
+[06:40] delivery order is going to see that we
+[06:42] want three fat quarters. If they're
+[06:44] processing this using the barcode app,
+[06:46] the packaging will show by default.
+[06:48] And there you have it. By setting up a
+[06:50] fat quarter packaging, we've made it
+[06:51] easy for customers to get the exact
+[06:53] amount of fabric that they need, while
+[06:54] ensuring our inventory stays perfectly
+[06:57] accurate down to the decimal.
+[06:59] Whether you're buying in bulk or selling
+[07:01] in fat quarters, packagings allows you
+[07:03] to bridge the gap between the units that
+[07:05] you use to track your stock and the
+[07:07] amount your customers actually want to
+[07:08] buy. Now you're ready to bundle, wrap,
+[07:10] and roll your own products with these.
+[07:12] Thanks for watching, and as always, if
+[07:13] you found this useful, helpful,
+[07:15] anything, check out our other videos
+[07:18] just to keep your Odou knowledge
+[07:19] growing. I'm going to go learn how to
+[07:20] sew. I'll see you later. No snacks
+[07:23] today.
+[07:26] >> [music]

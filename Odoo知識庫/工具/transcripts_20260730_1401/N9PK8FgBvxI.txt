@@ -1,0 +1,243 @@
+影片 ID: N9PK8FgBvxI
+來源: https://www.youtube.com/watch?v=N9PK8FgBvxI
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:01] [music]
+[00:04] >> What's up Odooers? My name is Jose
+[00:06] Ignacio. We all know that a tidy
+[00:08] warehouse is a happy warehouse. And put
+[00:10] away rules are usually the hero of that
+[00:13] story. But picture this. You've got a
+[00:15] heavy pallet. You walk all the way to
+[00:17] the back of the warehouse to its
+[00:19] assigned spot, only to find it's already
+[00:22] full.
+[00:23] Talk about a workout you didn't ask for.
+[00:26] That's where storage categories come in.
+[00:28] Think of them as smart put away rules.
+[00:31] They check for available space before
+[00:33] you even leave the receiving dock. Ready
+[00:36] to stop guessing and start storing?
+[00:38] Let's jump into the database. Enough
+[00:40] chitchat.
+[00:41] So first things first, from the
+[00:43] inventory app, we're going to enable
+[00:44] storage locations. So to do so, I'm
+[00:46] going to go to configuration and then
+[00:48] settings. We're going to scroll down to
+[00:50] our warehouses section that we have over
+[00:52] here. And we're going to make sure the
+[00:53] nice little toggle checkbox right there
+[00:55] next to storage locations is enabled.
+[00:57] This enables our database to have
+[00:59] specific locations such as shelf one
+[01:01] over here in our WH/stock, for example.
+[01:05] So if you're setting this up for the
+[01:07] first time, be sure to also click save
+[01:09] in the top left. Always save. That's
+[01:11] always going to be a Jose Ignacio pro
+[01:13] tip. Now enabling storage locations
+[01:15] automatically enables storage
+[01:17] categories. Jose, what are those? Well,
+[01:19] let's talk about how to set them up
+[01:21] first. So to set up storage categories,
+[01:23] I can go to configuration and then
+[01:26] storage categories. Perfect. That's the
+[01:28] whole purpose of this video.
+[01:31] Now this page displays all categories
+[01:33] including ours, zone A category. We're
+[01:35] going to open that one up.
+[01:37] So storage categories set a capacity
+[01:39] limit at a storage location including
+[01:42] the max weight.
+[01:43] When we look into our capacity by
+[01:45] product tab that we have over here,
+[01:47] we've set the maximum quantity of our
+[01:49] vinyl records product to
+[01:51] 100. If an incoming shipment exceeds
+[01:54] this limit that we have set up at the
+[01:55] top and over here for the quantity, Odoo
+[01:58] automatically directs the extras to an
+[02:00] alternative location. Which locations,
+[02:02] you ask? Well,
+[02:04] how do we get there? Oh my god. Location
+[02:07] smart button over here to see which
+[02:09] locations are currently assigned to this
+[02:11] storage category. As you can see here,
+[02:14] the individual vinyl records can be
+[02:16] stored at WH/Stock,
+[02:19] shelf one and two.
+[02:22] So, the put away rules that we will
+[02:23] create only consider the sublocations of
+[02:26] WH/Stock in this list. While we're here,
+[02:28] I have a quick tip for you. In order to
+[02:30] check what's being stored at this
+[02:32] location, I can click shelf one and then
+[02:35] the product smart button up at the top.
+[02:37] Boom. Here I can see that I have
+[02:40] 90 records on hand. Let's remember that
+[02:43] for later and set up our thinking caps.
+[02:45] Now, let's say I also want to store
+[02:46] vinyl records in an additional location
+[02:48] like shelf three. To do that, go to
+[02:51] configuration and then locations over
+[02:54] here.
+[02:55] So, from the locations list, we're going
+[02:57] to select WH/Stock,
+[02:59] shelf three over here.
+[03:02] So, now that we're here in our storage
+[03:04] category field that we have right here,
+[03:06] we're going to set it to zone A, the
+[03:09] storage category we're already using for
+[03:11] vinyl records.
+[03:12] Next, we're going to make sure the vinyl
+[03:14] records go to the right locations using
+[03:16] a put away rule. For that, we're going
+[03:18] to go up to configuration
+[03:20] and you guessed it, we're going to click
+[03:22] put away rules.
+[03:24] All right.
+[03:25] We already have a more in-depth video on
+[03:27] put away rules, by the way. For all the
+[03:29] ins and outs, feel free to check out
+[03:31] that video. But, make I want to make
+[03:33] your life easier. So, I'm going to link
+[03:35] it in the description below as well.
+[03:37] I should also note that by default, when
+[03:39] we receive an item into our inventory,
+[03:41] it will be transferred to our general
+[03:43] stock warehouse thing that we have,
+[03:45] WH/Stock, unless it's instructed
+[03:47] otherwise.
+[03:48] So, how do we make sure that certain
+[03:49] products end up in their designated
+[03:51] storage category?
+[03:53] As you can see over here, we currently
+[03:55] have, if I expand that a little bit, we
+[03:58] have one put away rule. This rule states
+[04:00] that when our vinyl record product
+[04:02] enters our WH stock, it must be stored
+[04:04] at shelf one. This is the most common
+[04:07] type of put away rule that you can apply
+[04:09] to your database. However, we can have
+[04:11] our put away rules work in tandem with
+[04:13] our storage categories.
+[04:15] Now, the storage categories ensure that
+[04:16] our products are routed to alternate
+[04:18] locations if our other locations are
+[04:21] full. Really useful.
+[04:23] It looks inside of sublocations of a
+[04:25] parent location that are listed as part
+[04:27] of a storage category. So,
+[04:30] you could guess what I'm going to
+[04:31] change. We're going to set the store to
+[04:33] field over here to the parent location
+[04:35] by just deleting the end of this and
+[04:40] 1 second, there we go, and selecting it.
+[04:43] Perfect.
+[04:44] In our sublocation
+[04:46] column over here, currently no is
+[04:48] selected, which means that whatever
+[04:50] we've specified in the store to field is
+[04:53] where products should be stored. Now,
+[04:55] let's display our other options that we
+[04:57] have. So, now we also have closest
+[04:59] location and last used. When using
+[05:02] closest location, we are referring to
+[05:04] the closest sublocation of whatever is
+[05:06] in the store to field within the
+[05:08] specific having category, also known as
+[05:11] the storage category.
+[05:13] It's good to know.
+[05:14] On the other hand, the last used option
+[05:16] directs the user to store the product
+[05:18] in, though you guessed it, the last used
+[05:20] storage location.
+[05:21] The last used option that we have right
+[05:23] here is fairly self-explanatory.
+[05:26] So, for this example, we will be
+[05:27] utilizing the closest location one.
+[05:30] All right. Now, you'll notice when we
+[05:32] select the closest location option, we
+[05:34] might get a message that the required
+[05:36] field is missing over here at the top,
+[05:38] but that's because we haven't set a
+[05:39] storage category yet.
+[05:41] In the having category field over here,
+[05:44] we're going to select the zone A.
+[05:47] And that's all we have to do. After a
+[05:49] storage category is set for location,
+[05:50] Odoo will store products at child
+[05:52] locations of the WH stock location in
+[05:55] that storage category as they arrive.
+[05:58] Until those sublocations fill up, no
+[06:00] need to set up another put-away rule for
+[06:03] each location.
+[06:04] Okay, now that we have everything set
+[06:06] up, let's see some storage categories in
+[06:08] action. So, to start, we're going to
+[06:10] select over here inside of this nice
+[06:12] little receipts area the two to receive
+[06:14] button.
+[06:15] So, as you can see, we have two orders
+[06:17] from two different vinyl record vendors
+[06:19] coming in today. I'm going to let the
+[06:21] storage categories tell me where to put
+[06:22] them because I don't know.
+[06:25] So,
+[06:26] let's take a look at the very first one
+[06:27] over here from Vivid Vinyls. It contains
+[06:30] 10 vinyl records, and we can see where
+[06:32] they're going in one of two ways. I can
+[06:34] click on our move smart button over here
+[06:36] up at the top, or I can click on the
+[06:39] details link that we have down below
+[06:41] right over here by the quantity.
+[06:44] So, let's just do that one. We're going
+[06:45] to do the details over here. So, in this
+[06:47] pop-up window, Odoo wants to send them
+[06:50] to
+[06:51] shelf one, where we intended. So, I'm
+[06:53] just going to select save and close that
+[06:55] out.
+[06:57] Then, I'm going to call Nathan at our
+[07:00] warehouse to move the vinyl records over
+[07:02] and click validate. Thank you, sir.
+[07:06] And we're just going to do that. Next,
+[07:09] let's process the other order by
+[07:11] clicking on our receipts smart button.
+[07:14] So, in this case, once that we're done,
+[07:17] we're going to select back over here our
+[07:20] nice little receipts one that we have.
+[07:22] Nice little breadcrumb. So, we're going
+[07:24] to open up now the Port of Sound one.
+[07:26] Perfect.
+[07:27] So, inside of here, we can see it is
+[07:30] also for 10 vinyl records as well. I'm
+[07:33] starting to get confused, but thankfully
+[07:36] I have storage categories. So, to see
+[07:37] the destination storage location as
+[07:39] well, I'm I'm to click on that details
+[07:41] link once again.
+[07:43] And would you look at that? Just like we
+[07:45] planned, these vinyl records will now be
+[07:47] sent to shelf two since shelf one is
+[07:50] full because if you recall
+[07:52] I'm going to save real quick.
+[07:54] And I'm going to validate because I'm
+[07:56] going to go somewhere with this. There
+[07:58] was 90 plus 10. It's now full. There you
+[08:02] have it. No more guessing, no more
+[08:03] manual overrides, and most importantly,
+[08:05] no more walking all the way to shelf one
+[08:07] just to realize you're out of luck.
+[08:09] You're shelf two person now. And now you
+[08:12] odorers can manage inventory with
+[08:13] confidence. I'm headed back to the
+[08:15] warehouse to spin some more records.
+[08:17] Until next time keep those shelves
+[08:20] organized and stay smart odorers. I'm
+[08:22] going to go grab a snack right now in
+[08:24] the warehouse. Takis sponsor me.
+[08:30] >> [music]

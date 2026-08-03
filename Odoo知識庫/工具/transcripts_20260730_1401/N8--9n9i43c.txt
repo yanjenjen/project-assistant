@@ -1,0 +1,323 @@
+影片 ID: N8--9n9i43c
+來源: https://www.youtube.com/watch?v=N8--9n9i43c
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:01] [music]
+[00:04] >> Hello Odears and welcome back. My name
+[00:06] is Jose Ignacio. Here at our skin care
+[00:08] company, we manage products with
+[00:10] expiration dates. Because these products
+[00:13] are perishable, we need a system that
+[00:14] helps us ship items that expire first,
+[00:17] while also removing soon-to-expire
+[00:19] products from the inventory before they
+[00:21] ever reach customers. For any company
+[00:24] selling perishable goods, it's critical
+[00:25] to make sure products leave the
+[00:26] warehouse well before their expiration
+[00:29] dates.
+[00:29] That way expired products never reach
+[00:31] customers and costly returns or
+[00:34] compliance issues are avoided. Just as
+[00:36] importantly, expired products need to be
+[00:38] accounted for correctly. When items can
+[00:40] no longer be sold, their financial
+[00:42] impact should be visible in your profit
+[00:44] and loss report, so you always
+[00:46] understand how inventory loss affects
+[00:48] your bottom line. So, let's dive into
+[00:50] our database and explore how Odoo helps
+[00:52] you manage perishable products from
+[00:53] expiration tracking to financial
+[00:56] reporting.
+[00:57] So, let's start in the inventory app
+[00:59] settings page, accessible from the
+[01:01] configuration menu, and then selecting
+[01:03] settings over there.
+[01:04] So now, in order to use removal
+[01:06] strategies or set up scrap locations,
+[01:08] we're going to need to activate some
+[01:09] settings first. So, the features that we
+[01:11] want to ensure are enabled, if we scroll
+[01:13] down, in our case, we're going to need
+[01:16] lots and serial numbers, right here,
+[01:18] perfect, under traceability, as well as
+[01:20] expiration dates, which appears after
+[01:23] lots and serial numbers are enabled as
+[01:25] well. We also would like storage
+[01:27] locations down below and multi-step
+[01:29] routes. As you can see, we already have
+[01:31] those enabled, but if you don't, make
+[01:33] sure that you check all those boxes and
+[01:34] select save in the top left before
+[01:36] moving on.
+[01:38] Alrighty, with all of our settings good
+[01:39] to go, let's start by checking out one
+[01:41] of our perishable products, our famous
+[01:43] under eye masks. So, to do that, we're
+[01:46] going to go to products up at the top
+[01:48] and select products once again.
+[01:50] Okay, let's open them up. We got them
+[01:52] nice and saved. So, we have this set up
+[01:54] to be available for purchase, as you can
+[01:57] see right there.
+[01:58] And this particular product is tracked
+[02:00] by in our case by lots.
+[02:03] Tracking by lots allows us to manage
+[02:04] expiration dates for products stored and
+[02:06] sold in large quantities and makes it
+[02:08] easy to trace inventory back to a
+[02:10] specific batch if needed. Be sure to
+[02:12] check out our videos on lots and serial
+[02:14] numbers for more information on that.
+[02:16] One more thing to note because we'll
+[02:18] need it shortly, this product is
+[02:20] considered part of the face care
+[02:22] category as you can see over here on the
+[02:24] right. So,
+[02:26] we're going to be working with this in a
+[02:28] bit. Keep it in mind.
+[02:30] Next, let's open up our inventory tab
+[02:32] over here and let's scroll down.
+[02:34] All right, perfect. We're going to talk
+[02:36] about our expiration date settings. As
+[02:39] you can see here, the expiration date
+[02:41] checkbox itself is checked over there.
+[02:44] And that caused these dates to appear
+[02:46] down below.
+[02:48] Of the four date fields, expiration date
+[02:50] must have the biggest number. And this
+[02:53] is because the expiration date fields
+[02:54] are calculated based on the expiration
+[02:56] dates.
+[02:58] Math.
+[02:59] So, the manufacturer of our under eye
+[03:01] mask states that they're generally good
+[03:03] for 3 years after production.
+[03:06] We add in in our case a 6-month buffer.
+[03:09] Why? So that 2 and 1/2 years or 910
+[03:13] days,
+[03:15] this means that if I receive the eye
+[03:16] mask today, we and of course the
+[03:19] customer typically have 910 days until
+[03:22] the product expires.
+[03:23] On the date that the product expires,
+[03:25] the person tagged in the responsible
+[03:27] field that we happen to have up at the
+[03:29] top,
+[03:30] well,
+[03:31] they will be notified that the lot has
+[03:33] expired and I hope they do something.
+[03:35] The best before date is the number of
+[03:37] days before the goods start to
+[03:39] deteriorate. We set our best before date
+[03:42] in our case at
+[03:44] 5 days before the expiration date. This
+[03:47] means that if the mask is expired 910
+[03:50] days from now, they are best before
+[03:52] 905 days from now, and that's math.
+[03:56] Below we have our removal dates, which
+[03:59] corresponds to the date the product
+[04:00] should be removed from stock either by
+[04:02] being sold or disposed of. In this case,
+[04:04] we want to dispatch the mask over here
+[04:06] from the warehouse 365 days before the
+[04:09] expiration date. This ensures that
+[04:11] expiring products are removed from the
+[04:13] stock before they reach customers.
+[04:16] And finally, we have an alert date.
+[04:19] So, this can be used to calculate when
+[04:20] alert should be triggered on specific
+[04:22] lots
+[04:23] and or serial numbers in this case. If
+[04:25] it's activated, it'll create an activity
+[04:27] in the lot's chatter, letting the
+[04:29] responsible user of the product know
+[04:30] that this product needs to be moved.
+[04:32] Nobody wants to buy K products that are
+[04:34] expiring.
+[04:36] Now, let's set up removal strategy for
+[04:39] all of these face care products. So, to
+[04:41] do that, we're going to go to
+[04:42] configuration up at the top, and you
+[04:45] guessed it, we're going to go to
+[04:46] categories.
+[04:47] Going to open up our face care category,
+[04:50] and in the force removal strategy field
+[04:52] over here, we're going to type in Oh, we
+[04:55] don't even have to type in Odoo save
+[04:56] this time. First expiry, first out.
+[05:00] Grand. We're not going to be covering
+[05:02] this specific removal strategy today.
+[05:04] It's covered in a different video linked
+[05:05] in the description to save you and
+[05:07] myself time.
+[05:08] But, while we're here, we should set up
+[05:11] the costing method and inventory
+[05:12] valuation to help us account for our
+[05:14] product in our accounting journal.
+[05:16] So, to make sure that this product is
+[05:17] accounted for in our profit and loss
+[05:19] report, the costing method must be set
+[05:21] to either first in, first out or average
+[05:24] cost. For our accounting needs, let's
+[05:28] set this to
+[05:30] Well, in our case, we're going to set
+[05:31] this to
+[05:32] first in, first out.
+[05:34] Okay, so this tracks the cost of
+[05:35] incoming and outgoing items in real time
+[05:38] and uses the actual prices of the
+[05:40] products to update the valuation. We
+[05:42] also need to set, in this case, our
+[05:44] inventory valuation to
+[05:46] perpetual.
+[05:48] This ensures that real-time journal
+[05:49] entries are created in the accounting
+[05:51] app whenever stock enters or leaves the
+[05:53] company's warehouse.
+[05:54] Finally,
+[05:55] click that manual save button up at the
+[05:57] top just cuz we're paranoid. Perfect.
+[06:01] Now that we have our product and its
+[06:03] category set up, let's quickly review
+[06:04] how to set up a scrap location and lost
+[06:06] journal. So, we're actually going to go
+[06:08] to configuration and then locations.
+[06:11] So, here you're going to see a list of
+[06:13] all your locations. By default, this
+[06:15] list is filtered to show only your
+[06:17] internal locations or the list of
+[06:19] locations that have corresponding
+[06:20] physical locations in your warehouse.
+[06:23] Let's actually go over and remove the
+[06:25] internal filter on this list, and now we
+[06:27] can see all of our locations.
+[06:29] So, we've already set up a location
+[06:32] specifically for items that are being
+[06:34] scrapped or that we're getting rid of
+[06:36] due to some sort of defect. And let's
+[06:38] open it up. It's called WH/Scrap
+[06:41] Location. So, inside of here, you can
+[06:44] see that this is set up as the inventory
+[06:46] loss location type, and you can see that
+[06:48] over there.
+[06:50] We can also use this form to specify
+[06:52] which loss account to help us account
+[06:54] for scrap product. This loss account is
+[06:56] required for scrapped goods to appear
+[06:58] inside of our profit and loss report.
+[07:00] This account should correspond to our
+[07:02] company's expense account for
+[07:03] depreciated or lost products. In our
+[07:06] case, we're going to click in and select
+[07:09] 65555
+[07:11] Scrapped Goods account. Perfect. All
+[07:14] right, we're going to save once again
+[07:16] using our nice little icon, and great.
+[07:19] Now, whenever we actually scrap products
+[07:21] to this location, they will appear
+[07:22] inside of our profit and loss report
+[07:24] under this account.
+[07:26] When working with perishable products,
+[07:28] although we may do our best to sell them
+[07:29] well before they expire, there's going
+[07:31] to be times when we have to deal with
+[07:33] soon-to-be expired stock. When we set up
+[07:35] our products earlier, we specified alert
+[07:37] and removal dates, both of which are
+[07:39] ultimately based on the expiration date
+[07:40] of our product. We can set the actual
+[07:42] expiration dates for these products when
+[07:45] they are received and we can update
+[07:46] those dates directly on the lot form,
+[07:48] which you can access from the lot /
+[07:50] serial numbers page that we're going to
+[07:52] see in a second. And also great news,
+[07:54] Odoo will notify the responsible user
+[07:56] for each product to ensure products are
+[07:58] rotated out of inventory before they
+[08:00] reach customers, which would be great.
+[08:03] And it's super easy to see which
+[08:04] products are about to expire right in
+[08:06] the inventory app. So, let's actually
+[08:08] open that. So, we're going to open
+[08:09] products
+[08:10] lot / serial numbers.
+[08:13] So, by default this is grouped by
+[08:14] location. So, let's actually remove the
+[08:16] grouping over there and then we're going
+[08:18] to filter by expiration alert. So, this
+[08:22] filter displays all the products that
+[08:23] have reached the alert date threshold
+[08:25] set on the product form, including both
+[08:27] soon to expire and already expired
+[08:28] products. And to be sure that we can see
+[08:30] the number of products on hand, we're
+[08:32] going to click the adjust icon over here
+[08:35] on the right side of the column list.
+[08:37] It's a nice little dot and a slash or
+[08:39] the dash.
+[08:41] Small whoopsie. And we're going to
+[08:43] select on hand quantity. So, as you can
+[08:45] see here, we've got one lot that is
+[08:47] expiring soon. Eye mask lot one. We have
+[08:49] 20 eye mask kits that we haven't had the
+[08:51] chance to sell.
+[08:53] Kind of a bummer, I'm not going to lie.
+[08:55] So, to ensure that these products are
+[08:56] removed from inventory and accounted for
+[08:58] inside of your profit loss report, you
+[09:00] should scrap them. So, let's open up the
+[09:03] operations menu and we're going to
+[09:04] select scrap. Here, you can view a list
+[09:07] of all of the scrapped items inside of
+[09:09] your inventory.
+[09:10] Let's create a new scrap order for these
+[09:12] expiring under eye masks. So,
+[09:15] as you begin, we're going to select new.
+[09:17] Let's select our under eye masks as our
+[09:19] products
+[09:20] which of there are 20 for a nice little
+[09:23] quantity right there.
+[09:25] We're going to also specify the lot that
+[09:27] we just saw as the lot / serial and then
+[09:29] in our scrap reason field we'll put
+[09:31] expired.
+[09:33] To make sure that these items appear in
+[09:35] our profit and loss report, we should
+[09:37] also set the scrap location to WH/Scrap.
+[09:41] Then we're going to click validate.
+[09:42] Then, if we open the reporting menu over
+[09:46] here up at the top and select moves
+[09:47] history,
+[09:49] we can see right here at the top our
+[09:52] scrap order moving our products to the
+[09:54] WH/Scrap location.
+[09:56] All right. Let's go and quickly see the
+[09:59] scrap products reflected in our profit
+[10:00] and loss report. So, let's go back to
+[10:02] our list of apps and then we're going to
+[10:03] open up in this case from our main
+[10:06] dashboard, we're going to open up the
+[10:07] accounting application and click
+[10:08] reporting.
+[10:10] Profit and loss.
+[10:11] If we expand the expense line, we could
+[10:14] see that our scrap goods journal appears
+[10:17] right there.
+[10:19] And if we were to click into the general
+[10:21] ledger for this journal, we would see
+[10:23] journal entries for our most recent
+[10:24] scrap goods right here.
+[10:27] That's it for this video, party people.
+[10:28] With Odoo, we can prevent expiring
+[10:30] products from reaching consumers,
+[10:32] automate stock rotation, and see the
+[10:33] financial impact. That's all for now,
+[10:35] but be sure to check out our other
+[10:36] tutorials to learn even more awesome
+[10:39] Odoo stuff. Until next time. See
+[10:42] Odooers, go grab a snack.
+[10:44] Edamame still.

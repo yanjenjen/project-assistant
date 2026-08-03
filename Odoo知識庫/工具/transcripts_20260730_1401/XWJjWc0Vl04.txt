@@ -1,0 +1,248 @@
+影片 ID: XWJjWc0Vl04
+來源: https://www.youtube.com/watch?v=XWJjWc0Vl04
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:05] What's up, Odoers, and welcome back.
+[00:08] Ever lost your phone or your keys or
+[00:10] something like your TV remote? Look,
+[00:13] we've all been there. But now imagine
+[00:14] losing track of products. Not fun at
+[00:17] all, but that's why here at Stealthy
+[00:18] Wood, we rely a lot on lot numbers and
+[00:21] serial numbers to keep everything
+[00:22] traceable. So, let's start off with
+[00:24] lots. A lot is a group of identical
+[00:27] items, often received or produced under
+[00:29] the same conditions or date. Think of
+[00:31] something like a batch of coffee beans
+[00:32] roasted on the same day or a shipment of
+[00:35] identical office chairs arriving from a
+[00:37] supplier. Each lot gets a unique number,
+[00:40] making it easy to track all items within
+[00:42] that group. that ensures a quick and
+[00:45] accurate response to recalls, quality
+[00:48] issues, or even inventory questions
+[00:50] because every product within that same
+[00:52] lot can be readily pinpointed by that
+[00:54] shared lot number. Now, on the other
+[00:56] hand, let's talk serial numbers. Unlike
+[00:59] lots, serial numbers is unique to a
+[01:01] single product, even if they are the
+[01:02] same model or type. It's very similar to
+[01:05] a car's VIN number or an iPhone's ID
+[01:08] number. This level of traceability is
+[01:11] essential for items that require
+[01:12] personalized records such as maintenance
+[01:15] or repair history, warranty, status, or
+[01:18] something to even use Find My iPhone.
+[01:21] So, what's the key difference? Lots are
+[01:24] best used for bulk items, especially
+[01:26] where issues like recalls or quality
+[01:28] defects affect an entire batch. So, for
+[01:31] example, flour or cosmetic products.
+[01:34] Serial numbers are ideal item level
+[01:36] tracking and use for monitoring
+[01:38] maintenance or ownership like
+[01:40] smartphones, gaming consoles, or even
+[01:43] bicycles. Well, now that we've got the
+[01:45] basics covered, let's put this into
+[01:47] practice. Ready to dive into our
+[01:49] database and start tracking? Let's go.
+[01:52] All right, I'm starting off on the main
+[01:54] dashboard for our inventory app. From
+[01:56] here, we're going to go to configuration
+[01:58] at the top, then down to settings. And
+[02:00] here we're going to scroll all the way
+[02:02] down to our traceability section. Now
+[02:05] here we just want to make sure that we
+[02:06] have our lots and serial numbers feature
+[02:09] enabled. Also, if we needed, we could
+[02:12] also set expiration
+[02:14] dates, but we've dedicated a expiration
+[02:17] dates tutorial for all of that. All
+[02:19] right, now let's look at our products.
+[02:21] Just got to click products at the top,
+[02:23] followed by products once again. And
+[02:25] from here, I want to track our always
+[02:27] popular vinyl record product by lots.
+[02:30] So, I'm going to click into this product
+[02:32] right here. And quick note, this item
+[02:34] has to be a storeable product. You can
+[02:36] check that under the product type field
+[02:38] area right here. Storeable products are
+[02:41] defined as goods in ODO. Products
+[02:44] classified as services, on the other
+[02:46] hand, are unable to be tracked by lots.
+[02:48] So, be sure to keep that in mind. All
+[02:50] right. Next, we need to make sure that
+[02:52] the check box next to track inventory is
+[02:55] ticked. When that feature is enabled, we
+[02:57] have three different ways we can track
+[02:59] this product. By default, we have by
+[03:02] quantity, and we also have by unique
+[03:04] serial number. But in this case, we're
+[03:06] going to use
+[03:08] lots. Now, with our vinyl record product
+[03:11] all set up, let's go ahead and set up
+[03:13] our product that's going to be tracked
+[03:14] by serial. So, we're going to go back to
+[03:17] products by clicking this products
+[03:19] breadcrumb. And to see how we set up
+[03:21] tracking by serial numbers, let's select
+[03:24] our brand new Stealthy Wood record
+[03:26] player
+[03:27] product. After we click into the
+[03:30] Stealthy Wood record product form, we
+[03:32] want to make sure that the buy unique
+[03:34] serial number field is
+[03:37] selected. Amazing. This checks out so
+[03:40] far. Now, let's see what it looks like
+[03:42] when I purchase some record players from
+[03:44] a vendor and add some serial numbers
+[03:46] when adding them to my stock. Okay,
+[03:49] today I'm expecting the vinyl records as
+[03:51] well as vinyl players that we ordered.
+[03:54] So, I'm just going to click this one to
+[03:56] receive button here on our receipt card.
+[03:58] And right here, I can see our PO from
+[04:00] Vivid Vinyls. So, when we click into it,
+[04:03] you may notice that this receipt has a
+[04:05] total of 20 vinyl records coming in as
+[04:08] well as two Stealthy Wood record
+[04:09] players. So, in real life, I'll confirm
+[04:12] that everything is here. And then just
+[04:14] click validate on this
+[04:16] receipt. Oh no, an invalid operation.
+[04:20] Okay, so this is saying that we forgot
+[04:22] to record the lot or serial numbers for
+[04:24] our items in this order. So, we're just
+[04:26] going to close this out. And first,
+[04:28] let's handle the vinyl records which are
+[04:31] tracked by lots. So to do that, I need
+[04:33] to click into this additional details
+[04:35] button or hamburger icon right next to
+[04:38] quantity. And let's say for example, if
+[04:41] all 20 vinyl records were a part of the
+[04:43] same lot, I could simply add the single
+[04:45] lot to this lot or serial number field
+[04:48] here on the left, just like so. But it
+[04:51] looks like Vivid Vinyl sent me 10 vinyls
+[04:54] from lot S1 and another 10 from lot S2.
+[04:58] So, how do I know that? Well, it's
+[05:00] written right there on the package,
+[05:01] which I absolutely have in my hands
+[05:04] right now, seeing I'm definitely in a
+[05:07] real warehouse as well and not my
+[05:09] studio. But we'll go ahead and type S1
+[05:12] in the first field and update the
+[05:15] quantity on that line to 10.
+[05:19] Then I'll click add a
+[05:21] line, type S2, and then put the other 10
+[05:27] in the quantity
+[05:29] column. Then I'll click save to close
+[05:32] this out. And next, we have to add our
+[05:35] serial numbers to our Stealthywood
+[05:36] record players by clicking the hamburger
+[05:38] icon next to quantity, but this time on
+[05:40] the record player
+[05:42] line. Okay, so with ODOT, there are
+[05:45] three different ways we can assign
+[05:46] serial numbers. First, we could click
+[05:48] add a line. And you could do this
+[05:51] manually. Add in any numbers you'd like.
+[05:54] Second, if you have a list of serial
+[05:56] numbers that you want to copy or paste
+[05:58] in here, you can always click import
+[06:01] serial/ots and paste them directly into
+[06:04] that field. And third, if you want them
+[06:07] in sequence, you can click generate
+[06:09] serial lots.
+[06:11] And when you click into that, you can go
+[06:13] ahead and tell ODO what type of
+[06:15] formatting to use for these serial
+[06:18] numbers. So for example, we could put
+[06:20] SN17 here. And we need two serial
+[06:23] numbers for this. So when that looks all
+[06:26] good, all we have to do is click
+[06:29] generate. And it starts with serial
+[06:31] number 17 and then gives us another one
+[06:33] of 18 since we asked for two serial
+[06:36] numbers. Look how cool that is.
+[06:39] So once we're ready to move on, we can
+[06:41] just click
+[06:42] save and then we'll click validate to
+[06:44] validate the shipment. Great. Now when I
+[06:48] click into the traceability smart button
+[06:50] here at the top, I have a complete
+[06:53] record or traceability report with all
+[06:55] the lots and serial numbers as well as
+[06:58] the quantities they came with. Now that
+[07:01] we've received our items and track them
+[07:02] by lots and serial numbers, let's see
+[07:05] how the process works when we actually
+[07:07] sell them. So to do that, we're going to
+[07:09] go to the sales
+[07:12] application and we'll click new in the
+[07:14] upper leftand corner to create a new
+[07:17] quotation. Then we'll add our customer.
+[07:20] Let's say Abigail
+[07:22] Peterson. And we're going to add five of
+[07:25] our vinyl
+[07:29] records. And we'll just add one of our
+[07:32] stealthy wood record players.
+[07:37] Then we could go ahead and click
+[07:40] confirm. And then when we click into
+[07:42] this delivery smart button here at the
+[07:44] top to check out the delivery order of
+[07:45] this
+[07:47] sale, all we have to do is click
+[07:49] validate to process the delivered
+[07:53] quantities. Now when we click the
+[07:55] traceability smart button here at the
+[07:57] top, this is exactly what we want to
+[08:01] see here. Once we click into that smart
+[08:03] button, we could see that we sold five
+[08:05] from lot S1. And it looks like we sold
+[08:08] one of our Stealthy Wood record players
+[08:11] from SN99, which is that specific serial
+[08:15] number. These items are now shipped out
+[08:17] to our customer, Abigail Peterson.
+[08:20] Perfect. Now, that's one way we can view
+[08:22] traceability in ODO, but we can also
+[08:25] check out our handydandy traceability
+[08:26] reports. So, let's take a look at those
+[08:28] now. So, we'll get out of here and just
+[08:31] click into our inventory application.
+[08:34] And from here, all we have to do is
+[08:35] click on products down to lots/s serial
+[08:39] numbers. Now, this page is a highle
+[08:42] overview of all the lots and serial
+[08:44] numbers related to my products. And if I
+[08:47] click into one, for example, our
+[08:49] stealthywood record
+[08:51] player, I can see smart buttons at the
+[08:54] top. and it shows me everything from
+[08:56] location, traceability, any purchases,
+[09:00] or even sales that are associated with
+[09:02] this individual product. Now, let's go
+[09:04] ahead and click this traceability smart
+[09:06] button to take a look at where this
+[09:07] product is right now. Oh no. Starting
+[09:12] from the bottom line, we can see that we
+[09:13] received it from a vendor, then we
+[09:15] brought it into our stock and sold it to
+[09:18] our customer. But on April 7th, it looks
+[09:22] like our customers returned this product
+[09:24] and it's back in our stock. But why? And
+[09:28] that's it for this video. Now you know
+[09:30] how to manage lots and serial numbers
+[09:32] like a true inventory master. If you'll
+[09:34] excuse me, I need to head over to the
+[09:35] loading docks and make sure there isn't
+[09:36] any damage on that returned product and
+[09:39] see if we can sell it again. Thanks for
+[09:41] watching and I'll see you in the next
+[09:42] video. Found this helpful. Don't forget
+[09:44] to like and subscribe for more inventory
+[09:46] tips. See you later.

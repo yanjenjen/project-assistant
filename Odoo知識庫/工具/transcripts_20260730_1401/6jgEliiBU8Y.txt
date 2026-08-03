@@ -1,0 +1,155 @@
+影片 ID: 6jgEliiBU8Y
+來源: https://www.youtube.com/watch?v=6jgEliiBU8Y
+下載時間: 2026-07-30 14:03
+============================================================
+
+[00:01] [music]
+[00:04] What's up oders? My name is Joseio and
+[00:06] welcome back. Today we're taking a look
+[00:08] at how to handle some more complex
+[00:10] shipping scenarios here at Stealthywood.
+[00:12] In a perfect world, every order would
+[00:14] fit into a single neat box. But we know
+[00:17] that's not always the case. Sometimes an
+[00:19] order is simply too large to fit in a
+[00:22] single container. or as is the case in
+[00:24] today's video, certain items shouldn't
+[00:26] be packaged together just so we can
+[00:27] avoid shipping damage during transit.
+[00:30] Thankfully, ODU makes it easy to create
+[00:32] multiple packages for a single delivery
+[00:34] order, giving us the flexibility to
+[00:37] package every item exactly how it needs
+[00:39] to be handled. Let's dive into the
+[00:41] configuration and see how we prepare our
+[00:43] company for multi package shipping.
+[00:45] Before we can do anything, we need to
+[00:47] make sure that packages is enabled
+[00:49] inside of the inventory configuration
+[00:51] settings. So, first let's go into
+[00:52] inventory, open up configuration and
+[00:54] settings. Okay, so actually funny
+[00:56] enough, it's right here at the top. We
+[00:58] want to make sure that the checkbox next
+[00:59] to packages is enabled. And if you're
+[01:02] just enabling this for the first time,
+[01:03] don't forget to hit save in the top left
+[01:05] corner to save your changes. So, with
+[01:08] this out of the way, let's head back to
+[01:09] our inventory dashboard and see how we
+[01:12] can organize a delivery order into
+[01:14] separate packages. So, back over here on
+[01:17] overview. Someone's actually placed an
+[01:19] order for our refinishing bundle. Let's
+[01:22] check it out. We're going to click on
+[01:23] this one to deliver right here. And then
+[01:26] we're going to open up our delivery
+[01:27] order. Oh, that's going to be a little
+[01:31] bit of a problem. As we can see here,
+[01:33] most of our products are in stock, but
+[01:36] looking at the wood finish itself, we
+[01:38] only have one left. And you can see that
+[01:41] we have that in the quantity field, but
+[01:43] our demand is more. It's two. Not to
+[01:46] worry, though. We can ship out what we
+[01:48] have now and create a back order for the
+[01:50] remaining wood finish. To make sure that
+[01:52] Sawyer receives his order in perfect
+[01:54] condition, the warehouse team follows a
+[01:57] separation protocol. Because the wood
+[01:59] finish is a liquid inside of an aerosol
+[02:02] container which is under pressure, we
+[02:05] package it separately to eliminate any
+[02:07] risk of accidental leaks or punctures
+[02:09] that could damage the tarp. And gloves
+[02:12] as well inside of here during transit.
+[02:14] If we were just packaging everything
+[02:16] together to go at once, we could just
+[02:18] click the uh in this case put in pack
+[02:20] button down below and be done with it.
+[02:23] We need to ship things separately though
+[02:26] due to the separation protocol. So,
+[02:28] let's package the gloves and tarp
+[02:29] together. First, instead of clicking put
+[02:32] and pack like we normally would, we're
+[02:35] going to click on our nice little
+[02:37] details link over here that we have, and
+[02:40] we're going to do the one next to the
+[02:41] gloves.
+[02:43] All right, perfect. So, here inside of
+[02:44] our popup window that we have, we're
+[02:46] going to specify a destination package.
+[02:48] We're going to name this one prep
+[02:52] gear.
+[02:54] Nice little capital two right there.
+[02:57] And we're going to hit enter for that
+[02:59] one. Okay, great. Now, we're going to
+[03:01] hit save. Boom. Now, let's add the tarp
+[03:05] to the same one as well. Select details
+[03:07] again. See if it'll just autofill. Oh,
+[03:09] it does. I love you, Odo. Perfect.
+[03:14] Okay, we're all set. We're going to hit
+[03:16] save. Great. Ah, just like that, we're
+[03:19] done. Let's create a new package for the
+[03:21] single canister of wood finish as well
+[03:23] that's available. So, we're going to
+[03:24] click on the details link for that one
+[03:26] over there. And we're going to name this
+[03:28] one as our destination package would
+[03:31] finish. Create that. Click away and hit
+[03:34] save. Boom. I love that it tells us
+[03:37] immediately and we know that everything
+[03:39] looks fine because we could see it right
+[03:41] there under the packages column. Now,
+[03:43] I'm going to go ahead and click validate
+[03:44] to confirm that we are sending off two
+[03:47] packages. And since we're one item
+[03:50] short, we get a popup asking if we want
+[03:51] to create a back order for the wood
+[03:53] finish that we don't have in stock. I'm
+[03:55] going to go ahead and click create
+[03:56] backord over here. And look at that.
+[04:00] When we do this, the delivery order is
+[04:02] complete for the items that we shipped.
+[04:03] And for traceability sake, the back
+[04:06] order delivery order is linked over
+[04:08] here. As we can also tell inside of our
+[04:11] chatter area.
+[04:13] Now, all we have to do is wait for, in
+[04:16] our case, the wood finish to come back
+[04:17] in stock. So, it's a few days later, and
+[04:20] as luck would have it, our wood finish
+[04:23] is back in stock. Let's complete that
+[04:25] back order. So, we're going to select
+[04:27] our back order button over here, and
+[04:30] we're going to click on it. Okay,
+[04:31] perfect. So, here it's just like any
+[04:34] other delivery order. We're going to
+[04:36] click the put in pack button that we
+[04:38] have over there and we're going to stick
+[04:40] it in its own little package. Since it's
+[04:43] on its own, we can just click validate
+[04:45] right there. And just like that, Sawyer
+[04:48] Spruce gets all of his gear, the tarp
+[04:50] and gloves, and everything stays dry and
+[04:53] separate. And honestly, we've mastered a
+[04:56] lot, including the art of multiple
+[04:57] shipments. By using multiple packages,
+[05:00] you're not just organized, you're
+[05:01] prepared for the entire realities of a
+[05:04] busy warehouse. Remember, ODU gives you
+[05:06] two ways to split things up. Creating
+[05:09] individual packages or using back orders
+[05:13] to ship what's ready today and handle
+[05:15] the rest later. Whether it's separating
+[05:18] liquids from linens or breaking down a
+[05:20] massive order into manageable boxes, ODU
+[05:23] gives you control over every item's
+[05:25] journey. I'm going to be sure to link
+[05:26] some related videos and documentation
+[05:28] down below. Now, go forth and pack with
+[05:31] confidence. Just maybe double check the
+[05:34] lid on that wood finish before you seal
+[05:36] the box. Thanks for watching and I'm
+[05:38] going to see you in the next one. Go
+[05:39] grab a snack.

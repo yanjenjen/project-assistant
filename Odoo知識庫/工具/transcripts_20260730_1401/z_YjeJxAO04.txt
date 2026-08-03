@@ -1,0 +1,219 @@
+影片 ID: z_YjeJxAO04
+來源: https://www.youtube.com/watch?v=z_YjeJxAO04
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:00] [Music]
+[00:05] hello OD doers and welcome back today
+[00:08] we're going to talk about lead times
+[00:09] which are how many days it takes to do
+[00:11] something they are used to plan and
+[00:13] coordinate deliveries replenishment and
+[00:14] other supply chain actions to get
+[00:16] products to customers on time in Odo we
+[00:19] have customer lead time purchase lead
+[00:21] time and Manufacturing lead time which
+[00:23] you may have heard of for as well ODU
+[00:25] offers security lead times security lead
+[00:28] times are like when you tell your
+[00:29] habitually late friend to arrive at 1:30
+[00:31] even though the event doesn't actually
+[00:33] start until 2:00 essentially security
+[00:35] lead times are buffer days to start some
+[00:37] actions earlier than usual just in case
+[00:40] there are any unexpected delays all
+[00:42] righty enough of this chitchat though
+[00:44] let's review each lead time and
+[00:46] understand how they help ODU plan and
+[00:48] determine deadlines in order to ship
+[00:50] products to customers on time let's
+[00:53] start by configurating the product to do
+[00:55] that we're going to click on the
+[00:56] products in the menu and then products
+[00:58] once again then we can go ahead and
+[01:00] select our customized desk chair now it
+[01:03] should be noted that lead times are
+[01:05] often used with reordering rules so
+[01:08] let's go ahead and click on the minimum
+[01:09] maximum smart button which is going to
+[01:11] take us to the reordering rules page for
+[01:13] this
+[01:14] product here we have a 0000 manual
+[01:18] reordering rule set this specific rule
+[01:20] helps us generate a request for a
+[01:22] quotation anytime the forecasted
+[01:24] quantity drops below zero for more info
+[01:28] check out my reordering rules video but
+[01:30] right now with our reordering rues set
+[01:32] up properly let's click on the
+[01:34] breadcrumbs to return to the customized
+[01:36] desk chair product
+[01:38] page from here let's set up a customer
+[01:41] lead time from the product form we're
+[01:43] going to go to the inventory
+[01:45] Tab and in the customer lead time field
+[01:48] in the logistics section here we're
+[01:50] going to see that it's already set to 14
+[01:52] days this ensures that every sales order
+[01:55] for the product has an expected delivery
+[01:57] date 14 days from the order
+[02:00] the customer lead time is used as an
+[02:03] overall estimation of how things should
+[02:05] usually take to arrive if you're
+[02:07] noticing that your customers are getting
+[02:08] products too late or too early you might
+[02:11] want to adjust this
+[02:13] here before moving on I'd like to note
+[02:16] that the customer lead time represents
+[02:17] the time it takes for all the supply
+[02:19] chain actions to get the product to the
+[02:21] customer but the other lead times like
+[02:23] purchase or security lead times are
+[02:26] evaluated separately let's get into the
+[02:28] sales security lead time the other lead
+[02:30] time that affects delivery dates with
+[02:32] that we're going to go to the
+[02:33] configuration menu and select
+[02:37] settings now in the search bar right
+[02:39] here we're just going to go ahead and
+[02:40] type in lead
+[02:44] time you'll notice that the security
+[02:46] lead time for sales is already activated
+[02:49] it's set to one day which pushes the
+[02:51] delivery deadline up by one day this
+[02:54] means we'll prepare the orders one day
+[02:55] in advance all the time at this company
+[02:58] see what that looks like let's go to the
+[02:59] sales application and see how the
+[03:01] delivery dates are
+[03:04] affected first let's go ahead and create
+[03:07] a new quotation by selecting new and I'm
+[03:10] going to go ahead and pretend I'm a
+[03:11] salesperson and I'm placing an order for
+[03:13] our customer Deco
+[03:17] addict then I'm going to go ahead and
+[03:19] add a product by selecting add a product
+[03:21] and we're going to choose our customized
+[03:23] desk chair from here I'm going to
+[03:25] confirm the order and in the confirmed
+[03:29] order page we're going to notice that
+[03:30] the order date is set to today next
+[03:34] let's go ahead and click the delivery
+[03:35] smart button that appeared at the very
+[03:36] top of the
+[03:38] page then the deadline field here we're
+[03:40] going to notice that the date is set to
+[03:42] 14 days from today that's our customer
+[03:45] lead time the schedule date directly
+[03:47] above is one day before the deadline
+[03:49] because we have the security lead time
+[03:51] for sales set to one day makes sense
+[03:54] right and because we don't have this
+[03:56] product in stock we need to order it
+[03:58] from our vendor ODU can take care of
+[04:01] scheduling purchase orders for US based
+[04:03] on the scheduled delivery date so let's
+[04:05] go over to the purchase lead time next
+[04:08] to do that we're just going to go ahead
+[04:09] and click the customize desk chair in
+[04:11] the product line to quickly get back to
+[04:13] the product
+[04:15] form this is the time where we're going
+[04:17] to go to the purchase tab right here
+[04:20] here we can set the purchase lead time
+[04:22] for a vendor which is another way of
+[04:23] saying how long it takes for a product
+[04:25] to arrive in our warehouse from a vendor
+[04:28] by modifying the figure in the the
+[04:29] delivery lead time column here on the
+[04:32] vendor line we gave Azure interior 5
+[04:35] days to send us this product next let's
+[04:39] go over to the security lead times for
+[04:41] purchase to do that we're going to go to
+[04:43] the inventory
+[04:46] application and select the configuration
+[04:48] in the menu and hit
+[04:51] settings then we're going to scroll all
+[04:54] the way down to Advanced scheduling
+[04:57] where we'll go ahead and find the
+[04:58] security lead time for the
+[05:00] purchase and we can already see that
+[05:02] it's activated and set to 3 days with
+[05:05] that in place this means the deadline to
+[05:07] send a quotation for this product is
+[05:09] pushed up by 3 days while we're here
+[05:12] let's also quickly focus on the purchase
+[05:14] date field this is the amount of time it
+[05:17] takes the vendor to review and confirm
+[05:19] our purchase order I set the days to
+[05:21] purchase to two days since I know the
+[05:23] manager Azure interior doesn't check his
+[05:25] email very
+[05:27] often all righty with all the is in
+[05:30] place and set up we'll notice that we
+[05:32] this adds up to 11 days the customer and
+[05:35] purchase lead times are defined per
+[05:36] product whereas the security lead times
+[05:38] for all items of the company make sure
+[05:41] to take note of that now let's go to the
+[05:44] sales application and deliver the
+[05:46] customized desk chair that's expected in
+[05:48] 11 days and see how ODU helps us plan
+[05:52] everything all righty here's a new
+[05:54] quotation to see how this all works from
+[05:57] here I'm going to go to the other info
+[05:59] tab ab and down in the delivery section
+[06:02] I'm going to check on the delivery date
+[06:04] field here and set it to a date that's
+[06:06] 11 days from
+[06:08] today and then I'm going to go ahead and
+[06:10] click
+[06:11] apply oh doopsy when we do that we get a
+[06:14] warning saying the chosen delivery date
+[06:16] might not be fulfilled because the
+[06:18] delivery date is sooner than the
+[06:19] expected date remember o doers this
+[06:21] warning is based on the customer lead
+[06:23] time which is calculated separately from
+[06:25] the purchase lead time and security lead
+[06:27] times for sales and purchase now after
+[06:30] we close this popup let's go ahead and
+[06:32] confirm this
+[06:34] quotation and be sure to remember this
+[06:37] sales number right here
+[06:39] 43 now since we don't have this chair in
+[06:42] stock the reordering rules we set
+[06:44] earlier should have generated a request
+[06:46] for quotation or RFQ for us so let's go
+[06:50] check it out in the purchase
+[06:57] app in the purchase we have an RFQ that
+[07:01] was generated from the reordering point
+[07:03] we know that because it says op6 and the
+[07:06] source document like I remember to ask
+[07:08] you is sales order
+[07:10] 43 so let's click the line to open this
+[07:15] RFQ from here you'll see that the order
+[07:19] deadline from the vendor needs to be
+[07:21] confirmed within 2 days from
+[07:23] today that's the 2 days purchase lead
+[07:26] time we set up perfect then the expected
+[07:30] arrival date here is 5 days from the
+[07:32] order deadline date because that's the
+[07:34] expected arrival date that is calculated
+[07:36] by adding the vendor lead time to the
+[07:38] order deadline which in this case equals
+[07:40] 5 days what's also interesting is that
+[07:43] there's a 3-day buffer between the
+[07:45] scheduled date and delivery date order
+[07:47] and the expected arrival date on the
+[07:49] purchase order that's because the
+[07:51] security lead time for the purchase is
+[07:52] at work we expect the products to arrive
+[07:55] at our warehouse 3 days before the
+[07:57] scheduled date for the order and there
+[08:00] you have it that's how these different
+[08:01] lead times work together to make sure
+[08:03] your orders arrive on time for more
+[08:06] information on manufacturing lead times
+[08:08] refer to this video thanks for watching
+[08:10] stay timely o doers and see you soon

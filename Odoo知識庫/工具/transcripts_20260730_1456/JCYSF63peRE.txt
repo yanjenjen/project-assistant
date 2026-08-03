@@ -1,0 +1,156 @@
+影片 ID: JCYSF63peRE
+來源: https://www.youtube.com/watch?v=JCYSF63peRE
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Hi Odooers. Today we're going to dive
+[00:05] into some interesting additional
+[00:07] features Odoo offers to enhance your
+[00:09] customer's shopping experience.
+[00:11] Product ribbons, adding the comparison
+[00:13] tool, or designing a nice wish list for
+[00:15] your clients. You can really customize
+[00:17] your website as you want. Ready? Then
+[00:19] let's dive right into it.
+[00:23] So, I just released my new collection of
+[00:26] mugs and bowls, and I want to highlight
+[00:28] it on my shop page. I'm convinced that
+[00:30] the fruit mug, which is this one, will
+[00:32] become an absolute best seller. So, I
+[00:34] want to make it more visible. Well,
+[00:36] let's go to edit
+[00:38] and then click on the style tab.
+[00:41] And here in the products section,
+[00:44] if I click on it, sorry, and I go in the
+[00:46] product section, then I have the option
+[00:48] to make it bigger. So, we see now that
+[00:50] it only has one square, but if I do 4 by
+[00:51] 4, then all of a sudden it becomes
+[00:54] bigger and more visible.
+[00:56] Now, I also want it to be on the top
+[00:58] left side, so again, I click on it and I
+[01:01] open the section and with the arrows
+[01:02] over here, I can make it go to another
+[01:05] position. So, here I'll put it on the
+[01:07] upper left.
+[01:12] I also want to add a ribbon. So, if I
+[01:14] click on it and go to the product again,
+[01:16] I can here decide to add a ribbon. I can
+[01:20] choose from this list or I can create a
+[01:22] new one. So, in my case, I want to
+[01:25] create one, so I'll just click on the
+[01:27] plus button.
+[01:29] And here I can give it a new name. I
+[01:31] will call it the fruit collection.
+[01:36] And instead of a ribbon, so you see that
+[01:37] it appears here as a ribbon, I will
+[01:39] display it as a badge. Now, it's not
+[01:41] very visible, you can see it here, but
+[01:43] now we are going to change the
+[01:44] background of it. So, for the colors, I
+[01:46] already know my hex code, so I'll go
+[01:48] into custom and here I will paste the
+[01:50] hex code that I copied earlier.
+[01:53] And for the text, I will just put white.
+[01:56] And as you can see, this is now how it
+[01:58] appears. If it were a ribbon, it would
+[02:00] appear like that. And a badge appears
+[02:02] like this. So, we will save.
+[02:05] And for existing badges, so what the
+[02:07] ones that we didn't create now, we can
+[02:09] of course customize the colors as well.
+[02:11] You can also automatically assign
+[02:12] specific ribbons or badges to products
+[02:14] for these three scenarios: new, on sale,
+[02:17] or when out of stock. To do this, we
+[02:20] will go to e-commerce and then to
+[02:23] ribbons.
+[02:24] So, we will select, for example, the new
+[02:27] ribbon.
+[02:28] And once we've decided about the wording
+[02:30] and how it looks, we can specify that we
+[02:33] want it to be automatically assigned.
+[02:35] So, we just click here and we take
+[02:36] automatically assigned. And in our case,
+[02:39] it will be automatically assigned when
+[02:40] the product is new. And here, we can
+[02:43] just decide for how many days after
+[02:44] publication it is considered as new. And
+[02:48] there you go.
+[02:51] Now, the add to compare button, which is
+[02:54] this one, allows your customers to
+[02:55] compare products based on their
+[02:57] attributes. Customers can click this
+[02:59] button to select the products they wish
+[03:02] to compare, like this.
+[03:04] And then they can click compare here in
+[03:06] the pop-up window at the bottom of the
+[03:08] page to see the comparison summary. If
+[03:10] you click on it, then we see that the
+[03:13] different attributes and variants are
+[03:15] clearly compared.
+[03:17] Now, this feature can be enabled from
+[03:19] the catalog page or from the product
+[03:21] page.
+[03:22] To display the compare button on the
+[03:24] catalog page, we just have to open the
+[03:27] website editor, then go to the style
+[03:30] tab, and then we click on the paintbrush
+[03:32] icon next to the product design.
+[03:35] Now, in the action section here, we can
+[03:38] toggle on or off the comparison button.
+[03:41] And then we can choose to display this
+[03:43] button on hover, like we did right now,
+[03:46] or inline, and then it stays displayed
+[03:48] all the time.
+[03:50] Let's discard what we did. And let's now
+[03:52] take a look at how we can do this on a
+[03:54] product page, for example, on the Foot
+[03:57] Mag.
+[03:58] So, for this we are on the product page,
+[04:00] and then we click on edit and go again
+[04:03] to the style tab.
+[04:05] Now, here we will navigate to the
+[04:07] product details section, and we can just
+[04:10] toggle the compare button on,
+[04:13] and then again off.
+[04:16] And as you see, it appears over here.
+[04:19] Once that's done, it becomes available
+[04:21] on each product page that has
+[04:23] attributes.
+[04:27] Okay, now last but not least, let's talk
+[04:29] about the wish list, which allows your
+[04:31] customers to save favorite products for
+[04:33] later.
+[04:34] You can just click on the little hearts
+[04:37] here on top of the card, and then you
+[04:39] will see that your wish list will appear
+[04:40] over here.
+[04:41] It's enabled by default and available on
+[04:44] each product page, as you can see, when
+[04:46] we click on it, and you have the add to
+[04:48] wish list button over here.
+[04:50] So, we've added some products to our
+[04:53] wish list by clicking on the hearts,
+[04:55] and now we can tailor it to showcase our
+[04:58] products in the best way possible.
+[05:00] So, we'll click on the heart here at the
+[05:02] top of the page, and here we access to
+[05:04] our wish list.
+[05:06] To tailor it, let's click on edit, and
+[05:08] then of course to the style tab, where
+[05:10] else? And here we can choose between
+[05:12] various product design. If we take the
+[05:14] product design menu here, we can just
+[05:17] hover over all the options of the list,
+[05:20] and we can put it as we want. Let's say
+[05:22] that we like it as a Bento design.
+[05:25] If you want to tailor it further, you
+[05:27] can click the paintbrush, and here you
+[05:29] have plenty of options to choose from.
+[05:32] We show all of these options in detail
+[05:34] in another video.
+[05:36] And that's it for this video. Make sure
+[05:37] to read our online documentation for
+[05:39] more info, and I'll see you in the next
+[05:40] one. Bye-bye.

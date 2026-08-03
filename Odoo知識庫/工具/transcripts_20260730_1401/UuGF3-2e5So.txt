@@ -1,0 +1,195 @@
+影片 ID: UuGF3-2e5So
+來源: https://www.youtube.com/watch?v=UuGF3-2e5So
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:05] what's up OD doers and welcome back you
+[00:07] ever walk into your storage area and
+[00:09] think where did all this stuff come from
+[00:12] yeah same here new shipments keep
+[00:14] rolling in and somehow they always end
+[00:15] up in the wrong place now I could spend
+[00:18] all day playing Warehouse Tetris but I'd
+[00:20] rather let Odo do the work for me so
+[00:22] that's where putaway rules come in with
+[00:25] odo's inventory app I can set up putaway
+[00:27] rules that can tell everyone when this
+[00:29] product arrives it should be stored here
+[00:32] think of it like a built-in Warehouse
+[00:34] GPS odo's way of saying here's your
+[00:37] package now put it exactly where it
+[00:39] belongs in my warehouse I've got a
+[00:41] general storage area called The
+[00:42] Warehouse stock but within that specific
+[00:45] space I've set up a dedicated shelf just
+[00:47] for music related products called
+[00:49] Warehouse stock music by setting up a
+[00:52] putaway rule ODU automatically directs
+[00:55] all my incoming vinyl records to that
+[00:57] shelf and when it's time to ship out an
+[00:59] order ODU tells me exactly where to grab
+[01:02] them so if you're a fan of keeping
+[01:04] things neat and organized let's dive
+[01:06] into our ODU database and see just how
+[01:08] easy it is to set up putaway rules in
+[01:11] Odo all right before I can make a
+[01:13] putaway rule I need to enable a few
+[01:15] things first for my warehouse settings
+[01:17] to do that I'm just going to click into
+[01:19] the inventory application click on
+[01:21] configuration at the top followed by
+[01:24] settings now from here we're just going
+[01:26] to scroll to the very bottom to our
+[01:27] warehouse section and we want to make
+[01:30] sure that multi-step routes as well as
+[01:31] storage locations are enabled these
+[01:34] features are necessary for putaway rules
+[01:36] because storage locations let me set up
+[01:39] different areas for my products to be
+[01:40] stored inside of the warehouse or across
+[01:43] multiple warehouses refrigerators
+[01:45] shelves or even vendor storage sites but
+[01:48] we'll get into that in another video
+[01:50] meanwhile multi-step routes allow for
+[01:52] products to be moved to their designated
+[01:54] shelves racks or aisles in Odo putaway
+[01:58] rules automatically creat stock moves
+[02:00] which guide my warehouse workers to put
+[02:02] the products away correctly all right
+[02:05] now I'm going to click on the
+[02:06] configuration subheading once again and
+[02:09] this time I can see options for
+[02:11] locations as well as putaway rules in
+[02:14] this
+[02:15] menu we'll check that out first and I'm
+[02:18] just going to click into locations and
+[02:21] look you right here we already have our
+[02:23] parent location Warehouse stock set up
+[02:25] that's a great start but I want to set
+[02:27] up a designated spot just for my vinyl
+[02:30] records so I know where to store them
+[02:32] and where to find them to do that I'm
+[02:34] just going to click new in the upper
+[02:35] leftand corner and when I do this form
+[02:38] loads and I'm just going to enter music
+[02:40] as the location
+[02:43] name now for the parent location I'm
+[02:46] just going to select Warehouse
+[02:50] stock now as you can see there are a lot
+[02:52] more options that we can configure and
+[02:54] customize on this page but for now we're
+[02:57] just going to click the locations
+[02:58] breadcrumb and boom here's my brand new
+[03:02] location just for my vinyl
+[03:05] records okay now it's finally time to
+[03:08] create a putaway rule to do that once
+[03:10] again we're going to click our trusty
+[03:11] good friend the configuration subheading
+[03:14] then from here we're just going to click
+[03:15] on putaway
+[03:17] rules okay from here I'm going to make a
+[03:20] new rule by clicking new in the upper
+[03:21] leftand corner and the first thing I
+[03:24] need to decide is a location and to do
+[03:27] that when I click in the when product
+[03:28] arrives in field have the ability to
+[03:31] check a location from this drop- down
+[03:33] menu but for this instance we're going
+[03:35] to keep it as Warehouse
+[03:37] stock next I need to decide what this
+[03:40] rule applies to so in the product field
+[03:42] right here I'm going to select vinyl
+[03:45] record as you can see we also have the
+[03:47] ability to create a putaway rule based
+[03:49] on a product category this is useful
+[03:52] when many products in a category are
+[03:54] stored in the same place allowing you to
+[03:55] set the putaway rule once for the
+[03:57] category instead of for each product
+[04:00] saves a bunch of time finally I need to
+[04:03] decide where to move that product to do
+[04:05] that I'm going to click into the store
+[04:07] to location field here and I'm just
+[04:09] going to choose Warehouse stock
+[04:12] music another thing OD doers if you
+[04:14] can't find your store to location it
+[04:16] might be because ODU only allows storage
+[04:19] locations to be assigned to child
+[04:21] locations for the arrival location for
+[04:24] example we can't use putaway rules to
+[04:26] move products to Warehouse stock to
+[04:28] Warehouse input we'd use a route
+[04:31] instead we also have the ability to
+[04:33] decide if there's a sublocation
+[04:36] Associated to the store two
+[04:39] location here we have the ability to
+[04:41] select no last used as well as closest
+[04:45] location if last used or closest
+[04:48] location is selected you have the
+[04:50] ability to select a storage category in
+[04:52] the having category field and in short a
+[04:55] storage category is where you can set a
+[04:57] capacity or weight limit for a storage
+[05:00] location for more information on that
+[05:02] I'll link that in our documentation down
+[05:04] below at this point my rule states if a
+[05:08] vinyl record arrives at my Warehouse
+[05:10] stock then they should be stored to the
+[05:12] Shelf in Warehouse stock that I set up
+[05:16] like I mentioned before I could also set
+[05:18] up a separate putaway rule using that
+[05:20] product category field instead so we're
+[05:23] going to do that now by Saving this
+[05:28] here and then selecting
+[05:32] new so in the product category field
+[05:35] I'll select all salable
+[05:40] music and then we're going to change the
+[05:42] store
+[05:43] to location to the same as the one above
+[05:47] so it's the exact same rules just with a
+[05:49] different product category instead of
+[05:51] product now with this rule created it
+[05:53] now states that if I receive any product
+[05:56] in the all salable music category in our
+[05:58] warehouse stock
+[06:00] then Odo will tell me to store that
+[06:02] product to my music shelf and that's
+[06:05] basic putaway rules now let's see our
+[06:07] rules in action remember putaway rules
+[06:10] look at the initial arrival location and
+[06:12] a product to tell us the store 2
+[06:15] location to test the rule let's buy some
+[06:17] more vinyl records shall we so I'm going
+[06:20] to head over to the purchase
+[06:23] app and I need to create a new RFQ so
+[06:27] I'll click new in the upper leand corner
+[06:29] for my vendor I'm going to select Port
+[06:32] of
+[06:33] sound and then I'll add my vinyl record
+[06:36] product to the order lines and we're
+[06:39] just going to update this quantity here
+[06:41] to
+[06:42] 10 and once that looks good we're just
+[06:45] going to confirm our
+[06:46] order and once I confirm the order I can
+[06:49] check that the rule is in place by
+[06:51] clicking on this receipt smart button
+[06:53] here at the
+[06:54] top in the receipt itself I can see that
+[06:56] the vinyl record will arrive at the
+[06:58] parent location Warehouse stock perfect
+[07:02] and when I either click this move smart
+[07:04] button or this hamburger icon here on
+[07:06] the order
+[07:08] lines I'm able to confirm that ODU
+[07:11] remembers the rule and will store the
+[07:13] product to our music location just like
+[07:16] what we wanted
+[07:18] awesome well OD doers that's how you
+[07:20] make a putaway rule good job following
+[07:23] along and if you're the one putting
+[07:25] anything away take it from me and always
+[07:27] lift with your knees catch you in the
+[07:29] next
+[07:30] [Music]
+[07:34] video my back

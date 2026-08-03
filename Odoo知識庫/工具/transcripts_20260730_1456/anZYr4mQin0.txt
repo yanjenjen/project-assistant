@@ -1,0 +1,285 @@
+影片 ID: anZYr4mQin0
+來源: https://www.youtube.com/watch?v=anZYr4mQin0
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Hi Odooers and welcome back to another
+[00:05] video on taking your e-commerce store to
+[00:07] the next level.
+[00:09] Today, we're focusing on the visual
+[00:11] journey of your customers. Your shop's
+[00:13] design is your digital storefront and
+[00:15] Odoo gives you all the tools to make it
+[00:17] shine. From fine-tuning your product
+[00:19] catalog's layout and image ratios to
+[00:22] adding dynamic catalog blocks on any
+[00:24] page of your site.
+[00:26] We'll also explore how to build trust
+[00:27] with professional footers and payment
+[00:30] snippets and dive deep into attributes
+[00:32] to show you how to display colors,
+[00:34] patterns, and variants exactly the way
+[00:36] you want. Ready to give your shop a
+[00:38] professional makeover? Then let's get
+[00:40] started.
+[00:44] So, here I am on my product catalog
+[00:46] page. To modify its appearance, we will
+[00:49] click edit
+[00:51] and then we will go to the style tab.
+[00:53] If I choose
+[00:55] my product catalog, then we see that I
+[00:57] have several options.
+[00:59] So, first in the shop header section, I
+[01:02] can choose to show the page title or
+[01:05] not. You see that it disappears and it
+[01:07] comes back again.
+[01:08] And I can also choose to center it or
+[01:11] not. That's the easy part. Now, let's
+[01:15] display the products page section.
+[01:18] Here, I can adjust the width of my
+[01:20] catalog and I actually prefer it with a
+[01:22] larger width, so I'll select this one.
+[01:25] And now we will take a look at this
+[01:27] product design menu.
+[01:29] I will click on the paintbrush and here
+[01:32] I have access to a variety of settings
+[01:34] to really tailor my product catalog to
+[01:36] my liking.
+[01:39] Let's first have a look at these
+[01:40] presets.
+[01:42] So, when you hover on it, we'll go down
+[01:44] a little bit, you see that the cards
+[01:46] change
+[01:48] in different ways to display your
+[01:50] products.
+[01:52] Now, I like all of them, but my favorite
+[01:55] still is the thumbnail, so I will choose
+[01:57] this one.
+[01:59] Now, in the general section below,
+[02:01] I can add a hover effect.
+[02:03] I could add a background, which means
+[02:05] that when I hover on it, the background
+[02:07] comes
+[02:08] uh behind it, but I don't like it, so I
+[02:09] will leave it as none.
+[02:12] And we can also slide here use the
+[02:14] slider to configure the gap between the
+[02:16] products like this, but I'll leave it as
+[02:18] it was. I can also configure the
+[02:20] roundness
+[02:22] by using the slider.
+[02:24] I will leave it like this.
+[02:27] Now, in the text and content section, I
+[02:30] would like to emphasize the product's
+[02:31] title. So, I will click on this little
+[02:33] arrow, and I will set the titles as
+[02:36] bold.
+[02:38] And below here in the images, I will
+[02:41] test different image ratios. So, now it
+[02:44] is a square one, but if I hover over
+[02:46] them, then you see that they change.
+[02:50] I actually like the portrait one. So,
+[02:54] I'll And
+[02:56] And here we see that I activated the
+[02:57] secondary image option. That means that
+[03:00] when it's activated, if there is a
+[03:02] product with several images, then when
+[03:05] you hover over it, it changes to another
+[03:07] image like the Food Mac, for example.
+[03:10] Finally, in the action section, you can
+[03:13] decide whether or not to display buttons
+[03:15] directly on the product card. Here, I
+[03:18] decided to display the card on the
+[03:20] hover. So, when I go on it, you see that
+[03:22] the little card button is displayed on
+[03:23] the hover only to keep a lighter design.
+[03:27] Let's now go back to the previous menu,
+[03:29] and you see that there are various other
+[03:31] options listed here, but we already
+[03:33] talked about them in the video about
+[03:35] organizing your product catalog. So, be
+[03:37] sure to check that video out.
+[03:39] We'll click save,
+[03:41] and there you go.
+[03:45] Okay, now let's go to our homepage.
+[03:48] And you can see that we made a beautiful
+[03:50] catalog block, which is this one.
+[03:53] This one displays your products on any
+[03:54] other page than the shop page. To make
+[03:58] this one, you just have to click on edit
+[04:00] and then here in the blocks tab, you can
+[04:02] choose the catalog block. Just drag and
+[04:05] drop it where you want it to be. Uh once
+[04:07] you drop it, you have several template
+[04:10] options that you can choose from.
+[04:13] But, I really like the first one, so I
+[04:14] click on it and
+[04:16] just like that, it's placed on the
+[04:17] homepage.
+[04:19] Once it's there, of course, you can
+[04:20] click on it and customize this block
+[04:22] according to your needs. For more
+[04:24] information about building blocks, check
+[04:26] the website video linked below.
+[04:31] Now, we're still on our homepage, but we
+[04:33] will scroll down and focus on the
+[04:35] footer, which is this part right here.
+[04:38] If we click on edit
+[04:40] and then go to the style tab and select
+[04:42] the whole footer
+[04:44] well, then we can choose from a variety
+[04:46] of templates over here. You see that you
+[04:48] can display your information in several
+[04:50] ways. And there is one specific footer
+[04:53] for e-commerce, which is the last one
+[04:55] over here, which is also the one that we
+[04:57] chose.
+[04:58] Now, this one displays, for example,
+[04:59] reassurance messages and icons like this
+[05:01] one, as well as payment options like
+[05:04] this section. Now, note that you can
+[05:06] also display these payment methods to
+[05:08] reassure your customers on other pages,
+[05:10] not only on the footer. All you have to
+[05:12] do is go to the blocks tab and then in
+[05:15] the inner content, if you scroll down,
+[05:17] you see that you have the supported
+[05:19] payment methods. And for example, this
+[05:21] one, you can just drag and drop it
+[05:23] anywhere you want and they appear just
+[05:25] like this.
+[05:29] Okay, now let's head to the attributes
+[05:32] page by clicking e-commerce and then
+[05:34] attributes.
+[05:36] Here are all my attributes that I have
+[05:38] on my website. I have five columns.
+[05:41] First, the attribute, so this can be
+[05:43] color, material, size, food, etc.
+[05:46] Then I have the category. Now, this one
+[05:48] is useful to regroup similar attributes
+[05:50] under the same section in the comparison
+[05:52] page of e-commerce. We'll explain more
+[05:55] about the comparison page in another
+[05:57] video.
+[05:58] The third column is about the display
+[06:01] type that will be used in the product
+[06:02] configurator.
+[06:04] The fourth column is about variant
+[06:06] creation.
+[06:07] Instantly means that all possible
+[06:09] variants are created as soon as the
+[06:12] attribute and its values are added to a
+[06:14] product.
+[06:16] Dynamically means that each variant is
+[06:19] created only when its corresponding
+[06:21] attribute and values are added to a
+[06:23] sales order.
+[06:25] And never means that variants are never
+[06:27] created for the attribute.
+[06:29] Note that whether you choose instantly,
+[06:31] dynamically, or never, you cannot change
+[06:34] the type once the attribute is used on a
+[06:37] product.
+[06:38] Now, lastly, the fifth column is
+[06:40] e-commerce visibility. This allows you
+[06:42] to decide whether this attribute is
+[06:44] visible or not on the website.
+[06:47] But for now, let's click on the first
+[06:49] attribute and let's see all of these
+[06:51] possibilities further.
+[06:53] Here, the display type is color,
+[06:56] obviously.
+[06:57] The variant creation is set to
+[06:59] instantly. And as the attribute has
+[07:01] already been used, you can't change it.
+[07:04] See?
+[07:05] First, let's take a look at the
+[07:07] attribute value step.
+[07:09] So, here you can add your color name in
+[07:12] the value column.
+[07:13] In the color column, you can fill your
+[07:16] color by clicking on it, and here you
+[07:17] can put your RGB codes or by clicking on
+[07:20] the little arrows, you can also add a
+[07:22] hex code.
+[07:24] In the image column, you can add a image
+[07:27] if you wish to showcase specific
+[07:28] textures or pattern for instance.
+[07:31] And then you have a default extra price
+[07:33] column where you add an extra price for
+[07:35] specific colors.
+[07:38] And of course, you have the trash icon
+[07:39] to delete it.
+[07:41] Now, let's go to the e-commerce tab.
+[07:44] Here, you can add a category, as we
+[07:46] explained before.
+[07:47] And then, you can decide whether this
+[07:49] attribute is visible or not on the shop
+[07:52] page.
+[07:53] Which you can see here.
+[07:55] You can also decide to show the
+[07:56] attribute on product cards, meaning that
+[07:59] instantly created variants are
+[08:00] selectable on the shop page directly on
+[08:03] the product card.
+[08:04] And you can also choose them to be
+[08:06] visible permanently, or on hover only,
+[08:09] or not at all.
+[08:11] Finally, if you enable the show
+[08:13] thumbnails option, well, then you can
+[08:15] use the product variants images instead
+[08:17] of the product display to show options.
+[08:20] This all looks complicated, so let me
+[08:22] show you.
+[08:23] We'll go to the shop page.
+[08:26] And we will click on mugs.
+[08:29] And here, you have the perfect example
+[08:31] with our signature stoneware mug, where
+[08:33] the variants are displayed on the
+[08:36] product card. If I hover over the
+[08:37] variants, you see that the image
+[08:40] changes.
+[08:41] Now, if you go back on our product page,
+[08:43] and we stop at the fruit mug,
+[08:46] then here you have an example of
+[08:47] display, but for patterns this time.
+[08:51] Let's now focus on display types by
+[08:53] going back to our attributes dashboard.
+[08:55] We'll go to e-commerce, and then back on
+[08:57] attributes.
+[08:58] And here, we will click a new attribute.
+[09:02] We will call it pattern, and then we
+[09:04] will see what kind of display types we
+[09:06] can use. You see that we can select
+[09:08] various of them. But, actually, there's
+[09:10] an easier method for me to show you
+[09:11] that.
+[09:12] Let's discard this one, and let's go to
+[09:14] our e-commerce.
+[09:16] Now, here you have all the filters on
+[09:18] the shop.
+[09:19] And you see that each of them are
+[09:21] displayed in different ways. So, first
+[09:23] of all, the color. Let's see what type
+[09:24] this one is. If you go here on color, we
+[09:27] see that the type is, well, color,
+[09:29] because we have specified here what kind
+[09:30] of color is linked to this value.
+[09:34] Then, we see that we have material. Now,
+[09:36] this material here is the pills display
+[09:39] type and that looks like this.
+[09:42] For the size where you can just select
+[09:45] them,
+[09:47] you see that we have the radio style.
+[09:51] Now, the fruit one is the image style
+[09:54] and that you can see because here in
+[09:55] image we have added several images, one
+[09:58] per value.
+[10:00] And then we have finally the gift
+[10:03] one
+[10:04] which is
+[10:06] a select display type.
+[10:09] And that's it for this video.
+[10:10] Make sure to read our online
+[10:12] documentation for more information and
+[10:14] I'll see you in the next video. Bye-bye.

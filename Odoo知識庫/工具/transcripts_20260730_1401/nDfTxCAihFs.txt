@@ -1,0 +1,224 @@
+影片 ID: nDfTxCAihFs
+來源: https://www.youtube.com/watch?v=nDfTxCAihFs
+下載時間: 2026-07-30 14:01
+============================================================
+
+[00:01] [music]
+[00:04] >> Hello Odooers, my name is Jose Ignacio.
+[00:06] Welcome back. Today we're checking in on
+[00:09] Stealthy Threads, our fashion-forward
+[00:11] sister company. We've been branching out
+[00:14] from socks and shirts into the world of
+[00:16] luxury silk pajamas, but here's the
+[00:18] snag. While we usually buy fabric
+[00:19] domestically in yards, our new premium
+[00:22] artisan silk comes from overseas where
+[00:24] they measure in meters.
+[00:26] Placing an order in one unit and
+[00:28] receiving it in another sounds like a
+[00:30] mathematical nightmare, am I right?
+[00:32] Well, not with Odoo. Today I'm going to
+[00:34] show you how Odoo's units of measure
+[00:36] feature handles those confusing
+[00:37] conversions automatically so that you
+[00:40] can source globally without a single
+[00:41] headache. Enough chit-chat, let's dive
+[00:43] in.
+[00:44] So here we are inside of the inventory
+[00:46] app. We're going to click on
+[00:47] configuration and then settings over
+[00:49] here.
+[00:50] All right, and now that we're on this
+[00:51] page, we're going to scroll down until
+[00:52] we reach our product section. All right,
+[00:55] perfect. So inside of this product
+[00:57] section, let's make sure that we have
+[00:58] units of measure and packagings checked
+[01:01] off and enabled. Perfect. If this is
+[01:03] your first time turning this feature on,
+[01:04] be sure to click save in the top left
+[01:06] corner.
+[01:07] Next, we're going to configure our unit
+[01:09] of measure categories by clicking on
+[01:11] this units and packagings internal link.
+[01:14] We can also get to this screen by the
+[01:16] way by clicking on configuration and
+[01:19] units and packagings right there.
+[01:21] Boom.
+[01:22] Either way, you're going to end up at
+[01:23] the same nice little page right here
+[01:25] where we have a list of all of our
+[01:27] different units of measure organized in
+[01:29] columns by in our case unit name.
+[01:32] And we also happen to have the amount of
+[01:35] each reference unit that it contains
+[01:37] over here for our reference unit.
+[01:40] If that doesn't make a ton of sense,
+[01:41] don't worry. Calculating units of
+[01:42] measure might seem daunting at first,
+[01:45] but it breaks down into pretty simple
+[01:47] math. In summary, to calculate what goes
+[01:49] into the contains field over here or how
+[01:53] many reference units go into the unit of
+[01:55] measure, simply divide each unit of
+[01:57] measure by the reference units.
+[02:00] So let's actually review this. So let's
+[02:01] review our unit of measure for our
+[02:03] American fabric suppliers. Remember,
+[02:05] today we're looking at bolts of fabric
+[02:08] which we measure in length.
+[02:10] Because my company is based in the
+[02:12] United States, we want to measure our
+[02:14] bolts in fabric of yards in this case.
+[02:18] So we've already created this in the
+[02:19] database. Let's take a quick look. So
+[02:21] let's click into our
+[02:24] in our case our yd unit over here.
+[02:27] So this unit of measure is our yards.
+[02:29] This opens up its form. We've named this
+[02:32] yd because it's short for yard to
+[02:34] continue the abbreviated naming
+[02:36] convention that we saw over there.
+[02:38] Now, let's actually look at our
+[02:39] reference unit that we happen to have
+[02:41] down below.
+[02:43] So we've set it to M right there so that
+[02:46] our reference of unit over here is in
+[02:48] meters. This means that we had to
+[02:50] calculate the ratio of 1 yd to 1 m or
+[02:53] how many meters are in 1 yd, which
+[02:55] Google tells me is
+[02:57] 0.9144.
+[03:00] Great. Now when we get to the point of
+[03:02] purchasing fabric in either yards or
+[03:04] meters, Odoo will automatically convert
+[03:06] between these units of measure. That's
+[03:08] all we need to know about setting up
+[03:10] units of measure. If you want to create
+[03:12] your own packaging, we can go back to
+[03:14] the units and packagings page and click
+[03:16] on
+[03:18] new over there in the top.
+[03:20] After we configure yards as a unit of
+[03:21] measure, let's try using it on a
+[03:23] product. So we're going to head to the
+[03:24] products menu and select products once
+[03:26] again.
+[03:27] I'm going to update our artisan silk
+[03:29] fabric product, so we're going to click
+[03:30] it over there.
+[03:32] Now this happens to save quantities in
+[03:33] the database as well, you guessed it. We
+[03:36] happen to do it as yards. You can see
+[03:38] that under both our sales price and cost
+[03:40] as well. Now let's add the new vendor by
+[03:42] going over to our purchase tab over
+[03:44] here, and this time we're going to
+[03:46] select adding a line.
+[03:49] Okay. So now inside of here, we're going
+[03:51] to select Bellini Fine Fabrics. Perfect.
+[03:55] We're going to specify that this vendor
+[03:57] sells their products to us in meters
+[04:00] just so that we can make sure that
+[04:02] everything is selected properly.
+[04:04] Okay. We've also been quoted $28 per
+[04:07] meter,
+[04:09] which is
+[04:10] very, very frugal and nice for us. One
+[04:13] last thing, I want Bellini Fine Fabrics
+[04:15] to be our default vendor for artisan
+[04:17] silk purchases moving forward, so I'm
+[04:19] actually going to click on our nice
+[04:20] little grip button over here to the far
+[04:22] left and drag it all the way up to the
+[04:24] top. It's that easy inside of Odoo. This
+[04:26] is also a good place to let you know
+[04:28] that whatever the unit of measure is for
+[04:30] this product is what stock operations
+[04:32] are performed in. This is set in either
+[04:35] the sales price or cost fields for the
+[04:37] product, and you can see that back on
+[04:39] our general information tab right there.
+[04:42] And whatever equivalent unit of measure
+[04:44] is set by the vendor, that's not going
+[04:46] to matter. Odoo can do that conversion
+[04:48] for you.
+[04:49] Our artisan silks will always be
+[04:50] measured in yards inside of our
+[04:52] inventory. Just a reminder of how useful
+[04:55] automatic conversion is.
+[04:57] Let's see our units of measure in action
+[04:59] inside of our purchase dashboard over
+[05:02] here.
+[05:03] We're going to click on new just to get
+[05:06] started.
+[05:07] All right, so from here I'm going to
+[05:08] specify that our vendor happens to be
+[05:10] Bellini Fine Fabrics. You can already
+[05:12] guess where I'm going. We're going to
+[05:13] head over to our products line over
+[05:15] here, and you guessed it, artisan silk
+[05:17] fabric. Perfect.
+[05:20] All right, so real quick, I want to
+[05:21] check how much artisan silk we have in
+[05:23] our inventory. So to do this, I'm going
+[05:24] to click on the internal link next to
+[05:27] our nice little product name.
+[05:29] All right, perfect. It takes us over to
+[05:30] the product page. Our on-hand smart
+[05:33] button up at the top, I can see that we
+[05:35] happen to have 219 yd. Cool, but not
+[05:39] enough for the upcoming season.
+[05:41] So let's head back over to our purchase
+[05:43] order through the breadcrumbs, which
+[05:44] today is Wonder Bread.
+[05:46] So back inside of our product line, I'm
+[05:48] going to add 100.
+[05:51] Perfect.
+[05:52] All right, that's great. Now we're
+[05:54] covered for our upcoming customer
+[05:56] orders. And just to be sure, we can
+[05:57] confirm that we are purchasing from this
+[05:59] vendor in meters. You can also see that
+[06:01] right there. Boom, confirmed. This PO
+[06:04] looks good, so we're going to click
+[06:05] confirm order up at the top.
+[06:08] And not too much time later, our new
+[06:10] artisan silk has arrived. So inside of
+[06:13] the inventory app over here,
+[06:16] we can see that we have a receipt
+[06:17] waiting for us. Let's actually click
+[06:19] that. We're going to open this up even
+[06:21] further. This brings me to the receipt
+[06:22] form, and inside of our quantity field,
+[06:26] we received 100 m or 109.36
+[06:31] yd.
+[06:33] Beautiful.
+[06:34] So next, we'll click validate
+[06:37] just to show that we've received the
+[06:38] items into our inventory.
+[06:41] So now that we've validated it,
+[06:42] everything's in the warehouse, we want
+[06:43] to see our entire stock of artisan silk
+[06:45] fabric. So once that we clicked on the
+[06:47] product, we're going to select our nice
+[06:50] little smart button up at the top, which
+[06:52] happens to show our on-hand and our
+[06:54] forecasted product. Here we see a super
+[06:56] detailed report page that lets us know
+[06:58] that we have
+[07:00] 329.17
+[07:02] yd. And in this case, it's been
+[07:04] converted automatically because just
+[07:06] like that, Stealthy Threads is ready for
+[07:08] production. By letting Odoo handle the
+[07:09] heavy lifting of metric to imperial
+[07:11] conversions, we've removed the risk of
+[07:14] human error and kept our inventory as
+[07:15] fine-tuned as a premium silk weave.
+[07:19] Whether we're sourcing silks from Milan
+[07:20] or cotton from South Carolina, we can
+[07:22] focus on the fashion while Odoo focuses
+[07:24] on the math. Thanks for watching. Stay
+[07:27] sharp, Odooers. No snacks today.
+[07:31] >> [music]

@@ -1,0 +1,165 @@
+影片 ID: GJlsJm8Df_c
+來源: https://www.youtube.com/watch?v=GJlsJm8Df_c
+下載時間: 2026-07-30 14:56
+============================================================
+
+[00:00] hello everyone as we delve deeper into
+[00:02] website optimization with Odo one
+[00:05] crucial aspect is ensuring that our
+[00:06] visitors can effortlessly navigate
+[00:08] through our content Kiara have you heard
+[00:11] of the three-click rule sure so the
+[00:14] three-click rule suggest that all
+[00:16] information on our website should be
+[00:18] available within three Mouse clicks
+[00:21] exactly that's exactly it this
+[00:23] underscores the importance of organizing
+[00:25] our website efficiently with clear menus
+[00:27] and relevant buttons luckily oo website
+[00:30] offers a suite of features to enhance
+[00:32] navigation and user experience let's
+[00:35] explore this together so here we are on
+[00:37] our BR Spar website and here are three
+[00:40] types of services that we offer but
+[00:44] they're missing a link you see we can't
+[00:46] click on anything so let's create one I
+[00:49] just go to edit and to add a link I just
+[00:53] select any text or image for example
+[00:55] here I wanted to be on more info and I
+[00:57] click on this little button over here
+[00:59] which is called called insert or edit
+[01:01] link now in Odo there are three primary
+[01:05] types of links that you can use to
+[01:06] direct users the first ones are internal
+[01:09] links these redirect within your website
+[01:13] you can simply type backs slash and then
+[01:16] you can follow with the title of your
+[01:17] page or like a keyword for example I
+[01:19] wanted to go if I wanted to go to
+[01:20] contact us I could just type in contact
+[01:23] and it's already finding it for
+[01:25] me next we have another type of Link
+[01:28] which is an external one this leads
+[01:30] outside your website all you have to do
+[01:33] is add again um a link by clicking here
+[01:36] and add the website
+[01:40] URL and the third one and final one are
+[01:43] the anchor links now these navigate to
+[01:45] specific sections within a page now
+[01:48] before we can add an anchor link we need
+[01:50] to create an anchor by selecting any
+[01:52] element let's just take this one
+[01:55] randomly and then we can uh click over
+[01:59] here on create a link to Target this
+[02:01] section now this has created an anchor
+[02:05] and all I have to do now is go back to
+[02:06] where I want to put the link so here on
+[02:09] more info I'll add the link and to add
+[02:12] for the internal links we add a
+[02:14] backspace uh backslash as I said and for
+[02:16] the anchors we add a hashtag and here we
+[02:19] see that this one has been
+[02:23] created now you can also specify for
+[02:26] those three types of links whether they
+[02:28] open in a new tab or not over here and
+[02:31] that is to your discretion to see if
+[02:33] it's best for the user convenience or
+[02:34] not let's say that this one opens and
+[02:36] the other ones do not actually no
+[02:38] because this is the anchor I'm not going
+[02:39] to open this one but this one that is an
+[02:41] external one I shall open in a new
+[02:44] window now uh each link can be
+[02:47] customized in appearance you can make
+[02:49] them for example if I choose this one
+[02:51] you can make them into buttons If I
+[02:52] click here on
+[02:54] custom I can choose the color for
+[02:58] example let's take H this one I can
+[03:03] change the size small or large let's do
+[03:06] a large button that's way too big so
+[03:08] let's go for medium and the shape you
+[03:11] have a default shape but I'll go for
+[03:13] outline round it no I'll go for fill
+[03:16] plus
+[03:17] rounded now we can configure shortcuts
+[03:20] for these buttons because you see we
+[03:22] have also primary or secondary uh
+[03:25] buttons If I just put link it's not uh
+[03:27] in a button mode anymore and these
+[03:30] shortcuts I can configure them in the
+[03:32] Theme tab in the color presets see over
+[03:35] here if I take them then here I can
+[03:37] change uh my primary buttons and my
+[03:40] secondary button now let's see this in
+[03:43] action and I'll show you quickly uh what
+[03:47] how the anchor link works so if you
+[03:48] click on it it takes us to where we
+[03:50] defined the anchor now let's talk about
+[03:54] menus if you click on the head menu we
+[03:57] can uh customize it
+[04:00] with several templates in this list we
+[04:03] can also edit each item of the header um
+[04:06] for clarity and relevance for example
+[04:08] home I don't really want it to be home I
+[04:10] want it to be Brussels sprout and that's
+[04:13] it that's easy now let's click save
+[04:15] because I want to show you something
+[04:17] else if you go in site and then you
+[04:19] choose menu editor here you have all the
+[04:22] menu items on your header we can change
+[04:25] the order of them just by dragging and
+[04:27] dropping we can remove some right click
+[04:30] on the trash can or we can add a menu
+[04:33] item I want to add a block menu item now
+[04:39] this one uh will be up Brussels
+[04:44] sprouts.com block this is the URL to
+[04:47] which it would lead when we click on it
+[04:50] and I don't want it to be here I'll put
+[04:52] it here actually the good thing is that
+[04:55] there is also something that's called SE
+[04:57] menu and that means that if I put this
+[04:59] item to the right I just shift it to the
+[05:02] right it becomes a submenu of news which
+[05:05] means that news will become a drop- down
+[05:07] menu with other menu items you can
+[05:09] create as many sub menus as you want and
+[05:11] you can put as many items in a submenu
+[05:13] this is how it works so I put blog into
+[05:15] news and now new this drop down menu I
+[05:17] click on it and blog appears
+[05:19] here now another menu uh type is called
+[05:23] Mega menu which is here if we add it and
+[05:28] we shall call it uh um for example
+[05:33] itineraries there you go and it is here
+[05:36] and we want to put put it against next
+[05:38] to help we see that it appears here and
+[05:41] instead of being a drop down it is a
+[05:43] bigger menu with a lot of menu uh items
+[05:46] that are organized in columns now again
+[05:48] just like the header this one if you
+[05:50] just select it can also be customized
+[05:53] with various templates and you just have
+[05:56] to click on one and then you can go
+[05:58] inside of it and modify it as you want
+[06:01] last let's take a look at the footer now
+[06:04] the footer functions similarly to the
+[06:06] header but typically showcases less
+[06:08] critical information you can modify its
+[06:11] appearance exactly like the header by
+[06:13] choosing among the templates you can
+[06:16] just uh customize any item by clicking
+[06:19] on it and you can customize your social
+[06:22] media icons uh here you can add or
+[06:25] remove the social media icons that you
+[06:27] want to have you can specify a good link
+[06:30] you can change the size the color like
+[06:33] as always you can customize anything you
+[06:35] want in Odo and there you have it you
+[06:39] know you now know how to create
+[06:40] intuitive navigation parts that keep
+[06:42] users engaged and that guide them easily
+[06:44] through your website making sure they
+[06:46] never feel lost that's it for this video
+[06:48] join me in the next one for another
+[06:50] tutorial on Odo website bye-bye

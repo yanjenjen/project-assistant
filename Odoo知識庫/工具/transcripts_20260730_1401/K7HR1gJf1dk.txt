@@ -1,0 +1,165 @@
+影片 ID: K7HR1gJf1dk
+來源: https://www.youtube.com/watch?v=K7HR1gJf1dk
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:01] [music]
+[00:05] Welcome back, Odoers. My name is Joseio.
+[00:08] Your warehouse efficiency hinges on two
+[00:10] critical settings. Removal strategies
+[00:12] and reservation methods. Think of it
+[00:15] this way. Reservation methods determine
+[00:17] which order gets the available stock
+[00:19] first, ensuring urgent orders are
+[00:21] handled. We have a video on that link
+[00:23] below as well. But removal strategies
+[00:27] answer the next crucial question. Which
+[00:29] specific item should your picker grab?
+[00:32] They help you minimize spoilage or
+[00:33] reduce labor. Today, we're focusing on
+[00:36] the five removal strategies that you can
+[00:38] set up across your locations and
+[00:39] products. Last in, first out, or LIFO,
+[00:43] first in, first out, or FIFO, first
+[00:46] expired, first out, or FIFO. Closest
+[00:49] location and lease packages. So to
+[00:52] begin, let's start with LIFO. So LIFO is
+[00:56] last in first out. The LIFO strategy is
+[00:59] simple. It always picks the newest
+[01:01] products first based on the date they
+[01:03] entered your warehouse stock. This
+[01:05] strategy is perfect for products that
+[01:07] don't expire, like furniture, office
+[01:10] supplies, or building materials. Let's
+[01:13] look at an example with cinder blocks.
+[01:15] We have three lots. Lot one arrived June
+[01:18] 1st, lot two on June 3rd, and lot three
+[01:22] on June 6th. When we create a sales
+[01:25] order for seven cinder blocks, ODU
+[01:28] immediately looks for the latest
+[01:29] arrival. The delivery order will reserve
+[01:32] the items from, you guessed it, ding
+[01:34] ding ding, lot three, the one that just
+[01:37] came in. This minimizes the movement of
+[01:39] older, heavier inventory that might be
+[01:41] stored further back. Okay, now let's
+[01:45] flip it around. When should we reserve
+[01:47] the first items that came into our
+[01:49] inventory? That's the purpose of FIFO or
+[01:53] first in first out. FIFO ensures
+[01:56] products with the earliest available
+[01:58] arrival dates are picked first. This is
+[02:01] critical for preventing stock from
+[02:02] sitting too long and becoming dated or
+[02:04] obsolete, making it ideal for industries
+[02:07] like, you guessed it, fashion,
+[02:10] electronics, or other goods with short
+[02:13] demand cycles.
+[02:15] So, for example, let's say that we're
+[02:17] selling t-shirts. We have one lot that
+[02:20] arrived on August 1st and the second on
+[02:22] the 25th. When a customer orders a
+[02:25] shirt, ODU uses the FIFO strategy to
+[02:27] instantly suggest taking from the August
+[02:30] 1 slot. This guarantees you are
+[02:32] constantly cycling out your oldest
+[02:34] inventory.
+[02:36] What about when we need to manage
+[02:37] products that expire?
+[02:40] When dealing with perishables like well
+[02:44] you know what perishables are groceries
+[02:47] medical supplies definitely we need the
+[02:49] first expired first out or FIFO
+[02:52] strategy. FIFO ensures two things. First
+[02:55] that you prioritize stock with the
+[02:57] soonest expiration date. Second you can
+[02:59] set a removal date on the product lot.
+[03:03] This removal date is a buffer, a
+[03:05] configurable number of days before the
+[03:06] item expires. That forces, well, in this
+[03:10] case, that forces the product to be
+[03:11] removed from your actual sellable stock.
+[03:14] This prevents expired goods from ever
+[03:16] actually reaching a customer. Think of
+[03:18] like in this case, we happen to have a
+[03:21] grocery store selling cartons of eggs.
+[03:24] You have three lots, one expiring on
+[03:26] April 4th, the next on April 10th, and
+[03:29] the last one on April 15th. If a
+[03:32] customer buys eggs on, in this case,
+[03:34] March 1st, ODU immediately suggests the
+[03:37] lot that expires April 4th. This
+[03:39] powerful strategy ensures that you cycle
+[03:41] through your inventory efficiently and
+[03:43] eliminates the costly risk of selling
+[03:45] expired goods, which you should not be
+[03:48] doing, business owners. Remember that.
+[03:50] Next up, closest location. And so, the
+[03:55] goal of the closest location removal
+[03:57] strategy is pure efficiency. Save your
+[04:00] picker time and steps. We want them to
+[04:03] grab the item from the nearest possible
+[04:05] shelf instead of walking across the
+[04:06] warehouse. I have no idea, but you could
+[04:08] have a huge warehouse like that one in
+[04:10] the Indiana Jones movies. You know the
+[04:12] one. Odo achieves this by picking
+[04:14] products based on the alpha numeric
+[04:17] order of your storage location names.
+[04:20] So, here's how you use it. Imagine we
+[04:22] store cable management boxes in three
+[04:24] spots. Pallets on the floor as well as
+[04:26] the two shelves above that. To avoid
+[04:28] using a forklift for the shelves, we
+[04:30] want to pick them from the floor first.
+[04:33] The trick is to name your locations
+[04:34] alphabetically. So in this case, we will
+[04:38] label the closest spot. In this case,
+[04:40] the floor as pallets. The next one up is
+[04:43] going to be rack one. And then obviously
+[04:45] rack two for the next one. Because of
+[04:47] this alpha numerical naming, ODU will
+[04:50] always suggest the items in pallets
+[04:53] first over there, ensuring that your
+[04:55] picker always takes the shortest,
+[04:57] easiest routes.
+[04:59] Finally, thank you for bearing with me.
+[05:02] We have the least packages removal
+[05:04] strategy. This is all about
+[05:06] resourcefulness.
+[05:07] It's designed for products stored in
+[05:09] packages, and its goal is simple.
+[05:10] Fulfill the order by opening the
+[05:12] smallest possible number of packages.
+[05:14] This keeps your stock organized and
+[05:16] you're picking fast. For example,
+[05:19] imagine you have 10 or in this case,
+[05:22] well, you have chocolate bars in boxes
+[05:24] of 10 and 30. If you need 15 bars, a
+[05:29] different strategy might make you open
+[05:31] two boxes of 10. But with the lease
+[05:35] packages removal strategy, ODU sees the
+[05:37] box of 30 and reserves all 15 units from
+[05:40] that single larger package. You get
+[05:42] everything you need from one stop,
+[05:43] saving you a ton of time and effort. So
+[05:46] there you have it. LIFO, FIFO, other
+[05:49] acronyms like FIFO, closest location,
+[05:52] and lease packages. These five simple
+[05:54] strategies give you total control over
+[05:56] and in this case, total control over
+[05:59] when and from where your products are
+[06:01] removed from inventory. Whether you're
+[06:03] protecting profit margins by selling
+[06:04] fresh products first with FIFO or saving
+[06:07] time and labor by minimizing package
+[06:08] openings with lease packages, ODU
+[06:11] empowers you to make informed, smarter
+[06:15] decisions and more efficient inventory
+[06:18] decisions as well. And the best part,
+[06:20] you can set those powerful strategies on
+[06:22] any storage location or product category
+[06:24] in just a few clicks. Stop guessing and
+[06:27] start optimizing. Happy inventorying,
+[06:29] odoers. Go grab a snack. We have
+[06:32] Edamame. Don't sponsor me.

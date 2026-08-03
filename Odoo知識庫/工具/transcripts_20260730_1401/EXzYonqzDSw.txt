@@ -1,0 +1,184 @@
+影片 ID: EXzYonqzDSw
+來源: https://www.youtube.com/watch?v=EXzYonqzDSw
+下載時間: 2026-07-30 14:03
+============================================================
+
+[00:05] hello o doers and welcome back for
+[00:07] another tutorial today I'm going to show
+[00:09] you how to create a custom operation to
+[00:11] handle your return orders in odo's
+[00:13] inventory app operations represent the
+[00:15] different workflows used to manage the
+[00:17] warehouse inventory this includes
+[00:19] incoming and outgoing shipments as well
+[00:21] as things like internal transfers and
+[00:23] Manufacturing orders by default ODU
+[00:25] categorizes customers returns under the
+[00:27] receipts operation Type A re seip is a
+[00:30] order that enters our warehouse from a
+[00:32] different location however it is
+[00:35] possible to create a custom return
+[00:36] operation in the inventory app so return
+[00:39] orders are grouped separately from the
+[00:40] other receipts this has a couple of
+[00:42] benefits first by separating returns
+[00:44] from all other incoming products and we
+[00:46] can quickly see the number of returns we
+[00:48] need to process making it easier for
+[00:49] them to manage second it allows us to
+[00:52] create a quality control point or qcp
+[00:55] that only applies to return orders
+[00:57] rather than all receipts so let's head
+[00:59] over to our database now and see how it
+[01:00] all
+[01:01] works all right the first thing we need
+[01:03] to do is create a new operation to
+[01:05] handle our return orders so from the
+[01:07] inventory dashboard I'm going to click
+[01:08] on configuration and then head down to
+[01:10] the operations type Now to create a new
+[01:13] operations type all I'd have to do is
+[01:15] click the new button in the upper left
+[01:16] corner but I've already created one for
+[01:19] return so let's open that now
+[01:21] instead as you can see I've already
+[01:23] named this operation type returns next
+[01:26] we need to configure the type of
+[01:27] operation and in this case I've selected
+[01:30] receipt this tells Odo the operation
+[01:32] will be used to receive something into
+[01:34] our warehouse now in the sequence prefix
+[01:37] down below I've entered re which is
+[01:39] short for return this is the prefix ODU
+[01:43] will add to the beginning of every
+[01:44] return order number for example
+[01:46] manufacturing orders use the prefixo
+[01:49] which means every Mo we create is titled
+[01:51] something like mo1 2
+[01:53] 345 these prefixes help distinguish
+[01:55] between the different types of inventory
+[01:57] orders now there are a bunch of other
+[01:59] field on this form but they're not
+[02:01] really relevant to this workflow so
+[02:02] let's go ahead and jump to the location
+[02:05] section so for the default Source
+[02:07] location I've selected Partners
+[02:09] customers and I've selected that field
+[02:12] since the source location for return
+[02:13] orders is coming from customers
+[02:15] returning products to us now in the
+[02:17] default destination location I've
+[02:19] selected our warehouse stock which is
+[02:21] where the return products will be stored
+[02:23] once we receive them now I could also
+[02:26] create an alternate location for
+[02:27] returned items but in this case I want
+[02:29] to add them back into our inventory
+[02:31] after we perform a quality check to
+[02:33] confirm that they're still in
+[02:34] satisfactory condition we're going to
+[02:36] send items to that failed quality check
+[02:38] to a different location but I'll show
+[02:40] you that during the
+[02:42] workflow all right that's all we need to
+[02:44] worry about for this operation now if we
+[02:46] jump back to the inventory overview
+[02:48] front page here we can go ahead and see
+[02:50] there's a card that appears for our
+[02:52] returns
+[02:53] operation however before we can start
+[02:55] processing returns this operation we
+[02:58] need to make one small change to
+[03:00] delivery orders operation type to do so
+[03:02] I'll navigate back to configuration
+[03:04] select operation types and this time
+[03:06] we're going to select delivery orders
+[03:07] for the operation type in the returns
+[03:10] type field for this operation I need to
+[03:12] make sure our new returns operation
+[03:14] section here is selected the returns
+[03:17] type field which determines the
+[03:18] operation is used to generate a return
+[03:20] order so when we click the return button
+[03:22] on the delivery order the return
+[03:23] operation will be used instead of the
+[03:25] receipts operation and that's all we
+[03:28] need to worry about for this operations
+[03:30] configuration now before we get to the
+[03:33] return workflow I also want to mention
+[03:34] that I've created a quality control
+[03:36] point or qcp that applies to our returns
+[03:38] operation this qcp will create a quality
+[03:41] check for every return order prompting
+[03:42] us to inspect the product before
+[03:44] entering it back into our inventory I've
+[03:46] also set a failure location on the check
+[03:48] which is a place we can send the product
+[03:50] if it fails the check qcp configuration
+[03:54] can get a little complicated so we won't
+[03:56] go into the specifics of that in this
+[03:58] video but check out some of our quality
+[04:00] app tutorials which I'll link down below
+[04:01] so you can learn more all right now I
+[04:04] know that's a lot but now everything's
+[04:05] set up properly so let's process a
+[04:08] return for a customer I'll first start
+[04:10] on the sales application and click new
+[04:12] to create a new request for quotation or
+[04:15] RFQ now let's say our customer Terry
+[04:19] green wants to purchase one of our
+[04:20] recliners so we could start living a
+[04:22] more laid-back lifestyle so I'll go
+[04:24] ahead and add the recliner to the order
+[04:27] product lines here and then I'll go
+[04:29] ahead and click C confirm to turn this
+[04:31] quotation into a sales order then I'll
+[04:34] go ahead and click the delivery smart
+[04:35] button at the top of the page to open
+[04:37] the delivery
+[04:38] order now once the recliner has been
+[04:40] sent Terry all I need to do is Click
+[04:42] validate to complete this
+[04:44] order after doing so you'll notice a
+[04:47] return button appears at the top of the
+[04:49] order page now let's say a week has
+[04:52] passed and Terry decided he wants to
+[04:53] return his recliner because it's making
+[04:55] him too lazy no problem at all I'll
+[04:57] click that return button on the delivery
+[04:59] order and a reverse transfer pop-up
+[05:01] window appears then all I have to do is
+[05:04] click the return button at the bottom of
+[05:06] the window to create a new return
+[05:09] order the return order is opened
+[05:11] automatically upon its creation but I
+[05:13] can also access it by heading over to
+[05:15] the inventory application and clicking
+[05:18] on the one to process on the returns
+[05:20] card and then of course selecting the
+[05:24] order once Terry ships the chair back to
+[05:26] us I'll click on the quality checks
+[05:28] button here which will open up the
+[05:30] quality check for this return order I'm
+[05:34] instructed by the pop-up window to
+[05:35] inspect the chair to see if it can be
+[05:36] entered back into the
+[05:38] inventory oh no seems like the seat was
+[05:40] torn on its way back to us there's no
+[05:43] way we can sell this to another customer
+[05:45] in this case I'll go ahead and click the
+[05:46] failed button which opens another popup
+[05:48] window and I want to send this recliner
+[05:51] to the location we've set up for failed
+[05:53] returns so I'll select the fail your
+[05:56] location for return fail and then I'll
+[06:00] just click
+[06:01] confirm now with the check process all I
+[06:04] have to do now is Click validate to
+[06:06] return the order to the confirmed the
+[06:08] chair has been returned to
+[06:10] us and that's all I've got for you today
+[06:13] folks you now know how to create a
+[06:14] custom operation to process return
+[06:16] orders thanks for watching and I'll see
+[06:18] you next time

@@ -1,0 +1,190 @@
+影片 ID: gTBdKnX3IQw
+來源: https://www.youtube.com/watch?v=gTBdKnX3IQw
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:05] What's going on, Odoers, and welcome
+[00:07] back. Today, we're going to build on the
+[00:09] basics of access rights by applying them
+[00:11] to Stealthy Woods new and improved
+[00:13] inventory team. We hired two new
+[00:15] employees who have to configure their
+[00:17] user roles and permissions in Odo, so it
+[00:19] reflects their responsibilities.
+[00:22] Wall-ally, he's our new warehouse
+[00:23] manager, and he'll be overseeing
+[00:25] incoming and outgoing operations,
+[00:27] inventory adjustments, procurement, and
+[00:29] reporting. Ali, our new warehouse
+[00:32] operator, will be handling product
+[00:34] moves, scanning barcodes, and recording
+[00:36] transfers. Unlike Wall-E, Ali won't have
+[00:39] access to critical configurations. This
+[00:41] ensures nothing gets accidentally
+[00:43] changed or adjusted, like altering the
+[00:45] number of a bill of materials,
+[00:47] accidentally shutting down a
+[00:48] workstation, or even changing assigned
+[00:50] tasks. This setup will help our
+[00:53] inventory team work efficiently and
+[00:55] securely with access to exactly what
+[00:57] they need and nothing more. Okay, first
+[01:00] things first, let's set up the warehouse
+[01:02] manager, Wall-E. I need to access our
+[01:04] settings app, and then I'm going to
+[01:06] click on manage users, followed by new
+[01:09] in the top left corner. So Wally's role
+[01:12] covers stock operations, receipts, and
+[01:14] manufacturing. Ideal for someone
+[01:16] overseeing logistics and coordinating
+[01:18] with other departments. So we're going
+[01:20] to start by giving his name. And then
+[01:22] we're just going to put Wall-E
+[01:24] warehouse.
+[01:26] And then we're going to add his email,
+[01:28] which is wall-ally
+[01:30] test.com,
+[01:31] which is obviously a very real email. So
+[01:35] for this role, I'm going to keep the
+[01:36] role as member because our manager
+[01:39] doesn't need admin rights for the entire
+[01:41] database. And now we're going to scroll
+[01:43] to the very bottom and assign him some
+[01:45] necessary permissions. So first here in
+[01:48] the supply chain section, we're going to
+[01:50] give Wall-E admin level permissions for
+[01:53] manufacturing, which is already set.
+[01:56] Then we're going to make sure he has it
+[01:58] for purchase and inventory as well,
+[02:00] which he does. And next, we want to make
+[02:02] sure he has access to the quality app,
+[02:06] but he only needs user level access
+[02:08] rather than admin. So, we're just going
+[02:10] to leave it at user.
+[02:12] Then over here in the productivity
+[02:15] section for this user rights, we're
+[02:16] going to allow him to have access to the
+[02:18] documents app. However, he doesn't need
+[02:21] admin access rights. He only needs
+[02:23] access to his own documents. So, we're
+[02:25] going to leave this on the user setting.
+[02:28] So now before we finish the setup, I'm
+[02:30] going to remove all the other admin
+[02:32] access rights he has here just because
+[02:34] he does not need that on his profile. So
+[02:37] we'll remove that from services,
+[02:40] sales,
+[02:42] accounting
+[02:44] as well as the sign app here and then
+[02:46] everything in marketing and human
+[02:49] resources.
+[02:53] Okay, looks like our warehouse manager
+[02:55] is ready to go. Now, let's create a
+[02:57] profile for our warehouse operator.
+[03:00] Okay, like I mentioned earlier in the
+[03:02] video, not only did we hire Wall-E, but
+[03:04] we also hired a new warehouse operator,
+[03:06] Ali. And that's because our business is
+[03:09] growing and we can hardly keep up with
+[03:10] all of our new inventory and the
+[03:12] shipments. So, this role is streamlined
+[03:14] for workers on the warehouse floor,
+[03:16] focusing on stock moves, transfers, and
+[03:19] barcode based workflows. So, first
+[03:21] things first, let's enter Ali's name
+[03:23] here, which will be Ali operator. And
+[03:25] we'll also enter his email here, which
+[03:27] is just oi
+[03:29] test.com.
+[03:32] Next, we're going to head back to the
+[03:34] supply chain section. Ali only needs
+[03:37] user level access rights for inventory.
+[03:39] So, we're going to update this now from
+[03:41] administrator to user. And now, as far
+[03:44] as the rest of the permissions, these
+[03:45] can change depending on the operator's
+[03:47] responsibility.
+[03:49] Ali doesn't need to work with
+[03:50] procurement, so I'm going to remove his
+[03:52] access rights to the purchase app. and
+[03:54] he also doesn't need access rights to
+[03:56] manufacturing. So, we're going to remove
+[03:58] that as well. And just like what we did
+[04:01] with Wall-E, I'm going to remove all the
+[04:03] other admin rights from the other apps
+[04:05] because Ollie just doesn't need it. So,
+[04:07] we'll move it from master data, sales,
+[04:11] accounting,
+[04:13] services,
+[04:17] productivity,
+[04:20] marketing, and lastly, human resources.
+[04:23] once again.
+[04:26] All right, Olly is now ready to go. Now,
+[04:28] let's take a look at these profiles in
+[04:30] action. As the warehouse manager,
+[04:33] Wall-Ally is going to be in charge of
+[04:34] maintaining our inventory levels. Just
+[04:37] now, he noticed we seem to be running
+[04:38] low on wood panels, and since they are
+[04:40] used in a lot of our products, we must
+[04:43] restock these ASAP. So, we're going to
+[04:45] hop into our purchase application, click
+[04:48] new at the top left, and then we're
+[04:50] going to enter our favorite vendor,
+[04:52] Gemini Furniture,
+[04:54] and then in the product field, we're
+[04:57] just going to add our wood panels. And
+[05:00] like I said, we're running low and we
+[05:01] need a lot of them. So, I'm going to add
+[05:03] a quantity of 100. Now, I just need to
+[05:06] confirm this order.
+[05:09] And then we'll click receive.
+[05:13] Since Wall-Ally did the ordering, it's
+[05:14] only fair that we let Olly do the
+[05:16] validating, right? All right, we're now
+[05:19] logged in as Olly. And first, we're
+[05:21] going to notice how many fewer apps Ali
+[05:24] has in comparison to Wall-E. And that's
+[05:27] because of the access rights that we
+[05:28] configured earlier. Without some of
+[05:30] those permissions, some apps just simply
+[05:32] don't appear. Now, alongside with our
+[05:34] inventory access comes the barcode
+[05:37] access. And I think we can all agree,
+[05:39] not only is the barcode app important,
+[05:40] but it's also a lot more fun to use.
+[05:43] So, let's see how Ali would validate a
+[05:45] receipt using the barcode app, shall we?
+[05:48] But before we jump in, be sure to check
+[05:50] out our documentation on barcodes and
+[05:52] tutorials to learn more information on
+[05:54] how to set up and use barcode scanners.
+[05:57] Nonetheless, here in the barcode app,
+[05:59] we're just going to click this
+[06:00] operations button here at the bottom,
+[06:02] followed by the receipts card on the
+[06:04] left. This page right here shows Ali all
+[06:07] the orders that we're expecting. So,
+[06:09] we're going to go ahead and validate our
+[06:11] order here from Gemini Furniture.
+[06:14] Once on this window, I can use the
+[06:16] barcode scanner to confirm the products,
+[06:18] or we can also just click this plus
+[06:20] button to confirm all the products are
+[06:22] here all at once.
+[06:25] Then all I have to do is click validate
+[06:29] and boom, Ali's job is done. Excellent
+[06:32] teamwork there. Good job, gentlemen. And
+[06:35] there you have it. With these profiles
+[06:37] configured correctly, your supply chain
+[06:39] team is now equipped for daily
+[06:41] operations and long-term success.
+[06:44] Warehouse operators can focus on daily
+[06:46] operations and receipts, allowing
+[06:48] warehouse managers to handle planning,
+[06:50] purchasing, and production support. This
+[06:52] division of responsibilities help reduce
+[06:55] errors, protect sensitive settings, and
+[06:57] optimize team workflows. As always,
+[07:00] thanks for watching, Odoers, and I'll
+[07:02] see you in the next video.

@@ -1,0 +1,117 @@
+影片 ID: 9j1zvMuPFMk
+來源: https://www.youtube.com/watch?v=9j1zvMuPFMk
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:04] hello doers and welcome back my name is
+[00:06] Jose gasio now here at stealthy wood we
+[00:08] have all kinds of products that we
+[00:09] purchase from vendors and sell the
+[00:11] customers as well as products that we
+[00:12] manufacture ourselves but we also have
+[00:15] another type of stock on hand
+[00:16] Consignment stock now sometimes our
+[00:18] vendors Let Us store and sell their
+[00:20] products without having to buy those
+[00:21] things up front in this arrangement we
+[00:24] provide vendors with a platform to sell
+[00:25] their products and receive an upfront
+[00:27] fee or portion of the profits in return
+[00:30] so how would we actually use Consignment
+[00:32] let's hop into our database and enough
+[00:34] chitchat so I can show you what that
+[00:36] looks like inside of Odo
+[00:37] inventory so here we are on our main
+[00:40] inventory dashboard so first things
+[00:41] first we need to make sure that we have
+[00:42] Consignment turned on in our settings so
+[00:45] to do that we're going to go to
+[00:46] configuration and settings and then you
+[00:47] want to scroll down until you reach the
+[00:49] traceability section right there and you
+[00:52] see the checkbox next to Consignment
+[00:53] make sure that it is enabled and then
+[00:55] save awesome now we're ready to roll
+[00:58] let's go back over to our overview you
+[01:00] and we got to do something now let's say
+[01:02] I just got off the phone with one of our
+[01:04] trusted vendors wood Hut and they let me
+[01:06] know that they'd like to store 50 units
+[01:08] of their office vest product inside of
+[01:09] our warehouse we have a lot of extra
+[01:12] room this time of year so what's the
+[01:13] harm in taking in some Consignment stock
+[01:16] so I told them let's do it we're
+[01:17] expecting a truck to show up today with
+[01:19] the office desk so let's go ahead and
+[01:21] create a receipt order by in our case
+[01:22] selecting our receipts card over here
+[01:25] and then we want to select new cuz we'
+[01:27] got to make a new receipt it's also
+[01:29] worth noting that this is how every
+[01:30] receipt of Consignment stock is going to
+[01:32] start since we're not actually
+[01:34] purchasing stock from this vendor there
+[01:36] won't be any quotations or purchase
+[01:38] orders involved so we're just going to
+[01:39] have to manually create receipts when we
+[01:41] need to receive Consignment products
+[01:43] we'll Begin by configuring this receipt
+[01:45] by selecting in our case receive from
+[01:48] wood Hut CU that's our vendor right
+[01:51] there we're also going to select wood
+[01:53] Hut into the assigned owner field that
+[01:56] we have over here because we're getting
+[01:58] it from them and wood Hut is the owner
+[02:00] of the products despite the fact that
+[02:01] we're receiving them into our inventory
+[02:03] now up next I'm going to select add a
+[02:05] line down here inside of the operations
+[02:07] tab that we're in and now I need to
+[02:09] actually select those office
+[02:11] desks and we got to move on from there
+[02:13] for demand I'm going to enter 50 as I
+[02:15] just talked about right there and then
+[02:16] finally we'll select validates and we're
+[02:19] all done that enters the desks into our
+[02:22] inventory now because we don't actually
+[02:24] own them Consignment products affect
+[02:26] stock valuation differently than
+[02:28] products we do own to show you what I
+[02:30] mean I'm going to actually begin by
+[02:32] clicking on products up here at the top
+[02:34] bar and then products again let's click
+[02:36] into our office desk over here at the
+[02:39] top of this screen we can actually see
+[02:41] from the onand smart button that we have
+[02:42] right there that we have 50 units on
+[02:44] hand now down in the general information
+[02:46] tab where you can also see that the cost
+[02:48] is
+[02:49] $200 200 the cost field on a product
+[02:52] form is used to calculate the inventory
+[02:53] valuation of the number of units we have
+[02:55] on hand in this case we'd expect the
+[02:57] valuation of 50 desks to be 10,000
+[03:00] that is 50 deaths time
+[03:03] $200 however it's a bit different when
+[03:05] it comes to Consignment stock let's see
+[03:07] what the actual valuation is for the
+[03:09] actual desk according to ODU so to do so
+[03:12] I'm going to click on reporting and then
+[03:14] you guess that valuation over here now
+[03:16] we need to find the office T line that
+[03:18] we have over here and we have it right
+[03:20] there on the right side you'll notice
+[03:23] the total value shows Zar for our desks
+[03:27] zero this is because OD recognizes that
+[03:29] way we have 50 desks on hand they are
+[03:32] owned by someone else and should not
+[03:33] count towards the value of our inventory
+[03:36] and that's it for this video today we
+[03:38] learned about Consignment and its
+[03:39] benefits as well as how to create a
+[03:41] manual receipt to receive Consignment
+[03:42] stock thanks for watching see you next
+[03:44] time
+[03:47] outdo

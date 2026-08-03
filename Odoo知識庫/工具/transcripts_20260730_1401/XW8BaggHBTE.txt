@@ -1,0 +1,153 @@
+影片 ID: XW8BaggHBTE
+來源: https://www.youtube.com/watch?v=XW8BaggHBTE
+下載時間: 2026-07-30 14:03
+============================================================
+
+[00:01] [music]
+[00:04] >> Hey Odors, let's be real. Managing a
+[00:07] warehouse can be a headache. Take
+[00:08] shipments for example. Ever worried
+[00:10] about a multi-part order getting
+[00:12] separated in transit? Enter packages.
+[00:15] Think of a package as a wrapper for your
+[00:17] physical containers, pallets, crates, or
+[00:20] boxes. Even better, you can treat a
+[00:22] whole group of items as one single unit.
+[00:25] Quick side note, don't confuse packages
+[00:28] with packaging.
+[00:29] Those are different. Packaging is how
+[00:31] you sell or buy it, like a six-pack of
+[00:33] soda. Packages are how you move it, like
+[00:35] the pallet the six-pack sits on.
+[00:38] If you want to know more, check out the
+[00:39] links in the description below. But
+[00:41] today, we're talking about logistics.
+[00:43] Now let's get our configuration squared
+[00:45] away. So enough chit-chat, let's hop
+[00:46] into the database.
+[00:48] So here we have our database. For our
+[00:50] configuration today, we need three
+[00:52] applications, the sales, inventory, and
+[00:54] manufacturing. So let's open up the
+[00:57] inventory app.
+[00:58] Now we need to make sure that package
+[01:00] setting is enabled. So we're going to go
+[01:01] to configuration and then settings.
+[01:03] Nice. Right here at the top, we have the
+[01:05] packages option selected. And if it's
+[01:08] not already checked, go ahead and enable
+[01:10] that now. This is what's going to allow
+[01:12] us to group products into those physical
+[01:13] containers. And if you're just turning
+[01:15] this on for the first time, remember,
+[01:17] click save up here up at the top. With
+[01:19] all the prep work we need, our warehouse
+[01:21] is officially package ready. Now let's
+[01:23] actually put these settings to work. At
+[01:25] Stealthy Wood, we're branching out into
+[01:26] appliances, starting with a massive
+[01:28] industrial oven. Because of its size,
+[01:30] this oven is typically packaged in three
+[01:32] separate boxes, the body, controls, and
+[01:34] exhaust kit. Let's see how that looks in
+[01:36] our database. So first, we're going to
+[01:38] go to products and then products once
+[01:39] again. Would you look at that? You'll
+[01:41] see that we have four items here, the
+[01:42] oven and all of its individual
+[01:44] components that make it up.
+[01:46] Let's go ahead and open up the
+[01:47] industrial oven. And then we're going to
+[01:48] select the bill of materials smart
+[01:50] button up at the top. This smart button
+[01:52] is available because we have the
+[01:53] manufacturing app installed. Let's open
+[01:55] up our industrial oven product. We've
+[01:58] configured this as a kit with our three
+[02:00] components down below inside of the
+[02:02] components tab. This tells Odoo that
+[02:04] when a customer orders one industrial
+[02:06] oven,
+[02:07] the warehouse is going to know they
+[02:08] should pull over these three specific
+[02:11] components to fulfill that order.
+[02:13] With our kit ready, let's go back to our
+[02:15] inventory overview page by selecting the
+[02:17] inventory application, and here we are.
+[02:20] Our first customer, Bistrodu, purchased
+[02:21] an oven, so let's get it moving. We're
+[02:23] going to select our delivery orders, and
+[02:25] we're going to kind of click into
+[02:26] Bistrodu's order.
+[02:28] Now, since that happened to be a kit, we
+[02:30] can see all three components down here
+[02:32] in the product lines. Shipping these
+[02:34] items as three loose boxes is a recipe
+[02:36] for a lost shipment, so let's group
+[02:38] them. We're going to select on the
+[02:39] details link over here for the
+[02:40] industrial body, and this time around we
+[02:42] need a destination package. So, for this
+[02:46] one, we're going to select oven
+[02:50] body, and hit create.
+[02:52] Then we're going to hit save.
+[02:54] All right, look here inside of our
+[02:56] packages field for this line. You can
+[02:58] see that the package name is right
+[02:59] there. Beautiful. Let's do the same for
+[03:02] the controls now down below. Details,
+[03:05] destination package, and this time we're
+[03:06] going to name this one oven controls.
+[03:10] Create it, save it, and we're done.
+[03:13] All right, one more time for this
+[03:14] exhaust kit as well. Destination package
+[03:17] for this one, oven exhaust.
+[03:20] Create and save.
+[03:22] All right, now we have three individual
+[03:24] packages, but we want to treat them as a
+[03:26] single shipment. This is where we
+[03:28] implement what we call pack and pack.
+[03:30] So, we're just going to click or
+[03:32] actually in this case, we're just going
+[03:34] to click on a single button, put in
+[03:35] pack.
+[03:37] And just like that, we're going to
+[03:38] package these component packages into a
+[03:40] larger package.
+[03:42] Notice in our case now the packages
+[03:44] field has updated for all three lines.
+[03:46] Odoo just nested our three small boxes
+[03:49] into one large parent package. It's
+[03:52] organized, it's secure, and it's ready
+[03:53] to go. We're going to select validate up
+[03:55] at the top.
+[03:56] And it's officially out the door.
+[03:58] Now, let's say that we needed to
+[03:59] double-check what we just shipped to the
+[04:00] customer. It's actually really easy to
+[04:02] peek inside of these packages. So, we're
+[04:05] actually going to select the packages
+[04:06] smart button up at the top, and
+[04:08] look at that.
+[04:09] We actually see that the main package
+[04:11] that we just shipped out is listed. And
+[04:13] if we want to see inside of it, we just
+[04:14] select view on the far right.
+[04:17] All right, here we can see that in this
+[04:18] package we shipped three other child
+[04:19] packages, the oven body controls and
+[04:22] exhaust kit. If we wanted to know what
+[04:23] was in each child package, we actually
+[04:25] just click on it, like oven body.
+[04:28] And we can see the component of the kit
+[04:29] that we shipped inside of this window.
+[04:31] And just like that, you've turned a
+[04:32] multi-box warehouse headache into a
+[04:34] perfectly organized shipment using
+[04:36] nested packages. I'm going to link our
+[04:38] documentation if you want to learn more
+[04:40] about pack and pack.
+[04:42] So, check out our other inventory videos
+[04:44] for more tips and tricks. Thanks for
+[04:46] watching. Go grab a snack. I'm eating a
+[04:47] Kit Kat now.

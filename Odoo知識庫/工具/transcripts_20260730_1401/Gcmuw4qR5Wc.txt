@@ -1,0 +1,192 @@
+影片 ID: Gcmuw4qR5Wc
+來源: https://www.youtube.com/watch?v=Gcmuw4qR5Wc
+下載時間: 2026-07-30 14:03
+============================================================
+
+[00:00] [Music]
+[00:05] hello doers at stealthy Woods Warehouse
+[00:08] these days things aren't moving as
+[00:09] efficiently as they should our employees
+[00:11] are wasting time and walking in circles
+[00:13] trying to find products for orders it's
+[00:16] a mess let's fix that by picking the
+[00:18] perfect picking method a strategy to
+[00:20] swiftly select and gather items from the
+[00:22] stock to fulfill orders efficiently
+[00:24] using Odo I can choose between single
+[00:27] picking which is one person per order
+[00:29] this is the default picking method in O
+[00:30] do databases batch picking which is one
+[00:33] person picking multiple orders and sorts
+[00:36] the items out in a sorting location wave
+[00:38] picking which is one person per Zone and
+[00:41] cluster picking which is also one person
+[00:43] picking multiple orders but unlike batch
+[00:45] picking items are sorted into their
+[00:46] orders as they are picked to learn more
+[00:48] about that method refer to our other
+[00:50] video about cluster picking today's
+[00:52] video however is about wave picking for
+[00:55] wave picking consider this example three
+[00:57] Pickers work together on multiple orders
+[00:59] when picker goes to the meats one to the
+[01:01] vegetables and the last one to the dry
+[01:03] food section to get all the goods for
+[01:04] that specific category then they'll
+[01:06] consolidate all the sorted products into
+[01:08] individual orders at the Sorting or
+[01:10] packing Zone wave picking requires less
+[01:13] traveling through the warehouse but
+[01:14] orders still do need to be organized
+[01:16] once all the products have been brought
+[01:17] to the packing Zone seems simple enough
+[01:20] though right okay well enough of this
+[01:22] chitchat time to jump into our database
+[01:24] to show you how easy it is to set up
+[01:26] wave picking with Odo to use wave
+[01:29] picking let's go to the configuration
+[01:31] subheading and click on settings under
+[01:34] the operation section here we want to
+[01:36] make sure that batch transfers and wave
+[01:38] transfers are enabled awesome next let's
+[01:42] head down to our warehouse section here
+[01:44] where we want to make sure that our
+[01:46] storage locations and multi-step routes
+[01:49] are enabled perfect if you're enabling
+[01:52] these features for the first time don't
+[01:54] forget to head over to the left corner
+[01:55] of the page and select save but now with
+[01:59] all of our features locked and loaded
+[02:00] let's adjust our warehouses workflow by
+[02:02] going to configuration and selecting
+[02:06] warehouses then from here we're going to
+[02:08] go ahead and select on our stealthy wood
+[02:10] warehouse and here on the warehouse
+[02:12] detail form I'll make sure that the
+[02:14] outgoing shipment section here is set to
+[02:17] three
+[02:18] step now let's see how wave picking
+[02:21] works by creating a sales order to do
+[02:23] that we're going to go to the sales
+[02:24] application and click on new we're going
+[02:27] to go ahead and set the customer to
+[02:29] Abigail Peterson in here she wants to
+[02:31] buy a lot of groceries so down on the
+[02:33] product line let's go ahead and click
+[02:34] catalog here to get five of each of the
+[02:37] products here I'm going to go ahead and
+[02:39] click add on the carrots box and just
+[02:41] manually change the quantity to five in
+[02:43] the quantity field I'll do the same for
+[02:45] the other grocery items off screen just
+[02:47] to save us some time boom editing magic
+[02:51] now I'll click back to the
+[02:55] quotation and here I see that all the
+[02:58] products have been added to the order
+[03:00] lines and I also see that it's really
+[03:03] expensive to buy groceries nowadays
+[03:05] yikes well either way I'm going to go
+[03:07] ahead and select confirm here because
+[03:09] expensive or not Abigail still got to
+[03:11] eat you
+[03:13] know next let's create wave transfers in
+[03:15] the inventory app from here we're going
+[03:17] to go to the pick card select these
+[03:19] three dots on the icon and select
+[03:22] operations here we can see the itemized
+[03:24] list of products from different sales
+[03:26] orders from the from column we can see
+[03:28] where each product is stored since we
+[03:31] want to create waves based on where
+[03:32] these products are located let's Group
+[03:34] by location to do that I'm going to
+[03:36] click the down arrow in the search bar
+[03:38] up at the top and select location in the
+[03:42] group by
+[03:44] section it's important to note that in
+[03:46] order to create a wave transfer all
+[03:48] items must have the same operation type
+[03:50] for example you can't group pick
+[03:52] operations together with pack operations
+[03:54] so be sure to keep that in mind now to
+[03:57] create a wave containing all our dairy
+[03:59] products I'll click on the drop down
+[04:00] here for dairy and reveal the nested
+[04:03] list then I'll select all the check
+[04:05] boxes stored with the dairy location and
+[04:07] click add to
+[04:11] wave in the popup I'm going to select
+[04:14] add a new wave transfer and I'll go
+[04:17] ahead and add myself as the
+[04:21] responsible and we'll go ahead and hit
+[04:24] confirm notice the batch transfer column
+[04:27] has been updated to show all the
+[04:29] products that have been put in the same
+[04:31] wave transfer now we just need to put
+[04:33] all of our meat in a separate wave and
+[04:35] assign another user as the responsible
+[04:38] the vegetables and the produce location
+[04:40] will go in the last wave and will be
+[04:41] handled by our main man Steve I'm going
+[04:44] to take care of those off screen again
+[04:45] to save us some time but I'll be using
+[04:47] the same process you just saw so don't
+[04:49] worry OD doers not missing out on
+[04:52] anything okay with the wave transfers
+[04:54] created it's time to process them do
+[04:57] that let's go to the operation submenu
+[04:59] here and select on wave
+[05:02] transfers this is going to reveal a list
+[05:05] of all the wave transfers we need to do
+[05:07] to see only my wave transfers we can go
+[05:09] ahead and select the down arrow in the
+[05:11] search bar and add the filter my
+[05:14] transfers so let's go ahead and take a
+[05:16] look at what's assigned to me by
+[05:18] clicking on it from here we can check on
+[05:21] the detailed operations tab to see where
+[05:23] all the products are stored which
+[05:25] happens to be the dairy
+[05:28] location so let's let's go ahead and
+[05:30] validate this
+[05:32] transfer and while I was carrying all my
+[05:34] things to the backing Zone here
+[05:35] indicated in the two column I also saw
+[05:39] Steve and Jose with all their items
+[05:41] coming from their Zone what's up guys
+[05:44] great that means they're done so I'll go
+[05:46] ahead and validate their orders here as
+[05:48] well to do that I'll first click back on
+[05:51] to wave transfers here remove the my
+[05:54] transfers filter at the top and then I
+[05:57] can go ahead and click on their orders
+[06:00] here as well select
+[06:04] validate and validate once
+[06:08] again awesome it's time to start the
+[06:10] sorting and packing step for that let's
+[06:12] go back to inventory app's main
+[06:14] dashboard by clicking the overview
+[06:18] subheading from here I'll select the two
+[06:22] to process in our pack card which is
+[06:24] step two of our three-step delivery
+[06:27] process then it's time to sort all the
+[06:29] products we just gathered into these two
+[06:31] orders so let's go ahead and click onto
+[06:34] one of these pack
+[06:38] transfers as a packer we just saw a
+[06:40] bunch of products show up to the source
+[06:41] location the packing zone I'll take the
+[06:44] items into the product tab pile and
+[06:46] fulfill the order and finally all I'd
+[06:49] have to do is go ahead and validate this
+[06:51] order and there you have it folks that's
+[06:54] how you handle wave pickings in Odo told
+[06:56] you a simple the rest of this flow
+[06:58] closely resembl odu's three-step
+[07:00] delivery workflow which we cover in this
+[07:02] other video so be sure to check that out
+[07:05] if you'd like to see how this ends
+[07:07] that's all for now though thanks for
+[07:09] watching and I'll see you all in the
+[07:10] next video
+[07:11] [Music]

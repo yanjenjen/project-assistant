@@ -1,0 +1,256 @@
+影片 ID: zIswRW3wIkw
+來源: https://www.youtube.com/watch?v=zIswRW3wIkw
+下載時間: 2026-07-30 14:01
+============================================================
+
+[00:01] [music]
+[00:04] Hello viewers and welcome back. My name
+[00:06] is Jose Ignosio. In our first tutorial,
+[00:09] we created products, specified storage
+[00:11] locations, received products, and
+[00:13] organized them into storage with
+[00:15] Stealthy Woods warehouse stocked. I'm
+[00:17] going to show you how we manage and ship
+[00:18] customer orders. And we're going to even
+[00:20] do it using the barcode application. So,
+[00:23] enough chitchat. Let's explore how we
+[00:24] manage our warehouse at Stealthy Wood
+[00:26] using ODO inventory. All
+[00:29] right, Odorus, we're inside of the
+[00:30] inventory application. Let's start by
+[00:32] heading to configuration and then
+[00:34] settings. I've already enabled a few
+[00:37] features, but let's highlight the key
+[00:39] ones for today. So, we're going to
+[00:40] scroll to our barcode section. Using a
+[00:43] barcode scanner, such as this one right
+[00:46] here, makes operations more convenient
+[00:48] for pickers and packers because it
+[00:51] allows them to walk through the
+[00:52] warehouse while recording quantities.
+[00:55] Now, if we scroll down further over here
+[00:57] in our shipping section, we have
+[00:59] delivery methods as our selected item.
+[01:03] And that's because these are handy for
+[01:04] automatically printing shipping labels
+[01:05] to tape to the shipping box. Well, these
+[01:08] aren't required for delivering items. I
+[01:10] just wanted to show you since I thought
+[01:11] it might be useful. Now, to enable the
+[01:14] required features, we're going to scroll
+[01:16] over to warehouse over here as our
+[01:19] section. So, we're going to make sure
+[01:20] that we have both storage locations and
+[01:22] multi-step routes enabled. These help us
+[01:25] define specific locations to store
+[01:27] products and define the various
+[01:29] locations and quality checks an item
+[01:30] must pass through before storage or
+[01:33] delivery. And if you're enabling these
+[01:35] features for the first time, odoers,
+[01:37] remember to hit save in the top left
+[01:38] corner. Always save. Now, let's head to
+[01:41] configuration and then we're going to
+[01:43] select warehouses. We're going to click
+[01:44] our stealthy wood warehouse. Great. Here
+[01:47] on this overview, we're going to make
+[01:49] sure that for our outgoing shipments or
+[01:51] shipments, sorry, small little dupsy. We
+[01:54] want to make sure that this field is set
+[01:55] to pick then deliver two steps. Why two
+[01:59] steps? Not all businesses need two-step
+[02:02] delivery, but Stealthywood has a
+[02:03] dedicated picking team. They're familiar
+[02:06] with how our storage is organized, so
+[02:08] they're really efficient when locating
+[02:10] products. Once they've picked the
+[02:12] products, the delivery team can take
+[02:13] over. They verify everything is correct,
+[02:16] packing it up and getting it ready to
+[02:18] ship. I'm going to explain this setup in
+[02:20] more detail in the warehouse operations
+[02:22] video, but for now, let's dive into the
+[02:23] barcode setup. Okay, so we're going to
+[02:28] now this time go to products and then
+[02:30] products. All right, let's select our
+[02:33] monitor stand that we have over here.
+[02:35] And here we have our nice product
+[02:36] overview. Now, you see this section down
+[02:38] here that's labeled as barcode. Well, we
+[02:41] need to import the barcode for this
+[02:44] product. And we can input that in a few
+[02:46] different ways. Now, I could type in
+[02:48] manually a whole bunch of numbers, but
+[02:51] it's kind of old school. I think it's
+[02:54] time that we go modern. Imagine this is
+[02:56] a new product that we just received from
+[02:57] a supplier. If I had the physical
+[02:59] barcode right here, I'd simply go over
+[03:02] to it and
+[03:05] kind of like that. It's pretty cool,
+[03:08] right? I have that right here.
+[03:10] So, when I scan the barcode, the field
+[03:13] is automatically filled in. And that's
+[03:14] how easy it is. And with that, we're
+[03:16] ready to begin picking products.
+[03:19] So, back on our main inventory
+[03:21] dashboard. Since we've enabled two-step
+[03:23] delivery, we have the pick operation
+[03:25] over here, as well as delivery orders
+[03:28] over here. Let's kick off a productive
+[03:30] day by retrieving items from storage.
+[03:32] So, in the pick card, we're going to
+[03:34] select this three to process. You might
+[03:35] have a different number. Depends on how
+[03:37] many you have to process. So, perfect.
+[03:39] It's taken us over here to a list. Now,
+[03:42] on this list of all of these orders, we
+[03:44] happen to see that we have schedule
+[03:46] dates. Now, this tells us when the order
+[03:47] needs to ship from the warehouse. If
+[03:49] you're using the sales app, confirming a
+[03:51] sales order creates a corresponding task
+[03:53] here in inventory to ensure that we pick
+[03:54] and ship every item on time. The source
+[03:57] document over here, well, that's the
+[03:59] link to that sales order that's related
+[04:01] to the order. And if you'll notice, we
+[04:04] also have a nice little status column
+[04:05] over here. Ready means that we've got
+[04:08] everything in stock to fulfill the order
+[04:09] right now. Now, this is the database
+[04:12] view, but why stick with that when we
+[04:14] can use the barcode application to make
+[04:16] picking even easier. So, I'm going to
+[04:18] close this window and show you this
+[04:20] through the barcode app. So, I'm
+[04:22] actually using my scanner over here, and
+[04:25] let's pretend that I'm a cool warehouse
+[04:27] operations employee. So, this is the
+[04:30] task that I'm assigned to with some
+[04:31] barcodes. And here it also is. So, if I
+[04:36] didn't have a barcode scanner handy, I
+[04:38] could tap, in this case, operations on
+[04:41] the iPad. And then I can also click
+[04:44] immediately into pick. And then from
+[04:46] here, I could select my picking order.
+[04:49] You can also manage incoming receipts,
+[04:50] internal transfers, and delivery orders
+[04:52] from the operation screen. But since I
+[04:54] have the orders barcode, I'm going to
+[04:56] click on our barcode breadcrumb to take
+[04:58] us back over here on the iPad. And I'm
+[05:01] actually just going to scan our picking
+[05:03] number right there. And would you look
+[05:06] at that? There we are. This pulls up our
+[05:09] list, which happens to be three office
+[05:12] chairs and two monitor stands. Pretty
+[05:15] important. So, at the top of each of the
+[05:17] lines that we have right here, it
+[05:19] basically shows where the products are
+[05:21] stored. For the very first one, we have
+[05:22] shelf one. And for the second one, we
+[05:25] have shelf two. But let's pretend that I
+[05:29] just walked over there and let's scan
+[05:31] the barcode for in this case, we're
+[05:33] going to do shelf one. Okay. Oh, I just
+[05:38] realized I forgot to print the barcode
+[05:40] for the shelf. So, I think I'm going to
+[05:43] have to type it in instead. So, select
+[05:45] the gear icon up at the top left over
+[05:47] here. And for our barcode, I'm going to
+[05:50] type in shelf one. And then I'm going to
+[05:53] hit apply.
+[05:55] Okay. Okay, so now it's telling me that
+[05:58] I need to be able to scan a product from
+[06:00] shelf one. Now, this works because in
+[06:02] the barcode field at this location, I
+[06:04] have it set to shelf one. So, with that,
+[06:06] Odo displays a cool navy blue over here
+[06:10] banner to show that shelf one has been
+[06:12] selected as the location. We can now
+[06:15] scan the item that we need, which
+[06:16] happens to be the offers chair over
+[06:19] here. Cover this up. Okay, look at that.
+[06:24] So to let's actually do this not
+[06:26] manually. I'm noticing that I'm doing
+[06:28] this one at a time. So to do this way
+[06:30] quicker, I'm just going to tap in the
+[06:31] plus two. Look at that. Now we're done
+[06:34] picking the chairs over here. We have
+[06:36] our three out of three done. Now, if I
+[06:39] were in an actual warehouse, I would
+[06:40] place these three chairs onto my dolly
+[06:42] and push it over to shelf two where I
+[06:44] would continue picking the remaining
+[06:45] items. So let's assume that I have
+[06:48] reached shelf two over here. And we need
+[06:53] to reach that last item. Look at that.
+[06:55] Now we're over here at shelf two. And
+[06:57] you'll notice the previous items have
+[07:00] disappeared, showing only items from
+[07:02] shelf two. So I'm going to scan our
+[07:05] monitor stands this time around. We're
+[07:07] going to do that one twice just to show
+[07:10] that we can do this. So with everything
+[07:12] picked and on my cart, I'm going to push
+[07:14] it to our destination location, which is
+[07:18] whoutput.
+[07:21] and I'm going to drop off the items to
+[07:22] the delivery team. I'm going to tap on
+[07:24] validate in the bottom left corner for
+[07:26] myself. And we're done. All right. Now,
+[07:30] let's switch roles and pretend that I'm
+[07:31] on the delivery team for apparently a
+[07:33] very dangerous warehouse because the
+[07:35] last thing I have left is a hard hat.
+[07:38] So, the picking team brought me some
+[07:39] products for delivery. Inside of our
+[07:41] delivery orders card that we have over
+[07:43] here, I'm going to click on our one to
+[07:45] deliver. And I see it immediately.
+[07:47] There's our delivery order. Inside of
+[07:49] the operations tab, I'm going to double
+[07:50] check that all the products are here,
+[07:52] and they are. But do I have a secondary
+[07:54] indication? I do. It's our pro tip for
+[07:56] today. The product availability field up
+[07:59] here shows if everything is ready. And
+[08:02] it's green now, so we're good. And
+[08:04] here's also a quick guide to what the
+[08:05] colors mean for status fields. If
+[08:07] [clears throat] you see a date in the
+[08:08] product availability field, it's the
+[08:09] expected arrival date. But now that all
+[08:11] the products are ready, let's back up
+[08:13] everything in a box. And this delivery
+[08:15] order is linked to a sales order. And we
+[08:18] can see that for our source document.
+[08:19] And if we go to our additional info, it
+[08:22] appears there once again. But under our
+[08:24] shipping information, I can see that
+[08:26] we're going to be using FedEx as the
+[08:27] shipping carrier. To clarify, a delivery
+[08:30] order doesn't mean Stealthywood is
+[08:32] handling deliveries. It simply records
+[08:34] that items are leaving the warehouse
+[08:35] with the shipping carrier handling
+[08:37] transport to the customer. With the
+[08:38] shipping connector setup, ODO generates
+[08:40] a shipping label automatically, and I
+[08:42] can print and tape it to a box. Once
+[08:44] that everything checks out, when I click
+[08:46] validate up at the top, you notice very
+[08:49] nicely we have our sweet nice little
+[08:51] label over here on our chatter. For
+[08:54] details on printing shipping labels or
+[08:56] available connectors, check out our
+[08:58] tutorials and documentation. So, we're
+[09:00] done today. We just covered how to pick
+[09:02] and send products using ODO's handy
+[09:04] tools. Check out our other inventory
+[09:07] videos because we've got more coming
+[09:08] your way. Thanks for watching, outdoors,
+[09:10] and remember, you're doing great. Go
+[09:12] grab a snack. Slim Gym sponsor me. See
+[09:15] you next time. Stay safe.

@@ -1,0 +1,77 @@
+影片 ID: stiOhRZAJ8I
+來源: https://www.youtube.com/watch?v=stiOhRZAJ8I
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Hi dear viewers. Today we're diving into
+[00:05] the world of click and collect.
+[00:08] This feature bridges the gap between
+[00:10] your online store and your physical
+[00:11] locations, allowing your customers to
+[00:13] shop online then pick up their favorites
+[00:16] in person.
+[00:17] We'll walk through enabling the feature,
+[00:19] setting up your pickup locations, and
+[00:21] seeing exactly how it looks for your
+[00:23] customers at checkout. Ready to get
+[00:25] started? Then let's jump right in.
+[00:31] Okay, let's start on our website's
+[00:32] homepage and go to configuration and
+[00:35] settings.
+[00:36] And then we'll scroll down a little bit
+[00:38] and we will tick the click and collect
+[00:41] checkbox to enable the setting and we
+[00:43] will save.
+[00:48] Okay, now let's click the configure
+[00:51] pickup locations link to configure the
+[00:53] delivery method. But the good news is
+[00:55] it's automatically created so there's
+[00:57] almost nothing to do.
+[00:59] The only thing we can do is go to the
+[01:01] store step over here and select the
+[01:03] warehouses where customers can collect
+[01:05] their orders. Here I previously
+[01:08] configured three locations but as we
+[01:11] don't accept pickup at this location
+[01:13] here in the middle, I will just remove
+[01:15] it.
+[01:16] Lastly, let's change the title over here
+[01:19] and we can put click and collect, for
+[01:22] example.
+[01:24] We'll hit save and there you go.
+[01:30] Now let's head to our shop page
+[01:34] and we will just add some products to
+[01:37] our cart quickly with this easy quick
+[01:40] button
+[01:41] and then we will just view our cart and
+[01:44] proceed to checkout.
+[01:46] Now here on my delivery page, I can see
+[01:49] that the click and collect option is now
+[01:51] available to my customers.
+[01:54] As we have two pickup locations
+[01:55] available, we can select a location and
+[01:59] here we see that we can choose between
+[02:00] the two locations and are displayed on
+[02:02] the map.
+[02:03] I will choose the one that is closest to
+[02:05] me, which is this one.
+[02:07] And it's also interesting to note that
+[02:08] if you have pick up locations in
+[02:10] different countries, you would be able
+[02:12] to choose between countries with this
+[02:13] selector over here.
+[02:16] So we'll choose this location and we
+[02:18] will confirm.
+[02:20] Now here on the payment method page, by
+[02:22] default the pay on site method is
+[02:25] enabled and published when the click and
+[02:27] collect feature is activated.
+[02:29] We'll select it and now I can either pay
+[02:31] by cash or card while collecting my
+[02:33] order.
+[02:34] We'll confirm the order.
+[02:36] And there you go.
+[02:37] And that's it for this video. Make sure
+[02:39] to read our online documentation for
+[02:40] more info and I'll see you in the next
+[02:42] one. Bye-bye.

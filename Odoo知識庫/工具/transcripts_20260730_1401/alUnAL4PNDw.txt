@@ -1,0 +1,234 @@
+影片 ID: alUnAL4PNDw
+來源: https://www.youtube.com/watch?v=alUnAL4PNDw
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:05] What's going on, Odoers, and welcome
+[00:07] back. Here at Stealthy Wood, our desks
+[00:09] have been selling so well that we
+[00:11] decided to introduce a whole new line of
+[00:13] desk accessories to go with them,
+[00:16] including this adorable desktop airplane
+[00:19] terrarium. However, hosting these plants
+[00:21] in our warehouse has introduced a new
+[00:23] challenge, managing perishable products
+[00:26] in our inventory. Fortunately, ODU has a
+[00:30] solution for us. Leveraging the power of
+[00:33] expiration dates. Expiration dates allow
+[00:36] us to track a product's shelf life in
+[00:38] our inventory and keep track of them
+[00:40] when they expire. Our plans don't
+[00:42] hopefully, and this is more important
+[00:44] when you're selling things like milk or
+[00:46] even medicine, but we even like to use
+[00:49] them to make sure that shipping and
+[00:51] picking operations prioritize the
+[00:53] products that are expiring first. So,
+[00:55] let's jump into our database to see how
+[00:57] this all
+[00:58] works. First things first, let's start
+[01:01] by setting up our inventory. From the
+[01:03] inventory application, we'll open up our
+[01:06] settings by clicking configuration and
+[01:08] then clicking the settings option. Now,
+[01:10] in order to use expiration dates, we'll
+[01:12] need to activate a few things. Features
+[01:15] we want to make sure we have enabled are
+[01:17] located in the traceability section. So,
+[01:19] we'll just need to find that. And those
+[01:21] settings are lots and serial numbers as
+[01:23] well as expiration dates. Remember, you
+[01:26] will only be able to see expiration
+[01:28] dates once you have lots and serial
+[01:30] numbers enabled. To specify what we want
+[01:34] to pick first when products are stored
+[01:36] in a specific location, we'll also need
+[01:39] to activate storage locations and
+[01:42] multi-step routes in our warehouse
+[01:44] section. As you can see, we already have
+[01:47] those settings enabled, but if you don't
+[01:49] have those enabled in your database,
+[01:51] make sure you tick those check boxes and
+[01:53] then click save before moving
+[01:55] on. All right, with all of our settings
+[01:58] good to go, let's check out our new
+[02:00] perishable product, the airplane. And to
+[02:02] do that, we're just going to click
+[02:04] products at the top, followed by
+[02:05] products once again. And look at that.
+[02:08] There's our airplane product that we'll
+[02:09] just click into right now.
+[02:11] Now, in order to have an expiration date
+[02:13] for the product, we need to make sure
+[02:15] the product type is set to goods. In
+[02:18] addition to that, we need to have track
+[02:21] inventory ticked and enabled with either
+[02:23] lots or serial numbers added to this
+[02:26] corresponding field. Lot numbers allow
+[02:29] us to track groups of the same product
+[02:31] together from where they are in the
+[02:33] warehouse to which lot our returns are
+[02:36] coming from. since our airplants are
+[02:37] shipped together in flats of 32. So for
+[02:41] that use case, we're going to make sure
+[02:42] we have lots ticked and enabled right
+[02:45] here on the track inventory section. Be
+[02:47] sure to check out our videos on lots and
+[02:49] serial numbers to learn more about ways
+[02:51] of tracking products. All right, now we
+[02:54] need to set the actual expiration date.
+[02:56] So we can open up our inventory tab
+[02:58] right
+[03:00] here. In here, we'll find in the
+[03:02] traceability section our expiration
+[03:04] date. And if we uncheck this and recheck
+[03:07] it again, we'll notice that the dates
+[03:10] section here on the right appears and
+[03:13] that allows us to give options on how we
+[03:15] configure by default a product is
+[03:18] expected to last in our
+[03:20] warehouse. Expiration date here at the
+[03:23] top is the number of days we expect this
+[03:25] product to last from the day it arrives
+[03:26] in our warehouse. For the airplants,
+[03:29] this is set to 30 because they last
+[03:31] about a month in our warehouse before
+[03:33] they've completely wilted. Next, we have
+[03:35] the best before date. This is currently
+[03:37] set to 14 days before the expiration
+[03:39] date. And we also have a removal date
+[03:41] set to seven. And we're going to update
+[03:43] this alert date to give us a 7-day
+[03:46] warning as
+[03:48] well. And that's how we get notified on
+[03:50] the day we need to get rid of the plants
+[03:52] a week before expiration. We can also
+[03:55] change the expiration date on a lot or
+[03:57] product that we track by serial number
+[04:00] when it arrives in our warehouse. and
+[04:02] ODO will recalculate the best before
+[04:05] removal and alert dates based on the new
+[04:07] expiration
+[04:08] date. So now that we have our expiration
+[04:11] dates configured, let's see what happens
+[04:13] with the new shipment of airplants that
+[04:14] are arriving today. To check that out,
+[04:17] we're going to click overview here at
+[04:18] the
+[04:20] top and click on our one to receive
+[04:23] button here in our receipts
+[04:25] card. And then we'll click the first
+[04:27] receipt here in the
+[04:30] list. And here we could see that this is
+[04:33] for 128 new airplanes. So I'll click
+[04:39] validate. Oh no, ODO is mad that we
+[04:42] haven't assigned a serial number or lot
+[04:44] number to this yet, but let's take care
+[04:46] of that now. So we're just going to
+[04:48] click close on this warning window.
+[04:52] Next, we'll click this list icon that
+[04:54] appears next to the quantity, and I'll
+[04:57] just click generate
+[05:00] serials/lotss. And I'll set the first
+[05:02] lot to lot
+[05:05] 001. I'll also change the quantity per
+[05:08] lot to
+[05:11] 32 and then click
+[05:15] generate. If I click
+[05:17] save, then reopen up that list
+[05:21] view, we'll be able to see that ODU has
+[05:24] generated us four different lots with
+[05:26] four different expiration dates.
+[05:29] However, there's a slight problem here
+[05:30] because one of the batches of the
+[05:32] airplanes that arrived are in poor
+[05:35] condition to say the least. And I need
+[05:38] to change the expiration date to be a
+[05:40] little bit sooner. So to do that, I can
+[05:42] click the expiration date here for lot
+[05:44] four and I'll move the expiration date
+[05:48] one week earlier and then click
+[05:51] apply. That looks all good. So I'll
+[05:53] click save right here and then click
+[05:55] validate on the
+[05:59] receipt. All right, now that that's
+[06:01] done, let's check out our lots and
+[06:03] serial numbers page to take a closer
+[06:04] look at a couple things. To do that,
+[06:06] I'll click products, but this time I'll
+[06:08] click lots/z serial numbers. Here you'll
+[06:12] find our four lots that we just
+[06:14] received, plus an additional one that's
+[06:17] been sitting here for a while. I can
+[06:19] also sort these out if I click the top
+[06:22] of the removal date column
+[06:24] here. And I'll be able to notice that
+[06:27] old lot needs to be removed soon.
+[06:31] Now, let's see how ODU can help us
+[06:33] minimize waste by automatically picking
+[06:34] lots that are expiring first, just like
+[06:37] this one. FIFO is a method used for
+[06:39] selling perishable products where the
+[06:41] product moved out of the warehouse first
+[06:43] is the one with the earliest removal
+[06:45] date. Let's go ahead and set up a
+[06:47] location where the FIFO method will be
+[06:49] applied. So, to do that, we'll click
+[06:51] configuration at the top, followed by
+[06:53] locations, and we're going to open up
+[06:55] our warehouse stock floral shelf
+[06:58] location. One thing to note is that all
+[07:00] of our products in the floral category
+[07:02] automatically get put away
+[07:05] here. Feel free to check out our putaway
+[07:08] rules video if you'd like to learn more
+[07:10] about that. But if we scroll down to our
+[07:13] logistics section, we just want to
+[07:15] select first expiry first out in our
+[07:18] removal strategy field. It's worth
+[07:21] noting that we can also activate FIFO on
+[07:24] the product category level as well. So,
+[07:26] we could set anything floral to always
+[07:28] be FIFO. But since we've already set up
+[07:31] our LED lights and misters for our
+[07:33] dedicated plant storage, we'll go ahead
+[07:35] and keep using the floral shelf location
+[07:37] to define the removal strategy. Now,
+[07:40] let's see FIFO in action in an internal
+[07:42] transfer with these airplants. To do
+[07:45] that, I'll click overview at the top,
+[07:47] which will take us back to the inventory
+[07:49] overview. And here in internal
+[07:51] transfers, I'll just click this title to
+[07:53] open up that card.
+[07:55] Then we'll click new in the upper
+[07:56] leftand corner to create a new transfer.
+[07:58] And I'll just type in floral in the
+[08:01] source location to help us quickly find
+[08:04] our warehouse stock. Floral shelf. And
+[08:07] I'll leave the destination location set
+[08:09] to warehouse stock. Then here in the
+[08:13] product lines field, I'll click add a
+[08:15] line. And I'll just select our airplane
+[08:18] product. We'll go ahead and add a demand
+[08:21] of 60
+[08:23] here. and then I'll click mark as
+[08:28] to-do. Once the transfer is ready, we'll
+[08:31] see this print button appear. And if we
+[08:34] click print, this will download a PDF to
+[08:37] the transfer
+[08:39] order. The downloaded PDF will look
+[08:42] something like this. And I can also see
+[08:45] that it is pulling from our old lot
+[08:47] since we know that expires first. And we
+[08:50] also have the next closest removal date
+[08:53] lot at the top. We even have barcodes to
+[08:56] scan each lot. How cool is that? And
+[08:59] that's it for this video, folks. With
+[09:02] ODO, we can safely track and pick our
+[09:04] perishable products, including these
+[09:06] precious plants. That's all for now, but
+[09:08] be sure to check out our other tutorials
+[09:10] to learn even more about how awesome
+[09:12] ODO's inventory app is. Until next time,
+[09:15] see you soon, Odoers.

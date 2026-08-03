@@ -1,0 +1,283 @@
+影片 ID: mjrYuigXii4
+來源: https://www.youtube.com/watch?v=mjrYuigXii4
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:05] hello doers and welcome back today we're
+[00:08] managing our internal Fleet of delivery
+[00:09] trucks to make sure we're efficiently
+[00:11] delivering our fresh veggies from our
+[00:13] farm to our customers that's right we're
+[00:15] getting pastoral and working at ODU
+[00:18] Licious our family farm we deliver to
+[00:20] individual households and businesses so
+[00:22] depending on our order volume we use a
+[00:24] different kind of truck that way when
+[00:26] we're loading items onto the truck Odo
+[00:29] tracks the weight and and the volume
+[00:30] making sure we're never taking too much
+[00:32] on each delivery truck once the truck is
+[00:35] all loaded we can even use ODU to
+[00:37] automatically generate directions to the
+[00:39] customer's delivery address all right
+[00:41] I'm getting excited enough chitchat time
+[00:42] to see what it looks like inside of the
+[00:45] database so to begin we're actually
+[00:47] going to enable some features inside of
+[00:48] the inventory app we're going to go to
+[00:50] configuration and settings so here we
+[00:52] are in our operations section we're
+[00:54] going to want to make sure that batch
+[00:55] wave and cluster transfers feature is
+[00:57] enabled this is used to prepare batches
+[00:59] of or ERS for delivery we're also going
+[01:01] to go down lower over here to this
+[01:03] shipping section make sure that dispatch
+[01:06] management system is selected or DMS for
+[01:08] my acronym lovers so down further below
+[01:12] over here in our warehouse section we're
+[01:13] going to want to make sure that both
+[01:14] storage locations and multi-step routes
+[01:17] are enabled so that we can Define
+[01:18] loading zones for our trucks inside of
+[01:20] ODU now if you haven't enabled these
+[01:22] make sure you save it's going to be my
+[01:24] famous last words so next let's
+[01:27] configure whether we want to deliver in
+[01:28] one or two steps so we use a two-step
+[01:31] delivery if we have a specific output
+[01:33] zone for loading items onto Vehicles
+[01:35] like odul Licious this setup adds
+[01:37] separate stock and output locations
+[01:39] ensuring outgoing items stay separate
+[01:41] from Storage this way one team moves
+[01:44] shipments to a specific truck's output
+[01:45] Zone and the truck loading team only
+[01:47] needs to load that Dock and that means
+[01:49] that the people loading our trucks won't
+[01:51] go into our storage and grab the wrong
+[01:53] things in other words the pickup truck
+[01:55] guys won't accidentally take things
+[01:57] intended for the cargo truck so let's
+[02:00] actually go configure that we're going
+[02:01] to go configure our warehouse settings
+[02:03] by going to configuration and warehouses
+[02:06] if you look at that we're going to
+[02:07] select the soul ocious one so since we
+[02:11] have a loading zone that's separate from
+[02:12] the rest of storage we're going to
+[02:14] select pick then deliver two steps and
+[02:17] we already have it selected but if you
+[02:19] don't make sure you pick it now let's
+[02:21] set up these loading zones shall we so
+[02:23] to do that we're going to go once again
+[02:24] to configuration this time locations the
+[02:27] configuration menu is our favorite one
+[02:29] today
+[02:31] so after setting outgoing shipments to
+[02:33] two steps the wh output location is
+[02:36] automatically created over there in the
+[02:39] output Zone we have specific ones we
+[02:41] have both doc a and Doc B which are
+[02:44] where we load packages onto the pickup
+[02:46] truck and the cargo truck respectively I
+[02:49] hope that visually helped you so I'm
+[02:51] going to select doc a to start I need to
+[02:53] make sure that this is a doc location
+[02:57] box is ticked so with these inventory
+[03:00] features enabled we'll have to make sure
+[03:01] a detour into the fleet app to set up
+[03:04] our delivery vehicles because we need to
+[03:06] make sure it's all working property so
+[03:08] let's head back on our dashboard we're
+[03:10] going to select Fleet and remember you
+[03:11] can also always just type and it'll just
+[03:13] take you there once you hit enter I'm
+[03:15] going to go into configuration now and
+[03:17] we're going to select categories over
+[03:19] there so here we can see all our vehicle
+[03:22] categories these categories specify the
+[03:24] vehicle's capacity here we have both a
+[03:26] pickup truck and we also have a cargo
+[03:30] truck now the pickup truck for our
+[03:32] example well that takes fresh produce
+[03:34] and coolers it has a max weight of 60 kg
+[03:37] as you can see over here and it can hold
+[03:39] up to 5 cubic meters in volume of items
+[03:43] we also have now the cargo truck that I
+[03:45] was talking about and that happens to be
+[03:47] a max weight of 200 and a max volume of
+[03:51] 40 so to change this unit of measurement
+[03:54] by the way you'll have to change it
+[03:55] globally in the company settings located
+[03:57] in the general setting section of the
+[03:59] setting
+[04:00] application now next we actually want to
+[04:02] make sure that the delivery vehicles are
+[04:04] configured properly so to do that we're
+[04:06] going to actually go click on the word
+[04:08] Fleet and select Fleet
+[04:09] again and then inside of here we'll
+[04:12] click the list icon on the far right to
+[04:14] see the vehicles inside of a list view
+[04:16] because it'll make it easier for me to
+[04:17] go off of that so now over here we have
+[04:20] our category field we need to make sure
+[04:22] each vehicle is assigned a category as
+[04:23] we configured earlier and look one of
+[04:26] them doesn't have a category yet so
+[04:28] let's go do that we're going to we going
+[04:29] to select the Ford all right so I want
+[04:32] you to look over here in our category
+[04:34] field on the right hand side and we need
+[04:36] to select it I happened to decide that
+[04:38] this is a pickup truck because I know an
+[04:41] F-150 so now I think it's time for us
+[04:44] with all of this configuration out of
+[04:45] the way to see this all in action inside
+[04:47] of our inventory application all right
+[04:49] so before you saw my beautiful face
+[04:51] again I actually confirmed five sales
+[04:53] orders for various fresh and frozen
+[04:55] products now doing that created these
+[04:57] five picking operations that we have
+[04:58] over here in our pick card so let's
+[05:00] click on them right there okay if you
+[05:03] remember the pickup truck at Doc a is
+[05:05] good for individual orders and the large
+[05:07] cargo truck at Doc B is good for B2B
+[05:09] bulk orders so when doing our pickings
+[05:11] we're already thinking about which doc
+[05:13] we're going to bring each order to but
+[05:15] to easily identify the B2B orders from
+[05:17] the list of pickings we actually use a
+[05:21] kind of Clairvoyant orb just kidding we
+[05:23] use the search bar and then we select
+[05:24] the custom filter then from here we're
+[05:27] going to type in the word contact into
+[05:28] the very first one don't select the word
+[05:30] contact or this ends we want to select
+[05:32] the little arrow start typing again is a
+[05:34] company and this time you do select it
+[05:36] we don't need anything else so we can
+[05:38] just hit add and would you look at that
+[05:40] it left us with our two specific
+[05:43] pickings which we're going to move from
+[05:46] stock to H another quick Noe the picking
+[05:49] automatically sets the destination
+[05:51] location to be output but this isn't
+[05:53] specific enough for us because we need
+[05:56] these products to Doc B so to fix that
+[05:58] we're going to select the check boxes
+[06:00] over here and we're going to click on
+[06:01] the two field and then we're going to
+[06:04] select this nice little arrow over here
+[06:05] and we're going to type in a dash and
+[06:07] would you look at that we're going to
+[06:08] select doc B and now since we selected
+[06:10] multiple in this popup we want the
+[06:12] select
+[06:13] confirm and since we're done we're going
+[06:16] to select the X on the two selected
+[06:17] right there and now we need to also
+[06:20] remove the custom filter I need the full
+[06:21] list again so up next I'm going to check
+[06:23] the boxes for the remaining ones and you
+[06:25] can find them because they won't have
+[06:28] the hypers specific dock location yet
+[06:31] and then once again we're going to
+[06:32] select our location destination we're
+[06:35] going to select doc a for these ones
+[06:37] confirm it and we're done with that all
+[06:40] right now all of that and with all of
+[06:43] the pickings headed to the right dock I
+[06:44] think it's time for us to validate so
+[06:46] we're going to select our very first one
+[06:48] and we're going to
+[06:50] validate this is going to take us a
+[06:52] little bit I need to do that for the
+[06:53] four other pickings so I'm going to do
+[06:55] that off screen and meet you back here
+[06:56] to load the items onto those trucks
+[06:59] hello again judging by the orders inside
+[07:01] of our deliveries card over here I can
+[07:04] tell that all the orders have been moved
+[07:05] to Output so I'm going to select on the
+[07:06] five to deliver over here to take us to
+[07:08] our list of pickings it's time to pick
+[07:10] the products from our orders into
+[07:12] batches so I'm going to tick the
+[07:13] checkboxes next to all the dock a stuff
+[07:16] which happens to be that one and this
+[07:17] one we're going to select the actions
+[07:19] menu and add to badge now we have this
+[07:21] popup over here in the popup in the add
+[07:23] to field we want to select a new batch
+[07:25] transfer to create a new one I'm going
+[07:27] to set the responsible person over here
+[07:29] to
+[07:30] myself and if I were creating this batch
+[07:32] for a later date I'd take the draft
+[07:34] check box right there since I need this
+[07:36] batch now however I'm going to select
+[07:38] confirm and boom I've created the batch
+[07:41] so looking over here to our vehicle
+[07:42] field remember this happens to be a doc
+[07:45] a batch transfer so we're going to
+[07:47] select our Tacoma because we need a
+[07:49] truck and immediately the truck's weight
+[07:51] and volume capacity automatically update
+[07:53] showing how much space this batch uses
+[07:55] versus what's
+[07:58] available oh no my orders are too heavy
+[08:00] let's investigate which order is causing
+[08:02] the issue inside of our detailed
+[08:04] operations tab over here H everything
+[08:07] seems small carrots aren't that big but
+[08:09] would you look at that I happen to be
+[08:11] carrying and transporting
+[08:12] pumpkins well oh dear I'm So Sorry
+[08:15] Charlie Brown but we got to get rid of
+[08:16] that so how do we get rid of that though
+[08:19] I'm going to remove it from our
+[08:20] transfers tab over here and if you
+[08:22] recall that one have going to be
+[08:23] Warehouse order 57 let's take a look for
+[08:26] that one all right it's the bottom one
+[08:28] we're just going to take this X right
+[08:29] there and boom all of that is done after
+[08:32] clicking our manual save button up at
+[08:34] the top which you look at that o doers
+[08:37] 80
+[08:38] 90% everything fits on our truck so now
+[08:41] we'll send that removed order on the
+[08:43] other pickup truck that we have okay so
+[08:45] now that the batch transfer is ready
+[08:47] let's prepare this truck for delivery so
+[08:49] if you'll notice we have this map button
+[08:51] over here and it's only available when
+[08:52] the batch happens to already be in
+[08:55] progress this shows all customer
+[08:57] addresses on a map clicking on the map
+[08:59] button it well it reveals a map with
+[09:02] pinpoint icons for the addresses you can
+[09:04] zoom in you can zoom out you can do
+[09:06] whatever you need to for all of these
+[09:08] things you can also click on a specific
+[09:10] transfer
+[09:11] number and you notice there's details
+[09:14] about the delivery order if you wanted
+[09:17] to you can also view this inside of
+[09:18] Google Maps when you select that button
+[09:20] over there a Google Maps route will be
+[09:22] generated starting from my warehouse's
+[09:24] location and direct us to the drop off
+[09:26] locations I can also drag and reorder
+[09:28] the two middle icons for locations to
+[09:32] figure out the most gas efficient route
+[09:34] and that's pretty convenient and there
+[09:35] you have it today we learned how the
+[09:37] dispatch management system helps us
+[09:39] track truck capacity and how to prepare
+[09:41] batches for delivery that's it for today
+[09:43] o doers I'm going to see you next time

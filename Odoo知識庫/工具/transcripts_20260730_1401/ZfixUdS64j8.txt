@@ -1,0 +1,150 @@
+影片 ID: ZfixUdS64j8
+來源: https://www.youtube.com/watch?v=ZfixUdS64j8
+下載時間: 2026-07-30 14:01
+============================================================
+
+[00:05] Hello doers. Today we're focusing on a
+[00:07] key concept in ODO's inventory
+[00:09] application. Configuring inbound and
+[00:11] outbound flows. Warehouse managers must
+[00:14] balance speed, traceability, and cost
+[00:16] when setting up inventory flows. Do you
+[00:18] need a simple, fast setup, or do you
+[00:20] need additional checkpoints for
+[00:22] accountability and compliance? We can
+[00:24] configure receipts and deliveries in
+[00:26] one, two, or three steps. And today I'm
+[00:30] going to help you determine the best fit
+[00:31] for your business. So setting up
+[00:33] receipts and deliveries determines how
+[00:35] your entire warehouse receives and ships
+[00:37] products. Keep in mind that the number
+[00:39] of receipt and delivery steps are set at
+[00:42] the warehouse level. So one warehouse
+[00:44] can use one step delivery while another
+[00:46] uses three. Inside of ODU, inventory
+[00:49] transfers drive warehouse operations.
+[00:51] They determine how we move products
+[00:53] through the warehouse and how the
+[00:55] database processes shipments from
+[00:56] vendors and deliveries to customers.
+[00:59] Regardless of whether our warehouse has
+[01:01] a ton of shelves or zones or whether you
+[01:04] have really complex and custom processes
+[01:06] for your warehouse, what matters most is
+[01:08] deciding how many steps your process
+[01:10] should follow inside of ODO. The level
+[01:12] of complexity you choose should also
+[01:14] enhance product traceability and clarify
+[01:17] accountability inside of the warehouse.
+[01:19] Imagine if a package gets lost between
+[01:21] packing and output. If the packing team
+[01:24] already validated their step inside of
+[01:26] Odo, meaning that they handed the
+[01:29] package off to an output team, then we
+[01:32] actually know who's responsible for it.
+[01:34] Or if we're looking to see whether a
+[01:36] package has been put together for
+[01:38] delivery and see that it hasn't moved
+[01:40] past the output location, it can be
+[01:42] easier to locate. Now, let's dive right
+[01:45] into the different receipt and delivery
+[01:46] flows, shall we? Okay, so the simplest
+[01:49] and most common setup is onestep
+[01:51] receipt, which is ODO's default setting.
+[01:54] At Stealthywood, we use onestep receipts
+[01:56] because our warehouse managers have a
+[01:58] straightforward workflow and we only
+[02:00] need to track whether items are received
+[02:02] and stored. More complex workflows,
+[02:05] well, they're going to require or may
+[02:07] require two-step receipts. Twostep
+[02:09] receipts are useful when products are
+[02:11] first received into an input area before
+[02:13] moving into stock. This happens to
+[02:16] actually be ideal when incoming items
+[02:18] need to be sorted and they happen to be
+[02:20] at the input location or separate teams
+[02:23] handle unboxing shipments and putting
+[02:25] things away in storage. All right. Now,
+[02:27] a three-step receipt is a great solution
+[02:30] when every incoming product needs a
+[02:33] quality checked. Received items go to a
+[02:36] input, a quality control area, then
+[02:39] stock. But wait, there's more. Does that
+[02:42] mean that we have to use three-step
+[02:44] receipts to do quality checks? Well, no.
+[02:47] More steps mean more validations, which
+[02:50] can slow things down. Instead, you can
+[02:52] use quality control points together to
+[02:54] trigger checks at any transfer step,
+[02:56] whether it's one, two, or three steps.
+[02:59] Look at that. Want to learn more? Check
+[03:01] out our video on quality control points
+[03:03] inside of ODO. All right. Now, let's
+[03:05] discuss deliveries. The same principles
+[03:08] apply. One-step delivery is when
+[03:10] products are shipped directly from
+[03:12] stock. One moment it's in stock and
+[03:14] after validating it's outside the
+[03:16] warehouse and it happens to be on its
+[03:18] way to the customer. Okay. Inside of
+[03:21] two-step delivery, a dedicated picking
+[03:23] team, they move products to an output
+[03:25] location where another team sorts,
+[03:27] consolidates, and preps them for
+[03:29] shipments. By now, you can probably
+[03:32] guess what three-step delivery is. Well,
+[03:34] we pick the products from storage, pack
+[03:37] them into orders, and move them to the
+[03:39] output area. Depending on business
+[03:41] needs, this step might involve sorting,
+[03:44] labeling, or organizing orders by
+[03:46] delivery method. Like I explained
+[03:48] earlier, you don't need three-step
+[03:50] delivery to sort them into
+[03:52] packages. Use third-party carriers or
+[03:56] even to print shipping labels. Feel free
+[03:58] to go through your settings in the
+[03:59] inventory app to include all the
+[04:01] features that you need. You don't need
+[04:02] three-step delivery to sort those
+[04:04] things. All right, now that we've gone
+[04:07] through all of that, I think the moment
+[04:09] of truth is finally upon us. Let's set
+[04:11] up our inbound and outbound flows. So,
+[04:14] in order to set up our inbound and
+[04:16] outbound flows, the very first thing
+[04:18] that we're going to do is click into the
+[04:20] inventory application over here. Now, if
+[04:22] you intend to use two or three-step
+[04:24] anything, you want to first go to
+[04:25] configuration up at the top and
+[04:27] settings. So here we want to scroll down
+[04:29] until our section over here says
+[04:32] warehouse. Perfect. And we want to make
+[04:34] sure storage locations, the little box
+[04:37] right there happens to be checked off
+[04:39] and multi-step routes as well. And that
+[04:41] both of them are enabled. Then remember
+[04:43] to hit save. But next, let's select once
+[04:47] again configuration. And this time we're
+[04:49] going to select warehouses. We're going
+[04:51] to select our main warehouse right
+[04:53] there. Okay. From here, you notice how
+[04:56] we have this shipment section over here.
+[04:57] We can select the step that's most
+[04:59] suitable for our business and you can
+[05:01] decide that there because there you have
+[05:03] it. We learned how the various inbound
+[05:05] and outbound flows in inventory affect
+[05:06] your warehouse operations. I hope you
+[05:08] found the correct one for your business.
+[05:11] Now doers, as a small Joseé Agnosio tip,
+[05:14] don't over complicate things by adding
+[05:15] too many operations or you just might
+[05:18] get overwhelmed. Remember the acronym
+[05:20] KISS or keep it simple silly for you
+[05:23] non-acronym lovers. All right, until
+[05:25] next time. See you later, Odoers. Go
+[05:26] grab a snack.

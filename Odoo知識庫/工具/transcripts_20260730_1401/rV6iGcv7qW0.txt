@@ -1,0 +1,229 @@
+影片 ID: rV6iGcv7qW0
+來源: https://www.youtube.com/watch?v=rV6iGcv7qW0
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:01] [music]
+[00:05] What's up, Odoers, and welcome back.
+[00:08] Every morning, I struggle with putting
+[00:10] on identical socks, and it seems like
+[00:12] Steve in our warehouse has a similar
+[00:14] issue picking identical products for
+[00:16] customer orders. That's where removal
+[00:19] strategies come into play. Today, we're
+[00:21] going to explore a couple of different
+[00:23] removal strategies. FIFO, aka first in
+[00:26] first out. FIFO is useful when we don't
+[00:29] want products sitting in storage for too
+[00:31] long, like food, medicine, or industrial
+[00:35] fluids. We'll deliver the first items
+[00:37] that entered our stock using FIFO. Let's
+[00:41] say we received two shipments of paint
+[00:43] at the warehouse, one in October and one
+[00:46] in December. We make a sale for some
+[00:49] paint in January. So, we ship out the
+[00:52] paint we received in October.
+[00:54] Next is a LIFO, aka last in, first out.
+[00:59] LIFO is good for heavy items or products
+[01:02] that don't expire, like furniture,
+[01:04] office supplies, or even building
+[01:06] materials. Using LIFO, let's say we
+[01:09] receive two shipments of bricks at the
+[01:12] warehouse, one in April and one in July.
+[01:15] We make a sales order for some bricks in
+[01:17] September, so we ship out the bricks we
+[01:19] just received in July. Both of these
+[01:22] methods use dates for the products that
+[01:25] arrived in the warehouse and are set up
+[01:27] in the product category or location. But
+[01:30] hey, enough chitchat. Let me show you
+[01:32] how to set up LIFO and FIFO removal
+[01:34] strategies to make sure the right
+[01:36] products are rotated out. All right,
+[01:40] here we are on our inventory dashboard.
+[01:42] To use these removal strategies, we
+[01:44] first need to enable lots and serial
+[01:46] numbers. And we can do that by clicking
+[01:48] configuration at the top followed by
+[01:50] settings.
+[01:51] Then we just need to scroll down to our
+[01:53] traceability section and make sure lots
+[01:56] and serial numbers are ticked and
+[01:57] enabled. In case you didn't know, lot
+[02:00] numbers are used to track groups of
+[02:02] products like cases of orange or gallons
+[02:04] of paint. Serial numbers are used to
+[02:07] track individual products like bottles
+[02:09] of medicine or even vehicles. We're
+[02:12] selling desks and lubricant, so we'll
+[02:14] track both of those items using lots.
+[02:18] All right. Now, let's scroll a little
+[02:20] further down to our warehouse section.
+[02:22] And here, we need to make sure that
+[02:24] storage locations is ticked and enabled,
+[02:26] as well as multi-step routes. Storage
+[02:29] locations allow us to store products in
+[02:32] a specific place in our warehouse and
+[02:34] set a removal strategy for each
+[02:36] location. Multi-step routes. This
+[02:39] feature provides more options for how
+[02:42] products are moved around our warehouse,
+[02:44] like setting a removal strategy.
+[02:46] Now, both of these features must be
+[02:48] enabled to use any removal strategy. So,
+[02:51] be sure to click save if you made any
+[02:53] changes here.
+[02:55] Okay. Now, I have to ensure the products
+[02:58] are tracked by lots so I can track when
+[03:00] the products arrive in our inventory. To
+[03:03] do that, I'm just going to click
+[03:04] products at the top, followed by
+[03:06] products once again. And we're first
+[03:08] going to take a look at our standing
+[03:10] desk.
+[03:12] First, we'll have to make sure that we
+[03:13] have inventory tracking set to buy lots,
+[03:17] which we do. Awesome. Next, if we look
+[03:20] into the category field, we can see that
+[03:21] this is currently set to furniture/off.
+[03:25] Remember this for later. Let's go ahead
+[03:28] and click our breadcrumb for products to
+[03:30] return back to our product list page.
+[03:32] And now, let's take a look at our
+[03:33] lubricant product.
+[03:36] And here, we can also verify this is
+[03:38] also being tracked by lots. So, we're
+[03:40] all good there as well.
+[03:44] Hello. Who's this? Oh, it's the
+[03:47] receiving dock. Oh, we have some new
+[03:49] desks. That's fantastic news. I'll check
+[03:53] it out.
+[03:55] So, we just received some desks. Let's
+[03:57] see what lot numbers we have by going to
+[04:00] products followed by lots and serial
+[04:02] numbers.
+[04:04] So, first thing we're going to do on
+[04:05] this page is remove this group by
+[04:07] location filter and instead we're going
+[04:10] to replace it with the group by product
+[04:12] filter.
+[04:14] From here, we'll expand the standing
+[04:16] desk section. And here we can see all
+[04:19] the different lots that are associated
+[04:21] with our standing desk. This created on
+[04:23] column here shows when the lot was
+[04:27] created. We can go ahead and refer to
+[04:29] these dates as arrival dates. We can
+[04:32] tell the standing desks from lot one
+[04:35] were received first technically at
+[04:37] December 1st at 1:17 p.m. and the last
+[04:41] lot was lot 3 at 1:19 p.m. So if the
+[04:46] standing desk removal strategy is LIFO
+[04:49] items from lot three are picked first.
+[04:52] Now let's expand the lubricants product
+[04:54] directly above
+[04:56] here. We can see that lot one arrived
+[04:59] first while lot two arrived last. If the
+[05:04] lubricants removal strategy is FIFO,
+[05:07] items from lot one will be picked first.
+[05:10] All right. Now, let's see these lots set
+[05:12] up and see how these removal strategies
+[05:14] can be put into action. Removal
+[05:17] strategies can be configured either on
+[05:19] the location itself or the product
+[05:21] category. Let's start by setting a
+[05:23] strategy for a location.
+[05:25] Now, let's say we're storing our
+[05:27] lubricants on a shelf in the warehouse.
+[05:30] If you weren't aware, lubricant sprays
+[05:32] expire about after 3 to 5 years. Now, I
+[05:36] want to use the FIFO removal strategy to
+[05:38] make sure the products that entered our
+[05:40] inventory first are packed up and
+[05:42] shipped out first. This way, our
+[05:44] customers get the most out of the
+[05:46] product. To do that, we're going to
+[05:48] navigate to our storage location section
+[05:51] by going to configuration and selecting
+[05:53] locations. Then here we're going to
+[05:56] select shelf F from our storage
+[05:58] locations.
+[06:00] On this page, we're going to scroll down
+[06:02] to our logistics section. And here we
+[06:05] have our removal strategy. Now all we
+[06:08] have to do is select first in first out
+[06:10] or FIFO.
+[06:12] And then click save.
+[06:16] All done. Now all delivery orders for
+[06:19] products stored on this shelf are picked
+[06:21] using FIFO.
+[06:23] So, we're storing our desks in another
+[06:26] part of the warehouse. Now, because
+[06:28] desks don't exactly expire, it wouldn't
+[06:31] make much sense to move the desks we
+[06:33] just received last out of the way so we
+[06:36] can sell the desks from the lots that
+[06:38] are stored behind them. Instead, we
+[06:41] should sell the most recent lots first,
+[06:43] meaning we should aim for the LIFO
+[06:45] strategy for these desks. We can set
+[06:48] this strategy on the product category.
+[06:50] To do that, we're going to click
+[06:51] configuration followed by categories.
+[06:55] And here we're going to click on our
+[06:56] furniture office category.
+[07:00] This is the product category that the
+[07:02] standing desks are associated with.
+[07:04] Remember? Of course you do. Then in the
+[07:08] force removal strategy section, we're
+[07:10] going to select LIFO.
+[07:13] Then save our changes.
+[07:17] And that's it. With our setup out of the
+[07:19] way, let's start selling and see how
+[07:21] products are automatically chosen for
+[07:24] us. Here we are in our sales app. And to
+[07:27] create a new quotation, we're just going
+[07:29] to click new in the top left corner.
+[07:31] We're going to add our customer Benjamin
+[07:33] Phillip to the customer field. And
+[07:36] Benjamin wants to buy two new desks for
+[07:38] his home office. So we're going to click
+[07:40] add a product and add two of our
+[07:43] standing desks.
+[07:48] And to be sure those desks move
+[07:50] smoothly, he wants to add a can of
+[07:52] lubricant. So, we'll add that here as
+[07:54] well.
+[07:58] Now, let's go ahead and confirm the
+[08:00] quote.
+[08:02] And then we're going to click on this
+[08:03] delivery smart button here at the top.
+[08:08] Right off the bat, we can see that there
+[08:10] are two standing desks that are
+[08:12] automatically reserved in the quantity
+[08:14] field. And when we look in the serial
+[08:17] numbers field, I can see which lots are
+[08:19] selected. Looks like we have lot three
+[08:21] and lot two. When I click the details
+[08:24] button next to the lots for the standing
+[08:27] desk, I get this detailed operations
+[08:30] pop-up window that gives me even more
+[08:32] information, like the specific location
+[08:35] these came from. So remember that we're
+[08:38] pulling desk from the last lots that
+[08:40] arrived in stock. Look here, we have lot
+[08:43] three and lot two. They were pulled
+[08:45] first. Perfect.
+[08:48] And because we're picking from the first
+[08:50] in lubricants first, we have lot one for
+[08:53] lubricant picked here. Just what we
+[08:56] wanted. Pretty cool, right? Our FIFO and
+[08:59] LIFO strategies are working just like we
+[09:01] set them up. And there you have it. With
+[09:05] some simple setup, you can get products
+[09:07] off the shelves properly using the
+[09:09] removal strategy of your choice.
+[09:12] For more information on the other three
+[09:13] removal strategies, check out our other
+[09:15] videos. But until then, I'll see you
+[09:18] next time, Odoers.

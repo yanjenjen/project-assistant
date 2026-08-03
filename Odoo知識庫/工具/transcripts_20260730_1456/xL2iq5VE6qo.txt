@@ -1,0 +1,109 @@
+影片 ID: xL2iq5VE6qo
+來源: https://www.youtube.com/watch?v=xL2iq5VE6qo
+下載時間: 2026-07-30 14:56
+============================================================
+
+[00:00] hey everyone and welcome back today
+[00:02] we're diving into a crucial aspect of
+[00:04] website design the mobile experience how
+[00:08] often do you use your computer to browse
+[00:10] the web chances are your phone is your
+[00:12] go-to device for checking something
+[00:14] online so ensuring your website looks
+[00:17] fantastic and functions flawlessly on
+[00:18] smaller screens is essential if your
+[00:21] website isn't mobile friendly users will
+[00:24] likely get frustrated with tiny text
+[00:26] unclickable buttons and elements all
+[00:29] jumbled together thankfully as always
+[00:32] Odo has your back let's take a look now
+[00:35] the first thing we'll do is check what
+[00:36] our website looks like on a mobile
+[00:38] device I can easily do that by clicking
+[00:41] on a mobile phone icon over here and
+[00:44] this is what our website looks like in a
+[00:46] mobile
+[00:47] view now we notice that our main menu is
+[00:50] what we call a burger menu over here
+[00:53] that's because on desktops traditional
+[00:56] horizontal menus work well but on
+[00:58] mobiles they can take up valuable space
+[01:00] so oo uses a vertical menu easily
+[01:03] accessible yet unobstrusive on smaller
+[01:06] screens now an important element to know
+[01:09] is that odu's website builder uses a
+[01:11] powerful framework called bootstrap
+[01:14] which automatically takes care of a lot
+[01:16] of the mobile optimization for you
+[01:19] bootstrap uses a system of grids and
+[01:21] columns allowing allowing elements on
+[01:23] your website to stack neatly on top of
+[01:25] each other when viewed on a mobile
+[01:27] device and talking about columns you can
+[01:30] control the number of columns displayed
+[01:31] for different screen sizes for example
+[01:34] over here on desktop we have a layout
+[01:38] with two columns side by side but when
+[01:40] we go to mobile we see that they are
+[01:42] stacked one on top of each other but we
+[01:45] can still choose to display those
+[01:46] elements in various columns if we want
+[01:48] to for example if I click on edit and I
+[01:51] select this layout over here I can
+[01:54] select how many columns I want to
+[01:55] display on mobile if I put two then we
+[01:57] see that they'll display displayed in
+[01:59] two columns and that looks good to me so
+[02:01] I'll save now there are some elements
+[02:04] that you may not want users to see on
+[02:06] their mobile device for example I'm not
+[02:09] sure I actually want visitors to see
+[02:10] this video on mobile as it takes up a
+[02:12] lot of space now that's where the
+[02:15] conditional visibility feature comes in
+[02:17] handy so if I select this block I can
+[02:20] find the visibility option over here now
+[02:22] if I set it as conditionally then I have
+[02:24] various options over here that allow me
+[02:26] to uh to to decide whether a block is
+[02:30] being displayed or not and I can also
+[02:33] base the visibility on whether it's
+[02:35] being viewed on desktop or mobile device
+[02:38] so over here I will click on this icon
+[02:40] the mobile and that means it will not be
+[02:42] shown on mobile devices see but it will
+[02:45] be shown on desktop now of course on
+[02:48] mobile now uh we are missing a welcome
+[02:50] block so I will add a block for this I
+[02:53] will add a cover block and if I drag it
+[02:55] here on top of it uh I can customize my
+[02:58] block however I want but what I really
+[03:00] like to do is change the visibility so
+[03:02] like the other block I will put it as
+[03:03] conditionally and instead of choosing
+[03:06] the mobile icon here I will choose a
+[03:07] desktop icon which means that it will
+[03:09] not be shown on desktop so now we see it
+[03:11] on mobile if I go back to desktop we do
+[03:14] not see it but we see the other one that
+[03:16] we set as not visible on mobile now the
+[03:19] last thing I want to show is that if you
+[03:21] have a shape on your block like over
+[03:23] here for example is this blue background
+[03:25] shape and you don't want that shape to
+[03:27] appear on mobile you actually don't need
+[03:30] to hide the entire uh block and create a
+[03:32] new one without the shape you can just
+[03:34] click on the little so if you select the
+[03:36] block sorry we can click on the little
+[03:38] mobile here next to the shape and then
+[03:41] the shape disappears if I click on it
+[03:43] again it appears if I click on it it
+[03:45] disappears and then if I go to desktop
+[03:47] the shape is still here and now you know
+[03:50] how to create a website that functions
+[03:52] flawlessly across all devices ensuring a
+[03:55] smooth experience for your visitors no
+[03:57] matter how they choose to access your
+[03:59] website right that's all for this video
+[04:01] I'll see you in the next one bye-bye

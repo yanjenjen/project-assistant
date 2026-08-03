@@ -1,0 +1,176 @@
+影片 ID: XAGgrZJO-ak
+來源: https://www.youtube.com/watch?v=XAGgrZJO-ak
+下載時間: 2026-07-30 14:03
+============================================================
+
+[00:05] welcome back oers today we're diving
+[00:08] into the world of packages where items
+[00:10] and quantities are tracked in each one
+[00:12] of our beloved packages the removal
+[00:15] strategy known as least packages selects
+[00:18] packages closest to the demand
+[00:20] minimizing the number of packages we
+[00:22] have to pull from for example say we
+[00:25] have packages of 10 and 30 chocolate
+[00:27] bars when an order demands 15 chocolate
+[00:30] bars the fiveo removal strategy might
+[00:32] Reserve 10 chocolates from a package of
+[00:34] 10 and the remaining five from another
+[00:37] package this method consumes two
+[00:40] packages but with the least packages
+[00:42] removal strategy 15 units from the
+[00:44] package of 30 are taken out to fulfill
+[00:47] the order this way I can get all the
+[00:49] chocolate bars I need from the fewest
+[00:51] number of boxes instead of looking
+[00:53] through a ton of different ones which
+[00:55] saves me a ton of time so let's jump
+[00:58] into our database to see how the least
+[01:00] packages removal strategy works with
+[01:03] ODU to use the least packages removal
+[01:06] strategy I'll need to make sure that the
+[01:08] packages feature is enabled to do that
+[01:11] I'll go to the inventory app click on
+[01:13] the configuration subheading and then
+[01:16] click settings under the operations
+[01:18] heading here at the top I can see that
+[01:21] the packages setting is already
+[01:22] activated looks like we're good to go if
+[01:25] we're setting the removal strategy on
+[01:27] the product category that is all we need
+[01:29] to do
+[01:30] but before we move on because we'll be
+[01:32] setting the removal strategy on the
+[01:34] location we'll need to scroll down to
+[01:36] the warehouse heading here at the bottom
+[01:38] and make sure that storage locations and
+[01:40] multi-step routes are
+[01:41] enabled the storage locations feature
+[01:44] allows us to store products in specific
+[01:46] locations in our warehouse and set a
+[01:48] removal strategy for each location
+[01:51] multi-step Roots provides us with more
+[01:53] options for how products are moved
+[01:55] around our warehouse like setting a
+[01:57] removal strategy for example looks like
+[01:59] we're all set here today we'll use
+[02:01] packages of chocolate bars to discuss
+[02:03] how the lease packages removal strategy
+[02:06] works but before jumping into the flow
+[02:08] I'll head over to the inventory
+[02:10] adjustments list to show you how my
+[02:11] chocolates are packed to do that we'll
+[02:13] go to the operations heading and click
+[02:16] on physical
+[02:17] inventory in the location column we can
+[02:20] see that all of our packages of
+[02:22] chocolate bars are stored in fridge a
+[02:24] each line represents an individual
+[02:26] package that chocolate bars are stored
+[02:28] in which are different SI boxes my
+[02:30] employees use to store products while
+[02:32] fulfilling
+[02:33] orders the small packages store 20
+[02:36] chocolates the medium-size packages
+[02:38] store 50 chocolates and the big packages
+[02:41] store 100 chocolates for more details on
+[02:45] how to create and set up packages refer
+[02:47] to the documentation on packages which
+[02:49] I'll link in the video description below
+[02:52] now let's say after receiving chocolate
+[02:54] bars from our vendor we store them in
+[02:57] small medium and big packages like I
+[02:59] just showed showed you using the lease
+[03:01] packages removal strategy for an order
+[03:03] of 100 chocolate bars the package of 100
+[03:06] units is picked instead of using the
+[03:08] smaller packages to add up to 100 makes
+[03:11] sense right to enable the leas packages
+[03:14] removal strategy we'll navigate to the
+[03:16] storage location of the chocolate bars
+[03:18] fridge a so let's go to the
+[03:20] configuration menu and click on
+[03:22] locations and fridge a I Choose You on
+[03:26] the location I'll go to the removal
+[03:27] strategy field here at the bottom and
+[03:29] choose least
+[03:31] packages all righty with our setup out
+[03:34] of the way let's start selling products
+[03:36] to see how they are automatically chosen
+[03:37] for us to do that let's go back to the
+[03:40] dashboard and hop into the sales app and
+[03:42] let's click new for the holiday season
+[03:45] our customer is going to be party
+[03:47] planner and they're going to be making
+[03:49] chocolate cover strawberries so they'll
+[03:51] be needing 100 chocolate
+[03:56] bars all righty let's confirm the quote
+[03:59] and click the delivery smart button at
+[04:01] the top on the delivery forms operation
+[04:04] tab in the quantity field we can see
+[04:07] that 100 chocolate bars are
+[04:08] automatically reserved from the stock
+[04:11] let's click this hamburger icon this
+[04:13] will reveal a stock move pop-up window
+[04:15] which shows that the big one package was
+[04:17] chosen since it contains the exact
+[04:20] quantity needed as shown in the quantity
+[04:22] field the destination package field
+[04:25] indicates that since the chocolates are
+[04:26] already packaged we can just ship them
+[04:29] in the same pack package that they were
+[04:30] stored in so that was one example of
+[04:34] using the least packages removal
+[04:36] strategy but let's keep exploring and
+[04:38] see what happens when someone orders a
+[04:40] quantity of chocolates that doesn't
+[04:41] match the quantities in the package to
+[04:44] do that I'll close the stock move popup
+[04:46] window and let's go back to the
+[04:48] quotations breadcrumb and create another
+[04:50] quotation by clicking new now our new
+[04:53] customer is sweets and
+[04:55] giggles and they're needing chocolate
+[04:58] bars to bake cakes for their pastry shop
+[05:00] and they'll need 60 chocolate
+[05:05] bars all righty and you already know the
+[05:08] drill o doers I'll confirm the sales
+[05:10] order and click the delivery smart
+[05:12] button and click on the hamburger icon
+[05:14] again and would you look at that look at
+[05:17] the source package field in the source
+[05:19] package field thanks to the leas
+[05:21] packages removal strategy ODU suggests
+[05:24] opening a big package containing 100
+[05:27] chocolates and 60 chocolate bars are
+[05:29] taken from the big package to fulfill
+[05:31] the
+[05:32] demand with that knowledge we now need
+[05:35] to designate a package to ship those 60
+[05:37] chocolates in we can't possibly send 60
+[05:41] unboxed chocolates for a customer even
+[05:43] if it is for sweets and Giggles to make
+[05:46] sure they get their safe and sound I'll
+[05:48] click the line under destination package
+[05:51] and type
+[05:52] FedEx and choose the FedEx package to
+[05:55] directly put these chocolate bars in a
+[05:57] box for the shipping carrier for more
+[05:59] information on shipping carrier
+[06:01] Integrations refer to the documentation
+[06:04] on third-party shippers which I also
+[06:06] Link in the description
+[06:08] below and there you have it o doers both
+[06:11] of my packages are now ready for
+[06:13] shipment as we just saw ODI uses
+[06:16] packages to track products stored in
+[06:18] bulk and suggests opening the fewest
+[06:20] packages when fulfilling orders this
+[06:22] reduces the number of half empty boxes
+[06:24] scattered throughout my warehouse and
+[06:25] saves me a ton of time for more
+[06:28] information about the removal strategies
+[06:30] check out our other videos which you
+[06:32] guessed it I'll link down below as well
+[06:34] see you next
+[06:38] time

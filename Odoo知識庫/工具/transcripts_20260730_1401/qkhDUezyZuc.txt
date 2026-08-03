@@ -1,0 +1,211 @@
+影片 ID: qkhDUezyZuc
+來源: https://www.youtube.com/watch?v=qkhDUezyZuc
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:05] hello o doers and welcome back today
+[00:08] we're learning about push and pull rules
+[00:10] before we dive in let's discuss routes
+[00:13] routes are paths in which products can
+[00:16] move routes are defined by rules which
+[00:18] guide products from one location to
+[00:20] another when a customer places a sales
+[00:22] order OD generates a need at the
+[00:25] customer location for the product so how
+[00:28] does stealthy wood get the product to
+[00:29] the custom customer we create a pool
+[00:31] rule to check stock for the product if
+[00:34] the product's in stock ODU takes it to
+[00:36] fulfill the order but if the product
+[00:38] quantity isn't enough in the warehouse
+[00:41] ODU triggers a replenishment rule
+[00:43] usually through a reordering rule to
+[00:44] replenish from a vendor or manufacturer
+[00:48] so we can get granular about how
+[00:49] products are received and shipped with
+[00:51] routes and rules for example before we
+[00:54] ship products to the customer packages
+[00:57] must be loaded on shipping Docks but
+[00:59] before that can can happen they need to
+[01:01] be packed and in order to have products
+[01:03] to pack they need to be picked and where
+[01:05] do we pick them from from Storage of
+[01:08] course that is the general process of
+[01:10] fulfilling a need using pool rules ODU
+[01:13] creates a series of transfers backwards
+[01:16] starting from the customer's need all
+[01:18] the way to where we get the item push
+[01:20] rules are triggered when a product
+[01:22] reaches a specific location for example
+[01:25] when we unload products from vendors on
+[01:27] receiving docs ODU creates a transfer to
+[01:30] move products to their storage location
+[01:33] however special expensive products are
+[01:35] sent or pushed to a designated quality
+[01:37] control area before they go to stock as
+[01:40] you can imagine there are a lot of ways
+[01:42] you can use odu's push and pull rules to
+[01:44] move our products all over the place so
+[01:47] let's jump into our database and see
+[01:49] some examples in
+[01:53] action first things first from the
+[01:55] inventory dashboard we'll need to make
+[01:57] sure that the storage locations and
+[01:59] multi-step Roots features are enabled in
+[02:01] our inventory settings to do that we'll
+[02:04] go to the configuration menu and click
+[02:06] on settings then let's scroll down to
+[02:08] the warehouse section in the middle and
+[02:10] let's make sure that storage locations
+[02:12] and multi-step routes are enabled all
+[02:15] righty don't forget to click save if
+[02:16] those features weren't enabled already
+[02:19] okay now let's click on the set
+[02:21] Warehouse Roots internal link under the
+[02:23] multi-step Roots
+[02:24] feature here we can Define our various
+[02:27] Roots so let's select our stealthy wood
+[02:29] whereare house then under shipments
+[02:32] let's make sure that we have the
+[02:33] three-steps option enabled for both the
+[02:35] incoming and outgoing shipments perfect
+[02:38] now at this point it should be noted
+[02:40] that when you change the settings on the
+[02:42] warehouse ODU automatically updates the
+[02:44] push and pulls rules for you pretty cool
+[02:47] right okay with all of that set let's
+[02:49] see how these settings affect how
+[02:51] products move in and out of our
+[02:53] warehouse one of my favorite things
+[02:55] about routes in ODU is that you can get
+[02:57] a visual representation of every step of
+[03:00] the process let me show you what that
+[03:02] looks like from one of our bestselling
+[03:04] items our table for that let's go to the
+[03:06] product subheading and click on products
+[03:09] and then let's click on our table
+[03:11] product here on the product form we'll
+[03:13] click on the inventory tab to see our
+[03:15] selected routes as you can see that in
+[03:17] the routes field we have the Buy Route
+[03:19] selected okay let's go ahead and click
+[03:22] on this view diagram internal link which
+[03:24] will show us all the steps this product
+[03:26] takes on these routes this yellow
+[03:28] receipts Arrow represents presents the
+[03:30] Buy Route and it tells us that products
+[03:32] come from vendors which are then sent to
+[03:33] Warehouse SL input next we see these two
+[03:37] purple internal transfer arrows these
+[03:39] represent the rules that will trigger
+[03:41] other rules if we have no stock of this
+[03:43] item on hand and lastly the three green
+[03:46] arrows represent the pck pack ship
+[03:48] routes set on our warehouse which will
+[03:50] happen when we do have stock all right
+[03:53] now that we've enjoyed that great routes
+[03:55] chart with all those pretty colors and
+[03:56] arrows you're probably asking where did
+[03:59] these these push and pull rules even
+[04:01] come from that's a great question OD
+[04:03] doers in Odo these rules are defined on
+[04:06] the route itself let's take a closer
+[04:08] look at one now by going to the
+[04:09] configuration menu and selecting on
+[04:11] routes from here we'll look at the
+[04:14] receive in three steps route here I can
+[04:17] easily see the complete route overview
+[04:19] let's go ahead and check out the
+[04:21] warehouse SL input rule clicking on an
+[04:24] individual rule reveals a popup window
+[04:26] with all the specific information for it
+[04:29] you'll even notice the text on the right
+[04:31] over here that accurately describes what
+[04:33] the rules are doing this text changed
+[04:35] depending on the inputs configured on
+[04:37] the left side of this popup so be sure
+[04:39] to keep that in mind now in this case
+[04:41] we're looking at pull and push
+[04:44] rule over here in the source location
+[04:47] field we can see that when an item
+[04:50] arrives in the receiving area this
+[04:52] particular rule is triggered so now
+[04:55] either of things can happen if someone
+[04:57] ordered the product simply because they
+[04:58] felt like replenishing in stock we use
+[05:00] push rules to Move It from the receiving
+[05:02] area to the quality control area
+[05:04] indicated here in the destination
+[05:06] location field or let's say that we have
+[05:09] a confirmed sales order but there's not
+[05:11] enough stock at that point a reordering
+[05:13] rule generates a purchase order and the
+[05:15] pull rule attempts to fulfill the need
+[05:17] in the customer location first by trying
+[05:20] to pull from stock but when there's no
+[05:22] stock on hand it will try to then pull
+[05:24] from quality control then pull from
+[05:26] input and then pull from the vendor all
+[05:29] right so that's a little bit more info
+[05:31] about this rule but let's go ahead and
+[05:32] check out the other one really
+[05:34] quick as you can see using that same
+[05:37] logic we saw in the first rule this
+[05:39] second rule is triggered when an item
+[05:41] arrives in the quantity control area and
+[05:43] is then pushed or pulled to our
+[05:45] warehouse SL
+[05:47] stock okay now we know how this route
+[05:50] Works rules are triggered when there is
+[05:52] a need for a product in a specific stock
+[05:54] location or as in this case when
+[05:56] products arrive at specific locations
+[05:59] but but where does that initial need
+[06:01] come from another solid question o doers
+[06:04] well it could actually come from a few
+[06:05] different things a reordering rule or an
+[06:07] ENT Warehouse transfer but for us right
+[06:10] now the need is going to come from a
+[06:12] confirmed sales order to see this let's
+[06:14] go back to the routes page via the
+[06:16] breadcrumbs and click on the deliver in
+[06:18] three-steps
+[06:20] route when the need appears in the
+[06:23] destination
+[06:25] location ODU generates a transfer to
+[06:27] fulfill this need this triggers a pool
+[06:29] rule above it which will do with a pick
+[06:32] or pack
+[06:34] transfer side note it could also be done
+[06:36] upon receiving an order from a vendor so
+[06:39] be sure to keep that in mind as well but
+[06:41] for now let's click discard and jump
+[06:43] right over to the sales app so we can
+[06:44] create a sales order to see how it all
+[06:46] works okay here we are on the sales
+[06:48] dashboard and let's click new to create
+[06:50] a new quotation from here let's add our
+[06:53] customer Deco addict and for our product
+[06:55] we'll put the table let's go ahead and
+[06:58] confirm this quotation
+[07:00] and would you look at that OD doers
+[07:01] there's a delivery smart button that
+[07:03] pops up here on the top that tells us
+[07:04] that we have three operations that need
+[07:06] our attention just like we expected so
+[07:09] let's go ahead and check it out and here
+[07:11] we have it a three-step pick pack ship
+[07:14] route has automated for us in all its
+[07:16] Glory how sweet is that and there you
+[07:18] have it oders as you just saw push and
+[07:21] pull rules are the engine that makes our
+[07:23] routes work what moves our products and
+[07:25] what makes stealthy wood run as
+[07:26] efficiently as possible and it's all
+[07:29] thanks ODU that's all for this video but
+[07:31] be sure to watch the next tutorial on
+[07:33] replenishment methods for some concrete
+[07:35] examples as we learn how to use push and
+[07:37] pool rules to replenish our stock I'll
+[07:39] see you in the next
+[07:42] one

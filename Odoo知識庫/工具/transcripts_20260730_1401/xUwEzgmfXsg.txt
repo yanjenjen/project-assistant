@@ -1,0 +1,249 @@
+影片 ID: xUwEzgmfXsg
+來源: https://www.youtube.com/watch?v=xUwEzgmfXsg
+下載時間: 2026-07-30 14:03
+============================================================
+
+[00:04] hello doers we've already focused on
+[00:06] different picking methods in other vide
+[00:08] So today we're going to be solely
+[00:09] talking about cluster picking think of
+[00:11] cluster picking like this you're going
+[00:13] to the store just to buy ingredients for
+[00:16] three different recipes you need flour
+[00:18] for a cake cheese for a sule and eggs
+[00:21] for an omelet now despite the fact that
+[00:23] you're using these three ingredients for
+[00:24] different recipes you're still going to
+[00:26] get them at the same time right well
+[00:28] cluster picking is just like that
+[00:30] except that you're picking products for
+[00:32] different orders at the same time for
+[00:34] example if I have three different orders
+[00:36] to fulfill I'm not going to make three
+[00:38] different trips to the same part of the
+[00:39] warehouse where the items are stored
+[00:42] that would be a waste of time and
+[00:44] company profits instead I'm going to
+[00:46] bring a box for each order pick all of
+[00:48] the products that I need put them in
+[00:50] their corresponding boxes and then bring
+[00:53] those boxes back to the packing location
+[00:56] this way I've picked and sorted the
+[00:58] products for three different orders and
+[01:00] just one trip cluster picking is
+[01:02] particularly useful when companies sell
+[01:03] a high volume of orders and a variety of
+[01:06] items all right enough chitch chat let's
+[01:08] get right to see how cluster picking
+[01:10] Works in ODU so let's say that we'd like
+[01:12] ODU to group orders and assign them to
+[01:14] our warehouse employees no problemo now
+[01:17] to do that we're actually going to need
+[01:18] to make sure that the packages and batch
+[01:20] transfers features are enabled which we
+[01:22] can actually check out in the inventory
+[01:24] app where we're out already by going up
+[01:25] to configuration and settings we're
+[01:28] always here now inside inside of the
+[01:30] operation section I need to make sure
+[01:32] that both packages and batch transfers
+[01:34] are enabled and it looks like they
+[01:36] already are which is great then
+[01:38] scrolling down to the warehouse section
+[01:40] which is a bit of a ways down over here
+[01:42] I need both storage locations and
+[01:44] multi-step routes enabled as well
+[01:46] perfect now storage locations allows
+[01:48] products to be stored in specific
+[01:50] locations that they can be picked from
+[01:52] while multi-step routes enable the
+[01:54] picking operation itself great with all
+[01:56] of that done what do we do o doers we
+[01:57] hit save which I already did behind the
+[02:01] camera now let's configure the warehouse
+[02:03] delivery workflow by going to the
+[02:05] configuration sub heading again and this
+[02:07] time as you guessed it warehouses we're
+[02:09] going to choose our warehouse and inside
+[02:12] of the outgoing shipments area which is
+[02:14] down here in the bottom left I need to
+[02:16] make sure two steps is chosen as the
+[02:18] pick operation in ODU is enabled only in
+[02:20] two and three steps however the cluster
+[02:23] picking method can be used to optimize
+[02:25] one two and of course three-step
+[02:27] delivery workflows when there's no no
+[02:30] picking operation available the picking
+[02:32] method will determine which products are
+[02:33] reserved first inside of a delivery next
+[02:36] now that we're done with this let's
+[02:38] configure the packages we'll be using to
+[02:39] hold our cluster pickings so to do that
+[02:42] we actually want to go to the product
+[02:43] subheading and inside of here select
+[02:45] packages now here you'll see that I
+[02:47] actually have three cluster packages
+[02:49] named cluster pack one two and three and
+[02:52] what do they do well these are the ones
+[02:53] that I'm going to be using to pick in a
+[02:55] batch so let's select cluster pack one
+[02:58] over here at stealthy wood but we use
+[03:00] dedicated reusable containers for each
+[03:02] order this prevents bigger items from
+[03:04] crushing fragile items now these
+[03:06] containers ensure that the products are
+[03:07] safely transported to the packing area
+[03:09] so they can be packed before shipping so
+[03:12] in the package use field I'm going to
+[03:14] select in our case reusable box and
+[03:16] that's over here on the right side I
+[03:18] could also choose disposable box but I
+[03:22] don't need that if I wanted to pick and
+[03:24] place products directly in the Box
+[03:25] intended to be used for shipping then
+[03:27] that's the option that you would want
+[03:29] but let's thck with rable for now all
+[03:31] right with that done let's create a
+[03:33] cluster batch and see how it works so
+[03:35] I'll see you there so back over here on
+[03:37] the inventory dashboard refer to the
+[03:38] pick card right there which is the first
+[03:40] step to our delivery workflow which will
+[03:42] actually help us see how many orders we
+[03:44] need to fulfill let's start processing
+[03:46] them by actually clicking on this three
+[03:48] to process pick right there to add all
+[03:50] of these orders onto a batch at once
+[03:53] please select the top checkbox and the
+[03:55] top left underneath a new button now
+[03:58] once that we have that you want to also
+[04:00] the gear icon over here for actions and
+[04:02] you kind of guess it we're going to add
+[04:04] this to a batch and now we have a popup
+[04:06] over here now in the pop-up window you
+[04:08] want to select add to and in our case
+[04:10] it's a new batch transfer then I need to
+[04:12] assign myself as the responsible person
+[04:14] once we're done with that confirm and
+[04:17] just like that looking at the transfers
+[04:19] list again inside of the batch transfer
+[04:21] column that we have over here they all
+[04:23] grouped together now all that's left is
+[04:25] to process this batch and get these
+[04:27] items on their way now for that I'm
+[04:29] actually going to click on one of these
+[04:30] deliveries like I don't know let's click
+[04:33] on this very first one over here and
+[04:36] then you want to select the batch smart
+[04:37] button and boom we're there I can also
+[04:40] get to Here by clicking on the operation
+[04:42] subheading and clicking on badge
+[04:44] transfers for another shortcut now
+[04:46] inside of the detailed operations tab
+[04:48] that we have open right now I'll see all
+[04:50] the items that I need for the batch
+[04:52] listed I can't really see the full
+[04:54] picking numbers at the moment so you
+[04:56] actually want to expand that transfers
+[04:58] column and you can do this with any
+[04:59] thing over here and there we go and I'm
+[05:03] also going to expand the from field so I
+[05:04] can actually see the items full storage
+[05:06] location because now that I'm noticing
+[05:08] it they're also cut off let's do that
+[05:10] there okay now we could see a lot I'm
+[05:13] also going to expand this Source package
+[05:15] just in case and would you look at that
+[05:17] by default ODU has grouped the products
+[05:19] by storage location which is incredibly
+[05:22] convenient so even though the mouse as
+[05:25] well as in our case actually where is
+[05:27] the mouse oh we should probably expand
+[05:30] this small little dupsy I couldn't even
+[05:31] see the full name right
+[05:35] there and let's change that again okay
+[05:38] so even though the mouse and the
+[05:40] keyboard are both required in different
+[05:42] orders I could pick both of them over at
+[05:44] the accessories area over there and
+[05:46] that's convenient and now that we know
+[05:47] where they're stored we just have to go
+[05:49] get them right so let's say that I'm at
+[05:51] the computer accessories location over
+[05:53] here and I've just picked the computer
+[05:55] mouse over there I'm going to click on
+[05:57] the products destination package f over
+[06:00] here and then I want to select where
+[06:02] it's going to go in my case I'm going to
+[06:03] select cluster pack one over there to
+[06:05] record that I'm putting the product in
+[06:07] this specific package then at the same
+[06:09] location I'm going to pick the keyboard
+[06:10] which was right below it but remember
+[06:13] this one is a different order which is
+[06:14] shown by the different picking in the
+[06:16] transfers column that we have over here
+[06:19] so what do we do well I need to put the
+[06:20] keyboard in a different package so to do
+[06:22] that I'm going to click on destination
+[06:23] package and this one is going to go into
+[06:26] let's put it into the second one just to
+[06:27] make it a little bit faster there next
+[06:30] I'm going to go to the other locations
+[06:31] and put the products in their
+[06:32] corresponding packages as well but to
+[06:34] save us some time of you watching me do
+[06:36] all this I'm going to take care of that
+[06:38] off camera so that we can skip ahead to
+[06:39] the validation step so after I did all
+[06:42] of that I need to validate the batch
+[06:44] which we can do by just selecting
+[06:46] validate in the top left and boom we've
+[06:48] completed our picking now I think it's
+[06:51] finally time for us to go to that
+[06:52] inventory dashboard overview once again
+[06:54] cuz we got to do something we actually
+[06:56] have these three delivery orders to
+[06:58] process now so let's click into those
+[07:00] three to process by selecting our button
+[07:02] right there and then I want to select
+[07:03] the order from Deco addict let's go into
+[07:06] this one on the delivery order I need to
+[07:08] select a little hamburger icon over here
+[07:10] on the quantities column and we have a
+[07:13] nice little stock move popup over here
+[07:16] inside of here you'll notice the source
+[07:17] package column that we have over here
+[07:19] shows the reusable container that we use
+[07:21] during the picking let's assign a new
+[07:24] disposable package used for shipping so
+[07:26] to do that let's close this window right
+[07:27] there and then I actually want to click
+[07:30] the put in pack button that's located in
+[07:32] the bottom right over there and doing so
+[07:34] you'll notice something Odo magically
+[07:36] happened since we know a package was
+[07:38] created because now a package's smart
+[07:40] buun has appeared with our products now
+[07:43] packed let's validate this
+[07:45] order and we're done but before you go
+[07:48] let's check out our package traceability
+[07:50] features by going to the products up
+[07:52] heading up at the top and once again
+[07:54] packages let's select cluster Pack 3
+[07:56] over here now inside of here we just
+[08:00] emptied this for the order that we just
+[08:01] delivered so what do we do with this
+[08:03] well we're actually going to click on
+[08:04] the package transfer smart button up in
+[08:06] the top Center and from here we see all
+[08:09] of the previous pickings and deliveries
+[08:12] that were processed using this package
+[08:13] that's pretty dang cool right and that's
+[08:16] it we just saw how cluster picking works
+[08:17] with Odo inventory doesn't get much
+[08:20] easier than this to be honest with you
+[08:21] thanks for watching and stay tuned for
+[08:23] more awesome tutorial videos I'mma see
+[08:25] you soon o doers go grab a snack I don't
+[08:28] have one near me

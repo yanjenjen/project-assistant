@@ -1,0 +1,122 @@
+影片 ID: 2AlMd445x8w
+來源: https://www.youtube.com/watch?v=2AlMd445x8w
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Hello Odooers and welcome to this new
+[00:05] video on selling strategies, namely
+[00:08] cross-selling and upselling.
+[00:11] Cross-selling consists in offering
+[00:12] additional products that complement the
+[00:14] customer's initial purchase.
+[00:16] On the other hand, upselling involves
+[00:18] suggesting alternative upgraded versions
+[00:21] of the product to the customer.
+[00:23] Let's see how we can implement these
+[00:24] strategies in Odoo to boost our sales.
+[00:30] So, let's start by going to the
+[00:32] e-commerce tab and then to the products.
+[00:36] Now, here I will select the signature
+[00:38] stoneware mug.
+[00:40] And over here we will go to the sales
+[00:42] tab.
+[00:43] Okay. Here I have the possibility to
+[00:46] upsell and cross-sell my product, my
+[00:49] signature stoneware mug.
+[00:50] Let's start by cross-selling it with
+[00:53] optional and accessory products.
+[00:56] Now, you may be wondering, what is the
+[00:57] difference between optional and
+[00:59] accessory products? Well, that's a good
+[01:01] question and a good opportunity to
+[01:03] remind you that everywhere in Odoo you
+[01:05] can hover with your mouse on a question
+[01:07] mark to find out what a specific option
+[01:09] does. So, for the optional products, we
+[01:12] see that they are suggested when the
+[01:13] customer clicks the add to cart button.
+[01:16] What happens is that they're able to
+[01:18] choose an additional product from the
+[01:20] ones we add to this field.
+[01:22] Now, accessory products appear when the
+[01:25] customer reviews their cart before the
+[01:27] payment.
+[01:28] An accessory product will then be
+[01:30] suggested.
+[01:34] So, as an optional product, I will
+[01:37] choose the monochrome bowl and I also
+[01:41] want to suggest the monochrome plates.
+[01:46] And for the accessory products, I will
+[01:49] choose our wonderful green and cream
+[01:51] carafe.
+[01:53] I've only added a few products, but you
+[01:55] You add as many as you want to suggest
+[01:57] to your customer.
+[01:58] Now we'll upsell the product. That means
+[02:01] we'll choose a alternative product.
+[02:03] Let's choose
+[02:05] the beautiful
+[02:06] fruit mug.
+[02:11] Great. Now let's go to our website by
+[02:14] clicking on this smart button and so we
+[02:16] can see what it looks like.
+[02:18] If we scroll below the page, we already
+[02:20] see the alternative product we just
+[02:22] added.
+[02:23] Of course, we can configure what this
+[02:25] looks like through the edit menu
+[02:27] and then the style tab.
+[02:30] If I go if I click here on this section
+[02:32] and I go to the alternative product
+[02:34] section, then I can choose a few options
+[02:36] like the card design. If I click here, I
+[02:39] can choose different templates, ways to
+[02:41] display it, and I will choose this one.
+[02:45] I can also choose how many elements are
+[02:47] shown in case I have more than one
+[02:49] product.
+[02:50] And if I want to display the different
+[02:52] variants like this, then I just have to
+[02:56] enable this button.
+[02:58] Finally, I don't like the alternative
+[03:01] product title. I will call it Wait a
+[03:03] minute.
+[03:05] Spelled correctly.
+[03:07] And I will say here
+[03:12] seem like a better choice for you.
+[03:16] I'll click save.
+[03:20] And now if I click on any of these
+[03:22] alternative products, then we will be
+[03:24] redirected to this product.
+[03:29] Let's go back to our stoneware mug and
+[03:32] add it to the cart.
+[03:34] Now we see that our bowl and plates over
+[03:36] here, which are optional products,
+[03:38] appear.
+[03:39] When I add one of these, they don't just
+[03:42] substitute the initial product as the
+[03:44] alternative one does, but they add
+[03:46] themselves to the initial product.
+[03:49] Finally, when I go to the checkout,
+[03:52] then we can see that the accessory
+[03:53] product is suggested right here below,
+[03:56] the green and cream giraffe in our case.
+[03:58] This way, your customer is tempted to
+[04:00] buy more until actually confirming the
+[04:02] order.
+[04:06] Finally, I leave you with a little hack.
+[04:09] It's interesting to know how to set up
+[04:10] these selling strategies manually, but
+[04:12] if you want to automate it, you can also
+[04:14] go to the settings and then scroll down
+[04:17] to this automate suggested products
+[04:19] setting. If you enable it, Odoo will
+[04:22] automatically add optional, accessory,
+[04:25] and alternative products based on your
+[04:27] product catalog structure and your
+[04:29] customer's purchase history.
+[04:31] And that's it for this video. Thank you
+[04:33] for watching. Don't forget to check out
+[04:34] our online documentation for more
+[04:36] information on this topic, and I'll see
+[04:38] you in the next one. Bye-bye.

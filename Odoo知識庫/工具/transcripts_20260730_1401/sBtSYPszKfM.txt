@@ -1,0 +1,150 @@
+影片 ID: sBtSYPszKfM
+來源: https://www.youtube.com/watch?v=sBtSYPszKfM
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:01] [music]
+[00:04] >> Hello Odooers, my name is Jose Ignacio.
+[00:06] Let's say that you sell products that
+[00:08] you don't always keep in stock. Maybe
+[00:10] they're expensive, customized, or just
+[00:12] not ordered very often. In those
+[00:14] situations, it really doesn't make sense
+[00:15] to buy or produce them ahead of time,
+[00:17] right?
+[00:18] That's where replenish on order, also
+[00:20] known as make to order or MTO for my
+[00:23] acronym lovers, comes in.
+[00:25] With MTO, Odoo waits until there's
+[00:27] actual demand, like a confirmed sales
+[00:29] order, before triggering any kind of
+[00:31] replenishment. In this tutorial, we're
+[00:34] going to walk through how that works,
+[00:36] how to set it up, and what it looks like
+[00:38] in a real workflow. So, enough chitchat,
+[00:40] let's hop right in.
+[00:41] Before I start using MTO, I want to make
+[00:43] sure that my database is set up
+[00:44] correctly. So, first, I'm actually going
+[00:46] to open our inventory application over
+[00:48] here and go to configuration and
+[00:50] settings.
+[00:51] So, here we're going to scroll down
+[00:54] until we reach our warehouse section.
+[00:55] Perfect. So, here we are.
+[00:57] I'm going to make sure that we have
+[00:58] multi-step routes over here enabled.
+[01:01] This allows me to use more advanced
+[01:02] logistics rules, like triggering
+[01:04] replenishment based on demand instead of
+[01:07] just stock levels. Now that that's
+[01:09] enabled, and if it happens to be a first
+[01:10] time, also remember to save. I also see
+[01:13] in the logistics section that the option
+[01:15] for replenish to order over here up at
+[01:19] the top, if we go back up, cuz I
+[01:20] remember seeing it. Actually, it's down
+[01:22] here at the bottom. Perfect. There it
+[01:24] is. We happen to have MTO, and it's
+[01:26] already enabled as well. Perfect. So,
+[01:28] this is what tells Odoo that certain
+[01:30] products should only be replenished when
+[01:31] there's actual demand, like a confirmed
+[01:33] sales order.
+[01:35] So, now that we're ready, we're going to
+[01:36] go configure our product. So, I'm going
+[01:38] to go to products and then products once
+[01:40] again.
+[01:41] All right, let's open up our neon couch.
+[01:44] What even is a neon couch? I love that.
+[01:47] So, we keep common couches like browns
+[01:49] and grays in stock, but for more unique
+[01:51] or specialty colors like pink or yellow,
+[01:54] we only want to produce or purchase with
+[01:56] them when a customer actually orders
+[01:58] them.
+[01:59] So, let's go over to our inventory tab
+[02:01] over here.
+[02:02] Under routes, you'll notice
+[02:04] I have selected replenish on order MTO.
+[02:07] By doing this, I'm telling Odoo, "Don't
+[02:09] take this from stock. Wait until there's
+[02:11] demand." But, I'm not done just yet. MTO
+[02:14] tells Odoo when to replenish, but
+[02:16] doesn't tell it how.
+[02:18] So, I'm going to pair with another
+[02:19] route. In this case, we also want to
+[02:22] make sure that we have our buy route.
+[02:24] That means when a customer orders this
+[02:25] couch, Odoo will automatically create a
+[02:27] purchase order to get it from a vendor.
+[02:30] If I wanted to manufacture it instead, I
+[02:32] would choose manufacture right there.
+[02:35] Now, since I selected buy over here, I
+[02:37] will also want to make sure that I have
+[02:39] a vendor set up. So, let's hop over to
+[02:40] our purchase tab.
+[02:42] All right, it looks like we have it
+[02:43] arranged to be purchased from Gemini
+[02:45] Furniture, our vendor, for 250 per
+[02:48] units. Perfect. And that's it. My
+[02:50] product is now fully configured for MTO.
+[02:54] Now, let's see how this works in a real
+[02:55] scenario. So, I'm actually going to open
+[02:57] up our sales application over here and
+[02:59] select new at the top.
+[03:01] All right, so for the customer, I'm
+[03:03] going to select OpenWood. Perfect. Then,
+[03:06] I'm going to add my product by selecting
+[03:07] add a product below. It's that neon
+[03:09] couch that we just talked about.
+[03:12] And we just want one of them.
+[03:14] Then, we confirm our quotation. And as
+[03:16] soon as I do that, Odoo automatically
+[03:19] takes care of the next steps for me.
+[03:20] Because this product is set to replenish
+[03:22] on order, Odoo knows not to pull
+[03:24] anything from stock. Instead, it
+[03:26] triggers a replenishment specifically
+[03:27] for this order. So, I'm going to click
+[03:31] our purchase smart button over here up
+[03:32] at the top, which takes me right to the
+[03:34] RFQ that Odoo has automatically created
+[03:36] for my custom couch. You're going to
+[03:38] notice that everything matches the sales
+[03:40] order, the products, the quantities,
+[03:43] price, everything, because this purchase
+[03:44] is directly tied to that customer
+[03:46] demand. Now, I'm going to confirm this
+[03:49] RFQ to turn it into a purchase order.
+[03:52] Next, I'm going to select receive, and
+[03:54] then I'm going to validate this over
+[03:55] there. Just to validate it. At this
+[03:58] point, the couch is now inside of my
+[03:59] inventory, because our delivery trucks
+[04:02] are that fast.
+[04:03] Now, I'm going to use the breadcrumbs,
+[04:05] which today is Wonder Bread. And we're
+[04:07] going to go back to our sales order.
+[04:08] Don't select the purchase order on
+[04:09] accident like I might have before.
+[04:12] Then, we're going to select our delivery
+[04:13] smart button up at the top.
+[04:15] So, from here, I'm going to validate the
+[04:17] delivery
+[04:18] and ship the product over to my
+[04:19] customer.
+[04:21] Now, it was that easy. As you can see,
+[04:23] replenish on order is all about reacting
+[04:25] to demand instead of just trying to
+[04:26] predict it. It's especially useful when
+[04:28] you don't want to tie up money in
+[04:30] inventory or when products are made or
+[04:32] sourced only when needed. By combining
+[04:34] MTO with routes like buy or manufacture,
+[04:36] Odoo handles the entire process for you,
+[04:38] from the moment a sales order is
+[04:39] confirmed all the way to delivery. And
+[04:42] that's what makes it such a powerful and
+[04:43] flexible tool. That's all for now,
+[04:45] Odooers. I'll see you in the next one.

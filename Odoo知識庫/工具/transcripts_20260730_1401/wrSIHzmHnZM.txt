@@ -1,0 +1,164 @@
+影片 ID: wrSIHzmHnZM
+來源: https://www.youtube.com/watch?v=wrSIHzmHnZM
+下載時間: 2026-07-30 14:03
+============================================================
+
+[00:05] hello oaters and welcome back here's a
+[00:08] little fun fact about me I used to waste
+[00:10] time trying to find my car keys every
+[00:12] morning they'd always wind up in the
+[00:14] strangest places one time I found them
+[00:17] in the washing machine still in the
+[00:18] pocket of my pants it was very annoying
+[00:21] I wanted to establish a morning routine
+[00:23] for myself without this little car key
+[00:25] scavenger hunt situation so I started to
+[00:28] hang my keys on a hook by the door the
+[00:30] closest location to my exit right where
+[00:32] I needed them the closest location
+[00:34] removal strategy follows the same
+[00:36] concept I strategically store frequently
+[00:39] ordered products closest to my packing
+[00:41] area so my employees can pick and pack
+[00:44] products efficiently for example this
+[00:46] strategy directs employees to pick
+[00:48] easier to access items or pallets placed
+[00:51] on the ground before reaching the harder
+[00:53] to access items stored on higher shelves
+[00:56] this prevents workers from unnecessarily
+[00:58] using forklifts to reach higher shelves
+[01:00] which saves them time now enough
+[01:02] chitchat let's dive
+[01:04] in let's start by going to the inventory
+[01:07] settings page we'll click on the
+[01:09] inventory app go to the configuration
+[01:11] subheading and click on settings let's
+[01:14] scroll to the very bottom over here to
+[01:16] the warehouse section we'll need to make
+[01:18] sure that storage locations and
+[01:19] multi-step routes are both checked
+[01:22] storage locations Let Us store products
+[01:24] in specific locations in our warehouse
+[01:26] and set a removal strategy for each
+[01:28] location multi Roots provides more
+[01:31] options for how products are moved
+[01:33] around our warehouse including the
+[01:34] different types of removal
+[01:36] strategies now we'll need to set the
+[01:38] removal strategy on our main warehouse
+[01:40] location by going into the configuration
+[01:43] subheading and clicking on
+[01:45] locations this is how the closest
+[01:47] location removal strategy Works ODU
+[01:49] selects products for picking based on
+[01:52] location names in alpha numeric order so
+[01:55] it's super important for the
+[01:56] alphabetical order of our locations to
+[01:58] correspond with how close they are to
+[02:00] our output location the packing area
+[02:03] currently our closest location is titled
+[02:06] red shelf however items will get picked
+[02:09] from the gray shelf first because of
+[02:10] alphabetical order to make sure ODU can
+[02:13] identify the red shelf as the closest
+[02:16] location we'll need to rename it shelf
+[02:18] one we can do this back on the locations
+[02:21] list by clicking on the red shelf and
+[02:24] we'll change the location name to shelf
+[02:28] one now click back on the location's
+[02:31] breadcrumb and I'll do the same thing
+[02:33] for the two other shelves behind the
+[02:34] scenes really quickly I'll rename the
+[02:37] yellow shelf to shelf two and gray shelf
+[02:40] to shelf three with that each of my
+[02:42] shelves are named according to their
+[02:44] distance from the packing location all
+[02:47] right our storage locations are all
+[02:48] named in alphabetical order now one of
+[02:51] our most popular products the cable
+[02:53] management box is stored in shelves 1
+[02:55] through three so we must set the removal
+[02:58] strategy on the apparent location of the
+[03:00] shelves 1 through 3 Warehouse SL stock
+[03:04] when we do this the closest removal
+[03:06] strategy is applied to other locations
+[03:08] like shelf 4 and 5 and freezer A and B
+[03:11] even if they don't contain Cable
+[03:12] Management boxes to not apply the
+[03:15] closest location removal strategy to
+[03:17] these other locations I have to
+[03:19] individually set different removal
+[03:21] strategies to these locations so I will
+[03:23] click on the warehouse stock location
+[03:25] now then under the logistics section
+[03:28] here at the bottom we select closest
+[03:31] location for the removal
+[03:33] strategy next let's check out the onhand
+[03:36] stock at each storage location and
+[03:37] predict where ODU picks products using
+[03:39] the removal strategy to do that I'll go
+[03:42] to the product subheading and select
+[03:44] products then I'll click on the cable
+[03:46] management box on the product form I'll
+[03:49] click on the onand smart button here at
+[03:51] the top here we see that the product is
+[03:54] stored in shelves 1 2 and 3 OD dupsies
+[03:57] and it looks like they're organized in
+[03:58] order of on hand quantity but I want to
+[04:01] see them by location let me fix that by
+[04:03] clicking on the location
+[04:05] column the onhand quantity field
+[04:08] displays the current stock at each shelf
+[04:10] the five in the reserved quantity column
+[04:12] for shelf one tells me that although
+[04:14] there are currently five boxes in stock
+[04:16] at shelf one it's reserved for an
+[04:18] existing sales order so using the
+[04:21] closest location removal strategy ODU
+[04:23] will start picking from shelf 2 where
+[04:25] quantities are
+[04:27] available now let's see this removal
+[04:29] strategy in action let's go to the sales
+[04:32] app and click new to create a new
+[04:34] quotation our customer is going to be
+[04:36] Bri an office manager at a certain
+[04:38] global company for the product we'll put
+[04:41] the cable management boxes and we'll set
+[04:44] the quantity to
+[04:45] 20 okay let's go ahead and confirm this
+[04:48] order and click on the delivery smart
+[04:50] button at the top this brings us to the
+[04:53] delivery form where we can see that the
+[04:55] default Source location is Warehouse
+[04:57] stock by default OD checks the removal
+[05:00] strategy set on this location first we
+[05:03] configured the closest location removal
+[05:05] strategy on Warehouse stock earlier
+[05:08] because when the removal strategy on the
+[05:10] parent location is left empty the 5o
+[05:13] removal strategy is used by default even
+[05:15] when we set the closest location removal
+[05:17] strategy for celles 1 to three
+[05:20] individually okay in the operations tab
+[05:22] we can see that 20 products are
+[05:25] automatically reserved from the stock
+[05:27] quantity field when I click the
+[05:29] hamburger icon a stock move pop-up
+[05:31] window tells me exactly which shelves to
+[05:33] pick from in the pick from field now
+[05:36] because the closest location removal
+[05:38] method picks products based on the alpha
+[05:40] numerical order we'd normally get
+[05:42] products from shelf one however it looks
+[05:45] like shelf one is empty so we picked
+[05:47] items from shelf two and then shelf
+[05:49] three instead perfect let's go ahead and
+[05:51] save this and there you have it with the
+[05:54] closest location strategy in place ODU
+[05:57] checks the closest location for
+[05:58] available Quant ities simplifying the
+[06:00] retrieval of popular products from the
+[06:02] near shelves to learn more about the
+[06:05] four other removal strategies check out
+[06:07] our other videos see you next
+[06:12] time

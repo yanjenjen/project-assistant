@@ -1,0 +1,269 @@
+影片 ID: u_JhVbCjslA
+來源: https://www.youtube.com/watch?v=u_JhVbCjslA
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:01] [music]
+[00:05] Hello again doers. My name is Joseio.
+[00:07] Today I want to give you the 411 on
+[00:09] landed cost. You see when we purchase a
+[00:12] product from a vendor there are often
+[00:14] additional expenses that we have to
+[00:16] consider in addition to the cost of the
+[00:18] actual product itself. This includes the
+[00:21] price of shipping, taxes, and much more.
+[00:25] These are referred to as landed costs.
+[00:27] And it's important to keep track of them
+[00:29] because they help us to evaluate how
+[00:31] much of a profit we actually made by
+[00:33] selling the product or if we actually
+[00:36] made a profit. For example, if the price
+[00:38] we paid for the product plus the price
+[00:40] of the landed costs were to exceed the
+[00:42] amount we make from selling it, we would
+[00:44] actually be losing money. That's not
+[00:46] good. And this can be verified on the
+[00:49] profit and loss report. Luckily, ODO
+[00:52] allows us to keep track of the landed
+[00:53] costs to make it easy for us to
+[00:55] understand the total overhead for each
+[00:57] product that we sell. So, enough cha.
+[01:00] Let's hop into our database now and see
+[01:01] how all of this works. All right, before
+[01:04] diving into the workflow, let me
+[01:06] highlight a few settings that you're
+[01:07] going to need to enable to make landed
+[01:09] costs available in ODU. So, first, make
+[01:12] sure that the accounting application is
+[01:13] installed. I'm highlighting it here for
+[01:15] you. Then open up the inventory
+[01:17] application and select configuration and
+[01:19] then settings. You're going to want to
+[01:21] scroll until you see the heading for the
+[01:24] section labeled as valuation. You want
+[01:27] to make sure that the landed cost
+[01:28] feature is checked off. And if it's not,
+[01:31] be sure to also save after you check it
+[01:33] off. So then after you save, well,
+[01:36] there's also something that you can do.
+[01:37] You can specify a default journal over
+[01:40] here where landed costs should be
+[01:42] recorded. By default, landed costs will
+[01:45] end up as an inventory valuation. So, if
+[01:48] you want to record landed costs
+[01:49] differently, be sure to set the default
+[01:51] journal here. And I can't emphasize that
+[01:53] enough. So, for today's example, we're
+[01:55] going to be buying imported desk
+[01:57] organizers. So, up next, we should set a
+[01:59] costing method and inventory valuation
+[02:01] for the products category. So, we're
+[02:03] going to select configuration once again
+[02:05] up at the top heading, and underneath
+[02:06] the products header, select categories.
+[02:09] We're going to be working with
+[02:11] furniture, but more specifically office.
+[02:14] So, we're going to select that category.
+[02:16] All right. So, over here on the right
+[02:18] hand side under inventory valuation, you
+[02:20] want to make sure AFCO average cost for
+[02:23] our costing method is selected. This
+[02:25] method will value products based on the
+[02:27] average cost of each product unit,
+[02:29] including any landed cost associated
+[02:31] with them. If we actually wanted to, we
+[02:34] can open up our costing method dropdown
+[02:37] right there. And you'll see that there
+[02:38] are other options such as standard
+[02:40] price. You also have first in first out.
+[02:44] I'm going to discard this. That kind of
+[02:47] allows you to select which ones
+[02:48] depending on whichever one you want. For
+[02:51] first and first out as an example, this
+[02:53] uses the price of the product unit that
+[02:55] entered the inventory first. So for
+[02:59] landed costs function actually properly
+[03:02] the costing method should be set to AFCO
+[03:05] or first in first out which is why I
+[03:08] used it as an example. So next we want
+[03:10] to make sure that the inventory
+[03:11] valuation right below it is set to
+[03:14] perpetual. This ensures that inventory
+[03:17] is automatically valued every time a
+[03:19] product enters or leaves our warehouse.
+[03:21] We open up this one as well. You'll
+[03:23] notice that we also have periodic at
+[03:26] closing as an option, which means that
+[03:28] we need to create accompanying entries
+[03:31] to value our inventory manually. Unless
+[03:33] there's a reason you need to do that,
+[03:35] it's much easier to leave it at the
+[03:37] perpetual setting. Okay, now that we've
+[03:40] got everything configured in the
+[03:42] settings, let's go ahead and take a look
+[03:44] at the product that I've configured to
+[03:45] represent a landed cost. this product
+[03:48] will be added to vendor bills before we
+[03:50] pay them to make sure that we're paying
+[03:51] our vendors everything we owe them. So,
+[03:53] we're going to have a record of all of
+[03:54] our expenses for that as well. So, from
+[03:57] the products top heading menu, select
+[03:59] products and then products once again.
+[04:01] Going to remove the goods filter up at
+[04:03] the top and we're going to search for
+[04:06] imports and select our import tax
+[04:10] product over here and open its form. So
+[04:12] this specific landed cost represents any
+[04:15] tax we have to pay when importing a
+[04:17] product from another country. First,
+[04:19] you'll notice that this particular
+[04:22] landed cost is set to purchase only.
+[04:26] Now, why is that? That's because it
+[04:27] applies to imported products that we
+[04:29] purchase. Second, you'll notice that the
+[04:31] product type here is set to service in
+[04:33] the center. This is because the import
+[04:35] tax isn't an actual product that we
+[04:37] store in our warehouse, but more of a
+[04:39] privilege that we pay for. In this case,
+[04:42] it's the right to import the product
+[04:43] only. So, service products can be used
+[04:45] to represent landed costs, which we'll
+[04:47] see in a moment. So, I've also left the
+[04:50] cost field that we have over here right
+[04:52] now to zero. This allows me to change
+[04:54] the amount of sales tax based on how
+[04:58] much it costs for each order that we use
+[05:00] it for. So, let's open up our purchasing
+[05:02] tab over here. And below over here in
+[05:05] our vendor bill section, you'll notice
+[05:08] I've already see that we have the landed
+[05:10] cost checkbox enabled right there. This
+[05:12] makes it so I can allocate the price of
+[05:14] a landed cost to a receipt after the
+[05:16] landed cost has been added to a vendor
+[05:18] bill. This checkbox only appears if the
+[05:20] product type is a service. We should
+[05:23] also make sure to set a default split
+[05:25] method for this landed cost. As you can
+[05:27] see, right now, I've set this to equal.
+[05:30] This means that the landed cost will be
+[05:32] split evenly across each product listed
+[05:34] in the receipt regardless of quantity.
+[05:36] So if you have an order for, let's say,
+[05:39] three desks and two chairs and a lended
+[05:42] cost of $10, $5 will be assigned to the
+[05:45] desks and $5 will be assigned to the
+[05:48] chairs. As for the split methods, we
+[05:51] also have the ability to do by quantity,
+[05:54] which splits the cost across each unit
+[05:56] of all products in the receipt. So if we
+[05:58] use our last example, $6 of the landed
+[06:00] cost will be assigned to the desks. Two
+[06:02] for each desk and four for the chairs,
+[06:05] two for each chair. We also have current
+[06:08] cost. So this one splits the cost
+[06:10] accordingly to the cost of each product
+[06:12] unit. So a product with a higher cost
+[06:14] receives a greater share of the landed
+[06:16] cost. You also have the option by
+[06:19] weights and to that effect by volume as
+[06:22] well. These two actually work the same
+[06:25] way except that they split the cost
+[06:27] accordingly to weight or volume instead
+[06:30] of cost. So these costs will show up on
+[06:32] the valuation adjustments tab of a
+[06:34] landed cost form that we're going to see
+[06:35] in a little bit. Finally, I'm going to
+[06:38] discard that. We're going to go over to
+[06:39] our accounting tab. So this time around,
+[06:42] we made sure to set the expense account
+[06:44] of this tax to make sure that we are
+[06:47] accurately tracking it in our accounting
+[06:49] journal. You can see that right there.
+[06:51] And that's it. The product is now fully
+[06:53] configured to be used as a landed cost
+[06:55] on a purchase order. Now, let's purchase
+[06:57] some products from a foreign company,
+[06:59] which will require us to pay an import
+[07:00] tax. So, for that, we're going to head
+[07:02] into the purchase application. Select
+[07:03] new in the top left. For our vendor
+[07:06] today, we're going to select Wood Hut.
+[07:08] And let's get started by adding our
+[07:09] product, which is going to be that desk
+[07:11] organizer product. And we want 20 of
+[07:14] them. While we're here, we should also
+[07:17] add our import tax product as well. And
+[07:20] we're going to make a few quick notes on
+[07:21] all of this. We already know that we
+[07:23] typically get charged 10 cents import
+[07:25] tax per desk organizer. That multiplied
+[07:27] by 20 leads us to a unit price that
+[07:29] should be $2. This might fluctuate
+[07:32] though, and you can update it when you
+[07:33] receive your bill later. Let's confirm
+[07:35] this order now as well. And then we're
+[07:38] going to receive this and validate this.
+[07:41] I'm also going to copy our nice little
+[07:44] receipt number right there. Just a quick
+[07:46] mental note as well because we're going
+[07:47] to need this for our landed cost. So,
+[07:49] I'm going to make sure to copy that. So,
+[07:51] now let's follow our breadcrumbs back
+[07:53] over to our purchase order and let's
+[07:56] upload a bill. Selecting the button and
+[07:58] select it from our nice little file
+[08:00] browser. And would you look at that?
+[08:02] Immediately, we've created a bill in the
+[08:04] system. We're going to set the bill date
+[08:06] to today. It's also today by default.
+[08:08] Anyways, so on our draft bill, let's
+[08:11] click the button to create landed cost.
+[08:14] And here we are. So, in the landed cost
+[08:17] form, the import tax landed cost is
+[08:20] actually already automatically there.
+[08:22] And that's pretty cool. Let's also
+[08:23] associate our warehouse receipt with
+[08:25] this landed cost inside of our nice
+[08:27] little transfers field. So, we're going
+[08:29] to search for the one that I talked
+[08:30] about earlier. And there it is. That
+[08:33] makes it a whole lot easier. Perfect.
+[08:35] This field only works with validated
+[08:37] receipts as well. So, keep note of that.
+[08:40] Now that the transfer is added, we can
+[08:42] update the actual cost according to the
+[08:44] bill on this form as well as the account
+[08:46] for the landed cost and where it should
+[08:49] be posted. If that has to be changed as
+[08:52] well, we're going to select compute down
+[08:53] here in the bottom left. And I promise
+[08:55] you something happened. Then let's hit
+[08:57] validate. Boom. More things have
+[09:00] happened. When we open the valuation
+[09:02] adjustments tab over here, we can see
+[09:04] how this affects our inventory
+[09:06] valuation. And the original value was
+[09:08] $50. But when we factor in this
+[09:10] additional landed cost that we have over
+[09:14] here, I stretch it a little bit, but
+[09:16] trust me, it's right there. Actually, I
+[09:18] could just shrink this so you can see
+[09:19] this. Just like to make sure that you
+[09:21] can see the full words. Perfect.
+[09:24] Additional landed cost over there, $2.
+[09:26] We have this new value, $52. And just
+[09:29] like that, the value of our desk
+[09:30] organizers has been updated to include
+[09:32] both the cost of the units we have as
+[09:34] well as the landed cost assigned to
+[09:36] them. That's all for today, folks. You
+[09:38] now know how to create a service product
+[09:39] that will act as a landed cost and how
+[09:41] to assign landed cost to items received
+[09:43] into the inventory. As always, thank you
+[09:46] for watching. I'll see you next time.
+[09:47] I'm having a snack today of penguinos.
+[09:51] [music]

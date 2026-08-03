@@ -1,0 +1,135 @@
+影片 ID: ZdvUMijWGlk
+來源: https://www.youtube.com/watch?v=ZdvUMijWGlk
+下載時間: 2026-07-30 14:56
+============================================================
+
+[00:00] welcome back my dear aders today we're
+[00:03] diving into the world of multi- websites
+[00:06] and you might wonder why should anyone
+[00:08] need multiple websites well imagine
+[00:10] managing different brands under one
+[00:12] company or targeting diverse markets
+[00:15] with tailored content having separate
+[00:18] websites makes it easier to cater to
+[00:20] specific audiences and optimize your
+[00:23] digital strategy effectively in our case
+[00:26] we're expanding our travel agency
+[00:28] business and no longer Focus ing solely
+[00:30] on Brussels we're also going to focus on
+[00:33] Amsterdam and I'm going to call it sto
+[00:35] waffle after the delicious syrup field
+[00:38] waffles each website in Odo can be
+[00:41] customized with its own domain name
+[00:43] theme Pages menus languages and even
+[00:46] products this flexibility allows you to
+[00:49] maintain distinct branding and messaging
+[00:52] across different segments of your
+[00:54] business so let's see this in Action Now
+[00:56] to create a new website in Odo we'll
+[00:59] just go to our
+[01:01] settings and then we will click on new
+[01:04] website over here so we'll specify the
+[01:07] website name stro waffle we will specify
+[01:12] the website domain stro
+[01:15] waffle. NL and we can customize the
+[01:18] language uh options if needed and then
+[01:21] we can just create it now it's building
+[01:23] our
+[01:24] website okay so once created we can
+[01:26] start building our new website and all
+[01:29] the oo apps we installed installed for
+[01:31] our first website remain available as we
+[01:34] use the same database for both websites
+[01:36] so anything I changed here will have no
+[01:39] impact on the other website and vice
+[01:41] versa for example let's create a new
+[01:44] page so I'll go here in New and I will
+[01:48] create a Services page there you go
+[01:51] let's create
+[01:52] it and now we'll drag and drop a form
+[01:56] there you go and here I want to make
+[01:59] sure that email address is different
+[02:01] from the forms on our other website as
+[02:03] visitors filling in this form will want
+[02:05] to contact the Amsterdam branch and not
+[02:08] the Brussels one so it will be info@
+[02:11] stro waffle written in dutch. NL so if
+[02:15] you have any other oo app installed such
+[02:17] as CRM or help desk for example when you
+[02:19] can you can direct the answers of this
+[02:21] form directly to where you want in your
+[02:24] database so there you go none of these
+[02:26] pages will be shown on our other website
+[02:28] to switch from one side to the other we
+[02:30] can just select the website we want over
+[02:33] here on top we have strob waffle and we
+[02:35] have brussel sprout if I go here I am on
+[02:38] the other website and now we have two
+[02:40] distinct websites manageable from the
+[02:42] same
+[02:43] database now most settings in Odo our
+[02:46] website specific so if we configure
+[02:48] anything in our settings it will only
+[02:51] impact the website that is shown on top
+[02:53] of it
+[02:55] here we can switch between website
+[02:57] settings by selecting one or the other
+[03:01] if I go on stro raffle then we see that
+[03:03] the settings change and there are
+[03:04] settings specific to stro raffle now as
+[03:07] we saw earlier changes made to the front
+[03:10] end only concern a specific website but
+[03:13] records created from the back end are
+[03:15] accessible across all websites by
+[03:17] default you can manage content
+[03:19] availability by adjusting the website
+[03:21] field in individual records like
+[03:23] products or Forum posts for example if
+[03:26] you have a e-commerce and you have and
+[03:29] you go to your products here for example
+[03:32] and we take a product then all of these
+[03:34] records well they are accessible whether
+[03:36] you're on one website or the other so
+[03:38] you don't have to upload everything
+[03:39] again here we can decide when we go to
+[03:42] sales if we want to sell this product on
+[03:45] just one website or on the other or on
+[03:48] both of them by leaving the field blank
+[03:51] we can also restrict price lists or
+[03:55] categories um or payment providers and
+[03:58] this allows you to Lo localize your
+[04:00] e-commerce strategy and pricing based on
+[04:02] Market needs now let's take a look at
+[04:05] the pages of our two websites from any
+[04:07] any website go to site and then
+[04:11] Pages here's a list of all the pages we
+[04:14] have on on our websites and here we can
+[04:17] see on which website they are shown you
+[04:20] can switch in the filter um between
+[04:23] website so we can see Pages specific to
+[04:26] each
+[04:27] website note that the blank fields here
+[04:30] and here uh are pages that are shown on
+[04:33] both websites if you want to modify the
+[04:36] website they published on all we have to
+[04:38] do is sck the check boox next to a page
+[04:41] for example I want to modify the about
+[04:43] us page and then we can click on the
+[04:46] value over here and on little arrow and
+[04:49] here we can select on which website it
+[04:51] needs to be published in my case I'd
+[04:53] like this page to be common to both
+[04:55] websites as the content of the about us
+[04:57] page doesn't change whether the visitors
+[04:59] looking for Belgian travel advice or
+[05:01] Dutch one so what I'll do is I'll just
+[05:04] hit backspace and I'll leave the field
+[05:06] blank which means the page will be shown
+[05:08] on both websites and that's it for this
+[05:10] video as you can see whether you're
+[05:12] running multiple brands or targeting
+[05:14] different Geographic markets oo provides
+[05:16] the tools you to streamline your
+[05:18] operations and improve your digital
+[05:20] strategy thanks for watching and see you
+[05:22] in the next video bye-bye

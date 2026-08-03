@@ -1,0 +1,107 @@
+# Odoo Website & eCommerce YouTube 網址清單
+# 說明：每行一個 YouTube 網址，# 開頭為備註行
+# 來源：https://www.odoo.com/slides/website-ecommerce-25
+# 更新日期：2026-07-30
+# 共 26 支影片（2h 48m）
+#
+# ============================================================
+# Section 1: Building your website（8 支 · 43 分鐘）
+# ============================================================
+
+# ECM01｜Design your website: text and colors
+https://www.youtube.com/watch?v=CXg2jaWum_w
+
+# ECM02｜Website configurator
+https://www.youtube.com/watch?v=E6Z66h0PKpE
+
+# ECM03｜Design your website: images and motion
+https://www.youtube.com/watch?v=-HCfwpavx-c
+
+# ECM04｜Contact forms
+https://www.youtube.com/watch?v=u9JibGB8AgU
+
+# ECM05｜Navigation: links & menus
+https://www.youtube.com/watch?v=GJlsJm8Df_c
+
+# ECM06｜Translations
+https://www.youtube.com/watch?v=uSpCz6eij_Y
+
+# ECM07｜Mobile version
+https://www.youtube.com/watch?v=xL2iq5VE6qo
+
+# ECM08｜Register a free domain name
+https://www.youtube.com/watch?v=uuHdPgfV9xo
+
+# ============================================================
+# Section 2: Market your website（4 支 · 27 分鐘）
+# ============================================================
+
+# ECM09｜Blogs
+https://www.youtube.com/watch?v=WAKnzNmQfW4
+
+# ECM10｜Search Engine Optimization (SEO)
+https://www.youtube.com/watch?v=UE7Nn15KQ7o
+
+# ECM11｜Website analytics
+https://www.youtube.com/watch?v=VDZUVl5IEOc
+
+# ECM12｜Multi-website
+https://www.youtube.com/watch?v=ZdvUMijWGlk
+
+# ============================================================
+# Section 3: Create and organize your eCommerce product catalog（4 支 · 32 分鐘）
+# ============================================================
+
+# ECM13｜Create your product
+https://www.youtube.com/watch?v=SLAMX3gPyEg
+
+# ECM14｜Product Variants & Stock Management
+https://www.youtube.com/watch?v=CyE2xp81Em8
+
+# ECM15｜Organize your Product Catalog
+https://www.youtube.com/watch?v=Bi_a8pEKjmw
+
+# ECM16｜Pricing
+https://www.youtube.com/watch?v=0UpaFTX_7UU
+
+# ============================================================
+# Section 4: Design your eCommerce shop and product pages（2 支 · 16 分鐘）
+# ============================================================
+
+# ECM17｜Design your product catalog
+https://www.youtube.com/watch?v=anZYr4mQin0
+
+# ECM18｜Additional features
+https://www.youtube.com/watch?v=JCYSF63peRE
+
+# ============================================================
+# Section 5: Build your eCommerce customer experience（6 支 · 38 分鐘）
+# ============================================================
+
+# ECM19｜Cart Checkout
+https://www.youtube.com/watch?v=Ft3-kQ-b7Rc
+
+# ECM20｜Delivery methods
+https://www.youtube.com/watch?v=VNZC-8HoRPw
+
+# ECM21｜Payment methods
+https://www.youtube.com/watch?v=rZJ5fDDl9_0
+
+# ECM22｜Click and Collect
+https://www.youtube.com/watch?v=stiOhRZAJ8I
+
+# ECM23｜Customer Portal and Account
+https://www.youtube.com/watch?v=6rUytZhF_As
+
+# ECM24｜Gift cards, loyalty programs and eWallets
+https://www.youtube.com/watch?v=5rqQp24yq6M
+
+# ============================================================
+# Section 6: Sell and manage your eCommerce orders（2 支 · 12 分鐘）
+# ============================================================
+
+# ECM25｜Order Management
+https://www.youtube.com/watch?v=LekSm6_T1JE
+
+# ECM26｜Selling Strategies
+https://www.youtube.com/watch?v=2AlMd445x8w

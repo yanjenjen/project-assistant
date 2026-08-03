@@ -1,0 +1,171 @@
+影片 ID: o9987zzf9Rg
+來源: https://www.youtube.com/watch?v=o9987zzf9Rg
+下載時間: 2026-07-30 14:03
+============================================================
+
+[00:05] hello doers and welcome back for another
+[00:07] tutorial today we're talking about how
+[00:09] we handle deliveries with multiple items
+[00:11] when only some of the items are
+[00:12] available in our inventory it's pretty
+[00:14] common for customers to order more than
+[00:15] one product for delivery however
+[00:17] sometimes we don't have everything they
+[00:18] ordered in stock when this occurs there
+[00:20] are two ways we can proceed first we can
+[00:22] wait until all the ordered products are
+[00:24] available and then send them together in
+[00:25] a single package this makes the delivery
+[00:27] take a bit longer but it allows us to
+[00:29] reduce the amount of packaging we use
+[00:31] and the number of delivery orders we
+[00:32] need to process second we can send the
+[00:35] available products right away and create
+[00:36] a back order for the rest which will be
+[00:37] delivered once they're in stock this is
+[00:40] useful in situations where a customer
+[00:41] needs some items immediately and doesn't
+[00:43] want to wait for everything to ship at
+[00:44] the same time we can choose the method
+[00:46] that's best for your company using a
+[00:48] setting in the inventory app so let's go
+[00:50] ahead and see
+[00:51] how all right here we are on the
+[00:53] dashboard of the inventory app first
+[00:55] thing we need to do is click on
+[00:57] configuration and head down to settings
+[01:00] and then here in the operation section I
+[01:02] need to find the picking policy section
+[01:04] which is right here if I click on the
+[01:06] drop- down menu for the setting you can
+[01:08] see we have two options the first one
+[01:10] being ship products as soon as available
+[01:12] with back orders and the second one
+[01:14] being ship all products as once for now
+[01:18] I'll leave it set to the second option
+[01:19] ship all products at once so I can show
+[01:21] you the workflow with that selected
+[01:23] don't worry though we'll take a look at
+[01:24] that other option in a
+[01:26] bit so let's make sure to save before
+[01:29] moving forward
+[01:32] and all right we'll start by going back
+[01:33] to the main Odo dashboard and opening up
+[01:36] the sales
+[01:39] application then I'll go ahead and click
+[01:41] on orders then to quotations and I'll
+[01:44] click new to create a new
+[01:47] RFQ let's say one of our customers Terry
+[01:51] green wants to buy one of our chairs as
+[01:53] well as the cushion that goes along with
+[01:55] it so let's add those to the product
+[01:57] line Fields here shair
+[02:00] cushion and based on the little chart
+[02:03] icon next to the cushion I can tell I
+[02:06] don't have the cushion in stock since
+[02:08] it's in red despite the fact that we
+[02:10] only have the chair in stock let's go
+[02:12] ahead and click on confirm to turn this
+[02:14] quotation into a sales order or
+[02:18] ano now I'll go ahead and click the
+[02:20] delivery smart button that appears at
+[02:22] the top of the screen to open the
+[02:24] delivery order for this
+[02:26] so at the top of of the delivery order I
+[02:29] want point out two things first the
+[02:31] validate button appears in Gray rather
+[02:34] than purple this means the order isn't
+[02:36] ready to be shipped yet this is also
+[02:38] confirmed by the fact that the order is
+[02:40] still in the waiting
+[02:42] stage we can also see evidence of this
+[02:44] if we head over to the inventory
+[02:46] app and click on the delivery orders
+[02:49] card here the big purple button says
+[02:53] zero to process which means we don't
+[02:55] have any orders ready yet to deliver at
+[02:57] the same time a link appears to the
+[02:59] right of it which reads one waiting this
+[03:02] represents the delivery order that was
+[03:04] just created I can navigate to it by
+[03:06] clicking on the one waiting and then
+[03:09] selecting this order here now I could
+[03:12] process the delivery anyways by clicking
+[03:14] on validate and creating a back order
+[03:17] but I won't do that for this order
+[03:19] instead I'll go to the purchase
+[03:22] application so we can buy the cushion we
+[03:25] need and ship both of the items at once
+[03:27] I'll click on new to create a new RFQ
+[03:31] and select chairs a Hoy as our
+[03:33] vendor and then add one unit of the
+[03:36] cushions to the product
+[03:39] Tab and then I'll go ahead and click
+[03:42] confirm to confirm this
+[03:44] order from this point then I'll go ahead
+[03:47] and click on receive products and then
+[03:50] click on validate on the order line to
+[03:52] enter the cushion into our
+[03:54] inventory now when I head back to the
+[03:56] inventory
+[03:58] application the big purple button on the
+[04:00] deliveries order card now says want to
+[04:03] process because all the items are
+[04:04] available for our delivery order so I'll
+[04:07] click on the one to process button
+[04:09] here and select the delivery
+[04:12] order on the order we can see that the
+[04:15] validate button is now purple and the
+[04:17] status bar is advaned to
+[04:19] ready finally I'll just click validate
+[04:22] on to send the products on their way to
+[04:24] their customer and complete this
+[04:26] order all right now let's see how the
+[04:28] other picking policy polic setting works
+[04:30] I'll start by going back to
+[04:32] configuration down to settings and then
+[04:34] let's go back to the picking policy and
+[04:36] click on the drop- down menu and switch
+[04:39] this to ship products as soon as
+[04:41] available with back orders and then
+[04:43] click
+[04:45] save then I'll head over to the sales
+[04:48] application once again and click on new
+[04:51] to create a new quotation let's enter
+[04:53] our customer Terry green once again and
+[04:56] we'll add the same products here which
+[04:57] will be the one share and one
+[05:00] cushion after I'll go ahead and click
+[05:03] confirm to turn this quotation into
+[05:06] ano and this time let's go ahead and
+[05:08] select the delivery smart button to open
+[05:09] the delivery order
+[05:12] again unlike the previous delivery order
+[05:15] the validate button already appears in
+[05:17] purple and the status bar also reads as
+[05:20] ready this is because ODU recognizes
+[05:22] that we can ship part of the order now
+[05:24] and the rest later since we don't have
+[05:26] the cushion in stock when I click on
+[05:28] validate here
+[05:30] I get a pop-up window asking if I want
+[05:32] to create a back order I do so I'll go
+[05:34] ahead and click on create back
+[05:37] order the chair has now been shipped to
+[05:40] the customer while the back order
+[05:41] delivery has been created for the
+[05:42] cushion to open it I'll use the
+[05:44] breadcrumbs to get back to Theo and
+[05:46] return to the order and now I'll select
+[05:49] the delivery smart button on the top
+[05:51] once again and click on the most recent
+[05:53] delivery
+[05:54] order once we stock up on the cushion
+[05:57] product and send one unit to the
+[05:58] customer all I need to do is click on
+[06:01] validate to process the delivery order
+[06:04] and there you have it OD doers you now
+[06:05] know how to use both picking policy
+[06:07] options in the inventory app thanks for
+[06:09] sticking around and I'll see you next
+[06:11] time

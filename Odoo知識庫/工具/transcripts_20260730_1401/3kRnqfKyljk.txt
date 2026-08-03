@@ -1,0 +1,252 @@
+影片 ID: 3kRnqfKyljk
+來源: https://www.youtube.com/watch?v=3kRnqfKyljk
+下載時間: 2026-07-30 14:01
+============================================================
+
+[00:01] [music]
+[00:05] >> Welcome back Odooers. We all strive for
+[00:07] perfection, but in a busy warehouse
+[00:08] human error is simply unavoidable.
+[00:11] Whether it's a miss scan during a
+[00:13] receipt or a misplaced item on a shelf,
+[00:17] discrepancies happen. That is why we use
+[00:19] inventory adjustments and cycle counts
+[00:22] so that we can ensure that our real
+[00:24] world stock levels and our database
+[00:26] remain perfectly in sync. Think of an
+[00:29] inventory adjustment as your primary
+[00:31] tool for correcting the now. It is a
+[00:33] recorded increase or decrease in stock
+[00:36] used to account for errors, damage, or
+[00:38] even theft.
+[00:39] Whenever the products you physically see
+[00:41] in a location don't match what Odoo says
+[00:43] you have, an adjustment is the fix that
+[00:45] brings your data back to reality. Now,
+[00:48] while most companies are legally
+[00:50] required to perform one massive
+[00:52] wall-to-wall stock count every year, we
+[00:55] also want to move toward a more
+[00:56] incremental approach at Stealthy Wood.
+[00:59] Instead of closing our doors for days to
+[01:01] count everything at once, we use cycle
+[01:03] counts. By setting regular intervals to
+[01:06] count small portions of our inventory,
+[01:08] like our high turnover wood parts, we
+[01:11] save time, maintain business continuity,
+[01:13] and can more easily pinpoint the exact
+[01:15] source of shrinkage or miscategorization
+[01:18] before it becomes a year-end disaster.
+[01:20] So, enough chitchat. Let's jump into our
+[01:22] database and see how to configure these
+[01:24] tools to keep our operations running
+[01:26] smoothly.
+[01:28] Before we set up cycle counts, let's
+[01:30] look at our annual inventory day and
+[01:32] month. So, we're going to go right
+[01:34] there. All right, perfect. So, most
+[01:37] businesses are required to conduct a
+[01:38] full wall-to-wall audit once a year for
+[01:40] accounting purposes. At Stealthy Wood,
+[01:43] we have this set over here to December
+[01:45] 31st. Since we're closed that day, it's
+[01:47] the perfect time for a final
+[01:49] reconciliation without interrupting our
+[01:51] operations. With the annual inventory
+[01:54] date set, we can focus on enabling cycle
+[01:56] counts. In Odoo, cycle counts are
+[01:58] performed on locations so that we need
+[02:00] to enable storage locations as well. So,
+[02:03] make sure
+[02:05] wherever that is down there, over in our
+[02:06] warehouse section, make sure that it is
+[02:08] enabled. And if you scroll down even
+[02:11] further,
+[02:12] you can see one more thing that we
+[02:14] actually have to do.
+[02:15] And that is actually, we're done.
+[02:18] Don't forget to save though once that
+[02:19] you're done.
+[02:20] If you made any changes to anything,
+[02:22] always save. Now, let's see how Stealthy
+[02:24] Wood sets up cycle counts in one of its
+[02:26] locations.
+[02:28] So, right now we're going to go over to
+[02:29] our configuration, and right now we're
+[02:31] going to select locations right there.
+[02:33] Perfect. And we're going to select wood
+[02:35] parts.
+[02:36] Okay, so as a manufacturer and seller of
+[02:38] wood products, Stealthy Wood keeps a
+[02:40] number of wood parts on hand before
+[02:41] they're assembled into one of our
+[02:43] furniture products. To achieve this, we
+[02:45] can implement something called cycle
+[02:47] counting where a regular count to verify
+[02:49] the quantity and quality of items in
+[02:51] inventory. Let's set up a cycle count
+[02:53] for our wood parts location. We've got
+[02:55] the form already open.
+[02:57] Okay, so down here under cyclic counting
+[03:00] right there,
+[03:01] we can set an inventory frequency. We
+[03:03] know that we want to check our inventory
+[03:05] in this location once a month, so let's
+[03:07] set the inventory frequency to
+[03:10] 30 days. It's a nice little number
+[03:12] there. And just to be sure that this
+[03:13] change will be applied, we're going to
+[03:15] select the little cloud to save manually
+[03:17] up at the top.
+[03:19] Okay, so we've done something similar
+[03:21] for the metal parts location as well.
+[03:23] Something important to note here, while
+[03:25] we've set the inventory frequency, the
+[03:28] cycle counting doesn't take effect until
+[03:30] an inventory adjustment is performed
+[03:31] against the products in that location.
+[03:33] So, let's get that cycle started by
+[03:35] performing a count against everything in
+[03:37] a location.
+[03:39] So, to do that, we need to open the
+[03:40] operations menu over here at the top
+[03:42] heading,
+[03:43] and then we're going to select physical
+[03:45] inventory. So, the physical inventory
+[03:48] page is our command center, listing
+[03:51] every tracked item in our warehouse. To
+[03:53] keep this organized, I'm going to click
+[03:54] into our search field over here, and
+[03:56] then I'm going to group these by
+[03:58] location. Perfect. All right. Look at
+[04:01] that. Now, as you can see right here,
+[04:04] the other products are collapsed into
+[04:05] their locations. So, for our needs, this
+[04:07] is much easier to understand. First, a
+[04:09] bit of delegation for
+[04:12] Nathan in this case so that we can also
+[04:14] start cycle counts for another location.
+[04:18] So, let's expand the metal parts
+[04:21] location right there. Perfect.
+[04:24] And let's see what's there. Well, um
+[04:26] cable management grommets and custom
+[04:28] drawer slides. Okay.
+[04:30] Let's select the check boxes next to the
+[04:32] products under this location. So, we're
+[04:34] going to select these two right there.
+[04:36] And then we're going to select request a
+[04:38] count as a button right there, and then
+[04:40] we've got a nice little pop-up over
+[04:41] here.
+[04:43] Okay, so let's assign this count to
+[04:46] we're going to do Nathan.
+[04:49] Perfect.
+[04:51] All right, and we're going to schedule
+[04:52] this one for let's pick tomorrow.
+[04:55] That'll be kind of nice right there.
+[04:57] All right, once that we do that, we've
+[04:59] done everything, we're going to select
+[05:00] confirm. Boom.
+[05:03] All right, now Nathan can complete the
+[05:05] count on this page, or if he uses the
+[05:07] barcode app, he can see the counts
+[05:08] assigned to him.
+[05:10] Okay, let's collapse this location now.
+[05:13] All right, let's open up wood parts. We
+[05:15] were talking about it earlier. So, here
+[05:17] I see
+[05:19] something that I'm curious about. An
+[05:22] adjustable metal bracket that clearly
+[05:24] belongs in the metal section. Instead of
+[05:26] just deleting it, I'm select its check
+[05:28] box, select actions over here,
+[05:31] and then we're going to select relocate.
+[05:34] And inside of our pop-up over here,
+[05:35] we're going to relocate it to
+[05:38] metal parts.
+[05:40] All right, now you can also add a nice
+[05:41] little reason for it, and we're not
+[05:44] going to, we're just going to select
+[05:45] confirm right there because I have a lot
+[05:46] of power. So, with a couple clicks,
+[05:48] we've corrected that issue as well.
+[05:50] So, now moving on for the rest of the
+[05:51] shelf, everything looks correct except
+[05:53] for the solid oak legs. So, to speed
+[05:56] things up, I'm going to select all of
+[05:59] these items over here
+[06:01] inside of this location as well.
+[06:04] Boom. Got everything right there.
+[06:08] And then we're going to select Actually,
+[06:11] forget that one.
+[06:13] Set quantity on hand. Boom.
+[06:16] There we go.
+[06:18] All right. Now that we've done that,
+[06:19] that instantly confirms that our
+[06:21] database matches our physical count for
+[06:22] those items. However, for the solid oak
+[06:25] legs over here,
+[06:27] Odoo expects 62,
+[06:29] but that's not what I counted. I only
+[06:31] counted 58 on the shelf. So, I'm going
+[06:33] to simply type into the counted field.
+[06:36] I'm going to type in the number 58 right
+[06:37] there.
+[06:39] So, this discrepancy is our signal to
+[06:40] investigate. Was there missing
+[06:43] a miss scrap order or perhaps a
+[06:44] receiving error?
+[06:46] The final step is to go through our
+[06:47] physical inventory and verify that every
+[06:49] product stored there is listed in our
+[06:51] database. This shouldn't take long.
+[06:53] All right, after checking everything, it
+[06:55] looks like there are no extra products.
+[06:56] So, let's finalize this count. To wrap
+[06:58] things up, we're going to select the
+[07:00] apply all over here up at the top, and
+[07:03] well, our nice little reason right there
+[07:05] is going to be first cycle count.
+[07:08] And once we're done, we're going to
+[07:09] select apply quantities.
+[07:12] And you'll notice something. Notice that
+[07:13] the scheduled date for these items has
+[07:16] now automatically jumped 30 days into
+[07:18] the future. Our cycle is officially in
+[07:20] motion. So, before we end, let me
+[07:24] quickly show you a couple of other
+[07:25] things you can do here on the physical
+[07:27] inventory page. First, to add a product
+[07:29] to the inventory, you can simply click
+[07:32] the new button over here and specify a
+[07:34] product, its location, and its count.
+[07:36] It'll be recorded as an inventory
+[07:37] adjustment in the moves history report.
+[07:40] Next, you may want to correct the
+[07:41] inventory accuracy of a product quickly.
+[07:44] Rather than remove useless inventory via
+[07:46] scrapping, in short, if you don't know
+[07:49] where a product went, you might want to
+[07:50] set its count to zero. And if it's
+[07:52] damaged and can be destroyed, you can
+[07:54] scrap it. So, to set the inventory count
+[07:56] for a product to zero, you can select
+[07:58] the check box next to a product, like
+[08:00] this dovetail right there.
+[08:03] And then from here, you're going to open
+[08:05] up your actions menu right there, and
+[08:07] select set to zero. Boom. And that's it.
+[08:11] And just like that, you've transformed
+[08:12] your inventory process from a stressful
+[08:14] annual event into a streamlined frequent
+[08:16] habit. With inventory adjustments and
+[08:18] cycle counts, you're doing more than
+[08:20] just fixing numbers in your database.
+[08:22] You're gaining real-time visibility into
+[08:24] the health of your warehouse. If you
+[08:25] want to take your efficiency even
+[08:26] further, check out our tutorial on using
+[08:28] the barcode app to perform these
+[08:30] adjustments on the move. Until next time
+[08:31] Odooers, thanks for watching. Go grab a
+[08:33] snack.

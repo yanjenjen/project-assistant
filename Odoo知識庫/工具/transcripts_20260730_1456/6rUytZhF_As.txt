@@ -1,0 +1,132 @@
+影片 ID: 6rUytZhF_As
+來源: https://www.youtube.com/watch?v=6rUytZhF_As
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Hello viewers and welcome back to this
+[00:05] new e-commerce video.
+[00:07] Today we'll talk about customer accounts
+[00:09] and checkout policies.
+[00:11] When it comes to e-commerce, you may
+[00:12] want to decide if customers can check
+[00:14] out simply as guests or if they're
+[00:16] allowed to create an account during the
+[00:18] checkout process.
+[00:20] We'll also talk about the customer
+[00:22] portal, more commonly known as the
+[00:24] customer account.
+[00:25] Ready? Then let's do this.
+[00:31] Okay, first let's go to our settings
+[00:34] and we will scroll down to this sign in
+[00:37] up at checkout option.
+[00:40] Now, either this can be optional, which
+[00:42] means that the customers can check out
+[00:44] as guests, so as someone without an
+[00:46] account on your website, or they can
+[00:48] create an account after the confirmation
+[00:50] of their order, or they can log in.
+[00:53] Then you have disabled, which means that
+[00:56] your client can only buy as guests,
+[00:58] and the last option is mandatory, which
+[01:01] means that they can only check out if
+[01:03] they have an account. If they don't have
+[01:05] any, they will receive a prompt to
+[01:07] create one upon confirming their order.
+[01:10] All right, so I'll leave it as optional
+[01:12] and I'll go back to my website.
+[01:16] So, what I'm going to do now is I'm
+[01:17] going to switch to incognito mode so
+[01:19] that I can log out of my account and I
+[01:22] can pretend to be a regular customer.
+[01:24] So, here on the shop page, I will buy
+[01:27] this lovely fruit mug and I will add it
+[01:30] to the cart and go to the checkout.
+[01:35] Now, at this stage, as you can see,
+[01:36] because we have set the settings as
+[01:38] optional, I can either fill in my
+[01:41] address and continue as a guest or I can
+[01:44] click on sign in.
+[01:46] And this is where the customers can
+[01:48] either sign in or create a new account
+[01:51] by clicking on don't have an account.
+[01:53] If we had chosen the option disabled,
+[01:56] they would only be able to log in, but
+[01:58] they wouldn't have the option to create
+[01:59] a new account here.
+[02:04] Okay, now let's see what you can do if
+[02:06] you only want to allow accounts for some
+[02:08] selected customers, say B2B ones, for
+[02:11] example.
+[02:12] We will go back to our settings and
+[02:15] because we only want specific customers
+[02:17] to buy, we will activate the mandatory
+[02:19] option.
+[02:20] We'll click save.
+[02:22] And now we'll go to the e-commerce tab
+[02:24] and then to customers.
+[02:26] Now, if we scroll down, here we have a
+[02:29] cafe, which is a B2B customer.
+[02:32] If if we go on it, we can click on the
+[02:34] action button on the top left and we can
+[02:37] grant portal access.
+[02:40] Now, here we can click on grant access
+[02:43] and [snorts] we can immediately see that
+[02:45] we can also revoke this access or we can
+[02:48] re-invite the customer so that they get
+[02:51] an email reminding them that they have
+[02:52] access to our website.
+[02:57] Now, let's see how your customers can
+[02:59] actually access their customer portal.
+[03:02] If we go back to the home page,
+[03:04] we can see a profile icon over here.
+[03:07] If we click on it and then click on my
+[03:09] account,
+[03:10] then we land on this page from where we
+[03:12] have access to payment methods,
+[03:15] invoices, appointments, orders,
+[03:17] addresses and all the information I
+[03:18] need.
+[03:20] And I have reminders like this invoice
+[03:22] here that I need to pay.
+[03:24] Now, I can customize the way the
+[03:26] customer account looks like by clicking
+[03:28] on edit.
+[03:30] So, let's say I would like to add some
+[03:32] text underneath this section. We can
+[03:35] select a text block and drag and drop it
+[03:38] over here and we will choose this title.
+[03:41] And instead of this text, we will just
+[03:43] say "Welcome to your portal."
+[03:47] >> [snorts and sighs]
+[03:47] >> And we will write it correctly like
+[03:50] this.
+[03:51] And actually, maybe my customers don't
+[03:53] need the appointment section over here.
+[03:55] So, we'll just click on this section
+[03:57] over here. And here we can just untoggle
+[04:00] this option. And now, the appointments
+[04:02] card isn't visible anymore.
+[04:05] Now, in the styles tab, I can customize
+[04:08] the cards. So, let's click on it. And
+[04:11] what I want to do with the cards is I
+[04:13] want to choose a slightly darker
+[04:16] background.
+[04:17] And as you can see, the cards
+[04:19] change color. We will also add a border
+[04:22] and let's add a radius of 5 pixels.
+[04:26] Which will add this black border. I
+[04:29] don't want them to be straight lines.
+[04:30] I'd like them to be dashed. And the
+[04:33] black is a little bit aggressive. So,
+[04:35] let's take this orange.
+[04:38] Finally, I'd like the corners to be a
+[04:40] bit more round. So, instead of 6 pixels,
+[04:42] we will increase it to 20 pixels.
+[04:46] And there you go. Now, our customer
+[04:48] portal has been updated in just a few
+[04:50] clicks.
+[04:52] And that's it for this video. As always,
+[04:54] remember to check out our online
+[04:55] documentation for more information on
+[04:57] this topic. Thank you for watching and
+[04:59] see you soon.

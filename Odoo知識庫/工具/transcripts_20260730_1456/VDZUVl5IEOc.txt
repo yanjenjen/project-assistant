@@ -1,0 +1,172 @@
+影片 ID: VDZUVl5IEOc
+來源: https://www.youtube.com/watch?v=VDZUVl5IEOc
+下載時間: 2026-07-30 14:56
+============================================================
+
+[00:00] hi dears and welcome back today we're
+[00:03] going to dive into the world of website
+[00:05] analytics but why exactly are they
+[00:08] important well think of it as running a
+[00:11] physical store you'd want to know how
+[00:13] many people visit which products catch
+[00:15] their eye and what they purchase most
+[00:18] frequently website analytics provides
+[00:20] this same insight for your online
+[00:22] presence it helps you understand what
+[00:25] content engages your visitors what
+[00:27] drives them away which campaigns bring
+[00:29] in the most customers and so on this
+[00:32] allows you to improve your website and
+[00:34] Target the Right audience let's take a
+[00:36] closer look okay so if this is your
+[00:39] first time using Odus Analytics tool
+[00:41] you'll need to activate the plausible
+[00:43] tool which you can do by going to the
+[00:45] settings and scrolling all the way to
+[00:47] the bottom of the page plausible who's
+[00:50] right here is an Analytics tool that is
+[00:52] lightweight and installed on our our
+[00:54] servers which means no third-party
+[00:57] cookies are involved ensuring your
+[00:59] visitors privacy
+[01:00] all you have to do is fill in these two
+[01:02] Fields over here which is easy to do by
+[01:05] following the information in this link
+[01:08] now note that if you're not using the
+[01:09] ODU online hosting type but the on PR on
+[01:13] premise or sh1 you can use any other
+[01:16] Analytics tool you prefer like Google
+[01:17] analytics for example both are great
+[01:20] tools for tracking your website's
+[01:22] performance now to actually see our
+[01:24] websites analytics we will click on
+[01:27] reporting on the top bar and then on
+[01:31] analytics here we have our main
+[01:33] dashboard with all kinds of information
+[01:36] the xaxis right here shows measures of
+[01:39] time which we can change using these
+[01:41] filters right here we can choose to see
+[01:44] data from the last 7even days or from
+[01:47] the beginning of the month or we can
+[01:48] also input a custom range of dates in
+[01:51] our case let's look at results from the
+[01:54] last 30 days the Y AIS the vertical one
+[01:58] right here shows a specific type of
+[02:00] information which we can change by
+[02:02] clicking on the button on the top here
+[02:04] for example I see how many unique
+[02:06] visitors came to my website in the last
+[02:08] 30 days and how much this number has
+[02:11] grown right here since the previous
+[02:13] period now Kar can you please explain
+[02:16] what we mean by unique visitor sure a
+[02:19] unique visitor is somebody that visited
+[02:21] your your website at least once here or
+[02:24] she is counted once regardless of the
+[02:26] numbers of visits exactly and they track
+[02:30] using their unique IP address or browser
+[02:32] cookies besides this we can see info
+[02:35] such as the number of pages that were
+[02:37] viewed or the average time uh spent on
+[02:40] your website by your user and the bounce
+[02:43] rates now to explain this concept I'm
+[02:46] going to play my K code again so the
+[02:49] bounce rate is the percentage of
+[02:50] visitors will leave your website after
+[02:52] visiting only one page so an ideal
+[02:55] bounce rate is below 40 so if I may add
+[02:59] you should work on that indeed a 79%
+[03:02] bounce rate is not good at all this may
+[03:04] be caused by slow page low times or low
+[03:07] quality content lack of mobile
+[03:09] optimization intrusive ads or weak cool
+[03:12] to action elements so we should address
+[03:15] these problems and then we can come back
+[03:17] to our dashboards and we know exactly if
+[03:19] what we did improved anything now it's
+[03:22] important to note that not all high
+[03:24] bounce rates are bad for instance a high
+[03:27] bounce rate on a single page website or
+[03:30] blog posts where users find information
+[03:31] they need quickly and leave is actually
+[03:34] positive we can also see other useful
+[03:37] information such as the most consulted
+[03:39] pages and if you click on Entry Pages we
+[03:42] see on which page your visitors land
+[03:44] most when going to your site for the
+[03:45] first time if that page isn't the most
+[03:48] important page of your website then that
+[03:51] could also explain a bad bounce rate now
+[03:54] if you click on details here there we
+[03:57] see specific info for each page
+[03:59] including the bounce rate here we see
+[04:02] manying the blog articles that have high
+[04:05] bounce rate our landing pages in English
+[04:08] right here and in Dutch right here for
+[04:10] example they have a very good bounce
+[04:12] rate bounce rate of 33% and
+[04:14] 21% but the landing page in our main
+[04:17] language which is here and which is in
+[04:19] French is still pretty high now this may
+[04:22] indicate that our business is more
+[04:24] popular among Dutch and english-
+[04:25] speaking
+[04:27] visitors we have some more info uh such
+[04:30] as what platform direct your visitors to
+[04:32] your website which can give you an
+[04:34] Insight on how well a social media
+[04:35] campaign is working for example you can
+[04:38] also see from which country or region or
+[04:41] city your visitors are from and on which
+[04:44] device they most frequently visit your
+[04:47] site depending on the type of your
+[04:49] website most visitors will probably
+[04:51] visit on mobile so be sure to check out
+[04:54] our video on mobile optimization okay
+[04:57] now let's go back to our settings and
+[04:59] see which other tool we can use for us
+[05:01] analytics so if we scroll down all the
+[05:03] way uh we see that we can also link our
+[05:06] database to Google search console this
+[05:09] tool helps you Monitor and maintain your
+[05:12] s's presence in Google search results
+[05:14] which is important for SEO or search
+[05:17] engine optimization all you have to do
+[05:20] is go to Google Search console sign in
+[05:22] add your domain name and then copy paste
+[05:24] the verification code that Google will
+[05:26] provide you right here in this field and
+[05:30] then you can go to Google Search console
+[05:31] every time you want to consult your
+[05:33] website's results concerning its credits
+[05:35] on Google Now the last thing I'd like to
+[05:38] talk about is cookies K one last time
+[05:42] will you Enlighten us on what they are
+[05:43] exactly cookies track users information
+[05:46] such as browser history preferences and
+[05:48] login details to comply with the
+[05:50] regulations you need to make sure to
+[05:52] inform visitors about them exactly now
+[05:55] if we swipe up to the Privacy part we
+[05:57] can activate our cookies bar here by in
+[05:59] the box once that's done let's save our
+[06:02] changes and then go to our main site and
+[06:06] on the
+[06:07] homepage and here we can customize our
+[06:10] cookies bar by clicking
+[06:12] edit and we can scroll down to the
+[06:15] invisible elements right here here we
+[06:18] can scroll down and then click on our
+[06:20] cookies bar if you click it the cookies
+[06:23] bar will appear and we can edit it to
+[06:26] fit our needs the good thing is that the
+[06:29] cookies policy page which you can find
+[06:31] the link here is automatically created
+[06:34] but of course you can edit and customize
+[06:36] its content as you want and that's it
+[06:39] for this video now by using these tools
+[06:42] you'll be able to make informed
+[06:43] decisions attract more visitors and
+[06:45] convert them into customers so happy
+[06:48] analyzing and I'll see you in the next
+[06:50] video bye-bye

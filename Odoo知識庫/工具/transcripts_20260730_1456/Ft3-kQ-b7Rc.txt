@@ -1,0 +1,144 @@
+影片 ID: Ft3-kQ-b7Rc
+來源: https://www.youtube.com/watch?v=Ft3-kQ-b7Rc
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Hi doodles, welcome back to this new
+[00:05] video about cart and checkout
+[00:07] customization.
+[00:08] When it comes to boosting conversions,
+[00:10] the magic is in the details. From adding
+[00:13] a buy now button for lightning fast
+[00:15] purchases to customizing extra steps for
+[00:17] that personal touch, organizing your
+[00:19] customers browsing experience has never
+[00:21] been easier. So, let's have a look
+[00:23] together.
+[00:26] Okay, let's open our website app and go
+[00:29] to configuration and then settings. And
+[00:32] here we will look at a specific option
+[00:34] by scrolling down.
+[00:36] So, we can decide over here what should
+[00:39] be done when the customer clicks on the
+[00:40] add to cart button in the shop page.
+[00:43] They can stay on the product page or
+[00:45] they can go to their cart. By default,
+[00:48] it's set on the first option, so we'll
+[00:49] leave it like that.
+[00:54] Okay, now let's go to our shop page
+[00:57] and we will select any product. Let's
+[00:59] say it is beautiful watermelon mug.
+[01:02] And here we can add more options by
+[01:04] clicking on edit and going to the style
+[01:07] tab.
+[01:08] We can add a buy now option button,
+[01:12] which will speed up the purchasing
+[01:13] process. It appears right here.
+[01:15] So, we'll save this and close.
+[01:19] And if we now click on add to cart, then
+[01:22] we see that we remain on the product
+[01:23] page according to what we configured in
+[01:25] the settings. This way, the customer
+[01:28] adds the product to the cart but
+[01:29] continues the shopping experience. And
+[01:31] if we click on buy now, then we directly
+[01:34] go to our cart where we can add other
+[01:36] options by clicking on edit and going to
+[01:39] the style tab.
+[01:44] So, the extra step feature allows you to
+[01:47] add a customizable form after the
+[01:49] delivery step. We'll see it afterwards.
+[01:51] You can also add the accept terms and
+[01:53] conditions checkbox that will be
+[01:55] displayed at the final step of the
+[01:57] checkout. So, we will save this
+[02:00] and we will proceed to the next step,
+[02:02] delivery.
+[02:03] So, here I can add all of the details by
+[02:06] myself, or if I activated Google address
+[02:08] validation in the settings, then I can
+[02:10] type the beginning of my address and it
+[02:12] will auto-complete the rest. You can
+[02:13] find how to set up Google address
+[02:15] validation in our documentation. Now,
+[02:18] note that if your customer has
+[02:19] previously created an account on the
+[02:21] website and filled in his info, then his
+[02:23] address will be completed automatically
+[02:25] like this, so he doesn't have to fill it
+[02:27] out each time. And if you click edit on
+[02:29] this step, well, then you can also
+[02:31] decide to show the B2B fields or not.
+[02:34] So, here we will activate them.
+[02:36] And if we save, then we can see that in
+[02:39] the address fields, there were
+[02:41] additional fields for companies like the
+[02:43] company name field.
+[02:45] So, I can also on this step choose
+[02:47] between delivery methods such as
+[02:49] standard delivery, cash on delivery, and
+[02:52] click and collect. Now, you can
+[02:54] configure these methods and many others,
+[02:56] and we talk about this during other
+[02:57] videos in this course.
+[02:59] So, let's confirm delivery and billing
+[03:01] addresses by clicking on this button.
+[03:06] Now, we are on the extra step page,
+[03:08] where I can add more information. I can,
+[03:11] of course, edit all the fields thanks to
+[03:13] the website editor. As you can see, you
+[03:15] have plenty of options to choose from,
+[03:17] but we talk about this specifically in
+[03:19] our video about contact form link below.
+[03:22] Now, in our case, we will use this step
+[03:24] to let our customers add a gift message.
+[03:26] So, we will rename extra info into add
+[03:30] your gift message.
+[03:33] We will just remove this reference
+[03:36] field.
+[03:37] And instead of give us your feedback, we
+[03:40] will say add your message here. There
+[03:43] you go.
+[03:45] And we will let the button field on this
+[03:47] page in case people want to add their
+[03:49] own card.
+[03:53] Okay, we'll click confirm and now we are
+[03:56] on the payment step. So, once I'm here,
+[03:59] I can see the terms and conditions box.
+[04:02] And if I click here on agree, then I
+[04:04] have two options to pay with my credit
+[04:06] card or with other payment options that
+[04:08] I've configured over here. We'll explain
+[04:11] all about the payment options in another
+[04:12] video of this course. Now, note that if
+[04:15] you choose the cash on delivery method,
+[04:17] the button label changes automatically
+[04:19] to confirm as you do not pay right now.
+[04:21] And if you take another one, it will say
+[04:23] pay now. But if you want this button to
+[04:26] say something else than pay now, such as
+[04:28] place order, for example, then you can
+[04:30] just click edit and then select the text
+[04:34] and then write the new text. So, it will
+[04:36] be place order and then click on save.
+[04:40] And this way it is a bit less aggressive
+[04:43] than the pay now button.
+[04:45] So, we will choose our method, uh agree
+[04:47] to the terms and conditions, and we'll
+[04:49] just click on place order. And just like
+[04:51] that, we have completed our online
+[04:53] order.
+[04:54] Now, one last thing. If your customers
+[04:56] go back to their basket,
+[04:58] then they can access a quick reorder
+[05:00] button,
+[05:01] which allows them to see their purchase
+[05:02] history and add the same products to
+[05:05] their basket in one click by clicking on
+[05:06] this little icon. See?
+[05:08] Now, this is especially useful for
+[05:10] specific business with B2B customers.
+[05:13] And that's it for this video. Make sure
+[05:15] to read our online documentation for
+[05:17] more info and see you in the next one.
+[05:19] Bye.

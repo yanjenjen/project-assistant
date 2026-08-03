@@ -1,0 +1,187 @@
+影片 ID: -HCfwpavx-c
+來源: https://www.youtube.com/watch?v=-HCfwpavx-c
+下載時間: 2026-07-30 14:56
+============================================================
+
+[00:00] hello ooos welcome back in our last
+[00:02] video we covered essential website
+[00:04] conventions regarding text and colors
+[00:07] now let's dive deeper into odo's
+[00:09] versatile building blocks and explore
+[00:11] how easy it is to make our website using
+[00:13] them let's go to Brussels Sprout's
+[00:15] website to see these blocks in action so
+[00:19] now that we know what's hiding behind
+[00:20] the Theme tab let's take a look at our
+[00:23] building blocks in the website builder
+[00:25] blocks are separated into four
+[00:27] categories structure which consists of
+[00:29] classic blocks used to display headings
+[00:31] images and texts they're actually the
+[00:34] classic features then we have uh the
+[00:36] features uh which are meant to display
+[00:39] more advanced blocks they display
+[00:40] specific information in a smarter way
+[00:43] for example a comparison of prices then
+[00:45] we have Dynamic and these are blocks
+[00:48] that are integrated with other apps such
+[00:50] as for example products that are sold in
+[00:51] e-commerce or newsletter which we will
+[00:53] see in another video for example this
+[00:56] one and then we have the inner content
+[01:00] which are uh blocks that are aimed to be
+[01:02] added inside of another block for
+[01:04] example a button now I strongly
+[01:07] encourage you to try them out to see
+[01:09] what each of them does you can just drag
+[01:11] and drop them on your page and test them
+[01:13] out like I just did because if you don't
+[01:15] like them you can just delete them for
+[01:17] example like this um or you can just go
+[01:21] back if you go here on the Arrow there
+[01:24] it goes back or you can just discard
+[01:27] everything on this clicking on by
+[01:28] clicking on this button sorry and ODU
+[01:30] will forget about everything you did
+[01:32] since the last time you opened the
+[01:33] editor panel for example let's discard
+[01:36] and everything I just added isn't here
+[01:38] anymore be careful that you don't
+[01:41] actually make changes that you actually
+[01:43] want to to to keep and then click this
+[01:45] card otherwise they will be
+[01:47] lost now let's talk about images they
+[01:50] draw attention and they often convey the
+[01:52] text ID in a second you can easily add
+[01:55] your own images for example I can modify
+[01:58] this image by clicking on it and then
+[02:00] clicking
+[02:01] replace I can upload an image of my own
+[02:05] just click on it and then I can get any
+[02:08] image that I want but you know what um
+[02:11] adding your own images can be very
+[02:13] tiresome or expensive so it's a good
+[02:16] thing that Odo uses unsplash which gives
+[02:19] you access to millions of different
+[02:20] photos and illustrations for free for
+[02:22] example if I type here
+[02:25] Belgium I have a lot of different images
+[02:31] um and I can type any keyword that I
+[02:33] want and it will uh it will give me a
+[02:35] whole option of images let's take for
+[02:37] example this one now the image quality
+[02:40] is optimized for faster web page loading
+[02:42] which in turn positively impacts your
+[02:44] ranking on search engines of course if
+[02:47] the image seems too heavy you can always
+[02:49] change its way manually by clicking here
+[02:52] by choosing the ones you
+[02:54] want after that we can easy change
+[02:56] various uh options of the image like its
+[02:58] padding it's style we can change the
+[03:01] roundness of its Corners um and we can
+[03:04] even put it into a shape for example I
+[03:06] click on it and I can change the shape
+[03:08] here let's take this one perfect now
+[03:12] once again once again have fun with it
+[03:14] test it as much as you can in the
+[03:16] beginning as you can see it's very
+[03:17] intuitive and it's easy to understand
+[03:20] now let's talk about yet another good
+[03:22] website convention motion motion is very
+[03:25] handy to grab the attention of users a
+[03:28] website can sometimes feel a bit static
+[03:30] so adding motion is helpful one kind of
+[03:34] motion for example is video let's take
+[03:37] this welcome Banner for example I can of
+[03:39] course change the image by replacing it
+[03:41] as we've just seen but I would like this
+[03:43] to be a video so I just click here on
+[03:46] video and all I have to do here is paste
+[03:49] the link to the video so you can add
+[03:52] them from YouTube Daily Motion or video
+[03:55] so if I just paste mine and I click okay
+[03:59] now now a video Place each time a person
+[04:02] uh enters the website another kind of
+[04:04] motion is animation I'll show you what I
+[04:06] mean on any block you can select uh an
+[04:09] element and add an animation on it now
+[04:13] it can be an animation on scroll which
+[04:15] means that it will happen each time the
+[04:16] user Scrolls past it or an appearance or
+[04:19] an animation on appearance which means
+[04:21] it will happen when the user sees it for
+[04:23] the first time we have several options
+[04:26] for example the direction let's say from
+[04:28] the left we have the effect effect do I
+[04:30] want it to fade do I want it to slide to
+[04:32] bounce let's say slide and once again I
+[04:35] invite you to test out everything and
+[04:37] you can customize all of them at will if
+[04:39] I now hit uh save then we can see the
+[04:41] results my video is playing and when I
+[04:44] scroll past the image uh just uh goes
+[04:47] from the right to the left now the last
+[04:50] element I'd like to show you is
+[04:51] something to harmonize your pages and
+[04:53] Link all of the blocks together and
+[04:55] they're called shapes we talked about
+[04:57] putting images in shapes but I want to
+[04:59] talk about background shapes simply
+[05:02] select any block and then add the shape
+[05:05] you want to by clicking on shape over
+[05:07] here and you can add any background
+[05:09] shape you want to for example if I like
+[05:12] this one I can click on it and then I
+[05:15] can change it orientation or I can
+[05:17] change its colors now I don't want my uh
+[05:21] users to have an EP epileptic seizure so
+[05:23] I won't to use this color I will just
+[05:25] take a nice little light
+[05:27] blue now as you can see you can have a
+[05:30] lot of blocks on a page and you may want
+[05:33] to change the order of these blocks it's
+[05:37] quite quite simple actually to change
+[05:38] the order you can just for example if I
+[05:40] don't want this block to be here I can
+[05:42] just drag and drop it to wherever I want
+[05:44] to let's say I want to put it here there
+[05:47] you go or additionally I can also just
+[05:50] click on the error here to move it up or
+[05:53] down the page see and you can actually
+[05:56] do this with any element inside of a
+[05:58] block for example if I click here on the
+[05:59] image I can put it on the left or on the
+[06:01] right just by clicking on uh the button
+[06:03] now I'm going to put it back up because
+[06:05] it doesn't belong
+[06:07] here what you can do with the block also
+[06:09] is duplicate it if you want to keep uh
+[06:12] the general look and feel of this block
+[06:14] and just change a Content the best thing
+[06:16] is to duplicate it by clicking on this
+[06:18] button over here and now the exact same
+[06:20] block with the same animation is
+[06:22] duplicated now if this is a block that
+[06:24] you think you will use often throughout
+[06:26] the website and you don't want to each
+[06:28] time drag and drop the basic block and
+[06:30] then have to customize it all over again
+[06:32] I recommend you save it as a template
+[06:35] just click on it and then hit save and
+[06:39] oudo will automatically uh save it as a
+[06:42] template and you can find it here in the
+[06:44] custom templates you can even rename it
+[06:47] so that you know easily what block it is
+[06:48] for example I can call it uh Belgium
+[06:54] image and there you go while there's
+[06:57] much more to explore in the world of
+[06:59] design I leave the in-depth insight to
+[07:01] our talented Odo designers they have a
+[07:04] wealth of videos on YouTube where they
+[07:06] share best practices and clever Odo
+[07:08] hacks feel free to check them out for
+[07:10] more inspiration in the meantime I'll
+[07:12] continue customizing my website to truly
+[07:14] capture brussels sprouts unique energy
+[07:16] and I'll see you in the next video

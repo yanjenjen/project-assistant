@@ -1,0 +1,215 @@
+影片 ID: Bi_a8pEKjmw
+來源: https://www.youtube.com/watch?v=Bi_a8pEKjmw
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Hey there doers and welcome back. In
+[00:05] today's video, we are going to dive into
+[00:07] an essential aspect of your e-commerce
+[00:08] store. Organizing your product catalog.
+[00:11] Whether you're offering a few items or a
+[00:13] whole range of products, category
+[00:15] organization is key to making your
+[00:17] catalog easy to navigate and helping
+[00:19] your customers find what they're looking
+[00:20] for faster. Let's get started.
+[00:26] Okay, so let's head to our website app
+[00:28] and click on e-commerce and then on
+[00:31] categories. This is where we can find
+[00:33] all our e-commerce categories. Here at
+[00:35] Glazed, we sell a variety of ceramic
+[00:37] pieces. For instance, we sell mugs,
+[00:40] bowls, plates, vases, you name it. And
+[00:43] now I want to sell the spoon rest that
+[00:45] I've just created. So let's create a new
+[00:47] category. We will click here on the new
+[00:50] button. And first we will enter the name
+[00:52] of our category. In our case, it will be
+[00:54] the spoon rest. Then we will enter the
+[00:57] parent category if needed. The parent
+[00:59] category in our case is accessories. And
+[01:02] spoon rest is the child category. As you
+[01:05] can see, a child category can have only
+[01:07] one parent category, while a parent
+[01:09] category can have an unlimited number of
+[01:11] child categories or subcategories if you
+[01:14] prefer. Now, let's make our spoon rest
+[01:16] category more appealing for our
+[01:18] customers. First, let's add a picture of
+[01:20] the category that will be displayed in
+[01:22] the shop page. We'll just click on the
+[01:24] little pencil and select our picture.
+[01:28] Then we see that we have two tabs. A
+[01:30] products tab where we will add the
+[01:32] products that belong in this category
+[01:34] and a description tab for the
+[01:36] description of and a cover image that
+[01:38] will illustrate your category once
+[01:40] you're on the category page. So, let's
+[01:42] add first a description. It will be
+[01:44] artisan made fine ceramics
+[01:49] and a cover uh image and we will select
+[01:52] this image. So the same as our category
+[01:55] image. So we will click save and now if
+[01:58] we go back to the categories dashboard
+[02:01] we can see that the cate we just created
+[02:03] appeared here at the bottom of the list.
+[02:06] So to keep things organized, we can just
+[02:08] click on these little buttons and we can
+[02:10] drag and drop it below accessories which
+[02:13] is our parent category.
+[02:15] The order of the categories here on this
+[02:17] list will be displayed in the same order
+[02:19] as on our catalog page. All right. Now
+[02:23] let's see how to add products to our
+[02:25] categories. There are two ways to do so.
+[02:28] The first way is from the category
+[02:30] itself. So if you click on accessories
+[02:32] spoon rest then we can just go to the
+[02:34] products tab and click add a product and
+[02:38] here we can select from the window that
+[02:40] opens.
+[02:42] Now for the second way we can just go to
+[02:45] e-commerce and products we will select a
+[02:48] product. So because our spoon is still
+[02:50] not published we will unpublish and then
+[02:52] take here and we go to the ecommerce tab
+[02:55] and here in categories we can specify
+[02:58] which category it belongs to. So in our
+[03:00] case, accessories, spoon rest. If you
+[03:02] have many categories, well then you can
+[03:04] just click on search more and then
+[03:06] select it from the list.
+[03:09] Cool. Let's see now what this category
+[03:11] page looks like on our website. So we
+[03:13] will click here on the go to website of
+[03:16] our product. Here we are on our product
+[03:18] page. And if we go to the breadcrumb one
+[03:21] step before it, we see that we are on
+[03:23] the spoon rest category. But if you want
+[03:26] to see, for example, what a more filled
+[03:28] category looks like, well, let's just go
+[03:30] to the shop and go on our merch
+[03:32] category. And here you see what it looks
+[03:34] like.
+[03:39] Okay. Now, let's go to the shop page of
+[03:41] our website. So, first we need to enable
+[03:44] the category section on our catalog. For
+[03:46] that, we will go to the website editor
+[03:50] by clicking on editor and then on style.
+[03:54] So here in the categories we see that we
+[03:56] have already selected that they appear
+[03:57] on the top. Here are categories but we
+[04:00] can also choose to have them in a
+[04:02] sidebar like this. If we click on it you
+[04:04] see that they appear here on the
+[04:05] sidebar. So we have enabled both around
+[04:08] the top and in the sidebar. It's also
+[04:10] possible to hide the child categories by
+[04:13] enabling collapse categories.
+[04:16] And this applies only to the left side
+[04:18] because on top well only parents
+[04:20] categories are shown anyway. Now, to
+[04:22] provide the best user experience to your
+[04:24] customers and express your style, you
+[04:26] can choose from a range of templates
+[04:28] over here. But we will make a video just
+[04:31] about these templates. So, be sure to
+[04:34] check that one out. Here, I want to
+[04:36] display my art in the best way possible.
+[04:38] So, I have selected the big pictures
+[04:40] here at the end. We can also decide to
+[04:43] enable filters. For example, if I put
+[04:46] them in the sidebar, then you will see
+[04:48] that the filters appear over here. or we
+[04:50] can also have them on a offscreen menu
+[04:52] which appears here when you click on the
+[04:55] filters button. We will leave it as a
+[04:57] sidebar.
+[04:59] Once they are enabled, we can choose
+[05:01] whether or not we want to display some
+[05:02] of the attributes like the price for
+[05:04] example or the tags. In our case, we
+[05:06] want to display both of them. You can
+[05:08] see the price appear here. And as I
+[05:11] don't want to display too much
+[05:12] information to my customers, I decided
+[05:14] to make the sidebar sections
+[05:16] collapsible. If I click on it, that
+[05:19] means that they are not collapsible. And
+[05:21] if I enable it here, you see that for
+[05:24] people, so it's easier and clearer,
+[05:26] people can just collapse the sections
+[05:28] like this.
+[05:30] Additionally, you can enable a toolbar
+[05:33] over here where the user can sort the
+[05:36] products in a particular way. You see
+[05:37] that the option appears here or they can
+[05:40] also search for a particular product and
+[05:42] you see that the search button appears
+[05:44] here.
+[05:45] You can configure the default sorting of
+[05:47] the page. For example, could be sorted
+[05:50] by newest arrivals from A to Z
+[05:52] alphabetically from the lowest to
+[05:53] highest price or the highest to lowest
+[05:55] price. So this will impact in which
+[05:57] order your products are displayed. And
+[06:00] you can also decide if you want to use a
+[06:02] static toolbar or a floating one which
+[06:06] you can decide over here. So when I
+[06:08] click on this you see that it is static.
+[06:11] So the search bar and the sold by and
+[06:13] price list are all here statically and
+[06:16] if I click on floating then they appear
+[06:18] below and they will accompany me as I
+[06:20] scroll down the page.
+[06:24] Now for categories of products that
+[06:26] can't be purchased directly like our
+[06:28] customizable ceramics for example you
+[06:31] can display the add to cart function. To
+[06:33] do so, we will go to configuration and
+[06:36] settings and then we will scroll down
+[06:38] until the hide add to cart option. So
+[06:43] here we will enable it and we will
+[06:45] select here it is for specific
+[06:47] categories.
+[06:49] Then here in the categories we will
+[06:51] select for which cate to which
+[06:52] categories this applies and in our case
+[06:55] it will be for the customizable ones. So
+[06:57] we click on add more and we will select
+[06:59] customizable ceramics. just select it
+[07:02] and then we can click on save.
+[07:06] And so once if we go back to our shop
+[07:08] and we go to our personalized
+[07:11] customizable ceramics and to this
+[07:13] birthday mug, we see that instead of the
+[07:16] add to cart button here, there is the
+[07:18] contact us button that appears. And this
+[07:20] will be the case for all of the products
+[07:22] that are inside of this customizable
+[07:24] ceramics category.
+[07:29] Now it's also possible to prevent a
+[07:30] parent category from appearing on the
+[07:32] shop page. So for any category to not
+[07:35] appear on this section over here. To do
+[07:38] this we will go to e-commerce and then
+[07:40] to categories. Then we will select the
+[07:43] category. So for us it will be the sale
+[07:45] category. So for all the elements that
+[07:47] are on sale and we will simply check the
+[07:51] not in shop checkbox. We will save it.
+[07:54] And now if I go to e-commerce and shop,
+[07:57] then we see that the sale category is no
+[08:00] longer here.
+[08:02] And once it's time to launch it, we can
+[08:03] just untick the not in shop checkbox. Of
+[08:07] course, please note that this only
+[08:09] concerns parent categories and not child
+[08:12] categories.
+[08:13] And that's all for this tutorial. Thanks
+[08:15] for watching and as always, check our
+[08:17] online documentation for more
+[08:18] information on the topic. See you in the
+[08:20] next one.

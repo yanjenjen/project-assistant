@@ -1,0 +1,153 @@
+影片 ID: CXg2jaWum_w
+來源: https://www.youtube.com/watch?v=CXg2jaWum_w
+下載時間: 2026-07-30 14:56
+============================================================
+
+[00:00] hello wers and welcome back did you know
+[00:02] that the average user spends between six
+[00:04] and 7even hours online per day the
+[00:07] digital landscape is a huge part of our
+[00:09] lives and web design plays a crucial
+[00:11] role in shaping this landscape to be as
+[00:13] user friendly as possible luckily with
+[00:16] odu's array of building blocks we can
+[00:18] bring virtually any design ID to life
+[00:21] now K do you have any experience with
+[00:24] HTML and CSS and JavaScript and GitHub
+[00:28] and Star Wars um at all no that's all
+[00:32] right because all you need to know
+[00:33] actually is how to drag and drop it's
+[00:35] that simple way to do let's take a look
+[00:38] okay so we're here on our website and
+[00:40] you can literally change everything and
+[00:42] add anything you want but the first
+[00:44] advice I like to give you is in web
+[00:46] design is to keep it simple the main
+[00:48] objective of any website is to make it
+[00:50] easy for the user to get the information
+[00:52] he's looking for K have you ever heard
+[00:55] of something called Web Design
+[00:57] conventions aren't they good practices
+[00:59] for design so that their designs can be
+[01:01] easily followed exactly 10 points to
+[01:04] Griff indeed for example web design
+[01:06] conventions state that there is always a
+[01:08] main button called call to action or CTA
+[01:10] for short in the header that's also a
+[01:13] main title on the page and there's a
+[01:15] logo on the left or in the center of the
+[01:17] header and we also have some social
+[01:20] media in the footer as you can see ODU
+[01:23] directly implements these design
+[01:24] conventions now our goal is to find the
+[01:27] right balance between convention and
+[01:29] innov inovation and to do this we're
+[01:31] going to tackle several elements we want
+[01:33] to edit something so I guess we'll click
+[01:36] on the edit button and in this panel we
+[01:39] have three sections we have the building
+[01:41] blocks which hold all the different
+[01:43] elements we can drag and drop onto our
+[01:45] page to create our site then we have the
+[01:48] customize one which if we select a block
+[01:50] allows us to customize the block we've
+[01:53] selected and we've got theme which will
+[01:55] impact the whole website and not just
+[01:57] the block we selected it's here that to
+[02:00] able to change our fonts if we want to
+[02:03] now fonts are obviously very important
+[02:05] as they're going to affect the
+[02:06] Aesthetics of your site but also the
+[02:08] legibility oo uses Google fonts which
+[02:11] means you have access to thousands of
+[02:13] fonts for
+[02:15] free to change the font it's very easy
+[02:18] we just go here and we can change the
+[02:20] font for all the normal text and for the
+[02:23] heading for example here I in paragraph
+[02:24] which is this text and here in heading
+[02:27] which are the titles and you can see
+[02:29] that we can change The Heading the font
+[02:31] sorry for different types of uh headings
+[02:34] now let's add a new one um and if I do
+[02:37] not like the ones that are already
+[02:38] proposed here in the list I can just say
+[02:41] add a Google font here it tells us
+[02:44] select one font on font. goole.com so
+[02:47] let's click on it and in here I just
+[02:50] have to select the one that I want let's
+[02:52] say that okay I want Rubik when I click
+[02:54] on it and if I exit my full screen I
+[02:58] just need to copy the link
+[03:00] go back to oo and paste it here and you
+[03:05] see he has added Rubik here if I now say
+[03:06] save and
+[03:09] reload he has taken into account um the
+[03:12] font and I can find it here in my list I
+[03:14] can of course just go back and change
+[03:16] any other font if I want to uh go back
+[03:20] now that that's done let's change our
+[03:21] title now of course it's not Odo travel
+[03:24] agency we are called Brussels
+[03:27] sprouts now to make it stand out more we
+[03:30] can use italic for example or we can use
+[03:34] Boldt which is here or we can underline
+[03:37] it we can strike through I mean all the
+[03:39] common things but we also have something
+[03:41] very cool which is called highlight and
+[03:43] it's over here if I click on highlight
+[03:46] um well I can make my text stand out
+[03:48] even more with several options you see
+[03:51] for example o I like this one and there
+[03:53] you go and it can be also just you can
+[03:55] just select one portion of the text and
+[03:57] highlight that one now the last thing
+[03:59] I'd like to share about fonts is that
+[04:01] you can change the limit line length of
+[04:03] your text if I choose for example this
+[04:05] text I can choose um if I want paragraph
+[04:08] to be paragraph to be narrower or
+[04:09] broader Odo has three options the full
+[04:12] width which is like this look how it
+[04:13] changes the 50% width which is like this
+[04:16] or the small
+[04:18] width okay now let's talk about colors
+[04:22] which you can also change in this Theme
+[04:25] tab in Oo we can configure the main
+[04:28] colors which are Prim primary colors and
+[04:30] secondary colors and three other other
+[04:33] colors which are used for light and
+[04:35] darker tones Now by clicking on the
+[04:37] color pette you have some suggestions
+[04:40] just like we had in our website
+[04:42] configurator there are websites that can
+[04:44] help you choose your color palette such
+[04:46] as I'll show you color hunt or adobe
+[04:49] color wheel or you can just look for
+[04:50] them on Google Now for each block you
+[04:54] can change its colors if I select this
+[04:55] block I can change the column and we
+[04:58] have little shortcuts here now these are
+[05:01] the combination of colors that we would
+[05:02] be using the most and we can change
+[05:05] these colors if you just go here in
+[05:07] theme and in the color presets and here
+[05:09] we can just change them as we want now
+[05:13] there are several other options uh in
+[05:15] this Theme tab such as a possibility to
+[05:17] make our website into a postcard if you
+[05:20] go in page layout and we choose postcard
+[05:22] let me show you what
+[05:25] happens there you go it makes it narrow
+[05:27] and I can even put a picture here in the
+[05:29] background
+[05:30] so don't hesitate to play around with
+[05:31] the options as they will certainly make
+[05:33] your website richer and there are a lot
+[05:35] of them now that's it for the Theme tab
+[05:38] now we'd like to focus on these two tabs
+[05:41] blocks and customize which will actually
+[05:43] allow us to create the content of our
+[05:45] website but you know what I'll leave
+[05:47] that for the next video so I'll see you
+[05:49] there

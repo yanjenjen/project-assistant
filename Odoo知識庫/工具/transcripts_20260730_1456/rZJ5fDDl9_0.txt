@@ -1,0 +1,185 @@
+影片 ID: rZJ5fDDl9_0
+來源: https://www.youtube.com/watch?v=rZJ5fDDl9_0
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Hello Odooers and welcome to this
+[00:04] tutorial on payment methods. When you
+[00:07] sell online, offering the right payment
+[00:09] method can make all the difference
+[00:11] between a completed order and an
+[00:12] abandoned cart.
+[00:14] Whether your customers prefer paying
+[00:15] with a card like Visa, a local option
+[00:18] like Bancontact in Belgium, or a digital
+[00:20] wallet, flexibility is key. In Odoo,
+[00:23] these payment methods are connected to
+[00:25] what we call payment providers, services
+[00:27] like Adyen that handle the transaction
+[00:29] securely behind the scenes. So, instead
+[00:32] of setting up each payment method one by
+[00:34] one, you simply connect a provider and
+[00:36] it gives you access to all the options
+[00:38] it supports. In this video, we'll walk
+[00:40] through how to set up a payment
+[00:42] provider, configure the available
+[00:44] methods, and make sure your customers
+[00:46] can pay exactly the way they want. Let's
+[00:48] do this.
+[00:52] Now, the first thing you need to do is
+[00:53] choose a payment provider. Feel free to
+[00:56] choose the one you want. It just needs
+[00:57] to fit your needs and be supported by
+[00:59] Odoo.
+[01:00] Note that Odoo supports almost all the
+[01:02] biggest payment providers, and you can
+[01:04] find a list of them on our online
+[01:06] documentation.
+[01:07] Once you've chosen one, you only need to
+[01:09] go to the provider's website and create
+[01:11] an account. In our case, we already
+[01:14] created an account with the provider
+[01:15] Adyen.
+[01:17] Now, we need to install it and link it
+[01:18] to Odoo. To do this, we'll head to the
+[01:21] settings
+[01:23] and we will type
+[01:24] payment
+[01:26] in the search bar.
+[01:27] Now, this configure payment methods is
+[01:30] the option we are looking for, and we
+[01:31] will just click on find a payment
+[01:33] provider.
+[01:35] Here, we have a multitude of providers.
+[01:38] There are two main categories: custom
+[01:41] payment providers and external payment
+[01:43] providers.
+[01:44] Custom providers are, for example, cash
+[01:46] on delivery, wire transfer, or pay on
+[01:49] site if you activated the click and
+[01:51] collect option in the settings. That
+[01:53] means that in order to use these
+[01:54] methods, you do not need an intermediary
+[01:57] to process transactions.
+[01:59] The external ones are all the other ones
+[02:02] you see here and for which you need an
+[02:03] account. Of course, you're not required
+[02:06] to know by heart all the providers and
+[02:08] what methods they provide. So, to make
+[02:09] things easy, you can just use the search
+[02:12] bar.
+[02:13] And you can search for the method you
+[02:14] want to make available on your website.
+[02:16] For example, we will type Bancontact,
+[02:20] uh which is a very popular method in
+[02:22] Belgium, and then we'll uh click on
+[02:24] search payment methods.
+[02:26] And here we see all the providers that
+[02:28] offer the payment via Bancontact. It's
+[02:30] great because this way you can adapt
+[02:32] your payment method to the country's
+[02:34] market.
+[02:35] If we type something broader, like just
+[02:37] card, for example, and search, then we
+[02:40] get all the providers that offered to
+[02:42] process payments made with a card.
+[02:44] And as we already have an account on
+[02:47] Adyen over here, then we'll simply click
+[02:49] on install.
+[02:50] Perfect. Now, we'll configure it by
+[02:52] clicking on activate.
+[02:58] First, you can choose whether the
+[02:59] provider is disabled, enabled, or in
+[03:02] test mode. Some providers offer specific
+[03:05] credentials for testing environments. If
+[03:07] you have these, you can select test mode
+[03:10] and then you can add these credentials
+[03:12] in the credentials tab, which we'll see
+[03:13] in a minute. In this mode, no real
+[03:16] payment will be made, but the
+[03:17] transaction process can be tested.
+[03:20] So, let's look at the credentials tab.
+[03:22] Here, you can add the credentials for
+[03:24] this payment provider that you'll find
+[03:26] on your account on your provider's site.
+[03:28] So, we'll add ours from Adyen.
+[03:34] Okay. Now, in the configuration tab, you
+[03:37] can set up several important options
+[03:39] that control how payments are processed
+[03:40] on your website.
+[03:42] The payment methods field lets you see
+[03:44] the payment methods the provider will
+[03:46] offer, like credit cards, bank transfer,
+[03:48] or digital wallets.
+[03:50] This allow saving payment method option
+[03:53] lets your customers save their payment
+[03:55] details for future purchases. If
+[03:57] enabled, like this is the case here,
+[03:59] returning customers can check out faster
+[04:01] because they won't need to re-enter
+[04:03] their payment information. This is
+[04:05] particularly useful for businesses that
+[04:07] sell subscriptions.
+[04:08] The capture amount manually option is
+[04:11] useful for businesses that need to
+[04:13] confirm an order before charging the
+[04:15] customer. This is useful when you want
+[04:16] to charge your customer's card only when
+[04:19] you are sure you can ship the goods to
+[04:20] them. When enabled, Odoo will authorize
+[04:23] the payment but won't capture the amount
+[04:25] immediately. You can capture it later
+[04:27] when you're ready to finalize the order.
+[04:29] Going on the right, we have the
+[04:31] availability section. Now, here you can
+[04:33] set restrictions like a minimum and
+[04:36] maximum order value. So, to only allow
+[04:38] this payment method for orders under a
+[04:40] hundred euros, for example.
+[04:42] As well as limit usage to specific
+[04:44] currencies, countries, and price lists,
+[04:46] or leave it open to all.
+[04:49] Finally, we'll go to the messages step,
+[04:51] where we have several messages that fit
+[04:53] this payment provider. For example, when
+[04:56] a payment has been authorized, this
+[04:58] message will be displayed to the
+[04:59] customer and I can change it if I want
+[05:00] to.
+[05:02] Okay, last thing to do to make all of
+[05:03] this work is, of course, to publish the
+[05:06] provider.
+[05:10] Okay, now let's go to our website and
+[05:12] try all of this out. So, we'll go go to
+[05:14] the shop
+[05:16] and we'll select this mango mug.
+[05:19] We'll add it to the cart.
+[05:20] And if you remember, we said that this
+[05:22] payment method had a minimum of a
+[05:24] hundred euros, so let's just go to
+[05:26] a hundred so that we show that the
+[05:27] payment method appears.
+[05:29] When we continue, at the payment stage,
+[05:32] we see the payment method we set up.
+[05:34] Now, these two are the ones linked to
+[05:36] Adyen.
+[05:37] There are also orange triangles next to
+[05:39] them, but that's just to warn us that
+[05:41] they are in test mode. Once we enable
+[05:43] the Adyen method, then the triangles
+[05:45] will just disappear.
+[05:47] Now, to pay, clients can just select the
+[05:49] payment method and then fill in their
+[05:52] info
+[05:53] and then they can just place their
+[05:54] order.
+[05:55] And over here, we have the save my
+[05:57] payment details checkbox that we saw
+[06:00] earlier in the options.
+[06:02] And there you go. Now, your clients can
+[06:04] choose the easiest method to pay for
+[06:05] their purchases. Thanks for watching
+[06:07] this video and don't forget to check our
+[06:09] online documentation for more
+[06:10] information on this topic. See you in
+[06:12] the next video.

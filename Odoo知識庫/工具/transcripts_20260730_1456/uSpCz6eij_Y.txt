@@ -1,0 +1,127 @@
+影片 ID: uSpCz6eij_Y
+來源: https://www.youtube.com/watch?v=uSpCz6eij_Y
+下載時間: 2026-07-30 14:56
+============================================================
+
+[00:00] hi dear doers and welcome to this video
+[00:02] on translations how are you Kiara I'm
+[00:05] doing great thanks Kiara if I remember
+[00:07] correctly you're Italian so when you go
+[00:10] to all these Pages here in Belgium that
+[00:12] are completely in Dutch I bet you feel
+[00:14] kind of lost yeah that's kind of a
+[00:15] problem so then when you go on a website
+[00:18] and you see a version in Italian how do
+[00:20] you feel about it makes me feel right at
+[00:22] home well that's great cuz that's the
+[00:24] point having your website in multiple
+[00:26] languages helps you reach a larger
+[00:28] audience improves user exper experience
+[00:30] and boost business prospects and since
+[00:33] offering your Odo website in several
+[00:35] languages would attract the attention of
+[00:36] an international market your company
+[00:38] would also be identified as a global
+[00:40] brand so let's take a look at how
+[00:42] translations work in ODU so as you can
+[00:45] see our website is entirely in English
+[00:48] now to translate it we first need to add
+[00:50] another language to our website to do
+[00:53] that we'll head over to our trusted
+[00:55] settings so here we see the languages
+[00:58] that our uh website is in for the moment
+[01:01] it's only in English before we select a
+[01:03] language we need to install a new one
+[01:06] I'll just click install languages and I
+[01:08] can choose any language I want in my
+[01:10] case I'm going to choose
+[01:12] Italian now I also select the website I
+[01:15] want to be translated this only appears
+[01:17] if you manage more than one website from
+[01:19] your database so let's add
+[01:23] it and now that this has been uh added
+[01:27] we can see that Italian appears
+[01:29] automatically in in the list of the
+[01:30] languages my website is in you can
+[01:33] easily add any other language you want
+[01:34] to just install them first or you can
+[01:37] remove them by clicking on the little X
+[01:39] next to the languages I can also change
+[01:42] my default language now this should be
+[01:44] set as a language your most comfortable
+[01:46] in and in which you want your website to
+[01:48] be displayed when you're building it or
+[01:50] making changes to it in my case I'll
+[01:52] leave it as English now let's save and
+[01:56] let's go back to our front end on the
+[01:58] services page
+[02:00] so we notice now that we have a little
+[02:03] language selector right here which
+[02:04] allows us to switch between the
+[02:06] languages we just added of course we can
+[02:08] customize the look of the selector we'll
+[02:11] just click edit select the language
+[02:13] selector and we'll scroll all the way
+[02:16] down here where we can choose if we want
+[02:17] this selector to be displayed as an
+[02:19] inline or a drop-down we can also choose
+[02:23] if you want it to be shown as a text a
+[02:25] flag a flag on text and so on I'm going
+[02:29] to choose Flex uh flag and text because
+[02:31] I think that's clear now we see that it
+[02:34] is a flag a text and we just have to hit
+[02:37] save now let's switch to the Italian
+[02:41] version now we see that ODU already
+[02:44] translates the basic elements of your
+[02:46] website like the footer and the contact
+[02:49] button but it hasn't translated all the
+[02:51] words so let's translate the remaining
+[02:53] ones if I click edit we have two options
+[02:57] that's because we're not on in our main
+[02:59] language
+[03:00] so the two options we have the usual
+[03:03] edit button with English language next
+[03:05] to it and that's because we set this
+[03:07] language as our default language
+[03:09] remember this means that if I want to
+[03:11] make changes other than translations to
+[03:13] my website the language will R to
+[03:16] English as we can only addit our site in
+[03:19] our main language if I click translate
+[03:22] then it will stay in Italian and I can
+[03:24] make translations but only that so let's
+[03:27] click
+[03:28] translate now now we see that we have
+[03:30] two colors two sets of colors if I go
+[03:33] down here we have yellow and green now
+[03:36] yellow tells us everything that still
+[03:38] has to be translated to Italian and
+[03:40] green shows us everything that has been
+[03:42] translated to Italian already so if I
+[03:45] translate something yellow for example
+[03:47] romantic Brussels how do you say that in
+[03:49] Italian Kara brel Romantica brel ah that
+[03:52] is so beautiful and so easy there you go
+[03:55] uh we see that it Go the color turns
+[03:58] green which signals that we have uh that
+[04:00] this text has been translated now if we
+[04:03] translate a button such as this one
+[04:05] let's try it so how do you say view our
+[04:07] travel packages in Italian
+[04:10] K okay how do you say see
+[04:13] more yeah that's that's that's more like
+[04:15] it let's put it vpu with your accent in
+[04:18] the right uh Direction and we see that
+[04:21] the three buttons are translated at once
+[04:24] this is useful because it means that you
+[04:25] don't have to go and translate every
+[04:28] single button
+[04:30] and there you are just like that our
+[04:32] entire website is now understandable to
+[04:34] people who only speak Italian and the
+[04:36] good thing is that you can do it in any
+[04:38] language you can think of even Kling on
+[04:40] or DOI though You' probably have a very
+[04:43] limited audience if you did that that's
+[04:45] it for this video and I'll see you in
+[04:46] the next one bye-bye

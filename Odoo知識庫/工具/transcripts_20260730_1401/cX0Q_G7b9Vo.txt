@@ -1,0 +1,198 @@
+影片 ID: cX0Q_G7b9Vo
+來源: https://www.youtube.com/watch?v=cX0Q_G7b9Vo
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:00] [music]
+[00:05] Welcome back, Odoers. As you may know, I
+[00:08] love these chocolate snacks. I love them
+[00:12] so much, I have a whole stash of them in
+[00:14] my studio. Whenever I'm running low, I
+[00:16] grab more to replenish my stock.
+[00:21] And whenever I want to eat some, I
+[00:22] usually take snacks from the top. Great
+[00:24] example of top of the box removal
+[00:27] strategy. But because some of the snacks
+[00:29] at the bottom rarely get picked, I
+[00:31] occasionally have snacks that go past
+[00:33] the expiration date. And there's nothing
+[00:36] worse than biting into a stale panda.
+[00:39] Trust me, nobody wants that to happen to
+[00:41] their snacks. And the same can be said
+[00:43] about the perishable products that your
+[00:45] business keeps in stock. Today, we'll
+[00:48] explore the solution to this problem.
+[00:50] the first expired, first out, aka FIFO
+[00:53] removal strategy, which is one of the
+[00:55] five strategies of taking your products
+[00:58] out of stock. When using FIFO, ODU keeps
+[01:01] track of the expiration dates of each
+[01:03] product and chooses the ones that will
+[01:05] expire soonest to be picked first. This
+[01:08] removal strategy is perfect for goods
+[01:10] like food or even medicine, things that
+[01:14] we want to make sure we don't ship out
+[01:15] to customers when they expire. It
+[01:18] ensures that we remove products from
+[01:20] stock before they reach their expiration
+[01:22] date and we ship out products that are
+[01:24] expiring soonest. Now, enough chitchat.
+[01:27] Let me show you how to set up FIFO. To
+[01:29] use removal strategies, we'll need to
+[01:31] enable lots and serial numbers by going
+[01:33] to configuration followed by settings.
+[01:36] Here on the settings page, we're just
+[01:38] going to scroll down to our traceability
+[01:40] section. And here, we want to make sure
+[01:42] lots and serial numbers is ticked and
+[01:44] enabled. This feature helps us track
+[01:47] product information for all products
+[01:48] within a specific lot or serial number
+[01:51] to distinguish identical products from
+[01:53] one another. Here we also want to make
+[01:55] sure we have expiration dates enabled
+[01:57] for detailed tracking of expiration best
+[02:00] before and removal dates. Now this
+[02:03] feature won't appear unless you have
+[02:05] lots and serial numbers enabled. So make
+[02:08] sure to click save if you don't have
+[02:09] that enabled yet.
+[02:12] With those settings in place, I'll now
+[02:13] configure expiration dates for our
+[02:15] beloved Choco Snack. To do that, I'm
+[02:18] going to click products at the top,
+[02:19] followed by products once again, and
+[02:21] then click on our Choco Snack.
+[02:24] Next, we'll make sure our product is
+[02:26] tracked by lots. By default, items are
+[02:30] tracked by quantity, but we must track
+[02:32] lots or seal numbers to track expiration
+[02:35] dates. I also want to make a quick note
+[02:37] here of the category we're using for
+[02:40] this product is our goods slash food and
+[02:43] drink. We'll need to remember that for
+[02:45] later when we set up our removal
+[02:46] strategy.
+[02:48] Now to manage how expiration dates are
+[02:50] handled by default, let's open up our
+[02:52] inventory tab and then here we just need
+[02:55] to enable the checkbox for expiration
+[02:58] date.
+[03:01] When we do, we see a list of dates
+[03:03] appear.
+[03:05] Now, the FIFA removal method will pick
+[03:07] the product with the soonest removal
+[03:09] date first. The removal date set by the
+[03:12] user on the product is a certain number
+[03:14] of days before the product's expiration
+[03:16] date on which the product must be
+[03:18] removed from stock. And here we can see
+[03:21] that this is currently set to 90 days
+[03:23] before the expiration date, which means
+[03:26] my customers have 3 months or more to
+[03:28] eat the Choco Snack before it expires.
+[03:31] For more information on the removal date
+[03:33] and other dates in this list, refer to
+[03:35] our expiration dates video. So, in our
+[03:38] database, we can track the expiration
+[03:40] dates of our Choco Snacks by going up to
+[03:42] the product subheading and clicking on
+[03:44] lots and serial numbers. In the search
+[03:47] bar, we'll remove the location filter
+[03:50] and add our product group by function.
+[03:54] Then, we'll expand the Choco Snack list
+[03:57] here so we can see all the lots that are
+[03:59] assigned to this product. To view the
+[04:01] expiration dates, there are a few
+[04:02] additional options we need to enable on
+[04:04] this report. So, we'll click on the
+[04:06] additional options menu. And then here,
+[04:09] we'll add the removal date, expiration
+[04:11] date, as well as onhand quantity.
+[04:15] This adds columns to the report,
+[04:17] providing a quick overview of upcoming
+[04:19] expirations and quantities. The removal
+[04:22] date tells us which date the products
+[04:24] should be removed from stock with the
+[04:26] FIFO strategy, selecting the earliest
+[04:29] date. In this case, we have lot one
+[04:31] indicating the removal date is September
+[04:33] 4th. We can also directly modify the
+[04:36] expiration date by clicking on the exact
+[04:38] lot itself and then clicking on the
+[04:41] expiration field. Then in the expiration
+[04:44] date field, if we were to change the
+[04:46] expiration date to something like last
+[04:48] year,
+[04:55] we would see that the best before,
+[04:57] removal, and alert dates all adjust. And
+[05:00] we also get an expired alert at the top
+[05:03] right saying this product's lot is now
+[05:05] expired. With that in place, this lot
+[05:08] would never be reserved and used to
+[05:10] fulfill a customer's order. But for this
+[05:13] lot, let's go ahead and click the
+[05:14] discard button to put things back to
+[05:16] normal.
+[05:18] All right, O doers. Now, let's take a
+[05:20] look at the FIFO strategy in action. For
+[05:22] this example, we're going to set the
+[05:24] removal strategy on the product
+[05:26] category. Can also be set up on a
+[05:28] location like I've shown in other
+[05:29] videos, but for this video, we're going
+[05:31] to do it on the product category. To set
+[05:33] a removal strategy on a product
+[05:35] category, we'll click configuration at
+[05:37] the top, followed by categories. And
+[05:39] then here in our categories page, we're
+[05:41] going to click on our food and drink
+[05:43] category, which I'm sure you remember
+[05:44] from earlier.
+[05:46] Here on this page, in the force removal
+[05:49] strategy, we're going to select FIFO
+[05:51] first expiry first app. And then click
+[05:54] save to save all of our changes. All
+[05:57] right, with our setup out of the way,
+[05:59] let's start selling and see how all of
+[06:00] our products are automatically chosen
+[06:02] for us using the FIFO strategy.
+[06:05] All right, to start selling, we're just
+[06:07] going to jump into the sales app and
+[06:09] then click new to create a new
+[06:10] quotation. The customer in this
+[06:12] situation is me because I love these
+[06:15] dang snacks so much. In fact, I love
+[06:18] them so much, I'm going to order way
+[06:20] more than I should, I'm going to add the
+[06:22] Choco Snacks to our product lines, and
+[06:24] we're going to get 32 of these bad boys.
+[06:28] Then we'll click confirm on the quote
+[06:31] and then we'll click the delivery smart
+[06:33] button at the top.
+[06:36] On the delivery forms operation tab, we
+[06:38] can see we have 32 demanded and we've
+[06:41] also reserved a quantity of 32 of these
+[06:44] snacks. When I click the details link
+[06:46] right next to it, we have a detailed
+[06:49] operations popup window and it tells me
+[06:51] exactly which lots are picked as well as
+[06:54] how many from each lot. So because items
+[06:57] from lot one and lot two expire earlier,
+[07:00] the items in those lots were getting
+[07:02] prioritized to be picked. Finally, the
+[07:05] remaining two are coming from lot three,
+[07:08] whose removal date is latest. Now that
+[07:11] we've confirmed that ODO has
+[07:12] automatically selected the products that
+[07:14] will expire first, we can rest assured
+[07:16] that ODU is prioritizing the items based
+[07:18] off of their expiration dates. Pretty
+[07:21] cool, right? And there you have it,
+[07:23] folks. With some simple setup, you owe
+[07:25] doers can get products off the shelves
+[07:27] well before they reach expiration dates.
+[07:30] To learn more about the other four
+[07:31] removal strategies, check out our other
+[07:33] videos. And until then, I'll see you
+[07:36] next time.

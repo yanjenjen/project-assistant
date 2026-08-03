@@ -1,0 +1,314 @@
+影片 ID: oGTIn2TOdkY
+來源: https://www.youtube.com/watch?v=oGTIn2TOdkY
+下載時間: 2026-07-30 14:03
+============================================================
+
+[00:04] Hello Doers, it's Stealthy Wood. We're
+[00:06] looking for ways to speed up our order
+[00:08] fulfillment process without creating
+[00:10] extra chaos. Odoo has several picking
+[00:12] methods. Single picking, which is the
+[00:14] default, is one picker per order. This
+[00:17] is what we used to use and is
+[00:19] inefficient for a warehouse as big as
+[00:21] ours. So, batch picking is when one
+[00:23] picker selects products for multiple
+[00:25] orders at once, then sorts them at a
+[00:27] designated location. Wave and cluster
+[00:30] picking are other methods that you can
+[00:31] explore inside of Odoo, each with its
+[00:34] own strategies for shortening the time
+[00:35] our pickers take to grab items and get
+[00:38] them ready for customers.
+[00:39] Check out our other videos in the
+[00:41] description for those. So, with batch
+[00:43] picking, you spend less time walking
+[00:44] back and forth in the warehouse, you
+[00:46] gather all the items needed for several
+[00:48] orders in a single run, and then sort
+[00:50] them once that you're done. And a quick
+[00:53] note,
+[00:54] you've heard of batch picking and batch
+[00:56] transfers, which one is it? Inside of
+[01:00] Odoo, a batch transfer is when we group
+[01:02] multiple transfers together. This can be
+[01:04] for a picking, internal transfer, and a
+[01:07] delivery, which is moving a product
+[01:09] inside the warehouse to outside. Batch
+[01:11] picking is a picking method and only
+[01:14] refers to the act of taking items off
+[01:16] shelves for an order to then bring them
+[01:18] to an output location where the products
+[01:20] are sorted. So, when you hear batch
+[01:23] picking, that's the process of picking
+[01:25] items for multiple orders at once, but
+[01:28] behind the scenes, it's done through
+[01:29] these batch transfer records. Now,
+[01:32] enough chitchat, let's dive into our
+[01:33] Odoo database.
+[01:36] So, first, let's make sure that batch
+[01:37] transfers are enabled. So, we're
+[01:39] actually going to go up to configuration
+[01:40] up at the very top, and you guessed it,
+[01:42] we're going to select settings as we've
+[01:43] done a thousand times before. So, under
+[01:46] the operation section, make sure batch,
+[01:49] wave, and cluster transfers checkboxes
+[01:52] enabled. So, perfect. Let's actually
+[01:54] scroll down because I need to make my
+[01:56] way over to shipping over here.
+[01:58] So, I happen to have delivery methods
+[02:00] enabled and under shipping connectors
+[02:02] over here, I have UPS and FedEx as well.
+[02:05] Make sure any shipping connectors for
+[02:07] your carriers are activated as well.
+[02:09] So, we're actually going to need these
+[02:11] soon to sort orders by carriers. So,
+[02:14] stay tuned.
+[02:15] So, next scroll down and we're going to
+[02:18] confirm something else. Where are we at?
+[02:21] We're looking at
+[02:23] So, here we go.
+[02:24] Okay. So, we'll also want to make sure
+[02:26] that we have storage locations as well
+[02:28] as multi-step routes located over here
+[02:31] under our warehouse section both
+[02:33] selected as well. So, that allows us to
+[02:35] specify exactly where our products are
+[02:37] stored and how they move through the
+[02:39] actual warehouse. If you're changing
+[02:41] these for the first time, don't forget
+[02:42] to go up to the very top left and hit
+[02:44] save. It'll save you time.
+[02:47] So, next let's click configuration once
+[02:49] again and this time we're going to
+[02:50] select warehouses. We're going to select
+[02:52] our stealthy wood warehouse. Beautiful.
+[02:55] So, in the outgoing shipments field, we
+[02:57] have it set to two steps right there. In
+[03:00] Odoo, batch transfers work with one,
+[03:02] two, and three-step delivery flows. So,
+[03:05] since batch picking involves one team
+[03:07] picking and bringing the products to a
+[03:09] sorting location, the second step is
+[03:11] where products get sorted into each
+[03:13] order and delivered. However, a
+[03:15] single-step delivery can still use batch
+[03:17] transfers. It means you'll be sorting in
+[03:20] real life, but the Odoo sorting step
+[03:23] well, that's not going to get recorded
+[03:25] inside of Odoo. So, for more on these
+[03:28] steps and how many steps you should use,
+[03:30] check out our basic warehouse setup
+[03:32] tutorial that I have.
+[03:34] All right. So, now up next, let's make
+[03:36] sure and I need to show you actually how
+[03:39] Odoo does some heavy lifting and
+[03:40] automatically groups our orders into
+[03:42] batches. So, we set this on an operation
+[03:45] type. So, in our warehouse, we have
+[03:47] someone strategically
+[03:49] in other words, manually strategically
+[03:51] assign orders for our pickers.
+[03:54] But, when we sort, we want to quickly
+[03:56] group the orders. So, to do that, we can
+[03:58] figure automatic batches by going up to
+[04:00] configuration, and this time we're going
+[04:02] to make our way over to operation types.
+[04:04] So, perfect. You're going to want to
+[04:06] select delivery orders. So, in the batch
+[04:09] wave and transfers one that we have down
+[04:10] here at the very bottom, we're going to
+[04:12] tick the automatic batches box right
+[04:14] there. So,
+[04:16] these days we've been fulfilling a ton
+[04:18] of orders from about the same clients.
+[04:21] So, we want to make sure that we
+[04:22] actually have carrier ticked over here
+[04:24] on the right.
+[04:26] And then you'll see later, but setting
+[04:28] automatic batches creates batches of
+[04:29] delivery orders based on the same
+[04:31] carrier.
+[04:32] So, now let's see how we assign or
+[04:33] create picking tasks in our warehouse
+[04:36] for our warehouse workers. So, we're
+[04:38] going to go back over to our inventory
+[04:39] dashboard after we manually save by
+[04:41] selecting overview up at the very top.
+[04:44] Okay, so in the pick card, we actually
+[04:46] happen to have five orders.
+[04:49] I'm going to click our little dots that
+[04:50] we have over here in the top right, and
+[04:53] we're going to select prepare batch. Oh,
+[04:55] look at that.
+[04:56] So, a little bit about our warehouse.
+[04:58] Our shelves are very tall since we're a
+[05:00] large warehouse. Shelves labeled G are
+[05:03] at eye level. Shelves labeled L, well,
+[05:06] they're higher, requiring a ladder.
+[05:08] I can assign items from L shelves to
+[05:11] Nathan. He's basically a pro climber.
+[05:14] Little shout out to you, Nathan. And G
+[05:16] shelves to Jose. He has bad knees, so we
+[05:19] keep it easy for him.
+[05:22] All right. So, right now, to add
+[05:24] pickings to the batch, I'm going to
+[05:27] click add a line at the very bottom over
+[05:29] here.
+[05:30] All right. So, in the window expand
+[05:33] right now, we're going to expand our
+[05:34] nice little reference, just so that you
+[05:36] could see where we're picking from.
+[05:39] Okay, we're going to tick all of the
+[05:41] boxes that we want right here.
+[05:44] And then, once that we're done,
+[05:46] we just hit Well, I could have still
+[05:47] left it in the top left. We hit select.
+[05:50] Okay, so I can't see the exact stores
+[05:52] locations yet. So, I'm going to confirm
+[05:54] on the draft badge just for right now.
+[05:58] So,
+[05:59] right now we're going to go and confirm
+[06:01] this.
+[06:02] And then,
+[06:03] right now in our detailed operations
+[06:05] tab,
+[06:06] I can differentiate the locations by
+[06:08] whether it's on the ground or needs a
+[06:09] ladder to reach.
+[06:11] Oh,
+[06:12] well, would you actually look at that?
+[06:15] By some odd coincidence, all these items
+[06:17] happen to be located on the L shelf.
+[06:21] You can see that in our from area.
+[06:23] If there were any items located at G,
+[06:25] I'd simply click on the trash icon that
+[06:28] we happen to have, and we'd make another
+[06:30] batch for Jose later.
+[06:31] So, next I'm going to set the
+[06:33] responsible to Nathan
+[06:35] because we talked about this.
+[06:37] And then we just hit save.
+[06:39] And the batch happens to be assigned.
+[06:42] So, next let's get ready to pick the
+[06:44] items using the barcode app. So, to do
+[06:46] that, I need the barcodes. So, I'm
+[06:48] actually going to click the gear icon up
+[06:50] in the top over here. Select batch
+[06:53] transfer.
+[06:54] And the barcodes and sheets would look
+[06:56] something like this. The first page
+[06:58] contains barcodes of the batch and the
+[07:00] pickings. And the second page has all
+[07:02] the product barcodes, which we're going
+[07:04] to need later. Now, let's get picking.
+[07:07] All right. So, as the picker, I'm
+[07:08] actually going to open up the barcode
+[07:10] application.
+[07:12] Now, with my trusty scanner, which
+[07:13] happens to be in hand, I'm going to tap
+[07:16] on operations over here. If I wanted to,
+[07:18] I could also scan the picking barcode.
+[07:21] But, once inside of here, we're going to
+[07:22] select pick.
+[07:24] Okay, perfect. So, here we are.
+[07:26] So, at the very top, we actually want to
+[07:28] select our batches tab and then select
+[07:30] it again.
+[07:31] Perfect. So, above every product, if you
+[07:34] could tell, it actually shows the
+[07:35] location for it. So, this one says shelf
+[07:39] 1/L.
+[07:41] So, let's walk there right now and
+[07:42] pretend with me. We're going to scan our
+[07:44] location barcode just so that we know.
+[07:47] And would you look at that?
+[07:48] All right. Then, we want to scan the
+[07:50] first product, which happens to be the
+[07:52] cable management box.
+[07:55] Once that we get that one right there,
+[07:56] would you look at that? Oh, and since I
+[07:58] need five of those, I'm going to scan it
+[08:00] four more times.
+[08:02] Or, if you wanted to, you can also just
+[08:07] Trying to make sure I do the math right
+[08:08] right there.
+[08:09] You could have also just click the plus
+[08:10] one.
+[08:11] And once that we're done, we're going to
+[08:13] climb down that ladder and put the items
+[08:15] in our cart and move on to the next
+[08:16] item. And now, you know what we'll do
+[08:18] for all of the rest of these items,
+[08:20] which is the exact same thing. So, I'm
+[08:22] going to skip ahead by tapping on our
+[08:24] plus one.
+[08:25] And we're going to move forward with
+[08:27] pretty much all of these as we go along.
+[08:30] Just to make sure. All right, there we
+[08:32] go. We're getting everything done. And
+[08:35] the very last item is
+[08:37] a sofa.
+[08:38] So,
+[08:39] I'm not sure how I'm getting that down
+[08:41] the ladder, but thankfully, I don't have
+[08:44] to demo moving furniture to UO doers.
+[08:47] So, we're just going to hit plus one.
+[08:49] Wink.
+[08:51] All right, finally it's time to drop
+[08:52] them off in our output location. So, if
+[08:55] you have two or three-step flow, the
+[08:57] output location is where the sorting
+[08:59] team finalizes everything, but the main
+[09:01] picking task is done. So, in our case,
+[09:02] we're going to hit validate, and we're
+[09:05] done.
+[09:07] Okay, now let's pretend that I'm a
+[09:08] different user in charge of packing and
+[09:10] sorting. I'm going to open up our
+[09:12] inventory application over here. And
+[09:15] because we set automatic batches to
+[09:17] group by carrier, the delivery orders
+[09:20] card shows, would you look at that? We
+[09:22] have two batches. Let's click into that
+[09:24] right there. So, in the description
+[09:26] column over here, we're going to see one
+[09:28] for UPS and another for FedEx. So, we're
+[09:31] going to open up our FedEx batch over
+[09:33] here.
+[09:34] And then, we're going to go to our
+[09:35] detailed operations tab. and here
+[09:38] indicated by three different transfer
+[09:40] numbers all of them actually happen to
+[09:42] be grouped by the actual carrier. Now,
+[09:47] I'm just going to make sure that each
+[09:48] order has the right items and
+[09:49] quantities. Okay, okay. And then once
+[09:52] that we're set we're going to select
+[09:54] validate in the top left corner and
+[09:56] someone will take these packages to the
+[09:57] FedEx drop-off center who will then send
+[10:00] it straight to our customers and that's
+[10:01] it. Our orders are picked, sorted and
+[10:03] ready to ship. There you have it. Our
+[10:05] orders are picked, sorted and ready to
+[10:07] ship like I just said. And we talked
+[10:10] through and walked through how to set up
+[10:12] batches and use the barcode app to pick
+[10:14] multiple orders in a single run. This
+[10:16] workflow can save your team serious time
+[10:19] and footsteps on the warehouse floor. If
+[10:21] you want to explore other picking
+[10:22] methods like perhaps wave or cluster
+[10:24] picking or if you need more advanced
+[10:27] grouping rules, be sure to check out our
+[10:28] other videos on the official Odoo
+[10:31] YouTube and the documentation site. We
+[10:34] also have a tutorial about dispatch
+[10:35] management. That's if you have specific
+[10:38] loading docks and you need to coordinate
+[10:40] with drivers to deliver packages
+[10:42] directly to multiple drop-off points.
+[10:44] Thank you for watching Odooers. I'll see
+[10:46] you in the next one.

@@ -1,0 +1,242 @@
+影片 ID: SLAMX3gPyEg
+來源: https://www.youtube.com/watch?v=SLAMX3gPyEg
+下載時間: 2026-07-30 14:56
+============================================================
+
+[00:03] Hello Odors, welcome to this course on
+[00:05] e-commerce. In this series, you'll learn
+[00:08] how to create and manage your online
+[00:09] store with Odoo.
+[00:11] And where better to start than setting
+[00:12] up your first product?
+[00:14] Nobody wants a long introduction, so
+[00:16] let's dive right in.
+[00:19] Okay, so first we'll open the website
+[00:21] app. And then from here, we will access
+[00:23] the shop page by clicking on shop.
+[00:26] So, we'll start by creating a product.
+[00:28] Now, we are artisan ceramic shop that
+[00:31] just released a brand new rainbow mug.
+[00:34] So, to create this product, we'll just
+[00:35] click on new on the upper right, and
+[00:38] then we click on product.
+[00:40] Now, here we can add a lot of
+[00:41] information. We'll start by adding our
+[00:44] product name, which will be the rainbow
+[00:46] mug.
+[00:47] Then we'll specify the price in sales
+[00:48] price, which will be the which will be
+[00:51] 25 euros.
+[00:53] And the taxes, we'll leave it like that,
+[00:54] so it will be 21% that is added. And
+[00:57] then we will add a picture by clicking
+[00:59] on the pencil over here.
+[01:01] And here we can just add any file from
+[01:03] our computer. And just like that, it's
+[01:05] added. Now, the last thing we're going
+[01:07] to do is we are going to choose to which
+[01:09] website category this product pertains.
+[01:11] So, you have a list of all the
+[01:12] categories on our website, and of
+[01:15] course, our rainbow mug goes in the mugs
+[01:17] category.
+[01:18] We click save, and here you go. We have
+[01:21] a product page.
+[01:23] Now, of course, we can make it even more
+[01:25] appealing with some details. Let's for
+[01:27] example add a description.
+[01:29] So, I don't want to write the
+[01:31] description, so all I have to have to do
+[01:33] is click on the slash button, and then
+[01:36] type AI. And if I select this menu, then
+[01:40] the AI agent appears.
+[01:42] Here, I can write my prompt, so write a
+[01:46] short description for this product.
+[01:50] Hit enter, and then the agent is
+[01:52] thinking and comes up with a
+[01:53] description. I can just click on use
+[01:55] this.
+[01:56] And if I close my agent, we see that it
+[01:58] has appeared here on my page. So, let's
+[02:02] click save.
+[02:04] Okay, so this looks nice and you have to
+[02:07] know that Odoo lets you customize each
+[02:09] product and product page independently.
+[02:11] So, that means that the changes made on
+[02:13] this page will not affect the other
+[02:15] product pages.
+[02:16] So, let's make some other changes. Uh if
+[02:19] for example, you do not want the review
+[02:21] button to appear, well all you have to
+[02:22] do is click on edit over here and then
+[02:25] go to the style tab. And here you have
+[02:27] all the general options of your page.
+[02:29] For example, here we see that the
+[02:30] reviews are toggled on. So, if I click
+[02:32] on it, it toggles off and you see that
+[02:34] they disappear. But in our case, reviews
+[02:36] add a trust factor, so we will leave
+[02:39] them on and now the visitors can review
+[02:41] this product.
+[02:42] If you want the terms and conditions to
+[02:44] appear as we want to because they're
+[02:45] active, then they will appear over here
+[02:48] and you can change them as you want. So,
+[02:49] for example, I want this to be 5 to 8
+[02:51] days, for example. If you want to enable
+[02:53] a search bar, for example, so that the
+[02:55] person can search through the page, then
+[02:58] we can do that as well. We enable it and
+[02:59] the search bar appears over here.
+[03:02] So, for now this suits our needs, so
+[03:04] we'll just click on save. When we click
+[03:06] save, well the page is automatically
+[03:09] published as long as it is related to an
+[03:12] existing category, which we did in the
+[03:14] beginning when we created our products.
+[03:16] If you don't want your page to be
+[03:17] published right away, you can just
+[03:19] toggle the button off here and then your
+[03:22] page will not be published and nobody
+[03:24] can see it on your website except for
+[03:26] you.
+[03:27] And if you need to access the back end
+[03:29] to change some more detailed
+[03:30] information, well then simply click on
+[03:32] the product button over here
+[03:34] and here we are on the back end.
+[03:40] Now, of course, you can also create a
+[03:42] product directly from the back end. So,
+[03:45] when you go to your products dashboard,
+[03:46] which we do by click on e-commerce and
+[03:48] then products,
+[03:50] from here we can click on new.
+[03:53] So, here we can add our name. So, let's
+[03:56] take another product. We'll take the
+[03:58] blue ceramic uh
+[04:00] plate.
+[04:02] And we can add a picture by clicking on
+[04:04] the pencil once more and choosing our
+[04:06] blue ceramic plate picture.
+[04:10] Now, if we go to the general information
+[04:12] tab, well, then we can select the
+[04:14] product type. In our case, it's a good
+[04:16] and we can add the price. So, in our
+[04:19] case, it will be 18 euros.
+[04:22] We have also other info that you can
+[04:23] fill in such as the acquisition cost,
+[04:26] the purchase taxes, and other fields
+[04:28] which can have impact on your
+[04:29] accounting, inventory, or reporting.
+[04:32] But, we don't need them for now.
+[04:34] If you go to the attributes and variants
+[04:36] tab, we can add attributes and variants,
+[04:39] which we'll explain in the next video.
+[04:41] In the e-commerce tab, we can directly
+[04:43] publish our product by toggling it on or
+[04:46] off.
+[04:47] We can edit the description over here
+[04:49] and we can add categories over here.
+[04:52] We can also add some tags so we can find
+[04:54] our products easily and we can add extra
+[04:56] media by clicking on add media and here
+[04:59] we can click we can add some pictures or
+[05:01] we can add some videos with a YouTube,
+[05:04] Vimeo, Dailymotion, Facebook, or
+[05:05] Instagram link.
+[05:08] If you go to the sales tab, well, here
+[05:10] we can manage our upsell, cross-sell,
+[05:12] and alternative products. But, we're
+[05:14] also going to see those topics in an
+[05:16] other video.
+[05:17] Finally, in the prices tab, you can add
+[05:20] one or more price lists if you enable
+[05:22] the option in the settings. Once more,
+[05:24] we will talk about price lists in a
+[05:26] dedicated video later on in this course.
+[05:29] Okay. So, now we can go to the website
+[05:32] and we see that this product is also
+[05:34] published. And once more, if you want to
+[05:36] edit it and add other features to it,
+[05:39] just click on edit and add whatever you
+[05:42] want.
+[05:46] Okay, so we're back on our products
+[05:47] dashboard. Now, if you've got a long
+[05:49] list of products to upload or you have
+[05:51] exported your products from another
+[05:52] website and you want to add them to
+[05:54] Odoo, well, you can just batch import
+[05:56] them using an Excel or a CSV file like I
+[05:58] have over here.
+[06:00] So, I have four products that I want to
+[06:02] batch import. This is easier to do than
+[06:04] to import product per product on Odoo.
+[06:07] Now, if you don't know which template to
+[06:09] use, well, just click on the cog icon
+[06:11] over here and then click on import
+[06:13] records.
+[06:14] And here you see that suggests eight
+[06:17] template to download and then you can
+[06:18] fill in with your products.
+[06:20] Once you have your file, you can import
+[06:22] your products by clicking on upload data
+[06:24] file and then selecting your files or
+[06:27] you can just drag and drop it by taking
+[06:30] your file and dropping it in Odoo. And
+[06:33] here you see that the columns that are
+[06:35] on your file appear over here. Now, you
+[06:37] have to make sure that the fields match
+[06:39] the columns that correspond to. So, for
+[06:40] example, here we see that the name of
+[06:42] the columns are external ID, name,
+[06:44] product type, internal reference, and so
+[06:46] on. And if you go on our file, we see
+[06:48] that the columns are also named external
+[06:51] ID, name, product type, internal
+[06:52] reference, and so on.
+[06:55] So, because we are
+[06:57] choosing to publish products along with
+[06:59] their pictures, you can see that there
+[07:01] is a files to import section over here
+[07:04] and a upload your files smart button.
+[07:07] So, when we click it, we can select the
+[07:09] pictures that go with our products. But,
+[07:12] a word of advice, you have to make sure
+[07:14] that the image file names, so for
+[07:16] example, blue ceramic plate.png,
+[07:19] are the same as in the Excel file. So,
+[07:21] if you go on our Excel file and we go to
+[07:23] the image column, we see that indeed it
+[07:25] is called blue ceramic plate.png,
+[07:27] exactly the same name.
+[07:29] So, let's upload the files and we will
+[07:31] select all four of our products' images
+[07:34] and click on open.
+[07:36] Okay.
+[07:38] So, if you're not sure that the import
+[07:39] is right, we can just test it. So, there
+[07:41] is a test button over here, and if you
+[07:43] click on it,
+[07:44] then if everything is good, we will get
+[07:46] a message "Everything seems valid."
+[07:49] So, the last thing to do now is simply
+[07:51] to click on import.
+[07:54] And you have your products ready to
+[07:55] publish.
+[07:57] So, here you can see all four of them
+[07:59] with the images. And [snorts] if you go
+[08:01] back to the products dashboard, and we
+[08:03] remove the published tag because they're
+[08:05] not published yet, well, then you can
+[08:07] see that they have appeared here below.
+[08:09] All you have to do to publish them is,
+[08:10] as we saw, go on the product in the
+[08:13] e-commerce tab and publish them right
+[08:14] here.
+[08:15] How easy was that? Stay tuned because
+[08:17] there's so much more to explore with
+[08:19] Odoo e-commerce. That's all for this
+[08:21] tutorial. Thanks for watching, and as
+[08:23] always, check our online documentation
+[08:25] for more information on the topic. See
+[08:27] you in the next one.

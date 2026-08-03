@@ -1,0 +1,165 @@
+影片 ID: u9JibGB8AgU
+來源: https://www.youtube.com/watch?v=u9JibGB8AgU
+下載時間: 2026-07-30 14:56
+============================================================
+
+[00:00] hey welcome back having a clean and
+[00:02] clear contact form makes it easy for
+[00:05] potential customers to get in touch they
+[00:07] fill out a few fields and voila you
+[00:09] receive their inquiries additionally
+[00:12] with do do forms can serve multiple
+[00:14] purposes generating leads Gathering
+[00:16] resumés uh creating support tickets and
+[00:19] much more let's head over to our website
+[00:21] and see how all of this works okay so
+[00:24] here we are on our main contact form now
+[00:27] when you select a form it is linked to a
+[00:29] specific action that occurs when the
+[00:32] user submits the form this action can
+[00:34] vary depending on your needs and the oo
+[00:36] apps you have installed for instance you
+[00:39] can choose to send an email or to create
+[00:42] a task in a project application or even
+[00:44] to create an opportunity in the CRM with
+[00:47] assigned sales team and salesperson now
+[00:51] to set set up the action for our contact
+[00:53] form we'll choose to send an
+[00:56] email and we can also specify the email
+[00:59] address where we want this message to be
+[01:00] sent to in my case it will be info@
+[01:04] Brussels sprouts.com
+[01:07] now it's important to know that each
+[01:09] form can only have one action if you
+[01:12] need multiple actions you'll need to
+[01:14] create separate forms and there's a neat
+[01:17] little trick to organize multiple forms
+[01:19] without cluttering your page there is a
+[01:22] block that is called tabs now if you go
+[01:24] to the building blocks and we type in
+[01:26] tabs this is the block we're looking for
+[01:28] let's just drag and drop it here here
+[01:30] and here I see that the content will
+[01:33] change in function of which tab I select
+[01:35] so I want two different tabs the first
+[01:37] one is going to be plan your trip
+[01:39] because I want people to contact me to
+[01:41] plan a trip and the second one is going
+[01:42] to be customer
+[01:44] support now I don't need this third one
+[01:47] what we're going to do next is you're
+[01:49] going to choose another block which is
+[01:50] called form and that's the same block as
+[01:52] this one over here and you're going to
+[01:54] drag and drop it here inside the uh tab
+[01:58] the first tab
+[02:00] and in the second one that has no form
+[02:02] for now we're going to drag and drop
+[02:03] another
+[02:04] form which we going to put right here
+[02:08] and now I can specify a different action
+[02:10] for each tab for this one the customer
+[02:12] support for example I wanted to create a
+[02:14] ticket now you need the oo help desk
+[02:17] application installed to have this
+[02:19] action and this way the ticket will be
+[02:20] sent over there and for this one I will
+[02:23] just leave send an email now don't
+[02:26] forget that you should always determine
+[02:28] the action before you start customizing
+[02:31] the rest because all of these options
+[02:33] over here um depend on which action you
+[02:36] have chosen here now let's customize our
+[02:39] form
+[02:40] further we can select what happens when
+[02:44] a field is marked with a little star it
+[02:47] can mean that the field is required that
+[02:49] is optional or you can just say that you
+[02:51] don't want any marked
+[02:52] Fields now you can change the label
+[02:55] width so that there's a better layout
+[02:57] basically and you can also specify what
+[03:00] happens after the user clicks on the
+[03:02] submit button uh it can redirect you to
+[03:05] a specific page per default on oo it
+[03:08] will be a thank you page it can show you
+[03:10] the message that the user has just I
+[03:12] mean it can show the user the message he
+[03:13] has just put in or it just doesn't do
+[03:16] anything at all we'll leave it on
+[03:18] redirect to the thank you
+[03:19] page now it is very easy to remove a
+[03:22] field we can just do it by selecting the
+[03:24] field and clicking on the little uh the
+[03:26] little trash can and to add a field all
+[03:29] we have to do is click on the plus field
+[03:32] over here and there a new field comes
+[03:34] now I don't want it to be here I want it
+[03:36] to go under your company so I can just
+[03:38] drag and drop it see it moves or I can
+[03:41] just click on the little arrows over
+[03:44] here like every element on o do and it
+[03:45] will move up and down uh the form now I
+[03:50] can specify the field type which is down
+[03:52] here below I selected the
+[03:54] field and I have several examp several
+[03:57] uh options that it can uh can be for
+[03:59] example selection and this way so the
+[04:01] user has to select between different
+[04:03] options that you can of course rename
+[04:05] over here um you have list you have
+[04:08] checkboxes you also have a file upload
+[04:10] which means that someone can upload a
+[04:12] file and you can even determine the max
+[04:15] number of files I can upload and the
+[04:17] maximum file size you can change the
+[04:20] label of uh this so for example here it
+[04:22] will be uh upload your
+[04:26] file and you can change its position do
+[04:28] you want it to be like this like this
+[04:31] like this we'll just leave it as it is
+[04:33] now we can add a little description that
+[04:36] appears here and that we can also
+[04:38] customize uh we can say if it is
+[04:40] required or not and if I take one where
+[04:43] you actually have to put in write
+[04:45] something in we can have a default value
+[04:48] for example if I take your question and
+[04:50] I type in um please uh organize a oops
+[04:57] organize a trip to Bel for me I can't
+[05:02] type that's okay for me thank you that
+[05:06] way if someone is in a hurry or doesn't
+[05:08] want to type anything he can just click
+[05:09] submit and this is the default text that
+[05:11] will be sent now the last thing I want
+[05:14] to show you is the conditional
+[05:16] visibility this feature allows certain
+[05:18] fields to appear or hide based on user
+[05:21] input in previous previous Fields sorry
+[05:24] so for example if I want this file
+[05:26] upload to only appear on certain
+[05:28] conditions I can just select him and
+[05:31] then I'm going to visibility uh so I go
+[05:33] in the field and I go in visibility here
+[05:36] it can always be visible it can always
+[05:38] be hidden or we can determine that it's
+[05:40] visible only if and then I can say which
+[05:43] field let's say the field your company
+[05:46] and then we can say is equal to contains
+[05:49] doesn't contain is not equal to is not
+[05:51] set or in my case I would like to say is
+[05:53] set which means that there is a value in
+[05:57] your company and that means that
+[05:58] actually I only want people to be able
+[06:00] to upload their files um if they work
+[06:02] for a company or they're contacting me
+[06:04] for a company of course this just an
+[06:06] example I took like this but you can you
+[06:08] can do it for anything that you can
+[06:11] imagine and that's it now you know how
+[06:14] to create a contact form that
+[06:15] streamlines communication for both you
+[06:17] and your visitors and showing you gather
+[06:19] all necessary information clearly thanks
+[06:22] for watching and I'll see you in the
+[06:23] next video

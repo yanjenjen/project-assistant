@@ -1,0 +1,210 @@
+影片 ID: CyE2xp81Em8
+來源: https://www.youtube.com/watch?v=CyE2xp81Em8
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Hi Odooers and welcome back. In the
+[00:05] previous video, we created our first
+[00:07] product, but since then our business has
+[00:10] expanded and we now need to manage not
+[00:12] just stock, but also new variants, which
+[00:14] are variations of the original product
+[00:16] but in different colors and sizes for
+[00:18] example. These variants are also
+[00:20] displayed on the same product page.
+[00:23] Variants are crucial for businesses with
+[00:25] a diverse product offering as they allow
+[00:27] us to track, display, and sell items in
+[00:30] multiple configurations all while
+[00:32] keeping things organized. So, let's dive
+[00:34] into how this works in Odoo.
+[00:38] So, first we need to enable the
+[00:40] necessary settings by going to
+[00:41] configuration and then click on
+[00:43] settings.
+[00:45] Here in the search bar, we can just type
+[00:46] variants and then we have to enable this
+[00:49] option over here, product variants. We
+[00:51] click save.
+[00:54] And then to access our attributes back
+[00:56] end directly, we can scroll down to our
+[00:59] product variants option that is over
+[01:00] here and just click on the attributes
+[01:02] link.
+[01:03] Now, from this page we can access and
+[01:05] manage all attributes. Attributes are
+[01:08] elements such as color, size, or brand,
+[01:11] which allow you to create variants such
+[01:13] as small, medium, and large.
+[01:17] Now, here we've already created those
+[01:18] attributes, but we'll explain more about
+[01:21] them in another video.
+[01:25] Now, since I already created my
+[01:26] attributes, now let's add some variants
+[01:28] to our signature stoneware mug range. To
+[01:31] do this, let's go to the products
+[01:33] dashboard by selecting e-commerce and
+[01:35] clicking on products and then we will
+[01:37] select our signature stoneware mug.
+[01:40] Now, here we can click on the attributes
+[01:42] and variants tab and we can add as many
+[01:45] options as needed. We will add colors
+[01:48] attributes
+[01:49] and the size [snorts]
+[01:51] attribute.
+[01:54] Now, in the colors we are adding various
+[01:58] colors. We will add oatmeal,
+[02:00] uh, slate gray,
+[02:03] and also the chalk white. And in the
+[02:06] size, we will add small,
+[02:09] medium,
+[02:11] and large. There you go. Once we hit
+[02:13] save, each attribute combination creates
+[02:15] a new variant, which we can see over
+[02:17] here by clicking on the variant smart
+[02:20] button. Now, first of all, just be aware
+[02:22] that here it is written nine, and this
+[02:24] is important for something that I will
+[02:26] tell you later on. So, we click on our
+[02:27] variant smart button,
+[02:29] and here we can further customize each
+[02:31] variant with specific images.
+[02:34] Let's pick, for example, the oatmeal
+[02:36] size L mug,
+[02:38] and we see that it doesn't have a
+[02:39] picture, so we will just click on the
+[02:41] pencil and select the right picture.
+[02:44] So, for example, it is the big round mug
+[02:46] oatmeal,
+[02:47] this one.
+[02:50] There you go.
+[02:51] Now, also, if you want to prevent a
+[02:53] specific combination of attributes from
+[02:55] creating a new variant, then you can use
+[02:57] exclusions. For example, if I go back to
+[03:00] my product form, and then here in the
+[03:03] attributes and variants, uh, tab, I can
+[03:05] click configure on the size, uh, line.
+[03:08] And in the exclude for column over here,
+[03:12] I can just add the color chalk white in
+[03:15] the small variant. So, if I type chalk
+[03:18] white here,
+[03:19] then this one will be excluded. In other
+[03:21] terms,
+[03:22] if I don't want the mug in size S to be
+[03:24] available in color chalk white, then I
+[03:27] just add exclusion for chalk white.
+[03:30] So, if I go back to my product form, we
+[03:33] can see in the variant smart button that
+[03:35] the variants have gone down from nine to
+[03:37] eight.
+[03:39] Okay, next, let's go back to the general
+[03:41] information tab and take a quick look at
+[03:44] how we can adjust prices and
+[03:46] availability.
+[03:47] Now, the default sales price is set on
+[03:49] the main product to 10 euros. However,
+[03:52] this price only concerns the smaller
+[03:54] size. Sizes M and L are more expensive.
+[03:57] So, let's adjust the price. There are
+[03:59] two ways to do so. You can either do it
+[04:02] for one product at a time. For this, we
+[04:04] can go to the attributes and variants
+[04:05] tab and click the variants smart button.
+[04:09] And then we, for example, will take the
+[04:10] size L in the oatmeal color.
+[04:14] And here we will change the sales price
+[04:16] from 10 to
+[04:17] 20 euros.
+[04:18] And so now this specific combination
+[04:20] will cost 20 euros.
+[04:22] Or we can go to e-commerce and then
+[04:25] click on attributes.
+[04:27] And we can click on sizes.
+[04:30] And then we can say that for all the L
+[04:32] sizes here, we can just type 20. And now
+[04:36] all mugs in size L cost 20 euros when we
+[04:39] click save.
+[04:40] But be careful, this applies to all
+[04:41] products with this size attribute. In
+[04:44] other words, no matter the color of your
+[04:46] product, if it's size L, then this
+[04:49] product will cost 10 euros extra.
+[04:54] Now, before we move to the front end to
+[04:56] see the changes, let's update our stock.
+[04:59] For this, you need to have the inventory
+[05:00] app installed.
+[05:02] So, let's go back to our products and go
+[05:05] to our stoneware mug product form.
+[05:08] In the general information tab, we see
+[05:10] that the product type is set to goods.
+[05:12] This allows us to manage stock levels.
+[05:15] In the e-commerce tab, we can also
+[05:17] decide whether to continue selling when
+[05:19] it's out of stock.
+[05:21] Like this. Or if you want to show a out
+[05:24] of stock message.
+[05:26] Now, to create it, we just write it in
+[05:28] the appropriate field. We will write
+[05:30] "Oops, this product is currently
+[05:31] unavailable, but we'll be back soon."
+[05:33] So, the visitors will see this message
+[05:35] when it is out of stock.
+[05:37] Now, you can also display the available
+[05:39] quantity by enabling this button here.
+[05:41] And that means that when the stock drops
+[05:43] below five, then customers will see that
+[05:46] there were only 5 4 3 2 1 items left.
+[05:50] Okay, now let's update our stock levels
+[05:52] in the general information tab by
+[05:55] enabling the track inventory like this.
+[05:57] It was already enabled and here in the
+[05:59] quantity on hand we can just click on
+[06:02] it.
+[06:03] And here we can actually update our
+[06:06] inventory by clicking on any number, for
+[06:08] example, the size L for the oatmeal
+[06:10] color
+[06:11] and adjusting our inventory. So, we have
+[06:13] 20 units on hand. I click 20 and I just
+[06:17] save it.
+[06:19] Now, we can also set up a replenishment
+[06:21] rule if this is an item that needs
+[06:22] frequent reordering. Here I see that my
+[06:25] L size in gray is almost out of stock.
+[06:28] So, we'll click on replenishment to add
+[06:31] a reordering rule.
+[06:33] Here we can click new
+[06:35] and then on this line we can add a
+[06:37] minimum threshold of five for the system
+[06:39] to reorder.
+[06:41] And we'll add a maximum of 20.
+[06:44] And if I click outside of the line, we
+[06:46] see that the system place an order of
+[06:48] 17.
+[06:50] For more information about stock
+[06:52] management, check out our online
+[06:53] documentation.
+[06:55] Finally, let's go back to our product
+[06:57] form and we will click the go to website
+[07:00] smart button.
+[07:01] And here we can see how all of these
+[07:03] changes affect our product page. So, we
+[07:06] see that we have several colors
+[07:08] available and the picture changes all
+[07:10] the time. We see that our sizes have a
+[07:12] different prices. We see that the
+[07:14] smaller size does not have the white
+[07:17] chalk color. If we go to the L in we see
+[07:20] that there are only three units in stock
+[07:23] and we also see that if we go to the M
+[07:25] here in this color, there is a little
+[07:27] message the oops, this product is
+[07:29] currently unavailable but will be back
+[07:30] soon. So, all of this is visible to
+[07:32] customers and that is how easy it is to
+[07:34] manage variants and their stock in Odoo.
+[07:37] That's all for this tutorial. Thanks for
+[07:39] watching and as always, check our online
+[07:41] documentation for more information on
+[07:42] this topic. See you in the next one.

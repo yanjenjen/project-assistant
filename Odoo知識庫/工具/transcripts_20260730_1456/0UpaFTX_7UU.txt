@@ -1,0 +1,177 @@
+影片 ID: 0UpaFTX_7UU
+來源: https://www.youtube.com/watch?v=0UpaFTX_7UU
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Hi Odooers and welcome to this new
+[00:05] e-commerce video. Today, we'll explore
+[00:07] how to manage your product pricing using
+[00:09] price lists and how you can control the
+[00:11] price display on your website.
+[00:13] This feature allows you to offer
+[00:15] tailored pricing such as discounts or
+[00:17] different rates based on specific
+[00:19] settings and rules such as a customer's
+[00:21] location or product quantities.
+[00:24] Let's dive into Odoo and see how you can
+[00:26] set this up in your database.
+[00:32] So, first let's access the website
+[00:34] settings by going to configuration and
+[00:36] then settings.
+[00:38] And here, if we scroll down, we can
+[00:40] enable the price list option.
+[00:43] Like so.
+[00:44] Now, this is essential because if you
+[00:45] want to offer discounts or applies
+[00:47] pricing formulas, we need this option to
+[00:49] be enabled.
+[00:51] You can also choose how to display the
+[00:52] product's prices on your website. In
+[00:54] this case, we want to show the prices
+[00:56] including taxes. So, I'll just type tax
+[01:00] in the search bar
+[01:01] and here I will check the tax included
+[01:04] option.
+[01:05] So, we will hit save and before we talk
+[01:08] about creating price lists, there's one
+[01:09] other thing I need to do here. I want to
+[01:11] sell my products in the United Kingdom.
+[01:13] So, to do so, I need to enable the
+[01:15] British pound currency. So, I'll type
+[01:18] currency here
+[01:20] in the search bar
+[01:22] and I can click here on the internal
+[01:24] link of currencies.
+[01:26] So, I see here that only euro is
+[01:28] activated. So, I will just type GBP or
+[01:32] British pound in the search bar and we
+[01:34] see that it appears and I can just
+[01:36] activate the currency.
+[01:38] Now, if you go back to settings, we just
+[01:40] hit save
+[01:41] and now I can sell in British pound,
+[01:43] too.
+[01:48] Okay, let's go to e-commerce and then
+[01:50] let's go to price lists. So, here you
+[01:53] can see that we already have a default
+[01:55] price list created in Odoo.
+[01:57] It's in euro, so I click on it and I
+[01:59] will rename it EUR.
+[02:02] And I'm going to make it selectable by
+[02:05] going to this e-commerce tab. I'll tell
+[02:07] you why in a minute.
+[02:09] Now, to be able to sell to my products
+[02:11] in the to sell my products on the UK
+[02:13] market, I need to have a dedicated price
+[02:15] list. So, I'll save this one and I will
+[02:17] create a new one by clicking on new.
+[02:21] I will call this one GBP
+[02:23] and I will change the currency over here
+[02:25] to GBP.
+[02:27] Now, the country groups is useful when
+[02:30] you want price lists to be applied
+[02:31] automatically based on customers
+[02:33] location. But here, we prefer customers
+[02:36] to select by themselves the price list
+[02:38] on the website, so we won't use any
+[02:40] country groups. If you want to know more
+[02:42] about country groups, you can read our
+[02:44] online documentation.
+[02:45] Now, let's head to our e-commerce tab
+[02:48] and if we have multiple websites, well,
+[02:50] over here we can decide on which website
+[02:52] this price list applies.
+[02:54] But as we only have one website, we will
+[02:56] leave it as is.
+[02:59] You can also choose whether the price
+[03:00] list should be selectable by your
+[03:02] customers. In this case, I do, so I'll
+[03:05] enable that option.
+[03:06] And regarding the e-commerce promotional
+[03:08] code, we will talk about it in a minute.
+[03:11] So, let's save this for now and have a
+[03:13] look at the result.
+[03:16] So, we now have both prices available,
+[03:18] the default euro one created by Odoo and
+[03:20] the custom British pound one we just set
+[03:22] up. And if we go to our shop,
+[03:25] then we see that we can select the price
+[03:27] list over here, so we have euro or
+[03:29] British pound, or if we go to any
+[03:32] product, then we see that we have the
+[03:34] price list available here as well. And
+[03:35] we can select euro or British pound and
+[03:38] we see that the price changes
+[03:40] to another currency.
+[03:44] Now, let's offer a promo code to
+[03:46] customers using the euro price list. In
+[03:48] order to offer them a 10% discount on
+[03:51] all products, I will first create a new
+[03:53] price list again. So, I'll go to
+[03:55] e-commerce, then to price list, and I
+[03:58] will create a new one.
+[04:00] We will name it 10%
+[04:03] off
+[04:04] on all website.
+[04:06] And we will leave the currency to euro,
+[04:08] and we will go to the rules tab over
+[04:10] here.
+[04:11] So, we'll click add a line, and here we
+[04:13] can choose whether this price list
+[04:14] applies to a product, a specific
+[04:16] product, or just a whole category.
+[04:19] Now, we will leave it as a product, and
+[04:20] we will let the field here blank. If you
+[04:22] want, we can specify a specific product
+[04:24] over here, so that it applies only to
+[04:26] this product, but in our case, we want
+[04:28] it to apply to all products, so we will
+[04:29] leave it blank.
+[04:31] And now, for the type, we will select
+[04:33] the discount type, and we will select it
+[04:37] as we will put 10% on the sales price.
+[04:41] We will click save and close, and now
+[04:44] when we go to the e-commerce tab, we can
+[04:46] go in the e-commerce promotional code,
+[04:48] and we can type in welcome 10.
+[04:52] So, here I am not making this price is
+[04:54] selectable because I only want the
+[04:56] customers who get the code to access it.
+[04:59] We will click save, and to see it in
+[05:01] action, let's go to the shop,
+[05:04] select any product, this one for
+[05:07] example,
+[05:08] go back to euros of course,
+[05:10] and we will just add it to our cart,
+[05:13] view the cart, and here we can enter our
+[05:15] discount code. So, we specified it was
+[05:19] welcome 10. So, the price is 25 euros.
+[05:21] If I apply the code,
+[05:23] it goes down to 22.49
+[05:25] euros because it has dropped down by
+[05:28] 10%.
+[05:32] It's also possible to hide the prices of
+[05:34] specific products or product categories
+[05:36] and replace the add to cart button with
+[05:38] a contact us button, like we did on this
+[05:41] product page.
+[05:42] If you want to know more about this
+[05:43] feature, check out our previous tutorial
+[05:45] about organizing new product catalog
+[05:47] linked below.
+[05:51] Now, let's go to e-commerce and to shop.
+[05:55] And we will select a product.
+[05:58] Now, here we see that we have no
+[06:00] indication of whether the tax is
+[06:02] included or not. Now, I prefer to let
+[06:04] the customer know if the tax is included
+[06:06] or not. So, we will click on edit and
+[06:09] then go to the style tab. And here we
+[06:12] can just enable tax indication.
+[06:15] And then if you click save, you can see
+[06:17] that we see that the tax is indeed
+[06:19] included.
+[06:22] That's it for this video. For more
+[06:23] information, be sure to check out our
+[06:25] online documentation. Thanks for
+[06:26] watching and see you in the next one.

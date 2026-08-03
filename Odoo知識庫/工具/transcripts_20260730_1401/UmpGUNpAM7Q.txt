@@ -1,0 +1,217 @@
+影片 ID: UmpGUNpAM7Q
+來源: https://www.youtube.com/watch?v=UmpGUNpAM7Q
+下載時間: 2026-07-30 14:03
+============================================================
+
+[00:05] as always it's wonderful to see you
+[00:06] again o doers my name is Jose Osio and
+[00:08] today we're going to be talking about
+[00:09] shipping labels specifically how you can
+[00:12] print them automatically by integrating
+[00:14] a thirdparty shipper you see there's a
+[00:16] bunch of information you need to provide
+[00:17] to a shipper to get a shipping label for
+[00:19] each package this includes your address
+[00:22] the recipient's address and the package
+[00:24] way it would be pretty annoying if you
+[00:26] had to enter all of those details every
+[00:29] time that you sh something am I right
+[00:31] I've got good news for you by
+[00:33] configuring a few key details inside of
+[00:34] ODU the inventory app automatically
+[00:37] generates a shipping label each time you
+[00:39] validate a delivery order so enough
+[00:41] chitchat let's jump into our database
+[00:43] and see how that works all right the
+[00:45] first thing we need to do is enable the
+[00:46] connector for the shipper we want to use
+[00:48] so to do so I'm actually going to open
+[00:50] our inventory application over here
+[00:52] click on configuration and settings then
+[00:55] once we're here we're actually going to
+[00:56] scroll down over here to where we see
+[00:57] shipping connectors as the header now
+[01:00] this lists every shipping company that
+[01:01] can be integrated with ODU to enable a
+[01:03] shipper I just need to take on the
+[01:05] little check boox over here next to its
+[01:06] name like I have for the FedEx connector
+[01:09] it's already been enabled and this is
+[01:11] actually going to be the shipper we're
+[01:12] going to be using for today's example
+[01:14] however when you enable a shipper in
+[01:16] your own database make sure that you
+[01:17] click save in the top left don't lose
+[01:20] your changes or this tutorial might not
+[01:22] work anyways once a shipper is enabled
+[01:24] and you've saved we need to configure
+[01:26] one or more of their shipping methods
+[01:29] there are a couple ways to see shipping
+[01:30] methods for a specific shipper I can
+[01:32] click on the shipping methods link below
+[01:34] the connector here on the shipping
+[01:36] methods page right there if I would like
+[01:38] to as well or I can also navigate over
+[01:41] to configuration and in our case it's
+[01:43] going to be at the very bottom shipping
+[01:45] methods I want to show you both ways so
+[01:47] each shipper over here comes with a few
+[01:49] stock shipping methods in the case of
+[01:51] FedEx we have the FedEx International
+[01:54] one over there and FedEx us so we're
+[01:58] going to be shipping a package within
+[01:59] the United States for this workflow so
+[02:01] let's go ahead and actually click on the
+[02:02] FedEx ux method us method sorry about
+[02:05] that small little dupsy so now I know
+[02:08] there is a lot of information on this
+[02:10] page but the automatically print
+[02:12] shipping labels there are actually just
+[02:13] a few fields we actually need to worry
+[02:15] about for more information on shipping
+[02:17] configuration check out our other
+[02:19] inventory tutorials and even better the
+[02:21] documentation I'm going to link it below
+[02:23] so inside of the integration field that
+[02:26] we have right there integration level we
+[02:28] have two options
+[02:30] we actually need to confirm that the get
+[02:32] rate and create shipment option is the
+[02:34] one that is selected this option allows
+[02:35] us to both calculate a shipping rate and
+[02:38] print a shipping label finally we need
+[02:40] to fill out all of the fields inside of
+[02:42] our configuration tab which happens to
+[02:44] be down here now this includes our
+[02:47] account credentials as well as code
+[02:49] signifying a few different things like
+[02:51] the pickup and package type we want to
+[02:52] use this allows us to connect the
+[02:54] account we have with the shipper so that
+[02:56] they can automatically generate shipping
+[02:58] rates and labels for us it's important
+[03:00] to note that the information required in
+[03:02] this section differs for each shipper so
+[03:04] be sure to check out the documentation
+[03:06] and how to get it for your shipper of
+[03:08] your choice as well all right I've just
+[03:11] got one more thing to point out before
+[03:13] we move on at the top of the page we see
+[03:16] that we have an actual smart button over
+[03:18] here well actually two uh but this one
+[03:21] says test environment this means the
+[03:23] shipping method can only be used for
+[03:25] testing purposes at the moment but if I
+[03:28] click on this test environment smart
+[03:29] button it updates the read production
+[03:31] environment this allows us to actually
+[03:33] use the shipping method to get shipping
+[03:35] rates and print labels now since this is
+[03:37] just an example I'm going to click it
+[03:39] again because we're just going to be
+[03:40] testing stuff we don't want to alert
+[03:42] FedEx and now it's back to a test
+[03:44] environment remember only enable the
+[03:47] production environment when you're
+[03:49] absolutely ready to start using the
+[03:51] shipping method otherwise you might get
+[03:52] charged for shipments you don't actually
+[03:54] need no one wants to ship anything
+[03:56] that's a th000 pounds that you made up
+[03:59] all right we're almost ready to start
+[04:00] the workflow but before we do I need to
+[04:02] show you how to configure the
+[04:03] information needed for printing labels
+[04:05] happens to be our contact info the rient
+[04:08] contact info and finally how much does
+[04:10] the product weigh so to enter our own
+[04:13] shipping address I just need to return
+[04:15] to the main ODU dashboard over here and
+[04:17] then once again we're going to open up
+[04:19] the settings application now you'll
+[04:21] notice over here we have our company
+[04:23] section inside of here I want to click
+[04:25] on the word update
+[04:27] info and right there I just need to
+[04:30] enter our address info inside of the
+[04:32] address field which happens to be there
+[04:34] and our phone number inside of the phone
+[04:36] field which we've already done so next
+[04:38] I'm going to enter the same information
+[04:40] for our customer by returning to the
+[04:42] main ODU dashboard this time we're going
+[04:45] to go inside the sales app and then
+[04:48] we're going to click on the word orders
+[04:50] and you guessed it
+[04:53] customers okay perfect then I need to
+[04:56] select the customer in our case I'm
+[04:57] going to go with Jim Joe Kelly cuz the
+[04:59] the first one that I saw now since we'll
+[05:01] be using him for our example on his
+[05:03] customer page we need to make sure his
+[05:05] address over here and phone number as
+[05:08] well are filled out properly finally we
+[05:10] just need to get a weit for our product
+[05:12] which happens to be the bicycle this
+[05:14] will allow the shipper to accurately
+[05:16] calculate the cost of shipping so to do
+[05:17] so we're actually going to navigate up
+[05:19] here to the top heading products
+[05:21] products and then we want to select in
+[05:23] our case what did I just say a bicycle
+[05:26] there we go I found it and then we're
+[05:28] going to click on our inventory tab over
+[05:30] here okay perfect so here the product's
+[05:33] weight is entered inside of the weight
+[05:35] field that we have over here to the
+[05:36] right and this happens to be the
+[05:39] logistic section in case yours isn't on
+[05:40] the right as you can see I've already
+[05:42] entered a weight of 6 kg we're using
+[05:45] different
+[05:46] units all right so now we're ready to
+[05:48] create a sales order and put the
+[05:50] shipping label for it so to do so I'm
+[05:52] going to start by selecting the sales
+[05:53] application and we're going to make a
+[05:55] new RFQ over here so we have to first
+[05:57] select our customer which as we talked
+[05:59] about is is Jim Joe Kelly then we need
+[06:01] to add a product which in our case is
+[06:03] that bicycle that weighs 6 kg and you'll
+[06:06] notice once that we added the product an
+[06:08] add shipping button appeared in the
+[06:09] bottom right corner and that's where we
+[06:11] can add our shipping method so let's
+[06:13] select it right now so inside of the
+[06:15] shipping method field I'm going to
+[06:16] select FedEx us perfect and then I'm
+[06:20] going to click get rate button down here
+[06:22] at the bottom because that's going to
+[06:23] automatically generate the price of
+[06:25] shipping the product and then finally
+[06:27] once that we're done we can actually go
+[06:29] out of here and then select the word add
+[06:32] and then confirm this to turn it into a
+[06:34] sales order Oro for my acronym lovers so
+[06:37] doing so also makes the delivery smart
+[06:39] button appear at the top of the page so
+[06:41] we're actually going to click that to go
+[06:42] over to our delivery order for the so
+[06:45] now to generate the shipping label all I
+[06:46] have to do is click on the word
+[06:48] validate and then once that we do that
+[06:51] you notice something very cool happens
+[06:53] the label appears in the orders chatter
+[06:57] and if we click it inside of the chatter
+[06:59] over here we can see it inside of a
+[07:00] pop-up window and from here all I have
+[07:02] to do is print out the label and it fix
+[07:03] it to the package and just like that the
+[07:05] package is ready to be picked up by
+[07:07] FedEx and send to the customer and that
+[07:10] wraps up today's demo party people you
+[07:12] now know how to use the inventory app to
+[07:14] generate shipping labels automatically
+[07:16] thank you again for joining me I'll see
+[07:17] you next time

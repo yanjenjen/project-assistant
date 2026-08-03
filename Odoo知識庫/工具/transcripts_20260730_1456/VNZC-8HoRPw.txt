@@ -1,0 +1,218 @@
+影片 ID: VNZC-8HoRPw
+來源: https://www.youtube.com/watch?v=VNZC-8HoRPw
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Hello Odors and welcome to this video on
+[00:05] delivery methods in Odoo e-commerce.
+[00:08] When it comes to online sales, checkout
+[00:10] is where everything comes together.
+[00:12] Your customers want clear delivery
+[00:14] options, accurate shipping costs, and a
+[00:16] smooth way to complete their purchase.
+[00:18] And on your side, you want a setup that
+[00:20] matches your logistics, whether you rely
+[00:22] on carriers like DHL or UPS or prefer to
+[00:26] define your own custom rules. In this
+[00:29] video, we'll start by configuring
+[00:30] delivery providers and methods, explore
+[00:33] how shipping costs are calculated, and
+[00:35] even create a custom delivery option
+[00:37] from scratch. Then, we'll see how all of
+[00:40] this appears on your website, right
+[00:42] where your customers make their final
+[00:43] decision. Let's do this.
+[00:48] So, here we are on our database and the
+[00:50] first thing I want to do is go to
+[00:51] configuration and settings.
+[00:54] Now, here I'll type delivery in the
+[00:57] search bar and the option that interests
+[01:00] us is this configure delivery methods.
+[01:03] First, let's configure our delivery
+[01:05] providers by clicking on this link.
+[01:09] Here are several delivery providers like
+[01:11] DHL or UPS or SendCloud and so on. Some
+[01:16] are already installed and have this
+[01:18] delivery methods button. Others aren't
+[01:20] installed yet and have the install
+[01:22] button.
+[01:23] To activate any of these, just click on
+[01:26] install.
+[01:27] And if you want to install several ones,
+[01:29] switch to the list view
+[01:31] and then select the ones that you would
+[01:33] like to install and then just click on
+[01:35] activate.
+[01:40] Now, let's take a look at our delivery
+[01:42] methods. For that, we'll just click
+[01:44] configuration and then we'll go to
+[01:46] delivery methods.
+[01:48] Now, here is the list of all the methods
+[01:50] that are that are available for
+[01:51] shipping. These are installed
+[01:53] automatically after you install a
+[01:55] delivery provider.
+[01:56] Let's take a look at this Bpost method
+[01:59] to see how it's configured.
+[02:01] Now, in this provider field, we see that
+[02:03] my provider is of course Bpost. As a
+[02:05] reminder, the providers are the shipping
+[02:08] carriers we installed a few seconds ago.
+[02:11] The integration field over here
+[02:14] determines what happens when a delivery
+[02:16] order is validated in Odoo. There are
+[02:18] two options here. The get rate and get
+[02:22] rate and create shipment.
+[02:24] Now, get rate disconnects the carrier to
+[02:26] calculate the shipping cost, but doesn't
+[02:28] book the shipment.
+[02:30] Think of it as checking the price
+[02:31] without confirming anything.
+[02:33] Once the delivery order is validated,
+[02:35] you or your team will need to manually
+[02:38] book the shipment with a carrier outside
+[02:39] of Odoo.
+[02:40] The second option, get rate and create
+[02:43] shipment, goes a step further. Not only
+[02:45] does it calculate the shipping cost, but
+[02:47] it also books the shipment with the
+[02:49] carrier as soon as the delivery order is
+[02:52] validated. This way, the entire process
+[02:55] is handled in Odoo, saving you that
+[02:57] manual step. So, depending on how much
+[02:59] control you want Odoo to have over your
+[03:01] delivery process, you can choose the
+[03:03] option that works best for your
+[03:04] workflow.
+[03:05] I can also set the margins I want to
+[03:07] take up on delivery costs.
+[03:09] I can give the shipping away for free
+[03:12] if it if your total reaches a certain
+[03:14] amount. Here, for example, we'll say
+[03:16] that we want it to be 50 euros. And then
+[03:18] here in the Bpost configuration tab, we
+[03:20] can see many fields that will help us
+[03:23] configure our delivery method. In the
+[03:25] Bpost account number and the pass phrase
+[03:27] fields, you have to enter the data
+[03:29] related to your Bpost account, which you
+[03:31] can find on the Bpost website. Now, this
+[03:33] is specific to Bpost, but if you choose
+[03:35] any other provider, Odoo will ask for
+[03:38] your credentials in this section. You
+[03:40] will always find these credentials on
+[03:42] your account on the provider's website.
+[03:45] Now, in the availability tab, in the
+[03:47] destination section, I can decide
+[03:49] whether this method is available for all
+[03:51] locations or just for specific ones.
+[03:54] Remember that if you leave these fields
+[03:56] blank, then it will be available for all
+[03:58] locations.
+[03:59] And here on the right, I can set a max
+[04:02] weight and a max volume, which means
+[04:05] that if the total volume or weight of
+[04:07] the order is higher than the number I
+[04:09] put here, then it's not possible to ship
+[04:11] using this method.
+[04:13] And to make all of this official, well,
+[04:16] we'll just publish over here because if
+[04:18] we don't, it won't be available for our
+[04:20] customers at the checkout step.
+[04:25] Now, let's go back to our list of
+[04:28] delivery methods and let's create a new
+[04:30] one from scratch by clicking on new.
+[04:33] I will name it green mobility.
+[04:37] And I can choose in this provider field
+[04:40] among several providers, which are the
+[04:42] ones that we installed in the beginning
+[04:43] of this video.
+[04:44] Select any of these and you'll see that
+[04:46] the options will automatically adapt to
+[04:49] the provider you choose, like this.
+[04:53] But since we are making a custom
+[04:54] delivery method and that we want the
+[04:55] price to change according to the
+[04:57] situation, we will say that it is going
+[05:00] to be based on rules.
+[05:03] And here in the pricing tab, we will add
+[05:06] a new line
+[05:07] and we will set the prices condition
+[05:09] over here on the weight.
+[05:13] So, let's say it has to be smaller or
+[05:15] equal to 0.
+[05:19] 50.
+[05:20] So, in other terms, if the product is
+[05:22] over this weight, this specific delivery
+[05:24] method will not be available.
+[05:27] Now, for the delivery cost, we'll say it
+[05:29] is €3, no matter what,
+[05:32] plus 0.
+[05:34] 80 times the weight, we'll leave it like
+[05:37] that, of the product.
+[05:39] So, we'll save and close and the last
+[05:41] thing we need to do is link this
+[05:43] delivery method to a product over here.
+[05:46] This is because this cost needs to
+[05:48] appear on your customer's sales order.
+[05:51] So, we don't have the product yet, so
+[05:52] we'll search for more
+[05:54] and then we will create a new one.
+[05:58] So, this product will be specific to
+[06:00] this delivery method.
+[06:02] Uh for the name of the product, we'll
+[06:03] keep it simple. We will call it green
+[06:05] mobility
+[06:07] just like our method. We'll give it the
+[06:09] same sales price as our method, so it
+[06:11] was 3 euros.
+[06:13] And then we have to make it available
+[06:16] over here for sales. Finally, so we'll
+[06:19] click on save. [snorts] And then if we
+[06:21] go on the product, we cannot forget to
+[06:24] publish it over here in the e-commerce
+[06:26] tab.
+[06:27] Because if we don't, well then it won't
+[06:29] be available on our website.
+[06:31] Okay, now let's go back to our method.
+[06:34] And what we'll do here is we will just
+[06:37] publish it so that it's available on our
+[06:38] website.
+[06:39] And now this delivery method is
+[06:41] available to your customers.
+[06:46] Now, let's look at the results. But for
+[06:49] this to work, of course, our product
+[06:51] needs a weight value. So, we'll add one
+[06:54] for any of our products. We will go to
+[06:56] uh e-commerce and to our products, and
+[06:58] we will choose the watermelon mug.
+[07:02] Now, here we can go to the inventory tab
+[07:04] and over here in the logistics section,
+[07:06] we can specify values such as weight and
+[07:09] volume.
+[07:10] Now, because our rule is only based on
+[07:12] weight, for now I'll just add the weight
+[07:15] and I would say it is 0.45
+[07:17] kg, so 450 g. Okay, let's save and now
+[07:22] let's see what happens when we buy it.
+[07:23] So, we will just go to our shop.
+[07:27] We will choose the watermelon mug.
+[07:30] And then we will add it to our cart and
+[07:32] go to the checkout.
+[07:35] Okay.
+[07:36] I'll put it just
+[07:37] one item so that we can really see what
+[07:39] happens.
+[07:41] And when we go to our delivery over
+[07:43] here,
+[07:44] we see that we have our delivery method
+[07:47] here, Green Mobility, and that it is
+[07:49] indeed €3 plus 0.80 times the weight of
+[07:52] the mug, exactly like we set up.
+[07:55] And there you go. Now your clients can
+[07:57] choose the easiest method to receive
+[07:59] their purchases. Thanks for watching
+[08:00] this video, and don't forget to check
+[08:02] our online documentation for more
+[08:03] information. I'll see you in the next
+[08:05] video. Bye.

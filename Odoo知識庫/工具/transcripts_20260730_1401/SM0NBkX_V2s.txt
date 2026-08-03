@@ -1,0 +1,194 @@
+影片 ID: SM0NBkX_V2s
+來源: https://www.youtube.com/watch?v=SM0NBkX_V2s
+下載時間: 2026-07-30 14:01
+============================================================
+
+[00:01] [music]
+[00:05] >> What's going on O doers? Welcome back.
+[00:08] Let's start with the simple distinction.
+[00:10] What makes something a location and what
+[00:12] makes something a warehouse?
+[00:14] Think of a location like any spot where
+[00:16] a product can physically sit. For
+[00:18] example, a shelf, a freezer, an aisle, a
+[00:21] staging area, or even a customer
+[00:23] location.
+[00:24] If a product can be placed there, it's a
+[00:26] location.
+[00:28] For example, a walk-in freezer that
+[00:30] stores ice cream, that's a location, not
+[00:33] a warehouse.
+[00:34] Locations help structure and organize
+[00:36] the flow of incoming and outgoing goods
+[00:39] inside of larger spaces.
+[00:41] Now, a warehouse, that's different. A
+[00:44] warehouse is a full physical building
+[00:46] with its own address, like your main
+[00:48] storage facility.
+[00:49] A good rule of thumb, one warehouse
+[00:51] equals one physical address.
+[00:54] Most warehouses include multiple zones
+[00:56] such as an inbound, storage, and
+[00:58] outbound areas. And inside of these
+[01:01] areas are many locations to help keep
+[01:03] your operations running smoothly.
+[01:06] In Odoo, these locations follow a clear
+[01:08] hierarchical structure. For example, if
+[01:11] you have a location like warehouse stock
+[01:13] zone A, that's a child location inside
+[01:16] of the warehouse stock.
+[01:18] Think of it as a tree.
+[01:20] The warehouse at the top with locations
+[01:22] branching down into more detailed
+[01:23] levels. So, with that foundation
+[01:26] covered, let's jump into our Odoo
+[01:27] database to see how warehouses and
+[01:29] locations work.
+[01:32] Before we track locations in Odoo, we
+[01:34] need to make sure the storage locations
+[01:36] feature is turned on.
+[01:38] To enable it, we're just going to click
+[01:39] configuration at the top followed by
+[01:41] settings, and then we're going to scroll
+[01:43] to the very bottom to our warehouse
+[01:44] section, and here we just want to make
+[01:46] sure storage locations is ticked and
+[01:48] enabled.
+[01:50] Now, let's take a look at the different
+[01:52] locations within my warehouse. I can get
+[01:54] there two different ways. I could click
+[01:56] this locations link directly under
+[01:58] storage locations, or we could click
+[02:00] back to configuration at the top and
+[02:02] then click the locations option.
+[02:05] This page shows every location in my
+[02:07] database. Every location with the
+[02:09] location type internal or transit is
+[02:12] considered my stock.
+[02:14] If we look at the naming structure, we
+[02:16] have warehouse stock shelf one. You'll
+[02:18] see that each row represents a specific
+[02:20] storage spot inside of the warehouse.
+[02:23] Locations like shelf one and others
+[02:26] listed are the child locations.
+[02:29] Meaning they're more detailed storage
+[02:30] areas within the larger warehouse stock
+[02:33] location.
+[02:35] Now, let's say I want to create a new
+[02:36] location specifically for our popular
+[02:39] stealthy wood mug. I'll start by
+[02:40] clicking new in the top left corner. And
+[02:43] on the location form, I'm just going to
+[02:45] put favorite.
+[02:48] Then directly below that in the parent
+[02:50] location field, I'm just going to select
+[02:52] our warehouse
+[02:53] stock.
+[02:56] We're choosing warehouse stock since
+[02:57] that's the main storage area that
+[02:59] contains all internal locations.
+[03:02] Next, in the additional information
+[03:04] section, we have the location type. We
+[03:06] have a full drop-down with a bunch of
+[03:08] different options from vendor, virtual,
+[03:10] customer, inventory loss, production,
+[03:12] and transit. But for this use case,
+[03:14] we're going to keep it set as internal.
+[03:17] And that's it. Our new location is
+[03:19] created. If you'd like more information
+[03:22] about the additional fields on this
+[03:24] page, feel free to review the
+[03:25] documentation, which I'll make sure to
+[03:27] link down below.
+[03:28] All right, let's move on to location
+[03:30] types. I'll use the breadcrumbs to click
+[03:32] back to our locations page.
+[03:35] And right off the bat, we can see our
+[03:37] new location created right there.
+[03:39] And if we remove this internal filter,
+[03:43] wow, there's a lot more locations
+[03:46] visible now. Each location type helps
+[03:48] Odoo understand where products actually
+[03:51] are and how they should be handled. It
+[03:53] also tells us where items are coming
+[03:55] from, whether it's from vendors,
+[03:57] customers, production, and more.
+[04:01] It's also worth noting that Odoo only
+[04:03] includes products stored in the internal
+[04:05] locations and transit locations when
+[04:08] calculating inventory valuation.
+[04:11] A customer location is where products
+[04:14] appear after they're sold.
+[04:16] Once an item reaches this type of
+[04:18] location, it's no longer considered in
+[04:20] stock.
+[04:22] A transit location, like physical
+[04:24] locations or inner warehouse transit, is
+[04:26] used to track goods moving between
+[04:28] warehouses or between different company
+[04:30] addresses.
+[04:31] Then we also have locations such as
+[04:34] production and inventory loss. These act
+[04:38] as counterpart locations to consume or
+[04:40] create stock.
+[04:42] Raw materials for manufacturing are
+[04:44] consumed through production locations
+[04:46] and the finished product is created
+[04:47] there as well.
+[04:49] Damaged goods, on the other hand, are
+[04:50] sent to inventory loss, aka scrap
+[04:53] locations, which record inventory losses
+[04:56] automatically.
+[04:58] Last but not least, let's talk about
+[05:00] warehouses. We're going to head back to
+[05:02] configuration at the top and select
+[05:04] warehouses.
+[05:06] Now this page shows me where all of my
+[05:08] existing warehouses are listed. So, when
+[05:11] would a company need to create a new
+[05:13] warehouse?
+[05:14] Typically, they'll need to create a new
+[05:15] warehouse when they're opening up a new
+[05:17] shop or setting up a new distribution
+[05:19] center or just adding another storage
+[05:21] facility at a different address.
+[05:24] To see how this works, I'll click new in
+[05:26] the top left corner to create a new
+[05:27] warehouse for Stealthy Wood. And we're
+[05:29] going to name this warehouse pop
+[05:32] up
+[05:33] shop.
+[05:36] And in the short name field, we're just
+[05:37] going to put pop.
+[05:40] Since each warehouse must have its own
+[05:43] unique address, I need to assign one
+[05:45] right here. The company address is
+[05:47] selected by default, so I'll click into
+[05:49] the address field and choose the
+[05:51] Stealthy Wood pop-up store that we
+[05:53] created earlier.
+[05:56] I can also use the internal link arrow
+[05:58] to the right of this
+[06:00] to open that direct contacts page.
+[06:05] And this address becomes the warehouse
+[06:07] reception location and will appear on
+[06:09] all documents tied to this warehouse,
+[06:11] ensuring accurate information about
+[06:13] where products come from.
+[06:16] And there you have it. You're now fully
+[06:18] up to speed on the fundamentals of
+[06:20] warehouses and locations in Odoo.
+[06:23] We covered how locations help organize
+[06:25] where products physically sit, how
+[06:27] warehouse structures keep operations
+[06:29] flowing, how different location types
+[06:31] behave, and how we create both new
+[06:34] locations and entire warehouses with
+[06:36] proper addresses.
+[06:38] Understanding these basics gives you a
+[06:40] solid foundation for navigating Odoo
+[06:42] inventory with confidence.
+[06:45] You all did great today, Odooers.
+[06:47] Seriously, be proud of yourself.
+[06:49] Thanks for joining me again, and I'll
+[06:50] see you in the next video.

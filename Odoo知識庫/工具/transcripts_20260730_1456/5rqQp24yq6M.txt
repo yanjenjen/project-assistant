@@ -1,0 +1,309 @@
+影片 ID: 5rqQp24yq6M
+來源: https://www.youtube.com/watch?v=5rqQp24yq6M
+下載時間: 2026-07-30 14:57
+============================================================
+
+[00:03] Hello doodlers and welcome to this video
+[00:05] on gift cards and promotional programs.
+[00:08] For our online shop, we want to start a
+[00:10] new loyalty program to reward our loyal
+[00:12] customers. This means that they'll
+[00:14] receive points for each purchase, which
+[00:16] they can later redeem for rewards.
+[00:18] This will entice them to come back and
+[00:20] improve our customer retention. Along
+[00:22] with that, we'd like to launch gift
+[00:24] cards and e-wallet programs so customers
+[00:27] can offer gift cards to someone and
+[00:29] check their e-wallet amount on their own
+[00:31] customer portal.
+[00:32] Ready?
+[00:33] Then let's dive in.
+[00:37] Okay, first let's go to configuration
+[00:39] and settings. And we'll scroll down a
+[00:41] little bit and we will activate the
+[00:43] discounts, loyalty, and gift cards
+[00:45] option. I will just click save.
+[00:49] Now, there are two ways that you can
+[00:51] access your loyalty programs. You can
+[00:53] either go to the e-commerce menu and
+[00:55] then go to the loyalty section at the
+[00:57] bottom.
+[00:58] Or you can click the link right under
+[01:00] the feature in the settings, which is
+[01:01] what we will do.
+[01:06] So, here we can create a loyalty program
+[01:08] from scratch or just choose one of the
+[01:10] templates below. We can, for example,
+[01:12] create a promotional program, a loyalty
+[01:13] card,
+[01:14] uh next order coupon, a coupon. Just
+[01:17] don't hesitate to click on them and see
+[01:19] what they do. For example, let's choose
+[01:21] a buy X get Y, which is, for example, if
+[01:24] the customer buys two products, he can
+[01:26] get a third one for free. So, if you
+[01:28] click on it, you will see that the
+[01:30] program is already configured with the
+[01:32] appropriate rules.
+[01:34] We'll take a deeper look at them in a
+[01:35] minute, but I just want to show you
+[01:37] this. If you go back to the discounts
+[01:39] and loyalty menu, you'll see that the
+[01:41] templates have sadly disappeared. But
+[01:43] don't worry, because when you click on
+[01:45] new, then you can just go to this
+[01:47] program type field here and you can find
+[01:50] all of them in this list. As you can
+[01:52] see, when I switch program types, the
+[01:54] rules below, well, they just change and
+[01:57] they adapt accordingly.
+[02:00] Let's create a loyalty card. I will take
+[02:03] a closer look at the options.
+[02:05] So, over here we can set validity dates.
+[02:08] We'll set the start date to today.
+[02:11] And in our case, we don't want this
+[02:13] program to expire. So, we'll leave the
+[02:15] end date blank.
+[02:16] We can also limit the usage so that the
+[02:19] customer can use this loyalty program
+[02:20] only a certain number of times and we
+[02:22] can define that number. But, I will
+[02:24] uncheck this box for our purposes.
+[02:27] We can also decide if it's applicable
+[02:28] only to specific currencies or price
+[02:31] lists and if it's available for sales,
+[02:34] for it to appear when you create a sales
+[02:36] order,
+[02:36] and on your website, which makes it
+[02:38] available in the e-commerce.
+[02:41] Note that if you have installed the
+[02:42] point of sale app, you will also be able
+[02:45] to select it here.
+[02:47] And here we can give the points a
+[02:49] specific name. By default, they are
+[02:51] called loyalty points, but we will
+[02:54] personalize them and call them glazed
+[02:57] points.
+[02:58] There you go.
+[02:59] >> [sighs]
+[02:59] >> Below, we have the rules and rewards
+[03:02] tab, which contains the conditions that
+[03:04] need to be met and what kind of reward
+[03:06] is given. We can, as always, create new
+[03:10] ones or we can just adapt the existing
+[03:12] one by clicking on it.
+[03:14] Here, I can set the minimum amount of
+[03:17] items that need to be bought. I would
+[03:19] say that it just needs to be one.
+[03:21] The minimum purchase amount, for that we
+[03:23] will say it is 20. We'll be generous.
+[03:27] And how many points that the customer
+[03:29] can get. Instead of one, we'll say that
+[03:31] he gets a whopping 50 glazed points.
+[03:36] And here we can say if it's per order,
+[03:37] per euro spent, or per unit paid. We'll
+[03:39] leave it as per euro spent.
+[03:41] We'll save and closed. I will take a
+[03:43] look at the rewards.
+[03:45] Now, here we can let's say that we add
+[03:48] one.
+[03:49] And here you can choose if the customer
+[03:51] gets a free product, a discount, or a
+[03:54] free shipping as a reward.
+[03:57] If it is a product, then we can set the
+[03:59] quantity the customer will receive, and
+[04:02] you can specify the exact product that
+[04:03] they will receive.
+[04:05] If it is a discount,
+[04:08] then we can set a percentage on the
+[04:09] order,
+[04:10] and we can say if it's a percentage
+[04:12] sorry on the order, on the cheapest
+[04:13] product, or on specific products. And we
+[04:16] can set a maximum discount amount, and
+[04:19] we can do the same thing for the free
+[04:22] shipping over here.
+[04:23] We will take the discount, and we will
+[04:26] lower it to 5% on the complete order.
+[04:31] Below, we can choose how many loyalty
+[04:33] points it'll cost the client to get the
+[04:35] reward, and we can also customize the
+[04:38] text that will appear on the order when
+[04:40] they get the reward. For example, enjoy
+[04:43] your
+[04:46] discounts.
+[04:50] Okay, so we'll save this, and we will
+[04:52] give a name to our program. We will name
+[04:54] it glazed
+[04:56] loyalty.
+[04:58] There you go, and we'll save it, and
+[04:59] just like that, our loyalty card is
+[05:01] created.
+[05:06] Now, let's check out our gift cards and
+[05:08] e-wallets by going to e-commerce and
+[05:11] then gift cards and e-wallets.
+[05:14] We'll start with the gift cards. So,
+[05:16] here we already created a gift card
+[05:18] program. Let's check it out.
+[05:20] So, this needs to be related to a
+[05:22] product, as you can see here.
+[05:24] Because it's something that is sold in
+[05:26] our e-commerce. So, we have simply
+[05:28] created a product, and we called it gift
+[05:30] card, and we've published it, so it's
+[05:32] available on our website.
+[05:34] Here, you can define the email that your
+[05:36] customers will get when they purchase
+[05:37] the gift card.
+[05:39] And just like the loyalty points, you
+[05:41] can choose where it's available.
+[05:44] Now, if I click on generate,
+[05:46] I can choose whether it's for anonymous
+[05:49] customers, which means that anyone with
+[05:51] a gift card code can redeem it, or if
+[05:53] it's only for selected customers, in
+[05:56] which case we'll have to define the
+[05:57] customer it's for. We can choose how
+[05:59] many of these gift cards we want to
+[06:01] generate, which actually means how many
+[06:04] do you want to be available for sale.
+[06:07] I will set
+[06:08] 100.
+[06:10] And of course, we need to define the
+[06:12] value of this gift card. I'll set it as
+[06:14] €20.
+[06:16] I'll leave the validity eight blank
+[06:18] because I don't want this card to
+[06:19] expire.
+[06:20] And we can write a little description as
+[06:21] always, which can be
+[06:23] enjoy
+[06:25] your gift card.
+[06:29] And now when I click on generate gift
+[06:31] card,
+[06:32] I can see on this small button over here
+[06:34] that there there are 100 available for
+[06:37] sale.
+[06:38] If we click on the small button, then we
+[06:40] see the list of all of our gift cards,
+[06:42] as well as the codes over here that
+[06:45] they're linked to.
+[06:46] I can send each one to a specific email
+[06:50] address,
+[06:51] and I just have to add recipients here,
+[06:53] and this is the email they will receive.
+[06:56] Or I can create a link, and then just
+[06:59] share it with anyone.
+[07:01] We just copy paste it, and the person
+[07:03] will be able to use the gift card.
+[07:08] Okay, and now let's talk about
+[07:10] e-wallets. We'll go back to
+[07:13] our gift cards and e-wallets menu,
+[07:15] and we will click on new.
+[07:18] This one we will call e-wallet.
+[07:21] And the type it will it won't be gift
+[07:24] card, it will be a e-wallet.
+[07:26] Now, exactly as the gift card, the
+[07:28] e-wallet needs to be linked to a
+[07:30] product.
+[07:32] We can also link it to an email
+[07:33] template, and as always we can make it
+[07:36] available anywhere we want.
+[07:38] Now, the difference between the gift
+[07:40] card and the e-wallet is that if the
+[07:42] customer buys an e-wallet, he's actually
+[07:44] topping it up with virtual money. While
+[07:47] if he buys a gift card, he's giving that
+[07:49] money to someone else.
+[07:55] Okay, last thing I want to talk about is
+[07:57] the comparison price feature. Let's say
+[07:59] that you want to offer a sale and you're
+[08:01] permanently lowering the price of an
+[08:02] item. To do this, we will go to
+[08:04] configuration and settings
+[08:06] and then we will scroll down to this
+[08:08] comparison price option.
+[08:10] We'll enable it and then just click
+[08:12] save.
+[08:15] Now that's done, let's go to e-commerce
+[08:17] and to products and we will choose the
+[08:19] products we want to put a sale on, the
+[08:21] pineapple mug, for example.
+[08:24] So over here, we are going to put in the
+[08:26] sales price the new sales price. In our
+[08:29] case, I'm going to take 1446. It's a bit
+[08:32] of a weird number, but that way included
+[08:34] with taxes, it is a round number.
+[08:37] And then in compared to price, we have
+[08:39] to put the previous price. So in this
+[08:41] case, we will put 25. Be sure to put the
+[08:44] price with the tax included.
+[08:47] The compared to price field must contain
+[08:49] a price that is higher than a sales
+[08:51] price for the original price to appear
+[08:52] with a strike through. If it's lower,
+[08:55] then a comparison won't appear on the
+[08:56] product.
+[08:58] Note that the comparison price will not
+[09:00] be displayed if discounted price lists
+[09:02] apply to this product. For more
+[09:04] information about using the comparison
+[09:05] feature with the price list, check out
+[09:07] our online documentation.
+[09:12] Okay, let's see what all of that looks
+[09:14] like on our website.
+[09:16] So first, we'll check our loyalty points
+[09:18] balance. To do this, you can click the
+[09:20] profile icon over here and then click my
+[09:23] account.
+[09:24] And here I see them on the right. I have
+[09:27] a lot. I'd better use them. I also see
+[09:29] that I have the e-wallet because I
+[09:30] topped my e-wallet up earlier on. So I
+[09:33] have 24 years that I can use and 1,000
+[09:35] glazed points.
+[09:37] Let's go to the shop page so we can use
+[09:38] this. But before we do, we'll scroll
+[09:41] down and I'll show you the two new
+[09:43] products we have, top up e-wallets and
+[09:45] gift card. This means that your
+[09:47] customers can now top up their own
+[09:49] e-wallet or they can use gift cards and
+[09:51] give them to friends and family.
+[09:54] If we select the product that we just
+[09:56] configured, so the pineapple mug, then
+[09:59] we see the comparison option where the
+[10:01] previous and higher price is struck
+[10:04] through.
+[10:05] If we add this to the cart and then we
+[10:07] go to the checkout, let's say I am going
+[10:10] to take six mugs because just one mug
+[10:13] is not useful.
+[10:14] Here we see that we have the right to
+[10:17] the free shipping and to a discount
+[10:19] thanks to the loyalty points we
+[10:20] accumulated with our earlier purchases.
+[10:23] We will claim both of them and they will
+[10:25] add themselves over here.
+[10:27] We see that the discount has been
+[10:28] applied.
+[10:30] And we see that we can also pay using
+[10:32] our e-wallet, which we topped up before.
+[10:35] Um let's use it. There you go. So we see
+[10:37] that the amount went down. Continue the
+[10:40] checkout.
+[10:44] And now we also see that we can use a
+[10:47] discount code, which is the code that
+[10:48] was linked to the gift card. I will
+[10:50] paste it over here, apply it,
+[10:53] and we see that everything has been
+[10:54] applied correctly and all we have to do
+[10:57] is select our payment method and then
+[10:59] just place the order.
+[11:01] And there you go. That's it for this
+[11:03] video and as always be sure to check out
+[11:05] our online documentation for more
+[11:06] information on this topic. Thanks for
+[11:09] watching and I'll see you in the next
+[11:10] video. Bye.

@@ -1,0 +1,232 @@
+影片 ID: cXHGO6080dI
+來源: https://www.youtube.com/watch?v=cXHGO6080dI
+下載時間: 2026-07-30 14:03
+============================================================
+
+[00:05] Hello doers and welcome back. My name is
+[00:07] Jose Ignasio. In this video, we're
+[00:09] talking about packages, which are
+[00:11] containers used to transfer a bunch of
+[00:13] products all at once. So, this container
+[00:16] can be anything you want, like a box, a
+[00:20] pallet, which I can't carry, or even a
+[00:22] cart. But who keeps track of what
+[00:24] products are in a package, where the
+[00:26] package is going, and where it's been?
+[00:28] Packages are also used in shipping
+[00:30] products to our customers and in
+[00:32] batchwave and cluster picking. But we'll
+[00:35] show off those workflows in separate
+[00:36] videos always linked in the description
+[00:38] below. A word of caution my friends. Oh
+[00:42] doers, please listen to me. Packages are
+[00:44] not packaging. Packagings are
+[00:47] standardized groupings of a single type
+[00:49] of product like a box of soda cans.
+[00:51] Packages
+[00:53] are arbitrary groupings of products used
+[00:55] by us to store, move, and ship a variety
+[00:57] of products. Check out our video on
+[00:59] packagings linked in the description to
+[01:01] learn more about that. In this tutorial,
+[01:03] we're going to cover how to put products
+[01:04] in packages and how to use packages and
+[01:07] transfers to move items together through
+[01:08] your warehouse. So, without further ado,
+[01:12] first things first, let's make sure the
+[01:14] packages feature is enabled by going up
+[01:16] to the configuration and then selecting
+[01:18] settings over here. So from here, let's
+[01:21] enable this nice little checkbox next to
+[01:24] packages under the operation section.
+[01:26] And then we're going to select save just
+[01:28] before moving on. Okay, let's put some
+[01:30] products in some packages. It's worth
+[01:32] noting that we can only put goods inside
+[01:34] of packages. No matter how hefty your
+[01:37] consultation fee may be, won't go on a
+[01:40] pallet. All righty. So, I'm going to
+[01:42] click on overview just to return to the
+[01:44] main inventory dashboard over here. Now,
+[01:46] in the receipt section, I notice that I
+[01:49] have one to receive. Um, let's actually
+[01:51] just click that. Now, before I actually
+[01:54] go ahead and validate this one in front
+[01:56] of me for tabletops and table legs, I'm
+[01:59] going to look down here in the bottom
+[02:00] right corner. I see this nice little
+[02:01] button that says put in pack. I'm going
+[02:04] to click it. Well, that makes this
+[02:06] convenient packages smart button appear
+[02:08] up here in the top center. I'm actually
+[02:10] going to select the list icon, however,
+[02:13] over here next to the quantity on
+[02:16] tabletops. And we're taken over here to
+[02:20] see the package that these items are
+[02:22] going into. So, here we have a
+[02:24] destination package. I'm going to see
+[02:26] that I happen to have pack 19. That's a
+[02:30] lot of zeros also included there. And
+[02:32] ODU generated the name and number for
+[02:34] this package for me. And it put all of
+[02:36] the items in the receipt in it for me.
+[02:38] But let's close out of here. Okay. If I
+[02:41] wanted to, let's say, put the table legs
+[02:44] over here inside of a different package,
+[02:46] I could actually do that from here. I
+[02:47] could click this list icon button again.
+[02:51] And I'm going to click into where it
+[02:52] says pack 19. And you see this nice
+[02:54] little down arrow. Let's hit search
+[02:56] more. And then we're going to select new
+[02:58] over here. You look at that. I can see
+[03:01] that OD has created a new empty pack for
+[03:03] me. I'm going to click save and close on
+[03:05] this one. All right. Now, I've created
+[03:07] two packages. There's the original one
+[03:08] that was created with the put in pack
+[03:11] over there and a new one specifically
+[03:14] for my table legs. I'm going to click
+[03:15] the save button just to return over here
+[03:18] to the order. Finally, I'm going to
+[03:20] select validate on the top left to
+[03:21] signal that we have finished receiving
+[03:23] the products and move them into the new
+[03:24] packages. Now I can click on the
+[03:26] packages smart button and I see nothing
+[03:29] but beauty right there. Look at that. We
+[03:31] can see where everything wounded up. I
+[03:33] have the two packages right there. And
+[03:36] I'm going to select the first one
+[03:38] because you recall that's for my four
+[03:41] tabletops right there. I'm going to also
+[03:44] select this right arrow on the top
+[03:46] right. And I can see my second package
+[03:48] which is 16 table legs. I could also
+[03:51] click products and packages as well if I
+[03:54] wanted to to see all the packages that I
+[03:57] currently have in the warehouse.
+[03:59] So that's cool. We know how to put
+[04:01] things in packages now. But where
+[04:03] packages really shine is traceability.
+[04:05] We can track transfers, see a history of
+[04:07] movements through our storage space. So,
+[04:09] how do we do that though? Well, we need
+[04:11] to use storage locations. So, I'm going
+[04:13] to select configuration and settings.
+[04:14] Once again, this time around, however,
+[04:17] let's scroll down until we reach the
+[04:18] very far down warehouse section. You see
+[04:21] storage locations. Tick that box. Click
+[04:24] save. Always save your progress. And
+[04:27] now, when I click configuration, I have
+[04:29] a lot of extra options. This time,
+[04:32] locations appears over here. and
+[04:34] clicking it, I can see my locations. I
+[04:37] have three shelves, shelf A, B, and C
+[04:41] already in my database. If I needed to
+[04:43] create more locations, I would just
+[04:44] select the new button up in the top
+[04:46] left. So, the last setting that I need
+[04:47] to configure as well is to set my
+[04:50] transfers to always move all the items
+[04:51] and the package together. So, I'm going
+[04:53] to click configuration once again, and
+[04:55] this time we're going to select
+[04:56] operation types. All right, perfect. And
+[05:00] this allows us to see the three
+[05:01] operations we are currently using. I'm
+[05:03] going to select internal transfers over
+[05:05] here from the list. And inside of our
+[05:07] packages section down here, make sure
+[05:10] that the box by move entire packages is
+[05:12] ticked off. If you haven't done so
+[05:14] already, do that so that ODU will assume
+[05:16] that I want to be able to move our items
+[05:18] as a group anytime they are in a
+[05:20] package. Now, we're actually all set to
+[05:23] get these packages moving. I'm going to
+[05:25] click on overview once again from the
+[05:26] top heading. And we're back over to our
+[05:29] inventories homepage. and let's make a
+[05:31] transfer for one of our new packages.
+[05:33] I'm going to select internal transfers
+[05:36] over here. And then I'm going to select
+[05:38] the new button up at the top left. All
+[05:40] right. On this new internal transfer
+[05:42] form inside of our operations tab, I can
+[05:45] see the usual place where I would add
+[05:47] products. Below that is a package
+[05:50] section. I'm going to click add a line
+[05:53] right here. And I'm going to select the
+[05:55] first package that we created. So let's
+[05:58] select it.
+[06:01] All right. So, the very first one that
+[06:02] we picked was the 19 one. All right.
+[06:05] That's perfect right there. I'm pretty
+[06:06] sure that was the one for the tops. So,
+[06:08] now in the uh two area, well, where
+[06:12] should I actually do this? Well, we're
+[06:14] going to select our tiny little arrow.
+[06:15] And this time around, I'm going to move
+[06:17] this one to shelf A. I'm gonna move this
+[06:20] ever so slightly so you can see that.
+[06:22] Perfect. Okay. Now that we're done with
+[06:24] that, we're going to select that align
+[06:26] and do the same thing with the second
+[06:27] package that we made. And this time
+[06:29] around, this one ends in a 20. So, I
+[06:31] hope it shows up right there. Perfect.
+[06:34] All right. So, for this one, we're going
+[06:36] to do this one over to shove B. I want
+[06:39] to be a little bit different with this
+[06:40] one. All right. Once that we're done
+[06:42] with that, I'm going to click away. I
+[06:44] can actually use an internal transfer to
+[06:45] move products into a package if I'm
+[06:47] doing it outside of receipt as well.
+[06:49] Now, for our product section over here
+[06:51] on the top, I'm going to select add a
+[06:53] line. And then this time I'm going to
+[06:55] pick the acoustic block screens over
+[06:57] here. And I'm going to set the demand to
+[07:00] four.
+[07:02] All right. Now that we're all done, I'm
+[07:04] also going to click mark as to do in the
+[07:07] top left. And then I'm also going to
+[07:10] click this very handy. I'm going to do
+[07:14] it once again. Put in pack button that
+[07:16] appears over here. We'll see that ODU
+[07:19] added a third package right there.
+[07:22] Beautiful. So, I can actually click the
+[07:25] list icon on this row as well. And would
+[07:27] you look at that? It contains the four
+[07:29] acoustic block screens. So, I'm actually
+[07:31] going to click on confirm just to close
+[07:33] that out. Now, we just need to imagine
+[07:35] that I move both of these packages to
+[07:37] the appropriate shelves and then go up
+[07:39] to the top and select validate.
+[07:42] Now, when I click on the move smart
+[07:43] button over here,
+[07:45] the acoustic block screens were picked
+[07:47] from WH stock and ended up in WH stock
+[07:52] over here. But they also got a
+[07:54] destination package as we could tell
+[07:56] over there. So, they didn't go anywhere,
+[07:58] but they're in a package now. My table
+[08:01] eggs actually happen to be right here in
+[08:03] the package below, marked 20. And they
+[08:07] have now been moved over to shelf B. The
+[08:09] destination package the same as the one
+[08:11] they started in. And the table tops over
+[08:13] here and moved over to shelf A. Isn't
+[08:17] that nice? So I can also select products
+[08:21] and then packages once again.
+[08:24] And would you look at that? They're now
+[08:26] organized by location. All of the
+[08:29] packages in my warehouse. There you have
+[08:31] it, Odoers. Today we learned some common
+[08:33] ways that packages can be used in your
+[08:35] workflows to group products. Thanks for
+[08:37] tuning in. Until next time.

@@ -1,0 +1,251 @@
+影片 ID: neyn_3ShmdM
+來源: https://www.youtube.com/watch?v=neyn_3ShmdM
+下載時間: 2026-07-30 14:02
+============================================================
+
+[00:05] What's up, Odoers, and welcome back.
+[00:08] Here at Stealthy Wood, delivering on
+[00:10] time means more than just packing boxes.
+[00:12] It's about reserving stock for the right
+[00:14] orders. By default, ODO assigns
+[00:16] inventory to the first confirmed
+[00:18] delivery, even if that shipment isn't
+[00:20] scheduled for weeks. So, that being
+[00:22] said, if a second order comes in and
+[00:24] that needs to go out in two days, but
+[00:26] let's say there's only enough stock for
+[00:28] one, ODU still gives it to the first
+[00:30] order. And hey, that's fine if you're
+[00:32] shipping a few packages a day, but once
+[00:34] volume picks up, manual corrections just
+[00:36] don't cut it. That's why warehouse
+[00:38] managers need smarter reservation
+[00:40] methods, ones that prioritize urgency
+[00:42] over date and keep high priority
+[00:44] deliveries on track. Now, before we dive
+[00:47] into how reservation methods work, we're
+[00:50] going to clear something up. Reservation
+[00:52] methods decide which orders get
+[00:54] available stock first, especially when
+[00:56] you have limited inventory and multiple
+[00:58] orders. Removal strategies, on the other
+[01:01] hand, decide which stock units are used
+[01:03] to fulfill an order like FIFO or by
+[01:06] location. Let's visualize this now since
+[01:09] we've got that cleared up and walk
+[01:10] through the different reservation
+[01:12] methods in ODO. There are three
+[01:14] different reservation methods in ODO.
+[01:17] Starting off at at confirmation, which
+[01:19] is the most basic one. Then we have
+[01:21] manually. And then last we have before
+[01:24] scheduled date. Each controls when
+[01:27] products are reserved and when stock is
+[01:29] promised for delivery. So let's explore
+[01:32] each one. Let's start with at
+[01:34] confirmation. This method reserves
+[01:37] products automatically when a sales
+[01:39] order is confirmed as long as stock is
+[01:41] available. Let's see this in action.
+[01:43] Here in our Stealthywood database, we've
+[01:45] already set the delivery operation type
+[01:47] to at confirmation. We can do that by
+[01:50] hopping into the inventory application,
+[01:52] selecting configuration at the top,
+[01:54] followed by operation types. And here on
+[01:57] our operations type page, we're just
+[01:59] going to select delivery orders,
+[02:02] and then right off the bat, we're just
+[02:03] going to bring our attention to this
+[02:04] reservation method section. And here is
+[02:06] where we can verify that at confirmation
+[02:09] is ticked and enabled. With that all
+[02:11] set, let's create a sales order and see
+[02:13] how this all works. We're going to jump
+[02:15] back to our homepage and just click into
+[02:17] our sales application.
+[02:20] And here we're going to click new in
+[02:22] this top left corner to create a new so
+[02:25] on this so form. We're going to add Deco
+[02:27] Addict in the customer field.
+[02:31] And it looks like he wants to buy 10
+[02:33] cable management boxes. So, we're going
+[02:35] to click add product, type in cable
+[02:37] management box, and we're going to add a
+[02:40] quantity of 10 to this order.
+[02:44] If the availability icon here is green,
+[02:46] it means it's in stock in ODO. The color
+[02:49] indicators help us understand the
+[02:51] availability status at a glance. If the
+[02:54] availability icon is red, then it means
+[02:56] there's no stock available. These visual
+[02:58] cues help our warehouse team quickly
+[03:00] identify if orders are ready to be
+[03:02] picked and which are still awaiting
+[03:04] actions. And with all of this set, we're
+[03:06] just going to hit confirm.
+[03:10] And with this order confirmed, the stock
+[03:12] is instantly reserved if the stock is
+[03:15] available. Of course, if we click this
+[03:17] forecast button here, we can see that
+[03:20] ODO confirmed that 10 have been reserved
+[03:22] for this order. And just to double
+[03:25] check, we can also click this delivery
+[03:27] smart button here at the top.
+[03:30] And clicking into this delivery order
+[03:32] will take us to the delivery order for
+[03:34] this specific so that we just placed.
+[03:37] And this can be found directly in the
+[03:39] inventory app as well. And once we're on
+[03:42] the delivery order page, we can also
+[03:44] verify that all the products for this
+[03:45] order are reserved since the quantity
+[03:47] field here on the right matches the
+[03:49] demand. If the quantity does not match
+[03:52] the demand, then delivery order is not
+[03:55] fully reserved. The last way to verify
+[03:58] if products for the delivery order are
+[03:59] correctly reserved is by checking the
+[04:01] product availability field.
+[04:04] And if it shows available in green, it
+[04:06] means all of those check out and we're
+[04:08] ready to ship this off. And then at that
+[04:11] point, all we'd have to do is click
+[04:12] validate to complete this order.
+[04:15] So, this method is great when you
+[04:17] usually have stock available or if you
+[04:18] want to reserve inventory the moment the
+[04:20] order is confirmed. Next, let's take a
+[04:23] look at the manual reservation method. I
+[04:25] went ahead and changed the reservation
+[04:27] method to manual and follow the same
+[04:28] steps to configure that option as I did
+[04:30] for the at confirmation method. I also
+[04:33] already created another delivery order.
+[04:36] So, let's check it out and spot the
+[04:37] differences. Here on the delivery orders
+[04:40] card, we're going to click on this
+[04:42] waiting button.
+[04:44] The delivery order is marked as waiting
+[04:47] instead of ready since the products have
+[04:49] not yet been reserved for this specific
+[04:51] delivery order. And when we click into
+[04:54] this delivery order, we're going to take
+[04:56] a look at two things. First, we'll
+[04:58] notice that the product availability
+[05:00] field says available in yellow rather
+[05:02] than green. This is because we have the
+[05:05] stock available in our inventory, but
+[05:07] we're still waiting for the product to
+[05:09] be reserved for this delivery order.
+[05:11] We'll also see this check availability
+[05:13] button here at the top left of the
+[05:15] delivery order. And if we click that
+[05:17] button, then and only then will OD do
+[05:20] reserve the product for this order,
+[05:22] assuming it's in stock, of course.
+[05:26] And look at that, our product
+[05:27] availability field turns to a green
+[05:30] available when we click that button,
+[05:32] indicating that we're all ready to
+[05:34] deliver these goods. Now, why would you
+[05:36] want to use this method? This method is
+[05:39] great if you want to prioritize
+[05:40] reservations manually based on urgency,
+[05:43] customer status, or shipping deadlines.
+[05:46] And you also don't need to have stock
+[05:48] tied up automatically, especially if
+[05:50] items are limited or of high value. This
+[05:53] method of reservation is by far the most
+[05:55] hands-on.
+[05:57] Now, last but not least, we're going to
+[05:59] take a look at the before scheduled date
+[06:01] reservation method. With this option,
+[06:03] ODO waits until the set amount of days
+[06:06] before the scheduled delivery date to
+[06:08] start automatically reserving products.
+[06:11] In order to save time, I've already
+[06:12] hopped into my inventory settings and
+[06:14] changed the reservation method to before
+[06:16] scheduled date. And what we'll notice is
+[06:18] when this option is selected, we'll see
+[06:21] two more fields appear.
+[06:23] Currently, this reservation method is
+[06:25] telling me that ODU will reserve stock 2
+[06:27] days before the scheduled delivery date
+[06:29] for regular deliveries. And if the
+[06:32] delivery is starred, then ODO will
+[06:35] reserve the stock 4 days in advanced
+[06:37] instead.
+[06:38] And for my visual learners, here is what
+[06:41] the timeline of 2 days before the
+[06:43] scheduled date looks like.
+[06:46] And here's a timeline for 4 days before
+[06:49] one start.
+[06:51] Now, let's take a look at what delivery
+[06:53] orders look like before and after
+[06:55] they're reserved and ready for delivery.
+[06:58] One delivery order will be prioritized
+[07:00] and the other one will have the same
+[07:01] standard lead time. In each order, the
+[07:04] schedule date field is the day we
+[07:06] promise to ship out the products. ODU
+[07:08] uses this date to determine when to
+[07:10] reserve stock based on our rule to
+[07:12] reserve it 2 days before delivery.
+[07:15] On our delivery orders page, we can see
+[07:17] that both of these orders are scheduled
+[07:19] to be delivered in 5 days. And because
+[07:21] the before scheduled window date hasn't
+[07:23] been reached, both of these orders are
+[07:25] marked as waiting in the status column.
+[07:28] Another thing to note is that one order
+[07:30] is highly prioritized, indicated by the
+[07:32] yellow star to the left of the reference
+[07:34] column, while the other order has our
+[07:36] standard prioritization.
+[07:39] 4 days before the scheduled date, ODO
+[07:41] will automatically reserve the products
+[07:42] for the highly prioritized delivery
+[07:44] order and move it to the ready area.
+[07:47] On the other hand, the standard
+[07:49] prioritize delivery warehouse out 56
+[07:52] will still remain in the waiting area
+[07:54] and still await reservation for the
+[07:56] products within that order. We know this
+[07:58] order is still awaiting reservation
+[08:00] since it's marked with the waiting tag
+[08:02] in the status column instead of ready.
+[08:06] And as expected, 2 days before the
+[08:09] scheduled delivery, the unstar delivery
+[08:11] is automatically reserved and ready as
+[08:13] well. Here we can see both orders have
+[08:16] the ready tag in the status column which
+[08:19] means that all of the products have been
+[08:20] reserved for both orders and all we have
+[08:22] to do now is ship them out before the
+[08:24] scheduled deadline.
+[08:26] So this method is perfect when you want
+[08:28] to avoid tying up inventory too early.
+[08:30] Maybe you want to prioritize highv value
+[08:32] or urgent deliveries or you just need
+[08:34] more flexibility in a fastmoving
+[08:36] warehouse. Remember odoers if needed you
+[08:39] can always override or manually reserve
+[08:41] stock at any time.
+[08:44] And that's a wrap on reservation
+[08:46] methods. As you just saw, UDO gives you
+[08:49] flexibility to choose how and when your
+[08:51] stock gets reserved, whether it's
+[08:53] immediately when sales orders are
+[08:54] confirmed, or when a user says so, or
+[08:57] last, we can even just do it a few days
+[08:59] before delivery. Each method supports a
+[09:01] different workflow depending on how you
+[09:03] manage your inventory, prioritize
+[09:05] orders, or handle limited stock. So, be
+[09:08] sure to pick out the one that works best
+[09:09] for your team. And remember, you can
+[09:11] always reserve manually if needed.
+[09:14] Thanks for watching and we'll see you in
+[09:15] the next video. Take care, Odoers.
