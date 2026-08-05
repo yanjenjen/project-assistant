@@ -39,14 +39,32 @@
             "id": "e640f082c9e7f3c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "顧問Cowork/00_共用規則與知識庫/01_工作區規則/多企業專案資料隔離規則.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多企業專案資料隔離規則"
+            }
+          },
+          {
+            "id": "70a07a10fc0d25c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "經銷商業態案例_去識別化Demo環境建置/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +111,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -104,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 371.5
   },
   "right": {
     "id": "a1f9cdaeab556bfa",
@@ -209,33 +229,44 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "e640f082c9e7f3c2",
+  "active": "70a07a10fc0d25c5",
   "lastOpenFiles": [
+    "經銷商業態案例_去識別化Demo環境建置/01_案例背景與情境設計/案例背景與情境設計.md",
+    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F007_帳號管理/00_主需求.md",
+    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F006_合約下載/01_追加資料.md",
+    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F002_訂單匯入/02_延伸需求.md",
+    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F002_訂單匯入/01_追加資料.md",
+    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F002_訂單匯入/00_主需求.md",
+    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F001_經銷商下單流程/01_追加資料.md",
+    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F001_經銷商下單流程/00_主需求.md",
+    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F001_經銷商下單流程/提示詞紀錄/2026-07-02_v1_客戶資料匯入版本管理.md",
+    "建大工業_經銷商平台專案/100_專案執行與交付/130_階段報告&輔導備忘/DOC-01專案範圍與需求規格書4.0.pdf",
+    "Odoo知識庫/Purchase/06_常見問題.md.tmp.25848.a0c45c3dcac8",
+    "Odoo知識庫/Purchase/02_操作SOP.md.tmp.25848.25bad2f011c7",
+    "Odoo知識庫/Purchase/01_功能概覽.md.tmp.25848.0d451c5a21f6",
+    "Odoo知識庫/Purchase/01_功能概覽.md.tmp.25848.493243e50239",
+    "建大工業_經銷商平台專案/200_專案資料/230_內部專案檔案/5B2D6600",
+    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F003_最新消息功能改造/01_追加資料.md",
+    "顧問Cowork/00_共用規則與知識庫/01_工作區規則/多企業專案資料隔離規則.md",
+    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/範本/測試紀錄.md",
+    "建大工業_經銷商平台專案/200_專案資料/230_內部專案檔案/建大工業_專案時程追蹤表_v0.5.pdf",
+    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F004_全站共用Banner與語系切換/02_延伸需求.md",
+    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F003_最新消息功能改造/04_關聯功能.md",
+    "顧問Cowork/91_跨員工協作區/_任務串接模板/00_任務說明.md",
     "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/kenda_order_split_logic.md",
     "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/kenda_order_split_logic.md.tmp.1952.4757880f4916",
     "Odoo知識庫/Purchase/ppt3DD5.tmp",
     "Odoo知識庫/Purchase/08_採購設定與情境開關指南.md.tmp.26396.5e2a5f9845eb",
-    "Odoo知識庫/Purchase/08_採購設定與情境開關指南.md.tmp.26396.6b5ff510f257",
-    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/採購模組_建置進度表.md.tmp.43068.9358557705bc",
-    "Odoo知識庫/Purchase/ppt6514.tmp",
-    "建大工業_經銷商平台專案/200_專案資料/230_內部專案檔案/~$建大工業_專案時程追蹤表_v0.5.xlsx",
-    "建大工業_經銷商平台專案/200_專案資料/230_內部專案檔案/~$建大工業_專案時程追蹤表_v0.4.xlsx",
     "Odoo知識庫/eCommerce/06_常見問題.md",
     "Odoo知識庫/eCommerce/05_Demo情境腳本.md",
     "Odoo知識庫/eCommerce/04_內控點與風險.md",
     "Odoo知識庫/eCommerce/03_欄位與單據清單.md",
     "Odoo知識庫/eCommerce/02_操作SOP.md",
     "Odoo知識庫/eCommerce/01_功能概覽.md",
-    "Odoo知識庫/eCommerce",
-    "Odoo知識庫/工具/transcripts_20260730_1456/2AlMd445x8w.txt",
     "Odoo知識庫/Inventory/06_常見問題.md",
     "Odoo知識庫/Inventory/05_Demo情境腳本.md",
     "Odoo知識庫/Inventory/04_內控點與風險.md",
     "Odoo知識庫/Inventory/03_欄位與單據清單.md",
-    "Odoo知識庫/Inventory/02_操作SOP.md",
-    "Odoo知識庫/Inventory/01_功能概覽.md",
-    "Odoo知識庫/工具/Odoo學習管道SOP.md",
-    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/採購情境補件_審核警告與框架訂單_交接給終端機執行清單.md",
     "產出/3D卡通頭像_台灣_5男5女_20260729/女_05_熟齡眼鏡.png",
     "產出/3D卡通頭像_台灣_5男5女_20260729/女_04_瀏海青年.png",
     "產出/3D卡通頭像_台灣_5男5女_20260729/女_03_短髮熟齡.png",
@@ -246,17 +277,6 @@
     "產出/3D卡通頭像_台灣_5男5女_20260729/男_03_鬍鬚.png",
     "產出/3D卡通頭像_台灣_5男5女_20260729/男_02_圓框眼鏡.png",
     "產出/3D卡通頭像_台灣_5男5女_20260729/男_01.png",
-    "CLAUDE.md",
-    "經銷商業態案例_去識別化Demo環境建置/01_案例背景與情境設計/案例背景與情境設計.md",
-    "Odoo知識庫/Purchase/08_採購設定與情境開關指南.md",
-    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/採購週延伸情境_CRM銷售採購與缺口收尾_交接給終端機執行清單.md",
-    "Odoo知識庫/SOP_模板.md",
-    "Odoo知識庫/00_學習進度總覽.md",
-    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/Odoo資料匯入SOP.md",
-    "經銷商業態案例_去識別化Demo環境建置/02_Demo環境建置紀錄/建置紀錄.md",
-    "經銷商業態案例_去識別化Demo環境建置/README.md",
-    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/風險評估表_20260720.md",
-    "建大工業_經銷商平台專案/200_專案資料/240_功能需求管理/features/F003_最新消息功能改造/01_追加資料.md",
     "未命名.canvas",
     "未命名 9.canvas",
     "未命名 8.canvas",

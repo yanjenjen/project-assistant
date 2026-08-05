@@ -1,0 +1,6 @@
+_qa/
+_build/node_modules/
+*.inspect.ndjson
+~$*.docx
+~$*.xlsx
+
